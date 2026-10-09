@@ -1,0 +1,809 @@
+{
+  "file": "hb7.jpg",
+  "imageSha256": "5d4e5f6c492d67edc0bd7d434ddb1570df887a2f6ddaee9f8935151cff1939b8",
+  "passages": [
+    {
+      "box": {
+        "x": 1.1775733767723413e-9,
+        "y": 0.12063953503604985,
+        "width": 0.03875968853632609,
+        "height": 0.023255813866853714
+      },
+      "confidence": 0.5,
+      "text": "lege",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.13488372048768682,
+        "width": 0.04379844722339413,
+        "height": 0.028197674080729485
+      },
+      "confidence": 1,
+      "text": "ams",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.1482558140679725,
+        "width": 0.04534883780681328,
+        "height": 0.030232558026909828
+      },
+      "confidence": 1,
+      "text": "F the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.15310077733216101,
+        "y": 0.15552325598009897,
+        "width": 0.2713178197542826,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "C. Registration Procedures",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.15697674523784244,
+        "y": 0.1802325582560914,
+        "width": 0.023255812625090272,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19953200542176738,
+        "y": 0.1816329803838106,
+        "width": 0.5234117110570271,
+        "height": 0.015243659727275372
+      },
+      "confidence": 1,
+      "text": "Students are advised to read the enrollment procedures. These",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19961242352724273,
+        "y": 0.1976744186182522,
+        "width": 0.5251937707265218,
+        "height": 0.013263081200420856
+      },
+      "confidence": 1,
+      "text": "procedures must be strictly followed to insure facility in enrollment and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1957364378569492,
+        "y": 0.2107558143950784,
+        "width": 0.31395347913106286,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "the proper filing of their enrollment forms.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.15503875978758788,
+        "y": 0.236918604881997,
+        "width": 0.021317829688390105,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20155040644519406,
+        "y": 0.2353515624635092,
+        "width": 0.529069741566976,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "Students must enroll on the days designated for their academic years",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19961241955532882,
+        "y": 0.2485351561747594,
+        "width": 0.53294571240743,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "to facilitate enrolment. Enrollment schedules may vary from semester to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20155040405145286,
+        "y": 0.2616279071397489,
+        "width": 0.53294571240743,
+        "height": 0.014739280566573143
+      },
+      "confidence": 1,
+      "text": "semester. Students are asked to consult the bulletin board before the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.2779069750957073,
+        "width": 0.050000001692992624,
+        "height": 0.026598839089274406
+      },
+      "confidence": 1,
+      "text": "to the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19961240139942762,
+        "y": 0.27906976763714764,
+        "width": 0.14534883697827652,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "start of each term.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.29531676543098184,
+        "width": 0.05241524015249253,
+        "height": 0.026674875989556313
+      },
+      "confidence": 1,
+      "text": "acter",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.15503875942906076,
+        "y": 0.3066860465433976,
+        "width": 0.021317829688390105,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20134566459523207,
+        "y": 0.300565341579922,
+        "width": 0.5412190755208334,
+        "height": 0.023615745827555656
+      },
+      "confidence": 1,
+      "text": "The Laguna College does not guarantee the availability of particular",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19961241642772265,
+        "y": 0.3139534880075914,
+        "width": 0.5445736249287924,
+        "height": 0.020519168116152287
+      },
+      "confidence": 1,
+      "text": "subjects) or sections thereof. Students are enrolled in classes until the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20155040242951028,
+        "y": 0.3299418604277734,
+        "width": 0.45542633533477783,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "allowable maximum number of students has been reached.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3445326475082846,
+        "width": 0.04994036930634285,
+        "height": 0.021970035508275032
+      },
+      "confidence": 1,
+      "text": "erees",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.36062237806818165,
+        "width": 0.051931632374822595,
+        "height": 0.02318909764289856
+      },
+      "confidence": 1,
+      "text": "ion of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.15697674514094326,
+        "y": 0.36482558161891565,
+        "width": 0.023255812625090272,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "4.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20314453685690292,
+        "y": 0.35443026104140307,
+        "width": 0.5473961035410563,
+        "height": 0.028043754398822784
+      },
+      "confidence": 1,
+      "text": "The college reserves the right to cancel sections already programmed",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20536298720666898,
+        "y": 0.3791550311551589,
+        "width": 0.06601821382840475,
+        "height": 0.01203877478837967
+      },
+      "confidence": 1,
+      "text": "due to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28068255954431837,
+        "y": 0.37155133256057193,
+        "width": 0.372781236966451,
+        "height": 0.020886274054646492
+      },
+      "confidence": 1,
+      "text": "insufficient number of students or other",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.6491591308807734,
+        "y": 0.36892029957845784,
+        "width": 0.10284452637036645,
+        "height": 0.015066377818584442
+      },
+      "confidence": 1,
+      "text": "necessitating",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3804226291436986,
+        "width": 0.05158020100100443,
+        "height": 0.020963774994015694
+      },
+      "confidence": 1,
+      "text": "came",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20299532218360575,
+        "y": 0.3817048721513244,
+        "width": 0.5534195899963379,
+        "height": 0.030954141169786453
+      },
+      "confidence": 1,
+      "text": "circumstances. No charge is imposed for changing subjects in such a",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2053729419272473,
+        "y": 0.41118632933789434,
+        "width": 0.05049442748228711,
+        "height": 0.010476178489625454
+      },
+      "confidence": 1,
+      "text": "case.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4271291632306805,
+        "width": 0.05504923516235414,
+        "height": 0.02262727916240692
+      },
+      "confidence": 1,
+      "text": "Senior",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20678231019985352,
+        "y": 0.42327478214840686,
+        "width": 0.5575576623280843,
+        "height": 0.03373440541327
+      },
+      "confidence": 1,
+      "text": "When a pupil/student fails to pay debts, the college may withhold re-",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4448067279579907,
+        "width": 0.05531112450076218,
+        "height": 0.02290225960314274
+      },
+      "confidence": 1,
+      "text": "Birth",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2068982765135592,
+        "y": 0.44890834104978916,
+        "width": 0.1985027591387431,
+        "height": 0.017336606979370117
+      },
+      "confidence": 1,
+      "text": "enrollment and other",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.4045264571558936,
+        "y": 0.4367025739249135,
+        "width": 0.3599190314610799,
+        "height": 0.027453171089291573
+      },
+      "confidence": 1,
+      "text": "services, such as grades, certification, and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 2.692784375109743e-10,
+        "y": 0.4680232556818973,
+        "width": 0.05232558151086171,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "ent an",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2047430502561037,
+        "y": 0.4527751121983419,
+        "width": 0.5012187957763672,
+        "height": 0.03241728991270065
+      },
+      "confidence": 1,
+      "text": "transcript of records of F-138 and F-137 until the debts are paid.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4849507679975531,
+        "width": 0.0564544462858127,
+        "height": 0.017017068341374397
+      },
+      "confidence": 1,
+      "text": "valent",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21239985325044128,
+        "y": 0.47559610233435123,
+        "width": 0.5616415341695149,
+        "height": 0.041631702333688736
+      },
+      "confidence": 1,
+      "text": "The college reserves the right to determine whether a credential",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1608527132575379,
+        "y": 0.5029069769677528,
+        "width": 0.027131783465544373,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "6.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20828102974225526,
+        "y": 0.4906912899429565,
+        "width": 0.567568818728129,
+        "height": 0.0417136549949646
+      },
+      "confidence": 1,
+      "text": "submitted will be accepted as official. Credentials submitted become",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21016425870367503,
+        "y": 0.5087329754803427,
+        "width": 0.5698048671086628,
+        "height": 0.03960956446826458
+      },
+      "confidence": 1,
+      "text": "part of the student's permanent record and cannot be withdrawn after",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 2.0249232105899275e-9,
+        "y": 0.5375976563303728,
+        "width": 0.056201547384262085,
+        "height": 0.014727924950420856
+      },
+      "confidence": 1,
+      "text": "sent to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20834376211109143,
+        "y": 0.5350407519768837,
+        "width": 0.27882359425226844,
+        "height": 0.0290223341435194
+      },
+      "confidence": 1,
+      "text": "registration has been completed.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.1504077227867764e-9,
+        "y": 0.5566860464885833,
+        "width": 0.056201547384262085,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "viously",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7073643422291779,
+        "y": 0.5537790697447057,
+        "width": 0.07751937707265211,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "before",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21208441430232514,
+        "y": 0.5573847369609912,
+        "width": 0.447556734085083,
+        "height": 0.03641924262046814
+      },
+      "confidence": 1,
+      "text": "Students are not allowed to enroll in advanced subjects",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.1171352731764728e-9,
+        "y": 0.5755813951023188,
+        "width": 0.058139532804489136,
+        "height": 0.01621547993272543
+      },
+      "confidence": 1,
+      "text": "om (a)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1627906976585429,
+        "y": 0.58139534855072,
+        "width": 0.025193798045317323,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "7.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20812808706283392,
+        "y": 0.5663323926225594,
+        "width": 0.5797623395919801,
+        "height": 0.04642046242952347
+      },
+      "confidence": 1,
+      "text": "they have completed the corresponding pre-requisite subjects of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 9.45781439276594e-10,
+        "y": 0.5915697677655911,
+        "width": 0.06007751822471618,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "A birth",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2099887998790306,
+        "y": 0.6001708359150765,
+        "width": 0.24441093206405642,
+        "height": 0.029741337522864342
+      },
+      "confidence": 1,
+      "text": "preceding year or semester.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7635658924718353,
+        "y": 0.6162790703052128,
+        "width": 0.03294573475917173,
+        "height": 0.010174417868256569
+      },
+      "confidence": 1,
+      "text": "or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21187315892004252,
+        "y": 0.6143203055538391,
+        "width": 0.5529847939809163,
+        "height": 0.047391775995492935
+      },
+      "confidence": 1,
+      "text": "No credits will be given to subjects not validly enrolled",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7151162787178654,
+        "y": 0.6308139535034816,
+        "width": 0.08139534791310632,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "requisite",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6453488375971048,
+        "width": 0.042635658806607156,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "st of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1647286830769897,
+        "y": 0.6482558140667083,
+        "width": 0.023255812625090272,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "8.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2099973389680878,
+        "y": 0.6335204513446118,
+        "width": 0.4772653977076212,
+        "height": 0.04667200893163681
+      },
+      "confidence": 1,
+      "text": "registered, subjects taken without the corresponding pre-",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.665527344188188,
+        "width": 0.05426356621748237,
+        "height": 0.019065679050982
+      },
+      "confidence": 1,
+      "text": "of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2135575423162881,
+        "y": 0.6419212187198782,
+        "width": 0.5879457394282023,
+        "height": 0.05531780421733856
+      },
+      "confidence": 1,
+      "text": "subject and subjects or units in excess of the regular load not authorized",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21357541710250058,
+        "y": 0.6812333196503616,
+        "width": 0.2272842923800151,
+        "height": 0.03226267918944359
+      },
+      "confidence": 1,
+      "text": "as per CHED regulations.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21755031933721267,
+        "y": 0.6988575441806428,
+        "width": 0.4835841258366902,
+        "height": 0.04634987190365791
+      },
+      "confidence": 1,
+      "text": "Students are allowed to attend only the classes in which",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7209186661296367,
+        "width": 0.06904005522695593,
+        "height": 0.026694837026298046
+      },
+      "confidence": 1,
+      "text": "10 wish",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.168604650901929,
+        "y": 0.7340116280457567,
+        "width": 0.021317829688390105,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "9.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2174715271791121,
+        "y": 0.7289853555444141,
+        "width": 0.2700217366218567,
+        "height": 0.03698420152068138
+      },
+      "confidence": 1,
+      "text": "they are enrolled or registered.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 2.3338514408092572e-9,
+        "y": 0.7470703126726945,
+        "width": 0.06589146951834361,
+        "height": 0.0205078125
+      },
+      "confidence": 1,
+      "text": "n; thus,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7587209309145484,
+        "width": 0.071705425066515,
+        "height": 0.030523255467414856
+      },
+      "confidence": 1,
+      "text": "script of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.17116431809559055,
+        "y": 0.739410472780802,
+        "width": 0.6465706030527751,
+        "height": 0.06320922821760178
+      },
+      "confidence": 1,
+      "text": "10. Cross-registrations outside the college by students in their last semester",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22327023044190084,
+        "y": 0.7538414122259927,
+        "width": 0.594632625579834,
+        "height": 0.06406500935554504
+      },
+      "confidence": 1,
+      "text": "may be permitted with the prior written approval of the Dean concemed",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7795404396687853,
+        "width": 0.07458061034959687,
+        "height": 0.0316159650683403
+      },
+      "confidence": 1,
+      "text": "mitted,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22323356610882486,
+        "y": 0.7700658152804455,
+        "width": 0.5965316295623779,
+        "height": 0.06562996655702591
+      },
+      "confidence": 1,
+      "text": "and the Registrar. No credit shall be given for any work done if the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2245225821001431,
+        "y": 0.8126240774616982,
+        "width": 0.25716110070546466,
+        "height": 0.038446541875600815
+      },
+      "confidence": 1,
+      "text": "permit has not been secured.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.8401162778969054,
+        "width": 0.07945736492062085,
+        "height": 0.036918606609106064
+      },
+      "confidence": 1,
+      "text": "/s must",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5077519382196964,
+        "y": 0.8662790697447057,
+        "width": 0.011627906312545178,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "7",
+      "verified": false
+    }
+  ]
+}

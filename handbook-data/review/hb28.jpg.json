@@ -1,0 +1,930 @@
+{
+  "file": "hb28.jpg",
+  "imageSha256": "e304e9da9f94e66accfb54c796117307152fad77c6457ce5ad10939b55728dba",
+  "passages": [
+    {
+      "text": "Section 1. Students shall refrain from making unnecessary noise and causing commotion of any kind during academic functions.",
+      "topic": "Academic functions noise",
+      "box": {
+        "x": 0.20011324018162688,
+        "y": 0.13300310712935992,
+        "width": 0.5171907815933228,
+        "height": 0.08991195719617806
+      },
+      "verified": true
+    },
+    {
+      "text": "Section 2. Students shall refrain from leaving the hall during a speech or performance.",
+      "topic": "Academic functions leaving hall",
+      "box": {
+        "x": 0.19884668974562603,
+        "y": 0.17532645103533695,
+        "width": 0.5201618547526988,
+        "height": 0.07246675956249238
+      },
+      "verified": true
+    },
+    {
+      "text": "Section 1. Students shall attend social functions in clothing appropriate for the occasion.",
+      "topic": "Social functions clothing dress",
+      "box": {
+        "x": 0.19548838049260805,
+        "y": 0.23926507358556925,
+        "width": 0.5231723741404422,
+        "height": 0.0708722906112671
+      },
+      "verified": true
+    },
+    {
+      "text": "Section 2. Students shall behave properly during social functions.",
+      "topic": "Social functions behavior",
+      "box": {
+        "x": 0.1910074545588469,
+        "y": 0.27866118470904433,
+        "width": 0.5286727061662903,
+        "height": 0.062118208587169654
+      },
+      "verified": true
+    },
+    {
+      "text": "Section 3. Students shall not \"gate crash\" a social function.",
+      "topic": "Social functions gate crash",
+      "box": {
+        "x": 0.2272753285101722,
+        "y": 0.3161953212585158,
+        "width": 0.4670587453842163,
+        "height": 0.056195304349064834
+      },
+      "verified": true
+    },
+    {
+      "text": "Section 1. Students shall at all times refrain from committing acts that may embarrass the College or reflect dishonor upon it.",
+      "topic": "Outside campus conduct reputation",
+      "box": {
+        "x": 0.18698048329089864,
+        "y": 0.37255571672900667,
+        "width": 0.5321845125908578,
+        "height": 0.0634833763053616
+      },
+      "verified": true
+    },
+    {
+      "text": "Examination schedules are published at the start of the semester or school year.",
+      "topic": "Examination schedules",
+      "box": {
+        "x": 0.17610852943645205,
+        "y": 0.544444854145028,
+        "width": 0.5431317790413513,
+        "height": 0.044027802025461193
+      },
+      "verified": true
+    },
+    {
+      "box": {
+        "x": 0.8250883017129166,
+        "y": 0.09867379735825677,
+        "width": 0.17491169828708342,
+        "height": 0.06886439025402069
+      },
+      "confidence": 1,
+      "text": "attempting to commu",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29106571925404623,
+        "y": 0.12233957832242282,
+        "width": 0.3606987794240316,
+        "height": 0.04999334551393986
+      },
+      "confidence": 1,
+      "text": "Article V - Behavior in Academic Functions",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8248772144002334,
+        "y": 0.12141001033131271,
+        "width": 0.17512278559976657,
+        "height": 0.06725155562162399
+      },
+      "confidence": 1,
+      "text": "caught with an advan",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2868908693257415,
+        "y": 0.13700310712935992,
+        "width": 0.4210198322931925,
+        "height": 0.06875644624233246
+      },
+      "confidence": 1,
+      "text": "Section 1. Students shall refrain from making",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20811324018162689,
+        "y": 0.1461453628446725,
+        "width": 0.5011907815933228,
+        "height": 0.07276970148086548
+      },
+      "confidence": 1,
+      "text": "unnecessary noise and causing commotion of any kind during",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2085805884648928,
+        "y": 0.1742582205425114,
+        "width": 0.16057872772216797,
+        "height": 0.019311346113681793
+      },
+      "confidence": 1,
+      "text": "academic functions.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8235555329399219,
+        "y": 0.14414301498309112,
+        "width": 0.1764444670600781,
+        "height": 0.06607967987656593
+      },
+      "confidence": 1,
+      "text": "getting another copy",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8023255813622961,
+        "y": 0.18313953515531622,
+        "width": 0.013565891732772117,
+        "height": 0.01308139506727457
+      },
+      "confidence": 0.5,
+      "text": "d.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9300014248542254,
+        "y": 0.17197834514857702,
+        "width": 0.061410993337631226,
+        "height": 0.02692287042737007
+      },
+      "confidence": 1,
+      "text": "notes",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.951550387319204,
+        "y": 0.19040697678473162,
+        "width": 0.040697673956553215,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "test",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20684668974562603,
+        "y": 0.20408370613598725,
+        "width": 0.26082613070805866,
+        "height": 0.020022299140691757
+      },
+      "confidence": 1,
+      "text": "during a speech or performance.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28123231305046925,
+        "y": 0.17932645103533695,
+        "width": 0.4297762314478556,
+        "height": 0.06446675956249237
+      },
+      "confidence": 1,
+      "text": "Section 2. Students shall refrain from leaving the hall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.829651153736929,
+        "y": 0.18808139257482015,
+        "width": 0.0992248157660166,
+        "height": 0.03837209939956665
+      },
+      "confidence": 1,
+      "text": "Possessing",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8304959098389523,
+        "y": 0.19837734099628346,
+        "width": 0.16950409016104773,
+        "height": 0.057223252952098846
+      },
+      "confidence": 1,
+      "text": "whether the student",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8312015540310527,
+        "y": 0.19811046565503354,
+        "width": 0.11414728562037146,
+        "height": 0.04287790507078171
+      },
+      "confidence": 1,
+      "text": "examination,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8023255811684976,
+        "y": 0.22238372094019998,
+        "width": 0.013565891732772228,
+        "height": 0.01308139506727457
+      },
+      "confidence": 0.5,
+      "text": "f.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2953184102733523,
+        "y": 0.22840561031173445,
+        "width": 0.34227200349171955,
+        "height": 0.04138466343283653
+      },
+      "confidence": 1,
+      "text": "Article VI - Behavior in Social Function",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8316512984930075,
+        "y": 0.22350811825315886,
+        "width": 0.16834870150699255,
+        "height": 0.05205133929848671
+      },
+      "confidence": 1,
+      "text": "Deliberately looking",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20348838049260806,
+        "y": 0.27180232576123353,
+        "width": 0.23062014579772946,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "appropriate for the occasion.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24061034022977065,
+        "y": 0.24326507358556926,
+        "width": 0.47005041440327955,
+        "height": 0.06287229061126709
+      },
+      "confidence": 1,
+      "text": "Section 1. Students shall attend social functions in clothing",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8062015502711263,
+        "y": 0.27180232555865924,
+        "width": 0.01550387591123581,
+        "height": 0.01308139506727457
+      },
+      "confidence": 0.5,
+      "text": "g.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8325154636053873,
+        "y": 0.2450661393389042,
+        "width": 0.1674845363946127,
+        "height": 0.05347237177193165
+      },
+      "confidence": 1,
+      "text": "copying from or all",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8347058035931262,
+        "y": 0.26467398683916266,
+        "width": 0.16529419640687382,
+        "height": 0.04576779901981354
+      },
+      "confidence": 1,
+      "text": "examination papers",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8062015509763837,
+        "y": 0.29215116277601916,
+        "width": 0.01937984426816297,
+        "height": 0.011627906933426857
+      },
+      "confidence": 0.5,
+      "text": "h.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1990074545588469,
+        "y": 0.3049394519188392,
+        "width": 0.08474666873613992,
+        "height": 0.016582615673542023
+      },
+      "confidence": 1,
+      "text": "functions.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23700732664666643,
+        "y": 0.28266118470904433,
+        "width": 0.4746728340784707,
+        "height": 0.05411820858716965
+      },
+      "confidence": 1,
+      "text": "Section 2. Students shall behave properly during social",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8325430057201637,
+        "y": 0.2877533256600362,
+        "width": 0.1674569942798363,
+        "height": 0.04556107893586159
+      },
+      "confidence": 1,
+      "text": "having somebody",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8081395353611693,
+        "y": 0.3270348836699145,
+        "width": 0.011627906312545178,
+        "height": 0.011627906933426857
+      },
+      "confidence": 0.5,
+      "text": "i.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8350728865150095,
+        "y": 0.3022856036115845,
+        "width": 0.16492711348499045,
+        "height": 0.04662162438035011
+      },
+      "confidence": 1,
+      "text": "(both shall be liable",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23527532851017222,
+        "y": 0.3201953212585158,
+        "width": 0.4510587453842163,
+        "height": 0.04819530434906483
+      },
+      "confidence": 1,
+      "text": "Section 3. Students shall not \"gate crash\" a social function.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8340173372196173,
+        "y": 0.3270006851680418,
+        "width": 0.16598266278038265,
+        "height": 0.043365251272916794
+      },
+      "confidence": 1,
+      "text": "talking with anothe",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.27415332172129375,
+        "y": 0.3564789386876803,
+        "width": 0.37839921315511066,
+        "height": 0.037517059594392776
+      },
+      "confidence": 1,
+      "text": "Article VIl - Behavior Outside the Campus",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8120155043243477,
+        "y": 0.36337209309136265,
+        "width": 0.011627906312545067,
+        "height": 0.01308139506727457
+      },
+      "confidence": 0.5,
+      "text": "j-",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8385952201616362,
+        "y": 0.3588930202452756,
+        "width": 0.06702148417631781,
+        "height": 0.02709224633872509
+      },
+      "confidence": 1,
+      "text": "proctor.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8384138896126538,
+        "y": 0.3698100811781474,
+        "width": 0.16158611038734616,
+        "height": 0.03820737265050411
+      },
+      "confidence": 1,
+      "text": "Possessing or usin",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23547590260986517,
+        "y": 0.3765557167290067,
+        "width": 0.47568909327189124,
+        "height": 0.047024309635162354
+      },
+      "confidence": 1,
+      "text": "Section 1. Students shall at all times refrain from committing",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19498048329089865,
+        "y": 0.3936311488915498,
+        "width": 0.4864787658055624,
+        "height": 0.03840794414281845
+      },
+      "confidence": 1,
+      "text": "acts that may embarrass the College or reflect dishonor upon it.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.812015504125012,
+        "y": 0.3997093024095324,
+        "width": 0.011627906312545067,
+        "height": 0.011627906933426857
+      },
+      "confidence": 0.5,
+      "text": "K.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8405001737804896,
+        "y": 0.39283994907816255,
+        "width": 0.15949982621951042,
+        "height": 0.03775274008512497
+      },
+      "confidence": 1,
+      "text": "Getting out of the e",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8423192806532649,
+        "y": 0.4117224252528291,
+        "width": 0.15413950880368554,
+        "height": 0.03223027475178242
+      },
+      "confidence": 1,
+      "text": "from the proctors",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3094005405253848,
+        "y": 0.43142123246723507,
+        "width": 0.31156154473622644,
+        "height": 0.025511708110570908
+      },
+      "confidence": 1,
+      "text": "XIlI. Other School Rules / Policies",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8433886098434931,
+        "y": 0.437404688488487,
+        "width": 0.09014806151390076,
+        "height": 0.02174275927245617
+      },
+      "confidence": 1,
+      "text": "said room.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1918604677984109,
+        "y": 0.45639534871942844,
+        "width": 0.24612402915954587,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "A. Rules on Examination",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8100859727933658,
+        "y": 0.46168883827332186,
+        "width": 0.1899140272066342,
+        "height": 0.03425535932183266
+      },
+      "confidence": 1,
+      "text": "Cheating is an act of di",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23570904152394467,
+        "y": 0.4755775599197367,
+        "width": 0.4763859113057455,
+        "height": 0.033441971987485886
+      },
+      "confidence": 1,
+      "text": "Four periodic examinations and four summative tests are",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7826475737513409,
+        "y": 0.4781082274460017,
+        "width": 0.2171735564867655,
+        "height": 0.03656082600355148
+      },
+      "confidence": 1,
+      "text": "act punishable by dismissa",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18751689529135382,
+        "y": 0.49260721144561015,
+        "width": 0.5225446224212646,
+        "height": 0.03082462213933468
+      },
+      "confidence": 1,
+      "text": "given to the high school students and elementary pupils for one",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1879062714404313,
+        "y": 0.5112958790174924,
+        "width": 0.11837350328763327,
+        "height": 0.0166524276137352
+      },
+      "confidence": 1,
+      "text": "school year.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7831238892364741,
+        "y": 0.49700030433907827,
+        "width": 0.2164070804913839,
+        "height": 0.031106834299862385
+      },
+      "confidence": 1,
+      "text": "Manual of Regulations for Pi",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3365165582609493,
+        "y": 0.510234533732703,
+        "width": 0.19717917839686072,
+        "height": 0.02201916743069887
+      },
+      "confidence": 1,
+      "text": "Preliminary, Mid-tem,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5456361968877457,
+        "y": 0.5155673618663159,
+        "width": 0.16461506485939026,
+        "height": 0.020253608003258705
+      },
+      "confidence": 1,
+      "text": "Semi-final and Final",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1857129678453194,
+        "y": 0.5244360594126419,
+        "width": 0.4951248963673909,
+        "height": 0.026910817250609398
+      },
+      "confidence": 1,
+      "text": "examinations are given each semester to the college students.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8110298196552655,
+        "y": 0.5319571866015644,
+        "width": 0.18824317057927453,
+        "height": 0.025716887786984444
+      },
+      "confidence": 1,
+      "text": "B. Issuance of Sch",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2263710539527922,
+        "y": 0.548444854145028,
+        "width": 0.44261554876963294,
+        "height": 0.02347613964229822
+      },
+      "confidence": 1,
+      "text": "Examination schedules are published at the start",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.6647286832276228,
+        "y": 0.5595703126037258,
+        "width": 0.0465116252501806,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8158914799198659,
+        "y": 0.55957031234724,
+        "width": 0.18217053016026818,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "Clearance forms for pl",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18410852943645206,
+        "y": 0.5683139533872026,
+        "width": 0.2073643406232198,
+        "height": 0.01615870278328657
+      },
+      "confidence": 1,
+      "text": "semester or school year.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7861706337208795,
+        "y": 0.5753178121548246,
+        "width": 0.21266851822535193,
+        "height": 0.02346046082675457
+      },
+      "confidence": 1,
+      "text": "credentials, diploma, certifi",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2226322106562931,
+        "y": 0.5900138950664029,
+        "width": 0.4907989899317423,
+        "height": 0.02092995122075081
+      },
+      "confidence": 1,
+      "text": "The following acts are considered prima facie evidence of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7844818323046923,
+        "y": 0.592610677749321,
+        "width": 0.210066556930542,
+        "height": 0.019928851164877415
+      },
+      "confidence": 1,
+      "text": "(c) good moral character",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18023257548233143,
+        "y": 0.6074218751011695,
+        "width": 0.53294571240743,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "cheating and as such a justification for professors or proctors to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7868217029729433,
+        "y": 0.6118164063252405,
+        "width": 0.21124031146367395,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "counter. The credentials wi",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.17994885822725668,
+        "y": 0.6213411490144145,
+        "width": 0.5335846741994221,
+        "height": 0.023647762835025787
+      },
+      "confidence": 1,
+      "text": "send violators out of the examination room and to assign them a",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7848837171103752,
+        "y": 0.6279069772786725,
+        "width": 0.2131782968839009,
+        "height": 0.017600835300982
+      },
+      "confidence": 1,
+      "text": "after filing and only after th",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.17829458821211816,
+        "y": 0.6395348839633839,
+        "width": 0.46317827701568604,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "grade of 70% for that particular quiz, test or examination:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7862187019163294,
+        "y": 0.6433331051678273,
+        "width": 0.200811505317688,
+        "height": 0.021646719425916672
+      },
+      "confidence": 1,
+      "text": "obligations to the college.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21705426371685146,
+        "y": 0.6671511627760192,
+        "width": 0.021317829688390105,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "a.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24806201752057352,
+        "y": 0.665527343905819,
+        "width": 0.46705424785614,
+        "height": 0.01615870278328657
+      },
+      "confidence": 1,
+      "text": "giving or receiving information in connection with the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8148200543022573,
+        "y": 0.6646110250443676,
+        "width": 0.18306052684783936,
+        "height": 0.027837082743644714
+      },
+      "confidence": 1,
+      "text": "School certifications,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2558139592344506,
+        "y": 0.6816406254557266,
+        "width": 0.18992247184117633,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "examination questions,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7875991939727763,
+        "y": 0.6812508596542427,
+        "width": 0.21177468697230029,
+        "height": 0.026840513572096825
+      },
+      "confidence": 1,
+      "text": "cannot be released unle",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2519379894152837,
+        "y": 0.7049418610117152,
+        "width": 0.4631782770156861,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "using or opening textbooks, notebooks, or study aids of any",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7869383504197396,
+        "y": 0.6974861379158268,
+        "width": 0.212753434975942,
+        "height": 0.031112972646951675
+      },
+      "confidence": 1,
+      "text": "Elementary F-137 or the Tr",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2538759695624211,
+        "y": 0.7209302327938187,
+        "width": 0.04069767395655316,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "kind,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7870536885607948,
+        "y": 0.7128635157964225,
+        "width": 0.21287963787714637,
+        "height": 0.032356131821870804
+      },
+      "confidence": 1,
+      "text": "aprevious school are on fil",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.78616279013865,
+        "y": 0.7297093021684606,
+        "width": 0.06527131795883179,
+        "height": 0.023139534518122673
+      },
+      "confidence": 1,
+      "text": "College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.44573643449063044,
+        "y": 0.7848837209983394,
+        "width": 0.025193798045317295,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "28",
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "file": "hb15.jpg",
+  "label": "15",
+  "imageSha256": "7b5dcd498f3936d831bf386bce6a502653a513feaab21eef5643b441321aaead",
+  "left": 0.1899224716945458,
+  "right": 0.8023255730491041,
+  "rows": [
+    {
+      "text": "X. Selection of Honors",
+      "box": {
+        "height": 0.02290182001888752,
+        "width": 0.2319983839988709,
+        "x": 0.3772519173997511,
+        "y": 0.10561124825915114
+      },
+      "level": 0.10621690457965757
+    },
+    {
+      "text": "A. Selection of Collegiate Honor Graduates",
+      "box": {
+        "height": 0.029687345027923584,
+        "width": 0.4374351501464844,
+        "x": 0.2726166663963596,
+        "y": 0.12782779160178748
+      },
+      "level": 0.1280966762262366
+    },
+    {
+      "text": "Grades",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.07558139165242511,
+        "x": 0.19573643597288304,
+        "y": 0.14970930246436132
+      },
+      "level": 0.14972801694216528
+    },
+    {
+      "text": "1. A student who has a weighted average of 95% and above shall",
+      "box": {
+        "height": 0.03115568496286869,
+        "width": 0.5515162547429403,
+        "x": 0.19186046482634758,
+        "y": 0.1601347261428595
+      },
+      "level": 0.16027930928749656
+    },
+    {
+      "text": "graduate SUMMA CUM LAUDE, provided he/she has no grade",
+      "box": {
+        "height": 0.03179304301738739,
+        "width": 0.5532919565836589,
+        "x": 0.2341846798010799,
+        "y": 0.17553975008579925
+      },
+      "level": 0.17568460945017433
+    },
+    {
+      "text": "lower than 88% in all subjects taken, whether required or not",
+      "box": {
+        "height": 0.030208444222807884,
+        "width": 0.5554488897323608,
+        "x": 0.23400000712527946,
+        "y": 0.19092852342281863
+      },
+      "level": 0.19107264764957066
+    },
+    {
+      "text": "required to complete the course.",
+      "box": {
+        "height": 0.015988372266292572,
+        "width": 0.28100774685541796,
+        "x": 0.23449612938236855,
+        "y": 0.21075581388138864
+      },
+      "level": 0.21089929132423235
+    },
+    {
+      "text": "2. A student who has a weighted average of 92% to 94% shall",
+      "box": {
+        "height": 0.0234375,
+        "width": 0.6027131875356039,
+        "x": 0.1899224716945458,
+        "y": 0.2412109371282245
+      },
+      "level": 0.2412109371282245
+    },
+    {
+      "text": "graduate MAGNA CUM LAUDE, provided he/she has no grade",
+      "box": {
+        "height": 0.02749236673116684,
+        "width": 0.5568552811940511,
+        "x": 0.2361689470055778,
+        "y": 0.2550144692574279
+      },
+      "level": 0.25516471161453197
+    },
+    {
+      "text": "lower than 85% in all subjects taken, whether required or not",
+      "box": {
+        "height": 0.021802324801683426,
+        "width": 0.5620154937108357,
+        "x": 0.23449613312797077,
+        "y": 0.27325581435372637
+      },
+      "level": 0.2733992918086267
+    },
+    {
+      "text": "required to complete the course.",
+      "box": {
+        "height": 0.017985161393880844,
+        "width": 0.28321415185928345,
+        "x": 0.23631689550012425,
+        "y": 0.2902097618415783
+      },
+      "level": 0.29035963624177596
+    },
+    {
+      "text": "3. A student who has a weighted average of 89% to 91% shall",
+      "box": {
+        "height": 0.02058730088174343,
+        "width": 0.6104650894800823,
+        "x": 0.18992249117081164,
+        "y": 0.3226744182062349
+      },
+      "level": 0.32267441826892673
+    },
+    {
+      "text": "graduate CUM LAUDE, provided he/she has no grade lower than",
+      "box": {
+        "height": 0.018895348533988,
+        "width": 0.5620154937108358,
+        "x": 0.23837210513101606,
+        "y": 0.3401162792032095
+      },
+      "level": 0.3402722329631828
+    },
+    {
+      "text": "80% in all subjects taken, whether required or not required to",
+      "box": {
+        "height": 0.017589479684829712,
+        "width": 0.5620154937108358,
+        "x": 0.23837209108062885,
+        "y": 0.35595703155393965
+      },
+      "level": 0.3561129852686864
+    },
+    {
+      "text": "complete the course.",
+      "box": {
+        "height": 0.017578125,
+        "width": 0.1879844864209493,
+        "x": 0.24031008425076564,
+        "y": 0.37353515648083424
+      },
+      "level": 0.3736973483711924
+    },
+    {
+      "text": "4. In the case of students graduating with honors in courses the",
+      "box": {
+        "height": 0.020348837599158287,
+        "width": 0.6124030749003093,
+        "x": 0.191860472356047,
+        "y": 0.4055232558225139
+      },
+      "level": 0.40552949402223915
+    },
+    {
+      "text": "prescribed length of which is less than four years, the English",
+      "box": {
+        "height": 0.021677250042557716,
+        "width": 0.566255768140157,
+        "x": 0.24010455603725708,
+        "y": 0.4202580677987602
+      },
+      "level": 0.4240636929200367
+    },
+    {
+      "text": "equivalent: namely, \"With Very Marked Distinction\", With Marked",
+      "box": {
+        "height": 0.0205078125,
+        "width": 0.5678294499715169,
+        "x": 0.24031007553749748,
+        "y": 0.4374999999504209
+      },
+      "level": 0.437662191812732
+    },
+    {
+      "text": "Distinction\", and \"With Distinction\" shall be used.",
+      "box": {
+        "height": 0.018895348533988,
+        "width": 0.4186046520868937,
+        "x": 0.24224806678601038,
+        "y": 0.4549418605622211
+      },
+      "level": 0.4551102905939582
+    },
+    {
+      "text": "5. The weighted average includes grades for all the required units.",
+      "box": {
+        "height": 0.025083983317017555,
+        "width": 0.5683220624923706,
+        "x": 0.19379844971006852,
+        "y": 0.48454089499373765
+      },
+      "level": 0.49074886804976997
+    },
+    {
+      "text": "However, for students who have transferred or shifted, all grades",
+      "box": {
+        "height": 0.02714922185987234,
+        "width": 0.5724271138509115,
+        "x": 0.24190845015178045,
+        "y": 0.500331523589925
+      },
+      "level": 0.5087878627827789
+    },
+    {
+      "text": "whether credited or not must comply with the lowest grade limit,",
+      "box": {
+        "height": 0.026325782760977745,
+        "width": 0.5762612024943033,
+        "x": 0.2418199681710743,
+        "y": 0.5164455826399984
+      },
+      "level": 0.5258397829290602
+    },
+    {
+      "text": "provided the students also comply with the residency requirement.",
+      "box": {
+        "height": 0.03065152931958437,
+        "width": 0.5651556650797527,
+        "x": 0.2415957511733581,
+        "y": 0.5321145979441138
+      },
+      "level": 0.5452777396671518
+    },
+    {
+      "text": "6. Calculations of the General Weighted Average shall be until the",
+      "box": {
+        "height": 0.036743875592947006,
+        "width": 0.6291865110397339,
+        "x": 0.1931043816689515,
+        "y": 0.5627140032104951
+      },
+      "level": 0.5812419827307723
+    },
+    {
+      "text": "third decimal place. Fractions thereof will not be rounded off to 1.",
+      "box": {
+        "height": 0.03349378705024719,
+        "width": 0.5573258797327677,
+        "x": 0.23968038401667155,
+        "y": 0.58220192390806
+      },
+      "level": 0.5981101939945743
+    },
+    {
+      "text": "7. No student who has been punished for any act classified as Major,",
+      "box": {
+        "height": 0.03872913122177124,
+        "width": 0.6329597234725952,
+        "x": 0.1949856436811972,
+        "y": 0.6145232759667888
+      },
+      "level": 0.6356033376122434
+    },
+    {
+      "text": "Serious or Less Serious Offenses in the School Rules On Discipline",
+      "box": {
+        "height": 0.03682897984981537,
+        "width": 0.5867778460184734,
+        "x": 0.24153855687810358,
+        "y": 0.6313080089362386
+      },
+      "level": 0.6509598628817621
+    },
+    {
+      "text": "shall be conferred honors.",
+      "box": {
+        "height": 0.023664627224206924,
+        "width": 0.24345024426778158,
+        "x": 0.24153358252168258,
+        "y": 0.6627425415673579
+      },
+      "level": 0.670552139037993
+    },
+    {
+      "text": "8. A candidate for Collegiate Honors who has transferred from another",
+      "box": {
+        "height": 0.045103248208761215,
+        "width": 0.5950748920440674,
+        "x": 0.2412322870174791,
+        "y": 0.6817912984738118
+      },
+      "level": 0.7081443101546329
+    },
+    {
+      "text": "school and has obtained numerical grades instead of the",
+      "box": {
+        "height": 0.045844268053770065,
+        "width": 0.5915075540542603,
+        "x": 0.24311525071167725,
+        "y": 0.6993201970964029
+      },
+      "level": 0.7271472868181666
+    },
+    {
+      "text": "percentage grades used in the grading system of the school shall",
+      "box": {
+        "height": 0.048177942633628845,
+        "width": 0.5957322518030803,
+        "x": 0.2430504225956517,
+        "y": 0.7159823203051716
+      },
+      "level": 0.7463053204756886
+    },
+    {
+      "text": "have the weighted average computed as follows:",
+      "box": {
+        "height": 0.03979542292654514,
+        "width": 0.4422128597895305,
+        "x": 0.24515378621653708,
+        "y": 0.7423649872600913
+      },
+      "level": 0.7633048935173169
+    },
+    {
+      "text": "a. The percentage equivalent of the numerical grade shall be",
+      "box": {
+        "height": 0.05054005980491638,
+        "width": 0.5509115854899089,
+        "x": 0.2896819617870567,
+        "y": 0.7493833967735235
+      },
+      "level": 0.7809952889797538
+    },
+    {
+      "text": "obtained based on the grading system described in page 10",
+      "box": {
+        "height": 0.052668239921331406,
+        "width": 0.5263663927714031,
+        "x": 0.3164711810105134,
+        "y": 0.7661437344509376
+      },
+      "level": 0.7991808885039553
+    },
+    {
+      "text": "of the Student Handbook",
+      "box": {
+        "height": 0.0265351552516222,
+        "width": 0.23282835880915326,
+        "x": 0.31674976590630494,
+        "y": 0.8046198482964937
+      },
+      "level": 0.8156164383500351
+    },
+    {
+      "text": "15",
+      "box": {
+        "height": 0.015988372266292572,
+        "width": 0.027131783465544346,
+        "x": 0.5193798447497859,
+        "y": 0.8502906973879292
+      },
+      "level": 0.8513511825234105
+    }
+  ],
+  "reviewed": true
+}

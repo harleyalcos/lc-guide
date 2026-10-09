@@ -1,0 +1,1282 @@
+{
+  "file": "hb22.jpg",
+  "imageSha256": "af366fb727e1560cdbf49a92a6876d4aee37e8adeea50445190c67035e814979",
+  "passages": [
+    {
+      "box": {
+        "x": 0.7733138041641187,
+        "y": 0.1173890770124173,
+        "width": 0.22668619583588134,
+        "height": 0.08682480081915855
+      },
+      "confidence": 1,
+      "text": "Cutting classes, playing video ga",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9562015526112915,
+        "y": 0.1500000006754565,
+        "width": 0.04379844738870853,
+        "height": 0.021075580269098282
+      },
+      "confidence": 1,
+      "text": "unkn",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2131782946528867,
+        "y": 0.16715116291331045,
+        "width": 0.027131783465544373,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "20.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7740150201136201,
+        "y": 0.13230531447445693,
+        "width": 0.2259849798863799,
+        "height": 0.08418991789221764
+      },
+      "confidence": 1,
+      "text": "not related to school work during",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24914407969734934,
+        "y": 0.15942407135145298,
+        "width": 0.45625193913777684,
+        "height": 0.0490790456533432
+      },
+      "confidence": 1,
+      "text": "Hacking or the intention to falsify information or misrepresent anyone on",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24948962435747912,
+        "y": 0.17773660546635084,
+        "width": 0.18914330005645752,
+        "height": 0.017300669103860855
+      },
+      "confidence": 1,
+      "text": "the school's online platforms.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8401966362796477,
+        "y": 0.1696646345472943,
+        "width": 0.08323879539966583,
+        "height": 0.034351956099271774
+      },
+      "confidence": 1,
+      "text": "knowingly",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2112403100437136,
+        "y": 0.19040697684863017,
+        "width": 0.0271317834655444,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "21.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2473655822990873,
+        "y": 0.18352550254679023,
+        "width": 0.45980377991994215,
+        "height": 0.04528963752090931
+      },
+      "confidence": 1,
+      "text": "Violation of health, safety and sanitation protocols which compromises the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7538759691432081,
+        "y": 0.19912790706301964,
+        "width": 0.021317829688390022,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "12.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7786019650090635,
+        "y": 0.15913191548292316,
+        "width": 0.22139803499093647,
+        "height": 0.07908982038497925
+      },
+      "confidence": 1,
+      "text": "organization operating within th",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21317829552854015,
+        "y": 0.21511627895413488,
+        "width": 0.023255812625090272,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "22.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24932888932982392,
+        "y": 0.19833802437287373,
+        "width": 0.34859677155812585,
+        "height": 0.028999129310250282
+      },
+      "confidence": 1,
+      "text": "health, safety and welfare of any member of the school.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7762880151103081,
+        "y": 0.19384391793943834,
+        "width": 0.06702444950739539,
+        "height": 0.034275490790605545
+      },
+      "confidence": 1,
+      "text": "Affiliating",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7774491632315307,
+        "y": 0.17191531294286133,
+        "width": 0.22255083676846932,
+        "height": 0.07905551046133041
+      },
+      "confidence": 1,
+      "text": "Peeping atladies' or men's com",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21124031053160489,
+        "y": 0.23837209301584472,
+        "width": 0.02519379804531735,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "23.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24946333923601585,
+        "y": 0.22280411421841306,
+        "width": 0.35997017224629724,
+        "height": 0.027598392218351364
+      },
+      "confidence": 1,
+      "text": "staff; or any student, personnel or visitor of the institution.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.250959125202139,
+        "y": 0.20707673418306238,
+        "width": 0.4582025607426961,
+        "height": 0.04484507627785206
+      },
+      "confidence": 1,
+      "text": "Physical injury / assault upon any member of the faculty, administration.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7558139538736705,
+        "y": 0.2223837212018278,
+        "width": 0.01937984426816297,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "13.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7784245733866423,
+        "y": 0.19146513177820457,
+        "width": 0.22157542661335772,
+        "height": 0.07099312171339989
+      },
+      "confidence": 1,
+      "text": "Entering the school pret sess",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.837583088039144,
+        "y": 0.2073841837628001,
+        "width": 0.14194902777671814,
+        "height": 0.05025382712483406
+      },
+      "confidence": 1,
+      "text": "Republic Act No.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24926358353396796,
+        "y": 0.23162118804066822,
+        "width": 0.46136693159739184,
+        "height": 0.040801648050546646
+      },
+      "confidence": 1,
+      "text": "Any acts of threat either physical or by means of any medium of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7828057248532682,
+        "y": 0.2147905780575574,
+        "width": 0.21719427514673184,
+        "height": 0.07241155207157135
+      },
+      "confidence": 1,
+      "text": "Regulations on Anti-Sexual Ha",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24744617146787476,
+        "y": 0.24456549053730936,
+        "width": 0.4631507396697998,
+        "height": 0.03787917643785477
+      },
+      "confidence": 1,
+      "text": "communications including oral, social media, and using any electronic",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7596899225849109,
+        "y": 0.2572674419911354,
+        "width": 0.01937984426816297,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "15.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7821705419235826,
+        "y": 0.24607558211639347,
+        "width": 0.06143411000569654,
+        "height": 0.02776162698864937
+      },
+      "confidence": 1,
+      "text": "Violating",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7845534950165348,
+        "y": 0.22855283946505356,
+        "width": 0.21544650498346518,
+        "height": 0.07065688818693161
+      },
+      "confidence": 1,
+      "text": "and Regulations of the Anti-Se",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24741854099490027,
+        "y": 0.2570574100149059,
+        "width": 0.46316417058308923,
+        "height": 0.03695319592952728
+      },
+      "confidence": 1,
+      "text": "gadgets against any school officials, faculty member, or students of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7616279072845232,
+        "y": 0.2688953488471767,
+        "width": 0.01937984426816297,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "16.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20930232559280917,
+        "y": 0.2877906976670075,
+        "width": 0.0271317834655444,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "24.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24729737807443689,
+        "y": 0.2795779406056885,
+        "width": 0.4652357896169027,
+        "height": 0.03918476589024067
+      },
+      "confidence": 1,
+      "text": "Perjury, lying or giving false statements in any administrative proceeding",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8167324870418925,
+        "y": 0.272734752366811,
+        "width": 0.1832675129581075,
+        "height": 0.05369679629802704
+      },
+      "confidence": 1,
+      "text": "First Offense: Three (3)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24758826293476344,
+        "y": 0.2944684055698552,
+        "width": 0.4646653334299724,
+        "height": 0.033716831356287
+      },
+      "confidence": 1,
+      "text": "and/or presenting false documents to mislead an investigation during the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2498290589598621,
+        "y": 0.3107708937231627,
+        "width": 0.285308837890625,
+        "height": 0.015162307769060135
+      },
+      "confidence": 1,
+      "text": "administrative investigation or proceedings.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7576520443171216,
+        "y": 0.2925107891775325,
+        "width": 0.09090545773506165,
+        "height": 0.041881442070007324
+      },
+      "confidence": 1,
+      "text": "PENALTIES:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8175616865218945,
+        "y": 0.2859037568948949,
+        "width": 0.18243831347810546,
+        "height": 0.05250303074717522
+      },
+      "confidence": 1,
+      "text": "Second Offense: One (1",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8191588120455694,
+        "y": 0.29989935444965865,
+        "width": 0.1808411879544306,
+        "height": 0.04996448941528797
+      },
+      "confidence": 1,
+      "text": "Third Offense: Two (2)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2127613324418943,
+        "y": 0.3182532247806116,
+        "width": 0.48963216940561927,
+        "height": 0.030913297086954117
+      },
+      "confidence": 1,
+      "text": "25. Using the school's property such as the school seal without authorization.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8200926157488979,
+        "y": 0.3131886342230694,
+        "width": 0.1799073842511021,
+        "height": 0.04923031106591225
+      },
+      "confidence": 1,
+      "text": "Fourth Offense: Exclusi",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21116065866485645,
+        "y": 0.34416238984424674,
+        "width": 0.07961666584014893,
+        "height": 0.012256615795195103
+      },
+      "confidence": 1,
+      "text": "PENALTY:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2887596935031547,
+        "y": 0.3559570310730251,
+        "width": 0.2887596885363261,
+        "height": 0.013229015283286572
+      },
+      "confidence": 1,
+      "text": "1. First Offense: Two (2) weeks suspension",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28859121132140936,
+        "y": 0.36672226040098077,
+        "width": 0.27748624483744305,
+        "height": 0.01564987376332283
+      },
+      "confidence": 1,
+      "text": "2. Second Offense: Exclusion / Dismissal",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7682458074287551,
+        "y": 0.34086623629221324,
+        "width": 0.1863544384638468,
+        "height": 0.05757275968790054
+      },
+      "confidence": 1,
+      "text": "C. Less Serious Offenses",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7962536216871413,
+        "y": 0.3609466822511288,
+        "width": 0.2037463783128587,
+        "height": 0.05091606825590134
+      },
+      "confidence": 1,
+      "text": "Soliciting money or donatio",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21511628160776083,
+        "y": 0.38953488364568967,
+        "width": 0.14534883697827658,
+        "height": 0.011832303833216429
+      },
+      "confidence": 1,
+      "text": "B. Serious Offenses",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7977704291415177,
+        "y": 0.3744100300587475,
+        "width": 0.20222957085848225,
+        "height": 0.05165243521332741
+      },
+      "confidence": 1,
+      "text": "premises without authorizati",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2151162786635569,
+        "y": 0.40988372085299063,
+        "width": 0.021317829688390105,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23837210277586932,
+        "y": 0.4082031254261932,
+        "width": 0.4844961166381836,
+        "height": 0.01766896713525057
+      },
+      "confidence": 1,
+      "text": "Using obscene language and showing of indecent pictures in and out",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7751937986848126,
+        "y": 0.40552325558930935,
+        "width": 0.011627906312545067,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7983750641171289,
+        "y": 0.3913796937951437,
+        "width": 0.20162493588287111,
+        "height": 0.04634392261505127
+      },
+      "confidence": 1,
+      "text": "Smoking and/or vaping insic",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2538759698627034,
+        "y": 0.4228515626613104,
+        "width": 0.09496123592058814,
+        "height": 0.011741460766643286
+      },
+      "confidence": 1,
+      "text": "of the school.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7771317832159049,
+        "y": 0.43168604704939884,
+        "width": 0.009689922134081597,
+        "height": 0.010174417868256569
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7993023939308154,
+        "y": 0.4071543553440883,
+        "width": 0.20069760606918463,
+        "height": 0.04382997378706932
+      },
+      "confidence": 1,
+      "text": "Littering or scattering piece",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21317829476514327,
+        "y": 0.43750000000996736,
+        "width": 0.019379844268163054,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2558139652353666,
+        "y": 0.4345703125216587,
+        "width": 0.46705424785614014,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "Tearing or obliteration of notices on the bulletin boards, erasing",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7771317831809368,
+        "y": 0.4433139532637279,
+        "width": 0.011627906312545178,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.80126327936136,
+        "y": 0.42229732615231075,
+        "width": 0.19873672063864,
+        "height": 0.04158170521259308
+      },
+      "confidence": 1,
+      "text": "and sticking of chewing gun",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2538759806323229,
+        "y": 0.44767441886455517,
+        "width": 0.4709302186965942,
+        "height": 0.014727924950420856
+      },
+      "confidence": 1,
+      "text": "notices and writings on the board without proper authority as well as",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8033494167823694,
+        "y": 0.43663339075386,
+        "width": 0.19665058321763063,
+        "height": 0.0418165884912014
+      },
+      "confidence": 1,
+      "text": "NOT wearing prescribed u",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9883720931273116,
+        "y": 0.4549418605490674,
+        "width": 0.009689922134081486,
+        "height": 0.011627906933426857
+      },
+      "confidence": 0.5,
+      "text": "V",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2538759818096484,
+        "y": 0.46220930254914816,
+        "width": 0.4709302186965943,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "deleting or adding letters or words so as to change the original",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7790697674249575,
+        "y": 0.46947674415925555,
+        "width": 0.013565891732772117,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "4.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8335122214991522,
+        "y": 0.4600402502919593,
+        "width": 0.11454979578653968,
+        "height": 0.02517889067530632
+      },
+      "confidence": 1,
+      "text": "College-Ladies:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25387597013067864,
+        "y": 0.47819767424646487,
+        "width": 0.06976744035879773,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "meaning.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8081395349233426,
+        "y": 0.47965116296709787,
+        "width": 0.013565891732772117,
+        "height": 0.008720929734408855
+      },
+      "confidence": 1,
+      "text": "a.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8345904047031047,
+        "y": 0.4680232564568262,
+        "width": 0.15310076872507727,
+        "height": 0.03311596438288689
+      },
+      "confidence": 1,
+      "text": "jackets, black shoes.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2131782947246034,
+        "y": 0.49127907002734583,
+        "width": 0.021317829688390105,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2383720871616791,
+        "y": 0.4882812498962742,
+        "width": 0.49031007289886475,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "Defrauding anyone in school by any deceitful means although no",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8081525431409341,
+        "y": 0.4808510226780789,
+        "width": 0.1918474568590659,
+        "height": 0.0341481976211071
+      },
+      "confidence": 1,
+      "text": "b. College-Gentlem",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25360007846541127,
+        "y": 0.4998981348810805,
+        "width": 0.31629461050033564,
+        "height": 0.018369469791650772
+      },
+      "confidence": 1,
+      "text": "damage may have been caused to the other.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8412853932354979,
+        "y": 0.49706006100798206,
+        "width": 0.1582003037134806,
+        "height": 0.025527743622660637
+      },
+      "confidence": 1,
+      "text": "embossed LC seal, na",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21317829511398045,
+        "y": 0.5203488376508922,
+        "width": 0.019379844268163054,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "4.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24407037768555315,
+        "y": 0.5133620119468197,
+        "width": 0.4866385062535603,
+        "height": 0.017587552778422832
+      },
+      "confidence": 1,
+      "text": "Inviting or accompanying outsiders inside the school premises",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8394573709517332,
+        "y": 0.5107848853879173,
+        "width": 0.16051982839902246,
+        "height": 0.02702462114393711
+      },
+      "confidence": 1,
+      "text": "Junior High School-C",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2519379946294986,
+        "y": 0.5317382813423317,
+        "width": 0.17829455931981403,
+        "height": 0.011866369750350714
+      },
+      "confidence": 1,
+      "text": "without official business.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8100775191529938,
+        "y": 0.5305232556147453,
+        "width": 0.013565891732772228,
+        "height": 0.010174418799579144
+      },
+      "confidence": 0.5,
+      "text": "C.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8415566045403318,
+        "y": 0.5243426382853161,
+        "width": 0.15844339545966823,
+        "height": 0.02915908582508564
+      },
+      "confidence": 1,
+      "text": "blue pleated skirt and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2519379951243909,
+        "y": 0.5419921873840083,
+        "width": 0.48062014579772944,
+        "height": 0.017600835300982
+      },
+      "confidence": 1,
+      "text": "Practicing unsanitary or unhygienic habits, such as spitting within the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8436899107534158,
+        "y": 0.540007144852925,
+        "width": 0.15620847543080651,
+        "height": 0.026149279437959194
+      },
+      "confidence": 1,
+      "text": "Senior High School-G",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2538759888148758,
+        "y": 0.5566406248008637,
+        "width": 0.43992245197296137,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "College premises and urinating in places other than the urinals.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8452369063504669,
+        "y": 0.5545158137336605,
+        "width": 0.1542982359727223,
+        "height": 0.024663086980581284
+      },
+      "confidence": 1,
+      "text": "pleated skirt and blac",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21317829490670068,
+        "y": 0.5755813954532814,
+        "width": 0.017441860089699418,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "6.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25359028696608615,
+        "y": 0.5692312902892909,
+        "width": 0.3570316235224406,
+        "height": 0.017654627561569214
+      },
+      "confidence": 1,
+      "text": "Quarreling inside and/or outside school premises.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.813953488304072,
+        "y": 0.5784883721712413,
+        "width": 0.01550387591123581,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "d.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.847642156884271,
+        "y": 0.5700133242111164,
+        "width": 0.14552069703737902,
+        "height": 0.022833451628684998
+      },
+      "confidence": 1,
+      "text": "High School-Boys:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2131782945917782,
+        "y": 0.5886627907758923,
+        "width": 0.017441860089699446,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "7.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24399167471381858,
+        "y": 0.5812551387568898,
+        "width": 0.49265170097351074,
+        "height": 0.021199031732976437
+      },
+      "confidence": 1,
+      "text": "Instigating, causing, and or participating in quarrels, fistfights and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.847714513802169,
+        "y": 0.5837209299852956,
+        "width": 0.1515503923098246,
+        "height": 0.02368684858083725
+      },
+      "confidence": 1,
+      "text": "seal, navy blue pants",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2536201721519011,
+        "y": 0.5961651427777582,
+        "width": 0.4830141067504882,
+        "height": 0.018997284583747387
+      },
+      "confidence": 1,
+      "text": "other similar misbehavior during intramural games or in any place",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8158914734570036,
+        "y": 0.6090116278922982,
+        "width": 0.019379844268163082,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "e.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8498907773181984,
+        "y": 0.5989205761860257,
+        "width": 0.1488381723562876,
+        "height": 0.01982688717544079
+      },
+      "confidence": 1,
+      "text": "Prescribed uniform",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24977247141548312,
+        "y": 0.6132234449009859,
+        "width": 0.279474953810374,
+        "height": 0.01664958894252777
+      },
+      "confidence": 1,
+      "text": "within or near the vicinity of the school.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.85077519359726,
+        "y": 0.614746093729778,
+        "width": 0.14728682239850355,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "Tourism Mgt., and Ps",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21124031022847936,
+        "y": 0.6308139533835688,
+        "width": 0.021317829688390105,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "8.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24971079921590666,
+        "y": 0.6230178511011772,
+        "width": 0.4890108108520508,
+        "height": 0.023513682186603546
+      },
+      "confidence": 1,
+      "text": "Gambling in any form in and within the immediate vicinity of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7922632681178888,
+        "y": 0.6304103747085146,
+        "width": 0.20626111825307203,
+        "height": 0.019461615011096
+      },
+      "confidence": 1,
+      "text": "5. Wearing skirts above the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2500000014756624,
+        "y": 0.6453488371865662,
+        "width": 0.058139532804489136,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "school.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8255813956341943,
+        "y": 0.6468023256946154,
+        "width": 0.17248062292734778,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "Senior HS and College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25000001484052065,
+        "y": 0.6555232562030912,
+        "width": 0.37403098742167157,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "Eating, talking aloud, or creating noise in the library.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24962923081611388,
+        "y": 0.6655275399225267,
+        "width": 0.49675770600636804,
+        "height": 0.024586396291851997
+      },
+      "confidence": 1,
+      "text": "Putting up posters, posting or writing notices on the bulletin boards,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7945736441057102,
+        "y": 0.6611328126530472,
+        "width": 0.20348836978276563,
+        "height": 0.01764625683426857
+      },
+      "confidence": 1,
+      "text": "6. Lending and/or borrowir",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2496768179362078,
+        "y": 0.6798888152688551,
+        "width": 0.49494306246439623,
+        "height": 0.024887530133128166
+      },
+      "confidence": 1,
+      "text": "walls, and other places in the campus without prior approval from the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.826861194640116,
+        "y": 0.6758145005262571,
+        "width": 0.17189190785090125,
+        "height": 0.019896337762475014
+      },
+      "confidence": 1,
+      "text": "Entrance to the campus",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7965116283289277,
+        "y": 0.6904069764576968,
+        "width": 0.023255812625090244,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "7.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8154267695347168,
+        "y": 0.6914189269213629,
+        "width": 0.18310294548670447,
+        "height": 0.019697737880051136
+      },
+      "confidence": 1,
+      "text": "Entering the school pr",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25000000183112475,
+        "y": 0.7034883721029906,
+        "width": 0.056201547384262085,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "school.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21317829495574667,
+        "y": 0.7180232560323292,
+        "width": 0.025193798045317323,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "11.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24975619902355262,
+        "y": 0.7173548215761305,
+        "width": 0.06831706066926319,
+        "height": 0.015871752053499222
+      },
+      "confidence": 1,
+      "text": "Showing",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3272468749347244,
+        "y": 0.7091944101226082,
+        "width": 0.4230116208394369,
+        "height": 0.02160846535116434
+      },
+      "confidence": 1,
+      "text": "socially unacceptable behavior in school programs,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8270118014176084,
+        "y": 0.7073449201821003,
+        "width": 0.17154397567113244,
+        "height": 0.018807499669492245
+      },
+      "confidence": 1,
+      "text": "refusal to present his/ h",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8003875973049565,
+        "y": 0.7194767443086593,
+        "width": 0.0174418600896995,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "8.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24773116161392542,
+        "y": 0.7219229973325232,
+        "width": 0.5027960141499838,
+        "height": 0.028735829517245293
+      },
+      "confidence": 1,
+      "text": "functions, and the like, eg. booing, hissing, shouting and taking",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8244402341928518,
+        "y": 0.7190857017709056,
+        "width": 0.1692047516504923,
+        "height": 0.02571272850036621
+      },
+      "confidence": 1,
+      "text": "Leaving class during",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2500000029426716,
+        "y": 0.7456054687317595,
+        "width": 0.24806201457977295,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "selfies within the program proper.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8278706615759358,
+        "y": 0.7343498146931423,
+        "width": 0.14295182625452685,
+        "height": 0.02507682703435421
+      },
+      "confidence": 1,
+      "text": "instructor/teacher.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.47674418687682363,
+        "y": 0.7790697675099673,
+        "width": 0.0232558126250903,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "22",
+      "verified": false
+    }
+  ]
+}

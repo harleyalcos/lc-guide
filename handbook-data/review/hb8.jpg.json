@@ -1,0 +1,776 @@
+{
+  "file": "hb8.jpg",
+  "imageSha256": "0bbb4dca95a54e7ceffbde1f3f54aa530ebe60ffae979e7f3fa28e0934a5b6ee",
+  "passages": [
+    {
+      "box": {
+        "x": 0.2693798460130363,
+        "y": 0.25436046531690415,
+        "width": 0.023255812625090244,
+        "height": 0.008720929734408855
+      },
+      "confidence": 1,
+      "text": "11.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29263565030246125,
+        "y": 0.23681640670626858,
+        "width": 0.43023256460825604,
+        "height": 0.029296875
+      },
+      "confidence": 1,
+      "text": "The maximum units for cross-enrallment is six (6) units. Board subjects",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8326489009158221,
+        "y": 0.23328650175952292,
+        "width": 0.1673510990841779,
+        "height": 0.03641178086400032
+      },
+      "confidence": 1,
+      "text": "When a student registe",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30232558423400047,
+        "y": 0.250000000065838,
+        "width": 0.4224806229273478,
+        "height": 0.02783203125
+      },
+      "confidence": 1,
+      "text": "are not permitted for cross enrolment. Only minor subjects for board",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30126899622988595,
+        "y": 0.2601529879049965,
+        "width": 0.25342514117558795,
+        "height": 0.02571488544344902
+      },
+      "confidence": 1,
+      "text": "courses are allowed to be cross-enrolled.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8001725984293818,
+        "y": 0.24260062634403035,
+        "width": 0.19982740157061818,
+        "height": 0.046473290771245956
+      },
+      "confidence": 1,
+      "text": "enrolling for the entire schoc",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.800361668225723,
+        "y": 0.2567897471785193,
+        "width": 0.19963833177427703,
+        "height": 0.04339093342423439
+      },
+      "confidence": 1,
+      "text": "for a collegiate course. A sti",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8021193156961055,
+        "y": 0.2657540358889037,
+        "width": 0.1978806843038945,
+        "height": 0.04805395193397999
+      },
+      "confidence": 1,
+      "text": "in writing, within 2 weeks afl",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26356589198993824,
+        "y": 0.29941860467282144,
+        "width": 0.02519379804531735,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "12.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30038759032540147,
+        "y": 0.2861328121546106,
+        "width": 0.42635659376780194,
+        "height": 0.023460211232304573
+      },
+      "confidence": 1,
+      "text": "Summer Classes are only available in courses based on the CHED",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3003875984098614,
+        "y": 0.2978515621107187,
+        "width": 0.42829457918802893,
+        "height": 0.0234375
+      },
+      "confidence": 1,
+      "text": "approved curriculum. Only students in the program are allowed to take",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8053816312747282,
+        "y": 0.2820326504284656,
+        "width": 0.19461836872527183,
+        "height": 0.04058586433529854
+      },
+      "confidence": 1,
+      "text": "paid the pertinent tuition an",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8058058914974193,
+        "y": 0.2907348248627062,
+        "width": 0.19419410850258068,
+        "height": 0.04503428749740124
+      },
+      "confidence": 1,
+      "text": "time longer than one month",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2980169997582778,
+        "y": 0.31884661448397644,
+        "width": 0.1092890202999115,
+        "height": 0.013101756107062101
+      },
+      "confidence": 1,
+      "text": "summer classes.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8077501272865261,
+        "y": 0.3055440448147497,
+        "width": 0.19224987271347393,
+        "height": 0.04103437624871731
+      },
+      "confidence": 1,
+      "text": "the total amount due for th",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9612403116525448,
+        "y": 0.31831395313526456,
+        "width": 0.036821703116099,
+        "height": 0.01615870278328657
+      },
+      "confidence": 1,
+      "text": "or fif",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2627608584741992,
+        "y": 0.3334302307293777,
+        "width": 0.319373905658722,
+        "height": 0.0284749586135149
+      },
+      "confidence": 1,
+      "text": "D. Probationary Status of Transferees",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8097671562500555,
+        "y": 0.32348284080861367,
+        "width": 0.1569210787614187,
+        "height": 0.03324287012219429
+      },
+      "confidence": 1,
+      "text": "first week of classes,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8114715027584761,
+        "y": 0.33163146360273477,
+        "width": 0.18852849724152387,
+        "height": 0.03616931848227978
+      },
+      "confidence": 1,
+      "text": "classes. The student will",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2965116450684362,
+        "y": 0.35595703142881285,
+        "width": 0.4360464811325073,
+        "height": 0.0205078125
+      },
+      "confidence": 1,
+      "text": "All transferees shall be under probationary status once",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8119155241562837,
+        "y": 0.345389346969055,
+        "width": 0.18411564826965332,
+        "height": 0.0351371094584465
+      },
+      "confidence": 1,
+      "text": "withdraws anytime after",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25968993323535167,
+        "y": 0.3706054684687248,
+        "width": 0.4748061895370483,
+        "height": 0.02197265625
+      },
+      "confidence": 1,
+      "text": "admitted as students in the institution. They shall be placed under",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8138733130519112,
+        "y": 0.3576298242918733,
+        "width": 0.18612668694808876,
+        "height": 0.034252461045980453
+      },
+      "confidence": 1,
+      "text": "transfer or withdrawal is (",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26162791598116014,
+        "y": 0.3851744185673084,
+        "width": 0.4709302186965942,
+        "height": 0.019122456200420856
+      },
+      "confidence": 1,
+      "text": "this status for one (1) full academic year. During this period",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8157582335590581,
+        "y": 0.3696674569523647,
+        "width": 0.18424176644094192,
+        "height": 0.03655769303441048
+      },
+      "confidence": 1,
+      "text": "charged the pertinent fe",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25968993143055386,
+        "y": 0.3997093024668099,
+        "width": 0.4767441749572754,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "transferees who obtained failing grades in most of their subjects",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8151996127569724,
+        "y": 0.3840069106846916,
+        "width": 0.1848003872430276,
+        "height": 0.03437662124633789
+      },
+      "confidence": 1,
+      "text": "altendance.\" (Manual of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25968992976764405,
+        "y": 0.41259765584053887,
+        "width": 0.47868216037750244,
+        "height": 0.01908839028328657
+      },
+      "confidence": 1,
+      "text": "and who have violated school rules and regulation shall no longer be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8561970705515,
+        "y": 0.41129520196908986,
+        "width": 0.14380292944850004,
+        "height": 0.029624275863170624
+      },
+      "confidence": 1,
+      "text": "Also, a student wh",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25945917961977655,
+        "y": 0.4299593809113086,
+        "width": 0.26397732893625897,
+        "height": 0.015397758223116398
+      },
+      "confidence": 1,
+      "text": "admitted in the succeeding semester.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8240244086597212,
+        "y": 0.4259601349963411,
+        "width": 0.17585408687591553,
+        "height": 0.028910674154758453
+      },
+      "confidence": 1,
+      "text": "classes shall be charger",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2596899232295384,
+        "y": 0.46220930249258885,
+        "width": 0.058139532804489136,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "E. Fees",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8235980948438973,
+        "y": 0.4511606268771371,
+        "width": 0.17628039916356408,
+        "height": 0.03132646158337593
+      },
+      "confidence": 1,
+      "text": "VIl. Class Attendanc",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2577519360123037,
+        "y": 0.4794921876747059,
+        "width": 0.48449611663818354,
+        "height": 0.017600835300982
+      },
+      "confidence": 1,
+      "text": "1. Tuition fees and other charges are prescribed by the College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8298914240730989,
+        "y": 0.4777959633267823,
+        "width": 0.16989221175511682,
+        "height": 0.029660459607839584
+      },
+      "confidence": 1,
+      "text": "1. A student who h",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29069768828561865,
+        "y": 0.49267578156831116,
+        "width": 0.4534883499145507,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "with the approval of the Department of Education or the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.866911832095337,
+        "y": 0.4929008902244042,
+        "width": 0.13269884387652076,
+        "height": 0.024349329993128777
+      },
+      "confidence": 1,
+      "text": "required total nu",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29263567422893627,
+        "y": 0.507267441761718,
+        "width": 0.4515503644943238,
+        "height": 0.016170058399438858
+      },
+      "confidence": 1,
+      "text": "Commission on Higher Education. Notice of increase in fees is",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8689233305001646,
+        "y": 0.508634783954905,
+        "width": 0.13048770030339552,
+        "height": 0.021342268213629723
+      },
+      "confidence": 1,
+      "text": "term or semester",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29069767934514124,
+        "y": 0.5247093024421379,
+        "width": 0.15697673956553143,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "published in advance.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2519379846542012,
+        "y": 0.5465116280114208,
+        "width": 0.01550387591123581,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2868217163649034,
+        "y": 0.5434570312269047,
+        "width": 0.45930230617523204,
+        "height": 0.017589479684829712
+      },
+      "confidence": 1,
+      "text": "Tuition fees in the Elementary and Junior High School are paid",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8372093029476254,
+        "y": 0.5479651162522787,
+        "width": 0.025193798045317406,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8749920348336655,
+        "y": 0.5356721872117589,
+        "width": 0.12439736723899841,
+        "height": 0.02126871794462204
+      },
+      "confidence": 1,
+      "text": "No student wh",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2829457408750667,
+        "y": 0.5595703123318629,
+        "width": 0.46511626243591314,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "in six (6) installments, while those in Senior High School and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8767575500243563,
+        "y": 0.5504009619479575,
+        "width": 0.1224004328250885,
+        "height": 0.01935645565390587
+      },
+      "confidence": 1,
+      "text": "consecutive da",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2868217214081774,
+        "y": 0.5741279071565824,
+        "width": 0.46317827701568604,
+        "height": 0.016204124316573143
+      },
+      "confidence": 1,
+      "text": "Collegiate courses are paid in five (5) installments per",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8790007486919788,
+        "y": 0.566340536006111,
+        "width": 0.12013963858286547,
+        "height": 0.01776999421417713
+      },
+      "confidence": 1,
+      "text": "instructor conce",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28294574853317017,
+        "y": 0.5886627913702422,
+        "width": 0.4670542478561402,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "semester, with the first installment in all levels and courses paid",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8805439013227168,
+        "y": 0.5791912878400265,
+        "width": 0.11840768655141198,
+        "height": 0.020420322194695473
+      },
+      "confidence": 1,
+      "text": "guardian. The",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.284883721451956,
+        "y": 0.6030273438788745,
+        "width": 0.12403100728988647,
+        "height": 0.01325172558426857
+      },
+      "confidence": 1,
+      "text": "upon enrollment.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8824913144968575,
+        "y": 0.5936447475252168,
+        "width": 0.11673349142074585,
+        "height": 0.019957898184657097
+      },
+      "confidence": 1,
+      "text": "principal, dean",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8824512170542698,
+        "y": 0.6079490776781391,
+        "width": 0.11468858520189917,
+        "height": 0.020188452675938606
+      },
+      "confidence": 1,
+      "text": "sickness for 3",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24612403115871193,
+        "y": 0.62500000015895,
+        "width": 0.021317829688390105,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2769345763062507,
+        "y": 0.6244227539193232,
+        "width": 0.3783202171325683,
+        "height": 0.018912503495812416
+      },
+      "confidence": 1,
+      "text": "Tuition fees during summer classes are paid in full.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8856589173637999,
+        "y": 0.6264534887046714,
+        "width": 0.11240309476852417,
+        "height": 0.014659792650491
+      },
+      "confidence": 1,
+      "text": "certificate coul",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24612403379439352,
+        "y": 0.6540697675789362,
+        "width": 0.5096899271011353,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "4. Tuition fees for Masteral students are paid in four (4) installments",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8527131791777537,
+        "y": 0.6584302325071237,
+        "width": 0.029069766402244568,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8886908979202843,
+        "y": 0.651837007734865,
+        "width": 0.10826293627421057,
+        "height": 0.01882486790418625
+      },
+      "confidence": 1,
+      "text": "A student is",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2790697686344871,
+        "y": 0.6699218750939739,
+        "width": 0.10465116302172339,
+        "height": 0.013217659667134285
+      },
+      "confidence": 1,
+      "text": "per semester.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.891425446088611,
+        "y": 0.668424887396335,
+        "width": 0.10668398936589563,
+        "height": 0.01634790003299713
+      },
+      "confidence": 1,
+      "text": "attendance. t",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8914728663071255,
+        "y": 0.6831054689061782,
+        "width": 0.10658914844195055,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "more than 10",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2790697754953766,
+        "y": 0.699127906740288,
+        "width": 0.4806201457977295,
+        "height": 0.020348837599158287
+      },
+      "confidence": 1,
+      "text": "According to the Manual of Regulations for Private Schools of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8972868241936031,
+        "y": 0.7005813953704958,
+        "width": 0.1007751921812694,
+        "height": 0.011820948217064142
+      },
+      "confidence": 1,
+      "text": "an absence.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23980170265324907,
+        "y": 0.7129073732041633,
+        "width": 0.518329620361328,
+        "height": 0.027214759960770607
+      },
+      "confidence": 1,
+      "text": "2008, a college student may drop from a subject and be entitled to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23837209166438797,
+        "y": 0.728027343944928,
+        "width": 0.5213178396224976,
+        "height": 0.0234375
+      },
+      "confidence": 1,
+      "text": "the corresponding refund only during the first two weeks of the start",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23593276769529892,
+        "y": 0.7435190906217211,
+        "width": 0.5262336730957031,
+        "height": 0.02798200212419033
+      },
+      "confidence": 1,
+      "text": "of the classes of a regular semester. The effective date of dropping,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23393496089248758,
+        "y": 0.7595128789791306,
+        "width": 0.5262370904286703,
+        "height": 0.029560587368905544
+      },
+      "confidence": 1,
+      "text": "as far as refunds and grades are concerned, is the date the dropping",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2316602044229447,
+        "y": 0.7725469764645684,
+        "width": 0.27516827980677294,
+        "height": 0.025860433466732502
+      },
+      "confidence": 1,
+      "text": "form is filed in the Registrar's office.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.4864341087817119,
+        "y": 0.8386627904984663,
+        "width": 0.011627906312545122,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "8",
+      "verified": false
+    }
+  ]
+}

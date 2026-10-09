@@ -1,0 +1,340 @@
+{
+  "file": "hb16.jpg",
+  "label": "16",
+  "imageSha256": "822372dc75c87557c09b36e69a1034c10a44af48586bcf9045aca509a90ddbf0",
+  "left": 0.23947992273389365,
+  "right": 0.790697674605906,
+  "rows": [
+    {
+      "text": "b. The average of the percentage range shall be taken for the",
+      "box": {
+        "height": 0.04093735292553902,
+        "width": 0.4875158071517944,
+        "x": 0.29216208551627715,
+        "y": 0.1510436522055223
+      },
+      "level": 0.1510436522055223
+    },
+    {
+      "text": "numerical equivalent.",
+      "box": {
+        "height": 0.021537667140364647,
+        "width": 0.17964112758636475,
+        "x": 0.31312353693538,
+        "y": 0.16583635449512024
+      },
+      "level": 0.16333225425015208
+    },
+    {
+      "text": "c. Only credited subjects to the program enrolled shall be",
+      "box": {
+        "height": 0.045112451538443565,
+        "width": 0.49264303843180335,
+        "x": 0.28999186938021637,
+        "y": 0.17333225425015208
+      },
+      "level": 0.17333225425015208
+    },
+    {
+      "text": "included in the computation for the general weighted",
+      "box": {
+        "height": 0.047314682975411415,
+        "width": 0.4752060572306315,
+        "x": 0.3094952341563615,
+        "y": 0.18567646155590234
+      },
+      "level": 0.18567646155590234
+    },
+    {
+      "text": "average.",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.07364341119925183,
+        "x": 0.3139534886251803,
+        "y": 0.2165697673472401
+      },
+      "level": 0.2165697673472401
+    },
+    {
+      "text": "d. Transferees with failing grades in their subjects from the",
+      "box": {
+        "height": 0.04397624731063843,
+        "width": 0.4635071754455567,
+        "x": 0.32116170567726404,
+        "y": 0.21654345775886719
+      },
+      "level": 0.21654345775886719
+    },
+    {
+      "text": "previous school/s, even when the students are not in the",
+      "box": {
+        "height": 0.03369140625,
+        "width": 0.47286820411682134,
+        "x": 0.31201551010244205,
+        "y": 0.24121093699548746
+      },
+      "level": 0.24121093699548746
+    },
+    {
+      "text": "enrolled program, shall be disqualified.",
+      "box": {
+        "height": 0.026392722502350807,
+        "width": 0.3170502583185832,
+        "x": 0.3113651509305238,
+        "y": 0.2528351557643217
+      },
+      "level": 0.2617834353090328
+    },
+    {
+      "text": "9. Candidates for honors for college must file for candidacy for",
+      "box": {
+        "height": 0.03677046298980713,
+        "width": 0.4878176848093668,
+        "x": 0.2538759690899135,
+        "y": 0.2730725445166353
+      },
+      "level": 0.2730725445166353
+    },
+    {
+      "text": "honors at the registrar's office.",
+      "box": {
+        "height": 0.02605036459863186,
+        "width": 0.25135978062947595,
+        "x": 0.29382416045277293,
+        "y": 0.2933958627553197
+      },
+      "level": 0.30327315845429026
+    },
+    {
+      "text": "Residency Requirements",
+      "box": {
+        "height": 0.022029433399438858,
+        "width": 0.2344961166381836,
+        "x": 0.2558139596314895,
+        "y": 0.31976744197779206
+      },
+      "level": 0.31976744197779206
+    },
+    {
+      "text": "1. All candidates for the SUMMA CUM LAUDE and MAGNA CUM",
+      "box": {
+        "height": 0.026401253417134285,
+        "width": 0.498062014579773,
+        "x": 0.25581395315483596,
+        "y": 0.3442382814466519
+      },
+      "level": 0.3442382814466519
+    },
+    {
+      "text": "LAUDE must have earned all the required units in the Laguna",
+      "box": {
+        "height": 0.027465001679956913,
+        "width": 0.42517288525899255,
+        "x": 0.36803713209589617,
+        "y": 0.3563909019828745
+      },
+      "level": 0.3563909019828745
+    },
+    {
+      "text": "College. They must finish the course within the prescribed curriculum",
+      "box": {
+        "height": 0.0234375,
+        "width": 0.49806201457977295,
+        "x": 0.2945736480234209,
+        "y": 0.3750000000917669
+      },
+      "level": 0.3750000000917669
+    },
+    {
+      "text": "years otherwise the student will be granted CUM LAUDE.",
+      "box": {
+        "height": 0.021802324801683426,
+        "width": 0.4321705500284831,
+        "x": 0.2926356588197378,
+        "y": 0.38953488407444903
+      },
+      "level": 0.38953488407444903
+    },
+    {
+      "text": "2. A candidate for CUM LAUDE shall have earned at least 75% of all the",
+      "box": {
+        "height": 0.024834467098116875,
+        "width": 0.5042115449905396,
+        "x": 0.25193798486962543,
+        "y": 0.4127226633506128
+      },
+      "level": 0.4127226633506128
+    },
+    {
+      "text": "units required for his or her degree in the Laguna College. He or she",
+      "box": {
+        "height": 0.0205078125,
+        "width": 0.5038759708404541,
+        "x": 0.29263566218959197,
+        "y": 0.4301757808193929
+      },
+      "level": 0.4301757808193929
+    },
+    {
+      "text": "must have finished the course within the prescribed curriculum years.",
+      "box": {
+        "height": 0.020564589649438858,
+        "width": 0.5038759708404541,
+        "x": 0.2906976671960521,
+        "y": 0.444767441810886
+      },
+      "level": 0.444767441810886
+    },
+    {
+      "text": "3. The maximum units for cross-enrollment is six (6) units.",
+      "box": {
+        "height": 0.021802324801683426,
+        "width": 0.5058139562606812,
+        "x": 0.29263566258671353,
+        "y": 0.4680232562764839
+      },
+      "level": 0.4680232562764839
+    },
+    {
+      "text": "Only minor subjects or subjects in non-board courses can",
+      "box": {
+        "height": 0.0205078125,
+        "width": 0.5077519416809082,
+        "x": 0.29263566129778873,
+        "y": 0.48535156271658664
+      },
+      "level": 0.48535156271658664
+    },
+    {
+      "text": "be cross-enrolled.",
+      "box": {
+        "height": 0.01614734809845686,
+        "width": 0.16279069582621258,
+        "x": 0.2906976763601495,
+        "y": 0.5043604648297897
+      },
+      "level": 0.5043604648297897
+    },
+    {
+      "text": "Unit Load Requirements",
+      "box": {
+        "height": 0.017680322751402855,
+        "width": 0.2306201457977295,
+        "x": 0.25000000494997243,
+        "y": 0.5317382815760292
+      },
+      "level": 0.5317382815760292
+    },
+    {
+      "text": "A candidate for honor must have taken at least 75% of the",
+      "box": {
+        "height": 0.017578125,
+        "width": 0.5155038436253865,
+        "x": 0.2887597124896321,
+        "y": 0.5581054687514366
+      },
+      "level": 0.5581054687514366
+    },
+    {
+      "text": "subject load in the institution.",
+      "box": {
+        "height": 0.01744185946881771,
+        "width": 0.2577519416809082,
+        "x": 0.24806201623318933,
+        "y": 0.5770348841900097
+      },
+      "level": 0.5770348841900097
+    },
+    {
+      "text": "If a student is officially allowed to cross-enrol in another college,",
+      "box": {
+        "height": 0.01762354653328657,
+        "width": 0.5232557853062948,
+        "x": 0.2848837417945269,
+        "y": 0.6015624995528664
+      },
+      "level": 0.6015624995528664
+    },
+    {
+      "text": "the subject taken is considered as taken at the Laguna College.",
+      "box": {
+        "height": 0.017578125,
+        "width": 0.536821683247884,
+        "x": 0.24418605733439133,
+        "y": 0.6191406252584674
+      },
+      "level": 0.6191406252584674
+    },
+    {
+      "text": "Completion of Unit Requirements",
+      "box": {
+        "height": 0.01744185946881771,
+        "width": 0.3275193770726522,
+        "x": 0.24418604516845432,
+        "y": 0.6468023261279943
+      },
+      "level": 0.6468023261279943
+    },
+    {
+      "text": "No student shall be conferred honors unless he/she has",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.5251938104629517,
+        "x": 0.28488371867494716,
+        "y": 0.6757812497766096
+      },
+      "level": 0.6757812497766096
+    },
+    {
+      "text": "completed all the required units before the graduation exercises.",
+      "box": {
+        "height": 0.01908839028328657,
+        "width": 0.5465116103490194,
+        "x": 0.24224807625959865,
+        "y": 0.6933139535963782
+      },
+      "level": 0.6933139535963782
+    },
+    {
+      "text": "Deportment",
+      "box": {
+        "height": 0.01997045800089836,
+        "width": 0.12044740716616312,
+        "x": 0.24210187722715162,
+        "y": 0.7189391898351684
+      },
+      "level": 0.7189391898351684
+    },
+    {
+      "text": "Only students of good moral character shall be considered in",
+      "box": {
+        "height": 0.02197265625,
+        "width": 0.5310077269872029,
+        "x": 0.2810077577757785,
+        "y": 0.7470703124315341
+      },
+      "level": 0.7470703124315341
+    },
+    {
+      "text": "determining candidates for honors.",
+      "box": {
+        "height": 0.027442374266684055,
+        "width": 0.3078933358192444,
+        "x": 0.23947992273389365,
+        "y": 0.7635880762355334
+      },
+      "level": 0.7635880762355334
+    },
+    {
+      "text": "16",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.025193798045317406,
+        "x": 0.5251937983998219,
+        "y": 0.8444767443995023
+      },
+      "level": 0.8444767443995023
+    }
+  ],
+  "reviewed": true
+}

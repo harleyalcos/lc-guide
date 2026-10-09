@@ -1,0 +1,776 @@
+{
+  "file": "hb29.jpg",
+  "imageSha256": "ebdbe3f768e6ffd414ce47902be4d3ee00f6933e21d3883c51f31bd4074e54de",
+  "passages": [
+    {
+      "box": {
+        "x": 0,
+        "y": 0.10714840079927768,
+        "width": 0.05246360164737384,
+        "height": 0.0338270366191864
+      },
+      "confidence": 1,
+      "text": "dents",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.0798368400738505,
+        "width": 0.19658220048269293,
+        "height": 0.11908942833542824
+      },
+      "confidence": 1,
+      "text": "vior in Academic Functions",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.049194991130494414,
+        "y": 0.13204382858821884,
+        "width": 0.05202742914358775,
+        "height": 0.03253577649593353
+      },
+      "confidence": 1,
+      "text": "shall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 9.766541510710287e-11,
+        "y": 0.15552325574185377,
+        "width": 0.021317829688390095,
+        "height": 0.015988372266292572
+      },
+      "confidence": 0.5,
+      "text": "ts",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.09836672037002114,
+        "y": 0.15610717485661185,
+        "width": 0.06012792388598123,
+        "height": 0.038458626717329025
+      },
+      "confidence": 1,
+      "text": "refrain",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.11616955609884283,
+        "width": 0.2321090711969531,
+        "height": 0.13969383388757706
+      },
+      "confidence": 1,
+      "text": "using commotion of any kind duhma.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 8.105056186387868e-10,
+        "y": 0.17151162777018825,
+        "width": 0.029069766402244568,
+        "height": 0.020348837599158287
+      },
+      "confidence": 1,
+      "text": "ice.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.012338140731518343,
+        "y": 0.15581899924068754,
+        "width": 0.21728501717249551,
+        "height": 0.12377167493104935
+      },
+      "confidence": 1,
+      "text": "shall refrain from leaving the that",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1803743652751285,
+        "y": 0.2071043701176124,
+        "width": 0.0461334784825643,
+        "height": 0.0384642630815506
+      },
+      "confidence": 1,
+      "text": "making",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.19783045413228528,
+        "width": 0.17979085932294714,
+        "height": 0.09081577509641647
+      },
+      "confidence": 1,
+      "text": "avior in Social Function",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3120155041111693,
+        "y": 0.2340116280470398,
+        "width": 0.011627906312545122,
+        "height": 0.008720929734408855
+      },
+      "confidence": 0.5,
+      "text": "C.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3449612453523975,
+        "y": 0.22802734373219058,
+        "width": 0.3294573624928793,
+        "height": 0.01470521418377757
+      },
+      "confidence": 1,
+      "text": "attempting to communicate with another student,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3120155043543751,
+        "y": 0.25000000024907465,
+        "width": 0.017441860089699446,
+        "height": 0.008720929734408855
+      },
+      "confidence": 1,
+      "text": "d.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.34302325793149474,
+        "y": 0.24560546895262636,
+        "width": 0.3488372166951497,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "caught with an advanced copy of the test questions,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.2179279941918688,
+        "width": 0.22654233525759238,
+        "height": 0.12030360102653503
+      },
+      "confidence": 1,
+      "text": "Il attend social functions in clothing",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3120155042817007,
+        "y": 0.2688953490499467,
+        "width": 0.01744186008969939,
+        "height": 0.008720929734408855
+      },
+      "confidence": 0.5,
+      "text": "e.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3430232623056603,
+        "y": 0.2630813956087412,
+        "width": 0.27906976143519086,
+        "height": 0.014750635717064142
+      },
+      "confidence": 1,
+      "text": "getting another copy of the test question,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31201550395233907,
+        "y": 0.28488372123744676,
+        "width": 0.009689922134081486,
+        "height": 0.008720929734408855
+      },
+      "confidence": 0.5,
+      "text": "f.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3448419144450801,
+        "y": 0.2793933794234683,
+        "width": 0.38207801183064777,
+        "height": 0.014821285381913185
+      },
+      "confidence": 1,
+      "text": "Possessing notes or any material relative to the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.34674042898541146,
+        "y": 0.2906754147961448,
+        "width": 0.38222082455952966,
+        "height": 0.017797616310417652
+      },
+      "confidence": 1,
+      "text": "examination, test or quiz, without authorization,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.2624821366916609,
+        "width": 0.2234636235613486,
+        "height": 0.10536853969097137
+      },
+      "confidence": 1,
+      "text": "all behave properly during socia",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3448157439342438,
+        "y": 0.3021088526127773,
+        "width": 0.31830598910649616,
+        "height": 0.017768247053027153
+      },
+      "confidence": 1,
+      "text": "whether the student actually uses them or not,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.310077519920182,
+        "y": 0.32848837205654235,
+        "width": 0.019379844268163082,
+        "height": 0.011627906933426857
+      },
+      "confidence": 0.5,
+      "text": "g.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.34302326885471773,
+        "y": 0.32267441932082375,
+        "width": 0.38178292910257966,
+        "height": 0.017657611519098282
+      },
+      "confidence": 1,
+      "text": "Deliberately looking at a neighbor's examination paper,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3036977930813334,
+        "width": 0.207669707329865,
+        "height": 0.08858778327703476
+      },
+      "confidence": 1,
+      "text": "of \"gate crash\" a social function.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.310077519920182,
+        "y": 0.3444767443122929,
+        "width": 0.019379844268163082,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "h.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.34302325838732584,
+        "y": 0.34156976778897374,
+        "width": 0.3895348707834879,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "copying from or allowing another to copy from one's",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.34689922647758514,
+        "y": 0.35449218759120216,
+        "width": 0.14922479788462317,
+        "height": 0.011786882299929857
+      },
+      "confidence": 1,
+      "text": "examination papers,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.33984526701284956,
+        "width": 0.18550095297986666,
+        "height": 0.07422611489892006
+      },
+      "confidence": 1,
+      "text": "ior Outside the Campus",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31007751985825105,
+        "y": 0.3779069770397089,
+        "width": 0.017441860089699446,
+        "height": 0.010174417868256569
+      },
+      "confidence": 1,
+      "text": "i.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.34496124240201853,
+        "y": 0.3735351561206226,
+        "width": 0.39147285620371497,
+        "height": 0.01171875
+      },
+      "confidence": 1,
+      "text": "having somebody else take the examination for another",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3468992308299752,
+        "y": 0.38517441876360103,
+        "width": 0.14922479788462323,
+        "height": 0.013263081200420856
+      },
+      "confidence": 1,
+      "text": "(both shall be liable).",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.36436198354846594,
+        "width": 0.22238899376454035,
+        "height": 0.08735643327236176
+      },
+      "confidence": 1,
+      "text": "at all times refrain from commiting",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3449612497888041,
+        "y": 0.4055232557774726,
+        "width": 0.3934108416239421,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "talking with another student without permission from the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.387790696184767,
+        "width": 0.20251938936156347,
+        "height": 0.06787791103124619
+      },
+      "confidence": 1,
+      "text": "lege or reflect dishonor upon it.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3488372113109337,
+        "y": 0.4200581395080928,
+        "width": 0.058139532804489136,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "proctor.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.423150443786082,
+        "width": 0.15703507612686654,
+        "height": 0.05120988376438618
+      },
+      "confidence": 1,
+      "text": "ol Rules / Policies",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31395348889799096,
+        "y": 0.44331395368899706,
+        "width": 0.011627906312545178,
+        "height": 0.008720929734408855
+      },
+      "confidence": 0.5,
+      "text": "K.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.34689923446439414,
+        "y": 0.4360351564001741,
+        "width": 0.3720930020014445,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "Possessing or using of cellular phone during the test.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3468992339549751,
+        "y": 0.45639534892348477,
+        "width": 0.3992247978846231,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "Getting out of the examination room without permission",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3488372178957088,
+        "y": 0.46923828143722957,
+        "width": 0.3972868124643962,
+        "height": 0.013319857884198427
+      },
+      "confidence": 1,
+      "text": "from the proctors or bringing the test paper out of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.34880787331658936,
+        "y": 0.4853512797719267,
+        "width": 0.07951603829860687,
+        "height": 0.011855579912662506
+      },
+      "confidence": 1,
+      "text": "said room.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.47860748996478575,
+        "width": 0.2158839119914818,
+        "height": 0.05794384330511093
+      },
+      "confidence": 1,
+      "text": "s and four summative tests are",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4974721773383427,
+        "width": 0.21361845251277392,
+        "height": 0.0534481406211853
+      },
+      "confidence": 1,
+      "text": "ts and elementary pupils for one",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31007753765999485,
+        "y": 0.5101744184162723,
+        "width": 0.4418604373931884,
+        "height": 0.016192768700420856
+      },
+      "confidence": 1,
+      "text": "Cheating is an act of dishonesty; thus, this is classified as an",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5177325576788258,
+        "width": 0.0752621948562275,
+        "height": 0.027958277612924576
+      },
+      "confidence": 1,
+      "text": "Aid-tem,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2766472070176486,
+        "y": 0.5189452130125216,
+        "width": 0.477534532546997,
+        "height": 0.025349467992782593
+      },
+      "confidence": 1,
+      "text": "act punishable by dismissal or exclusion in accordance with the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.06736589190961446,
+        "y": 0.5258947596795355,
+        "width": 0.14424404501914978,
+        "height": 0.03966690972447395
+      },
+      "confidence": 1,
+      "text": "Semi-final and Final",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2732558278589316,
+        "y": 0.5375976560040563,
+        "width": 0.37403098742167157,
+        "height": 0.01908839028328657
+      },
+      "confidence": 1,
+      "text": "Manual of Regulations for Private Schools of 2008.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.535527352124896,
+        "width": 0.19116721628817634,
+        "height": 0.04161863774061203
+      },
+      "confidence": 1,
+      "text": "ester to the college students.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5644494221167873,
+        "width": 0.2102959204214605,
+        "height": 0.03839022293686867
+      },
+      "confidence": 1,
+      "text": "published at the start of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3081395324517982,
+        "y": 0.5668604658324516,
+        "width": 0.2887596885363261,
+        "height": 0.01761218998581171
+      },
+      "confidence": 1,
+      "text": "B. Issuance of School Credentials",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30778871195046104,
+        "y": 0.5841154670196331,
+        "width": 0.4560555617014567,
+        "height": 0.0221501300111413
+      },
+      "confidence": 1,
+      "text": "Clearance forms for purposes of requesting for TOR, transfer",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2729146197140387,
+        "y": 0.5997558716807525,
+        "width": 0.4947290420532227,
+        "height": 0.023343175649642944
+      },
+      "confidence": 1,
+      "text": "credentials, diploma, certificate of (a) enrollment, (b) graduation,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6113626514360544,
+        "width": 0.206962276613561,
+        "height": 0.031542107462882996
+      },
+      "confidence": 1,
+      "text": "idered prima facie evidence of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2707491659840362,
+        "y": 0.6112625455712883,
+        "width": 0.49515843391418457,
+        "height": 0.027682701125741005
+      },
+      "confidence": 1,
+      "text": "(c) good moral character are available at the Cashier's office",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.632414173837615,
+        "width": 0.20448583340137108,
+        "height": 0.026163993403315544
+      },
+      "confidence": 1,
+      "text": "on for protessors or prociors to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.27090101238980796,
+        "y": 0.6286837261899603,
+        "width": 0.49879686037699383,
+        "height": 0.02412218227982521
+      },
+      "confidence": 1,
+      "text": "counter. The credentials will be issued eighteen (18) working days",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.653876183706587,
+        "width": 0.20391640790749577,
+        "height": 0.017390238121151924
+      },
+      "confidence": 1,
+      "text": "tion room and to assign them a",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26883247746492883,
+        "y": 0.6408264377733152,
+        "width": 0.5029931465784709,
+        "height": 0.02848915569484234
+      },
+      "confidence": 1,
+      "text": "after filing and only after the student is cleared of all his financial",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.669642376050684,
+        "width": 0.15319705963436223,
+        "height": 0.02118036523461342
+      },
+      "confidence": 1,
+      "text": ", test or examination:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26893002001745275,
+        "y": 0.6646002233920527,
+        "width": 0.19862206776936853,
+        "height": 0.020824888721108437
+      },
+      "confidence": 1,
+      "text": "obligations to the college.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.303921299291269,
+        "y": 0.6813232526661792,
+        "width": 0.4736145337422689,
+        "height": 0.025122600607573986
+      },
+      "confidence": 1,
+      "text": "School certifications, TOR, F-137 and Transfer Credential",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6944437775656944,
+        "width": 0.20230162725405065,
+        "height": 0.0225185826420784
+      },
+      "confidence": 1,
+      "text": "nation in connection with the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2689211039265877,
+        "y": 0.6957522406582188,
+        "width": 0.5105677843093872,
+        "height": 0.02581540122628212
+      },
+      "confidence": 1,
+      "text": "cannot be released unless the original high school and/or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2688319052856789,
+        "y": 0.7084409144901994,
+        "width": 0.5107795794804891,
+        "height": 0.032129984349012375
+      },
+      "confidence": 1,
+      "text": "Elementary F-137 or the Transcript of Records of the student from",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26888345072574477,
+        "y": 0.7275077976365714,
+        "width": 0.512611985206604,
+        "height": 0.0273219533264637
+      },
+      "confidence": 1,
+      "text": "a previous school are on file with the records section of the Laguna",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7337516202644778,
+        "width": 0.20360449106371184,
+        "height": 0.033955737948417664
+      },
+      "confidence": 1,
+      "text": "notebooks, or study aids of any.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26937984710683044,
+        "y": 0.7543604649984983,
+        "width": 0.06589146951834357,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5155038766331913,
+        "y": 0.8008720932948511,
+        "width": 0.023255812625090355,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "29",
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,820 @@
+{
+  "file": "hb31.jpg",
+  "imageSha256": "cf71cc9ecfa2adbe4d21b65ee227b612ddd863f651d0c604ebe975bbbc0476b5",
+  "passages": [
+    {
+      "box": {
+        "x": 0,
+        "y": 0.21682839315926117,
+        "width": 0.06642942142116931,
+        "height": 0.02855251543223858
+      },
+      "confidence": 1,
+      "text": "zations",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.23458956902148387,
+        "width": 0.17921108190080778,
+        "height": 0.0596525426954031
+      },
+      "confidence": 1,
+      "text": "ducational, cultural and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.2529166448708501,
+        "width": 0.1242389108981549,
+        "height": 0.04107600636780262
+      },
+      "confidence": 1,
+      "text": "ts is encouraged.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26275035319601453,
+        "y": 0.27576160149039164,
+        "width": 0.22220615545908612,
+        "height": 0.02137154061347246
+      },
+      "confidence": 1,
+      "text": "Membership in Campus Organization",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.2683764193842548,
+        "width": 0.2200744013923094,
+        "height": 0.07250232622027397
+      },
+      "confidence": 1,
+      "text": "us, an organization must be approved.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16666666600049482,
+        "y": 0.2851744178598252,
+        "width": 0.05348837375640869,
+        "height": 0.029651165008544922
+      },
+      "confidence": 1,
+      "text": "scientific",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2887597056386548,
+        "y": 0.296386718818466,
+        "width": 0.37015501658121747,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "A student desiring to be elected in the student council qualifies only",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.2832228655496122,
+        "width": 0.2198929223787376,
+        "height": 0.07109709829092026
+      },
+      "confidence": 1,
+      "text": "inistration. Official recognition may be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3024965818342469,
+        "width": 0.06611946967703063,
+        "height": 0.025906290858983994
+      },
+      "confidence": 1,
+      "text": "cludes:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26236055969474487,
+        "y": 0.3115605502578198,
+        "width": 0.03705804298321402,
+        "height": 0.011911513283848763
+      },
+      "confidence": 1,
+      "text": "when:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29069768920939126,
+        "y": 0.32267441873089764,
+        "width": 0.37015501658121747,
+        "height": 0.013263081200420856
+      },
+      "confidence": 1,
+      "text": "A. The student has enrolled at least 75% of the units required in his",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31007753098956553,
+        "y": 0.33430232560305395,
+        "width": 0.30038758118947345,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "or her program for the semester at the time of election.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3194747297135141,
+        "width": 0.21955946044157224,
+        "height": 0.06431614235043526
+      },
+      "confidence": 1,
+      "text": "en application (with the organizations",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2906976830432055,
+        "y": 0.3486328123252941,
+        "width": 0.3720930020014445,
+        "height": 0.013285791967064142
+      },
+      "confidence": 1,
+      "text": "B. He or she must be of good moral character. The student must not",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3354143919944046,
+        "width": 0.2173239527397207,
+        "height": 0.05862537771463394
+      },
+      "confidence": 1,
+      "text": "s, constitution and by laws, a list of al",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3100775283324988,
+        "y": 0.36035156243117483,
+        "width": 0.18023254474004108,
+        "height": 0.011741460766643286
+      },
+      "confidence": 1,
+      "text": "have violated any school policy.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.35011969673893806,
+        "width": 0.21773825779662484,
+        "height": 0.05566005781292915
+      },
+      "confidence": 1,
+      "text": "es of advisers who must be ful time",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29263567215599906,
+        "y": 0.37645348848864957,
+        "width": 0.25387595097223914,
+        "height": 0.013194948900491
+      },
+      "confidence": 1,
+      "text": "C. He or she must not have any failing grades.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.36533185150560876,
+        "width": 0.2157804255690369,
+        "height": 0.0537300780415535
+      },
+      "confidence": 1,
+      "text": "illiation) to the Campus Organizations",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29021921926959054,
+        "y": 0.39484500984643234,
+        "width": 0.05521080891291297,
+        "height": 0.011037087067961693
+      },
+      "confidence": 1,
+      "text": "Students",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3468992289230513,
+        "y": 0.3938953490378343,
+        "width": 0.20542635520299274,
+        "height": 0.008936682250350714
+      },
+      "confidence": 1,
+      "text": "shall be considered bonafide",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5581395356385208,
+        "y": 0.3938953490499467,
+        "width": 0.10658914844195044,
+        "height": 0.008936682250350714
+      },
+      "confidence": 1,
+      "text": "members of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2655038846799391,
+        "y": 0.4040697675927528,
+        "width": 0.4011627833048503,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "organization/s in their departments when the club/s is/are intended for",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.00663019886143279,
+        "y": 0.40463499161144845,
+        "width": 0.2102126677831014,
+        "height": 0.04429956525564194
+      },
+      "confidence": 1,
+      "text": "by the Campus Organizations",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26550387782609935,
+        "y": 0.4155273436584894,
+        "width": 0.39922479788462323,
+        "height": 0.013251726049929857
+      },
+      "confidence": 1,
+      "text": "students in the respective department, particularly for major-afilliated",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.0038759875166951008,
+        "y": 0.4192331886961269,
+        "width": 0.21207833290100095,
+        "height": 0.0400298535823822
+      },
+      "confidence": 1,
+      "text": "to be submitted to the School",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2655038851177658,
+        "y": 0.42578125010757506,
+        "width": 0.3992247978846232,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "organizations. The student is allowed to withdraw membership from",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2655038836770322,
+        "y": 0.4360351561553797,
+        "width": 0.40116278330485017,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "these types of organizations thru a letter of withdrawal submitted to the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.265503878475099,
+        "y": 0.4505813951605302,
+        "width": 0.0988372067610423,
+        "height": 0.01035610493272543
+      },
+      "confidence": 1,
+      "text": "department dean.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.45789605587128535,
+        "width": 0.15867734127416214,
+        "height": 0.02550201304256916
+      },
+      "confidence": 1,
+      "text": "School Administration.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2926356733174227,
+        "y": 0.4636627907112756,
+        "width": 0.37596897284189856,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "Organizations of general interests can be joined by any enrolled",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26550388635145056,
+        "y": 0.4736328126139904,
+        "width": 0.4011627833048503,
+        "height": 0.014739280100911856
+      },
+      "confidence": 1,
+      "text": "student by signing up for membership during the club's campaign period.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.48776708627136045,
+        "width": 0.21256837846572382,
+        "height": 0.02583077736198902
+      },
+      "confidence": 1,
+      "text": "an organization may be cancelled by",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26550387921484564,
+        "y": 0.4926757814693584,
+        "width": 0.1395348807175954,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "Organization Activities",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5034455787956761,
+        "width": 0.21411287204666996,
+        "height": 0.023639477789402008
+      },
+      "confidence": 1,
+      "text": "nization in question has been found",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29237391345211816,
+        "y": 0.5043270685869939,
+        "width": 0.37833336989084887,
+        "height": 0.016361095942556858
+      },
+      "confidence": 1,
+      "text": "All student organization activities must be sanctioned by the school",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5174584794302427,
+        "width": 0.2158487949527114,
+        "height": 0.022670265287160873
+      },
+      "confidence": 1,
+      "text": "of the school and/or not fulfiling its",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26517641885687926,
+        "y": 0.5154735271177021,
+        "width": 0.4056408007939657,
+        "height": 0.01808167900890112
+      },
+      "confidence": 1,
+      "text": "administration, particularly those which are not listed as a regular or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2651917632113297,
+        "y": 0.5260570264015516,
+        "width": 0.4075241088867188,
+        "height": 0.017822900786995888
+      },
+      "confidence": 1,
+      "text": "annual activity of the organization. Any deviation from the regular",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5346201374131392,
+        "width": 0.21554974124753568,
+        "height": 0.017931679263710976
+      },
+      "confidence": 1,
+      "text": "tion is for one-year period, renewable",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26515318687116335,
+        "y": 0.5394082430067406,
+        "width": 0.2796424428621928,
+        "height": 0.01611124910414219
+      },
+      "confidence": 1,
+      "text": "activities must be cleared first prior to its conduct.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5507812498962742,
+        "width": 0.21317829537993496,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "ear if the organization has been found",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5654069771494389,
+        "width": 0.21124031086749584,
+        "height": 0.014671147800981998
+      },
+      "confidence": 1,
+      "text": "ne rules and regulations of the school.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2941843396203849,
+        "y": 0.5608866820311034,
+        "width": 0.239155113697052,
+        "height": 0.01785939745604992
+      },
+      "confidence": 1,
+      "text": "D. Policy on Educational Field Trips",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5784883721712413,
+        "width": 0.21511628201931207,
+        "height": 0.014773346483707428
+      },
+      "confidence": 1,
+      "text": "dvisers, old and new alike, must be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3895348922357573,
+        "y": 0.5784883721066243,
+        "width": 0.18217053016026818,
+        "height": 0.013308502733707428
+      },
+      "confidence": 1,
+      "text": "Elementary and High School",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5897904975257041,
+        "width": 0.18291900073316483,
+        "height": 0.02228849194943905
+      },
+      "confidence": 1,
+      "text": "1 upon application of renewal.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2650762213752105,
+        "y": 0.5861682538890979,
+        "width": 0.41347221533457446,
+        "height": 0.022816449403762817
+      },
+      "confidence": 1,
+      "text": "(DepEd Order No. 52, S. 2003; Supplemental to DECS Order No. 56,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3521923483159306,
+        "y": 0.5991151968468055,
+        "width": 0.2412704428037008,
+        "height": 0.018177129328250885
+      },
+      "confidence": 1,
+      "text": "s. 2001 & DepEd Order No. 51, s. 2001)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6097889002063119,
+        "width": 0.16553215495829313,
+        "height": 0.024237699806690216
+      },
+      "confidence": 1,
+      "text": "esponsible, and are",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16085271353235983,
+        "y": 0.6103515624231173,
+        "width": 0.052325581510861696,
+        "height": 0.013194948900491
+      },
+      "confidence": 1,
+      "text": "subject to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26550387629842326,
+        "y": 0.6250000001986237,
+        "width": 0.013565890491008759,
+        "height": 0.010174417868256569
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29042126656227935,
+        "y": 0.6145391051465179,
+        "width": 0.38822778065999347,
+        "height": 0.021078222431242466
+      },
+      "confidence": 1,
+      "text": "No field trip should be undertaken without the written consent of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6230083028038084,
+        "width": 0.21447764424477347,
+        "height": 0.02558515965938568
+      },
+      "confidence": 1,
+      "text": "under the principle of command",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.294261579359784,
+        "y": 0.6330518160536848,
+        "width": 0.18850849072138465,
+        "height": 0.013910156674683094
+      },
+      "confidence": 1,
+      "text": "parents, or student's guardians;",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6361567742561511,
+        "width": 0.21631917677963616,
+        "height": 0.026263033971190453
+      },
+      "confidence": 1,
+      "text": "tion of the rules and regulations:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26504858885146776,
+        "y": 0.643761995959907,
+        "width": 0.3515607913335165,
+        "height": 0.022585703060030937
+      },
+      "confidence": 1,
+      "text": "2. Notrips to malls and attendance at noon time TV shows.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6483282434504869,
+        "width": 0.21499952150492732,
+        "height": 0.031068923883140087
+      },
+      "confidence": 1,
+      "text": "eir consent or knowledge, by ther",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2655038762041926,
+        "y": 0.6744186047912257,
+        "width": 0.011627906312545122,
+        "height": 0.008720929734408855
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29233313306771597,
+        "y": 0.6629479802584458,
+        "width": 0.39032987753550213,
+        "height": 0.023643244057893753
+      },
+      "confidence": 1,
+      "text": "The Principal must first secure a written approval from the College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6802325581495023,
+        "width": 0.02131782959225706,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "of.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2961365756632273,
+        "y": 0.6817286312639944,
+        "width": 0.2099821964899699,
+        "height": 0.015460544265806675
+      },
+      "confidence": 1,
+      "text": "President for such educational trips.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.680156942961149,
+        "width": 0.21428731330892004,
+        "height": 0.041000135242938995
+      },
+      "confidence": 1,
+      "text": "ized student organization to comply",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6953566927137815,
+        "width": 0.19819820383114709,
+        "height": 0.03947988897562027
+      },
+      "confidence": 1,
+      "text": "shall be sufficient cause for",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.37726891510545046,
+        "y": 0.7015652941528527,
+        "width": 0.22403699159622192,
+        "height": 0.021292489022016525
+      },
+      "confidence": 1,
+      "text": "College and Graduate Students",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7051329353364679,
+        "width": 0.2165814918936154,
+        "height": 0.047230131924152374
+      },
+      "confidence": 1,
+      "text": "ake appropriate disciplinary action",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3831395201451722,
+        "y": 0.7159444926331379,
+        "width": 0.20277901490529376,
+        "height": 0.02128126472234726
+      },
+      "confidence": 1,
+      "text": "(CHED M.O. No. 17, s. 2012)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7181233435604172,
+        "width": 0.2180622866227198,
+        "height": 0.04931096360087395
+      },
+      "confidence": 1,
+      "text": "ncerned or to withdraw or cancel the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26937984561366873,
+        "y": 0.742732558354992,
+        "width": 0.013565890491008759,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2960679271189446,
+        "y": 0.7315533646614986,
+        "width": 0.390625516573588,
+        "height": 0.024868176318705082
+      },
+      "confidence": 1,
+      "text": "Students must submit a medical clearance before being",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29392122144187743,
+        "y": 0.7442766630090382,
+        "width": 0.3190280000368754,
+        "height": 0.02729368396103382
+      },
+      "confidence": 1,
+      "text": "allowed to join educational tours and/or field trips.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7485465127826163,
+        "width": 0.13014311226873623,
+        "height": 0.03505142778158188
+      },
+      "confidence": 1,
+      "text": "dent organization.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.46899224824705543,
+        "y": 0.7877906977687517,
+        "width": 0.019379844268163027,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "31",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.009689922854121536,
+        "y": 0.8415697677744389,
+        "width": 0.023255812625090286,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "30",
+      "verified": false
+    }
+  ]
+}

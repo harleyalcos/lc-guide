@@ -1,0 +1,330 @@
+{
+  "file": "hb28.jpg",
+  "label": "28",
+  "imageSha256": "e304e9da9f94e66accfb54c796117307152fad77c6457ce5ad10939b55728dba",
+  "left": 0.17829458821211816,
+  "right": 0.7096827697437841,
+  "rows": [
+    {
+      "text": "Article V - Behavior in Academic Functions",
+      "box": {
+        "height": 0.04999334551393986,
+        "width": 0.3606987794240316,
+        "x": 0.29106571925404623,
+        "y": 0.12233957832242282
+      },
+      "level": 0.11839068455732783
+    },
+    {
+      "text": "Section 1. Students shall refrain from making",
+      "box": {
+        "height": 0.06875644624233246,
+        "width": 0.4210198322931925,
+        "x": 0.2868908693257415,
+        "y": 0.13700310712935992
+      },
+      "level": 0.1331392758003693
+    },
+    {
+      "text": "unnecessary noise and causing commotion of any kind during",
+      "box": {
+        "height": 0.07276970148086548,
+        "width": 0.5011907815933228,
+        "x": 0.20811324018162689,
+        "y": 0.1461453628446725
+      },
+      "level": 0.144981294869689
+    },
+    {
+      "text": "academic functions.",
+      "box": {
+        "height": 0.019311346113681793,
+        "width": 0.16057872772216797,
+        "x": 0.2085805884648928,
+        "y": 0.1742582205425114
+      },
+      "level": 0.17319139384162027
+    },
+    {
+      "text": "Section 2. Students shall refrain from leaving the hall",
+      "box": {
+        "height": 0.06446675956249237,
+        "width": 0.4297762314478556,
+        "x": 0.28123231305046925,
+        "y": 0.17932645103533695
+      },
+      "level": 0.17567326819168827
+    },
+    {
+      "text": "during a speech or performance.",
+      "box": {
+        "height": 0.020022299140691757,
+        "width": 0.26082613070805866,
+        "x": 0.20684668974562603,
+        "y": 0.20408370613598725
+      },
+      "level": 0.2030873580399624
+    },
+    {
+      "text": "Article VI - Behavior in Social Function",
+      "box": {
+        "height": 0.04138466343283653,
+        "width": 0.34227200349171955,
+        "x": 0.2953184102733523,
+        "y": 0.22840561031173445
+      },
+      "level": 0.22433483774117538
+    },
+    {
+      "text": "Section 1. Students shall attend social functions in clothing",
+      "box": {
+        "height": 0.06287229061126709,
+        "width": 0.47005041440327955,
+        "x": 0.24061034022977065,
+        "y": 0.24326507358556926
+      },
+      "level": 0.24101358582330443
+    },
+    {
+      "text": "appropriate for the occasion.",
+      "box": {
+        "height": 0.015988372266292572,
+        "width": 0.23062014579772946,
+        "x": 0.20348838049260806,
+        "y": 0.27180232576123353
+      },
+      "level": 0.27094220217873527
+    },
+    {
+      "text": "Section 2. Students shall behave properly during social",
+      "box": {
+        "height": 0.05411820858716965,
+        "width": 0.4746728340784707,
+        "x": 0.23700732664666643,
+        "y": 0.28266118470904433
+      },
+      "level": 0.2805654148931125
+    },
+    {
+      "text": "functions.",
+      "box": {
+        "height": 0.016582615673542023,
+        "width": 0.08474666873613992,
+        "x": 0.1990074545588469,
+        "y": 0.3049394519188392
+      },
+      "level": 0.304200506155411
+    },
+    {
+      "text": "Section 3. Students shall not \"gate crash\" a social function.",
+      "box": {
+        "height": 0.04819530434906483,
+        "width": 0.4510587453842163,
+        "x": 0.23527532851017222,
+        "y": 0.3201953212585158
+      },
+      "level": 0.31817172757158707
+    },
+    {
+      "text": "Article VII - Behavior Outside the Campus",
+      "box": {
+        "height": 0.037517059594392776,
+        "width": 0.37839921315511066,
+        "x": 0.27415332172129375,
+        "y": 0.3564789386876803
+      },
+      "level": 0.3531496170125602
+    },
+    {
+      "text": "Section 1. Students shall at all times refrain from committing",
+      "box": {
+        "height": 0.047024309635162354,
+        "width": 0.47568909327189124,
+        "x": 0.23547590260986517,
+        "y": 0.3765557167290067
+      },
+      "level": 0.374533183761279
+    },
+    {
+      "text": "acts that may embarrass the College or reflect dishonor upon it.",
+      "box": {
+        "height": 0.03840794414281845,
+        "width": 0.4864787658055624,
+        "x": 0.19498048329089865,
+        "y": 0.3936311488915498
+      },
+      "level": 0.3930155633745441
+    },
+    {
+      "text": "XIII. Other School Rules / Policies",
+      "box": {
+        "height": 0.025511708110570908,
+        "width": 0.31156154473622644,
+        "x": 0.3094005405253848,
+        "y": 0.43142123246723507
+      },
+      "level": 0.4269167771135447
+    },
+    {
+      "text": "A. Rules on Examination",
+      "box": {
+        "height": 0.015988372266292572,
+        "width": 0.24612402915954587,
+        "x": 0.1918604677984109,
+        "y": 0.45639534871942844
+      },
+      "level": 0.45593220554433217
+    },
+    {
+      "text": "Four periodic examinations and four summative tests are",
+      "box": {
+        "height": 0.033441971987485886,
+        "width": 0.4763859113057455,
+        "x": 0.23570904152394467,
+        "y": 0.4755775599197367
+      },
+      "level": 0.47358212716265374
+    },
+    {
+      "text": "given to the high school students and elementary pupils for one",
+      "box": {
+        "height": 0.03082462213933468,
+        "width": 0.5225446224212646,
+        "x": 0.18751689529135382,
+        "y": 0.49260721144561015
+      },
+      "level": 0.49226619751705164
+    },
+    {
+      "text": "school year. Preliminary, Mid-term, Semi-final and Final",
+      "box": {
+        "height": 0.02201916743069887,
+        "width": 0.19717917839686072,
+        "x": 0.3365165582609493,
+        "y": 0.510234533732703
+      },
+      "level": 0.5048041534255646
+    },
+    {
+      "text": "examinations are given each semester to the college students.",
+      "box": {
+        "height": 0.026910817250609398,
+        "width": 0.4951248963673909,
+        "x": 0.1857129678453194,
+        "y": 0.5244360594126419
+      },
+      "level": 0.5241615050610428
+    },
+    {
+      "text": "Examination schedules are published at the start of the",
+      "box": {
+        "height": 0.02347613964229822,
+        "width": 0.44261554876963294,
+        "x": 0.2263710539527922,
+        "y": 0.548444854145028
+      },
+      "level": 0.5467865034364848
+    },
+    {
+      "text": "semester or school year.",
+      "box": {
+        "height": 0.01615870278328657,
+        "width": 0.2073643406232198,
+        "x": 0.18410852943645206,
+        "y": 0.5683139533872026
+      },
+      "level": 0.5681154636997973
+    },
+    {
+      "text": "The following acts are considered prima facie evidence of",
+      "box": {
+        "height": 0.02092995122075081,
+        "width": 0.4907989899317423,
+        "x": 0.2226322106562931,
+        "y": 0.5900138950664029
+      },
+      "level": 0.5884913048454659
+    },
+    {
+      "text": "cheating and as such a justification for professors or proctors to",
+      "box": {
+        "height": 0.01904296875,
+        "width": 0.53294571240743,
+        "x": 0.18023257548233143,
+        "y": 0.6074218751011695
+      },
+      "level": 0.6073557116377603
+    },
+    {
+      "text": "send violators out of the examination room and to assign them a",
+      "box": {
+        "height": 0.023647762835025787,
+        "width": 0.5335846741994221,
+        "x": 0.17994885822725668,
+        "y": 0.6213411490144145
+      },
+      "level": 0.621270117992371
+    },
+    {
+      "text": "grade of 70% for that particular quiz, test or examination:",
+      "box": {
+        "height": 0.018895348533988,
+        "width": 0.46317827701568604,
+        "x": 0.17829458821211816,
+        "y": 0.6395348839633839
+      },
+      "level": 0.6395348839633839
+    },
+    {
+      "text": "a. giving or receiving information in connection with the",
+      "box": {
+        "height": 0.01615870278328657,
+        "width": 0.46705424785614,
+        "x": 0.21705426371685146,
+        "y": 0.665527343905819
+      },
+      "level": 0.6631454630611097
+    },
+    {
+      "text": "examination questions,",
+      "box": {
+        "height": 0.017578125,
+        "width": 0.18992247184117633,
+        "x": 0.2558139592344506,
+        "y": 0.6816406254557266
+      },
+      "level": 0.6789940910088907
+    },
+    {
+      "text": "b. using or opening textbooks, notebooks, or study aids of any",
+      "box": {
+        "height": 0.01744185946881771,
+        "width": 0.4631782770156861,
+        "x": 0.2519379894152837,
+        "y": 0.7049418610117152
+      },
+      "level": 0.7024276533305128
+    },
+    {
+      "text": "kind,",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.04069767395655316,
+        "x": 0.2538759695624211,
+        "y": 0.7209302327938187
+      },
+      "level": 0.7183498618923909
+    },
+    {
+      "text": "28",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.025193798045317295,
+        "x": 0.44573643449063044,
+        "y": 0.7848837209983394
+      },
+      "level": 0.775753176601926
+    }
+  ],
+  "reviewed": true
+}

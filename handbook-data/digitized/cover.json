@@ -1,0 +1,52 @@
+{
+  "file": "hb-front.jpg",
+  "label": "cover",
+  "imageSha256": "3513f8869e9a8d1d704bbd5af0ab265a839c40e201e308964a8652c701b0e8c2",
+  "left": 0.07265811033797993,
+  "right": 0.550143701401334,
+  "rows": [
+    {
+      "text": "STUDENT HANDBOOK",
+      "y": 470,
+      "x": 84,
+      "width": 608,
+      "fontSize": 43,
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "text": "(Revised 2023)",
+      "y": 533,
+      "x": 84,
+      "width": 608,
+      "fontSize": 27,
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "text": "THE LAGUNA COLLEGE",
+      "y": 838,
+      "x": 84,
+      "width": 608,
+      "fontSize": 28,
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "text": "CITY OF SAN PABLO",
+      "y": 877,
+      "x": 84,
+      "width": 608,
+      "fontSize": 28,
+      "bold": true,
+      "align": "center"
+    }
+  ],
+  "reviewed": true,
+  "fixedLayout": true,
+  "seal": {
+    "x": 263,
+    "y": 189,
+    "size": 250
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "file": "hb6.jpg",
+  "label": "6",
+  "imageSha256": "a52d82ca8ca16c79abe0ca16b170f77707d5645c3bb41a1d96c4697ddaffbee2",
+  "left": 0.19513894884113592,
+  "right": 0.7096147943147524,
+  "rows": [
+    {
+      "text": "Students with misaligned Senior High school strands to their college",
+      "box": {
+        "height": 0.03505268692970276,
+        "width": 0.4645108381907145,
+        "x": 0.22057874775321284,
+        "y": 0.19350009320607475
+      },
+      "level": 0.19403388363154297
+    },
+    {
+      "text": "courses are advised to take bridging programs. Credit for these programs",
+      "box": {
+        "height": 0.02616279013454914,
+        "width": 0.501937985420227,
+        "x": 0.18410853503536426,
+        "y": 0.21366279122148513
+      },
+      "level": 0.2134400617136374
+    },
+    {
+      "text": "shall be provided thru an assessment by and recommendation of the",
+      "box": {
+        "height": 0.02982061356306076,
+        "width": 0.5044963359832764,
+        "x": 0.18395594353009548,
+        "y": 0.22176981865683332
+      },
+      "level": 0.22155412786868267
+    },
+    {
+      "text": "Dean, the Registrar or faculty-in-charge.",
+      "box": {
+        "height": 0.0205078125,
+        "width": 0.29069767395655316,
+        "x": 0.18604651670389383,
+        "y": 0.23974609360465116
+      },
+      "level": 0.23956249641865918
+    },
+    {
+      "text": "Pupils/students for admission in all levels should apply in person.",
+      "box": {
+        "height": 0.021802324801683426,
+        "width": 0.4534883499145508,
+        "x": 0.21899226368613536,
+        "y": 0.2630813958113676
+      },
+      "level": 0.2635630492805406
+    },
+    {
+      "text": "B. Credentials",
+      "box": {
+        "height": 0.020231577567756176,
+        "width": 0.12791789571444195,
+        "x": 0.18498479213700447,
+        "y": 0.287823420536761
+      },
+      "level": 0.29587027242794806
+    },
+    {
+      "text": "Elementary school graduates must present their F-138.",
+      "box": {
+        "height": 0.020670559257268906,
+        "width": 0.409283717473348,
+        "x": 0.2226120939261036,
+        "y": 0.3079230108694401
+      },
+      "level": 0.3129446525437661
+    },
+    {
+      "text": "Transfer elementary pupils/high school students must present to the",
+      "box": {
+        "height": 0.018895348533988,
+        "width": 0.4767441749572754,
+        "x": 0.22093024207562584,
+        "y": 0.3343023257451184
+      },
+      "level": 0.33482311146993576
+    },
+    {
+      "text": "registering officer their F-138 and certification of good moral character",
+      "box": {
+        "height": 0.02397190034389496,
+        "width": 0.5100884437561035,
+        "x": 0.18770177108980665,
+        "y": 0.3454223773551034
+      },
+      "level": 0.34984193755577003
+    },
+    {
+      "text": "from the Principal of the school where they came from.",
+      "box": {
+        "height": 0.021408462896943092,
+        "width": 0.39210478464762366,
+        "x": 0.18758758375878548,
+        "y": 0.3611383948806728
+      },
+      "level": 0.3666354452577402
+    },
+    {
+      "text": "Junior High School completers and Senior High School Transferees",
+      "box": {
+        "height": 0.023417942225933075,
+        "width": 0.47529029846191406,
+        "x": 0.22449164754553141,
+        "y": 0.3836496302010425
+      },
+      "level": 0.3886952121862915
+    },
+    {
+      "text": "must present to the registering officer their F-138 and a certification of",
+      "box": {
+        "height": 0.020348837599158287,
+        "width": 0.5116279125213623,
+        "x": 0.19186046873931875,
+        "y": 0.3997093020216418
+      },
+      "level": 0.39964310194316566
+    },
+    {
+      "text": "good moral character from the Principal of the school where they came",
+      "box": {
+        "height": 0.027702823281288147,
+        "width": 0.5143894751866658,
+        "x": 0.19129756403651474,
+        "y": 0.40999164365586105
+      },
+      "level": 0.42028822700578067
+    },
+    {
+      "text": "from.",
+      "box": {
+        "height": 0.013467792421579361,
+        "width": 0.04091579218705496,
+        "x": 0.18981342127846315,
+        "y": 0.43730680129574273
+      },
+      "level": 0.4372037371865451
+    },
+    {
+      "text": "College enrollees must present to the registering officer their Senior",
+      "box": {
+        "height": 0.024856158532202244,
+        "width": 0.47751665115356445,
+        "x": 0.23209814316118793,
+        "y": 0.44840568891938215
+      },
+      "level": 0.4585659570254214
+    },
+    {
+      "text": "High School F-138, certificate of good moral character and PSA Birth",
+      "box": {
+        "height": 0.031252630054950714,
+        "width": 0.5165083010991415,
+        "x": 0.19507380911533426,
+        "y": 0.459188954280936
+      },
+      "level": 0.4729458611828191
+    },
+    {
+      "text": "Certificate. Applicants who finished their studies abroad must present an",
+      "box": {
+        "height": 0.02901818510144949,
+        "width": 0.5184236764907838,
+        "x": 0.1931965806654307,
+        "y": 0.4749524424871241
+      },
+      "level": 0.48761410025734897
+    },
+    {
+      "text": "equivalent document with red ribbon indicating completion of equivalent",
+      "box": {
+        "height": 0.029800143092870712,
+        "width": 0.5203800996144613,
+        "x": 0.19513894884113592,
+        "y": 0.48809395734860284
+      },
+      "level": 0.5016888337413473
+    },
+    {
+      "text": "or a higher level of studies.",
+      "box": {
+        "height": 0.02257603034377098,
+        "width": 0.1951342026392619,
+        "x": 0.19299341314507013,
+        "y": 0.5115697665071344
+      },
+      "level": 0.5196123117447135
+    },
+    {
+      "text": "College enrollees transferring from other schools must present to",
+      "box": {
+        "height": 0.027138574980199337,
+        "width": 0.48351848125457764,
+        "x": 0.23394805834080845,
+        "y": 0.5278829038158703
+      },
+      "level": 0.5415998194228342
+    },
+    {
+      "text": "the registering officer their transfer credentials from the school previously",
+      "box": {
+        "height": 0.028395533561706543,
+        "width": 0.5241968631744385,
+        "x": 0.19523942815200593,
+        "y": 0.5426115529628427
+      },
+      "level": 0.5555399486342472
+    },
+    {
+      "text": "attended with a certification of good Moral conduct and behavior from (a)",
+      "box": {
+        "height": 0.030029469169676304,
+        "width": 0.52638312180837,
+        "x": 0.19507539711831937,
+        "y": 0.5563157050268563
+      },
+      "level": 0.5709150112348775
+    },
+    {
+      "text": "their Dean, (b) Guidance Counselor, or (c) School Registrar. A PSA birth",
+      "box": {
+        "height": 0.031141506507992744,
+        "width": 0.5301414330800375,
+        "x": 0.19329857642658443,
+        "y": 0.5708826548892477
+      },
+      "level": 0.5861989099799586
+    },
+    {
+      "text": "certificate also needs to be submitted.",
+      "box": {
+        "height": 0.01904467958956957,
+        "width": 0.27588136990865075,
+        "x": 0.19720983907163867,
+        "y": 0.5934095253419804
+      },
+      "level": 0.6010990796043197
+    },
+    {
+      "text": "Applicants for Graduate Studies must present their transcript of",
+      "box": {
+        "height": 0.028900358825922012,
+        "width": 0.47614971796671557,
+        "x": 0.233918272901014,
+        "y": 0.6117008862653814
+      },
+      "level": 0.6258538016063891
+    },
+    {
+      "text": "records and good moral certificate except when they are alumni of the",
+      "box": {
+        "height": 0.03093844186514616,
+        "width": 0.5262145201365153,
+        "x": 0.19530540423239753,
+        "y": 0.6254862190078025
+      },
+      "level": 0.6419945581888394
+    },
+    {
+      "text": "institution. Transferees must provide their transfer credentials.",
+      "box": {
+        "height": 0.028363903053104877,
+        "width": 0.47759433587392186,
+        "x": 0.19338015258548227,
+        "y": 0.6429495060854014
+      },
+      "level": 0.6546402306953314
+    },
+    {
+      "text": "NOTE: Students who are Baccalaureate degree holders who wish",
+      "box": {
+        "height": 0.025767730548977852,
+        "width": 0.5008352597554525,
+        "x": 0.23406761586775393,
+        "y": 0.6713066667376231
+      },
+      "level": 0.6796993127957025
+    },
+    {
+      "text": "to take another undergraduate course must apply for admission; thus,",
+      "box": {
+        "height": 0.03028099052608013,
+        "width": 0.5416189829508463,
+        "x": 0.19339068327647965,
+        "y": 0.6866408181939028
+      },
+      "level": 0.7000156502204545
+    },
+    {
+      "text": "they will be classified as new students. An original copy of Transcript of",
+      "box": {
+        "height": 0.034887928515672684,
+        "width": 0.5422273874282837,
+        "x": 0.195173025192627,
+        "y": 0.6988601012391698
+      },
+      "level": 0.7138399736916894
+    },
+    {
+      "text": "records and certification of good moral character must be submitted,",
+      "box": {
+        "height": 0.03486049920320511,
+        "width": 0.5419112046559651,
+        "x": 0.19510491047835363,
+        "y": 0.7132100289004356
+      },
+      "level": 0.7294368642194533
+    },
+    {
+      "text": "unless he/she graduated from the Laguna College.",
+      "box": {
+        "height": 0.02252858877182007,
+        "width": 0.38423987229665124,
+        "x": 0.19547976535573733,
+        "y": 0.7388435054169237
+      },
+      "level": 0.744421710270069
+    },
+    {
+      "text": "Applicants seeking admission for the first time at all levels must",
+      "box": {
+        "height": 0.032718388363718987,
+        "width": 0.5090515613555908,
+        "x": 0.23588972046456025,
+        "y": 0.7598717881097474
+      },
+      "level": 0.7740930190774334
+    },
+    {
+      "text": "present a birth certificate from PSA.",
+      "box": {
+        "height": 0.014727924950420856,
+        "width": 0.2693798343340556,
+        "x": 0.19767442661204193,
+        "y": 0.7875976561268845
+      },
+      "level": 0.7876488532737927
+    },
+    {
+      "text": "6",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.013565891732772228,
+        "x": 0.4631782943467922,
+        "y": 0.8299418604750837
+      },
+      "level": 0.8353541933720654
+    }
+  ],
+  "reviewed": true
+}

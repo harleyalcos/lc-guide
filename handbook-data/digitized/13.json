@@ -1,0 +1,330 @@
+{
+  "file": "hb13.jpg",
+  "label": "13",
+  "imageSha256": "f2165415e7f1abf15d9e68e65ff6a7cfcdccb5095043d4facaf7e6b10f8c7fc9",
+  "left": 0.24091372161737437,
+  "right": 0.7808396108036636,
+  "rows": [
+    {
+      "text": "2. Promotion and Retention Policies",
+      "box": {
+        "height": 0.0387318879365921,
+        "width": 0.32407230138778687,
+        "x": 0.24091372161737437,
+        "y": 0.21122045497288977
+      },
+      "level": 0.23317765871873175
+    },
+    {
+      "text": "a. A final grade of 75 or higher in all learning areas in each",
+      "box": {
+        "height": 0.034778159111738205,
+        "width": 0.44771230220794683,
+        "x": 0.2790697675395259,
+        "y": 0.23323741885548777
+      },
+      "level": 0.25647716344845095
+    },
+    {
+      "text": "grade level (Grade 1-12) allows the pupil or student to be",
+      "box": {
+        "height": 0.03717224672436714,
+        "width": 0.43637752532958984,
+        "x": 0.31651463400004154,
+        "y": 0.24684066037263075
+      },
+      "level": 0.2719256199606052
+    },
+    {
+      "text": "promoted to the next grade level.",
+      "box": {
+        "height": 0.029663268476724625,
+        "width": 0.2482053240140279,
+        "x": 0.316459996322165,
+        "y": 0.268944129113877
+      },
+      "level": 0.2860030066250565
+    },
+    {
+      "text": "b. In grades 1 to 5 and grades 7 to 9, a pupil/student who gets",
+      "box": {
+        "height": 0.036308933049440384,
+        "width": 0.4438512325286866,
+        "x": 0.2829457365868487,
+        "y": 0.28943647549003126
+      },
+      "level": 0.31322284290521846
+    },
+    {
+      "text": "a grade below 75 in 3 or more learning areas should be",
+      "box": {
+        "height": 0.03541992977261543,
+        "width": 0.43988033135732013,
+        "x": 0.3188034548154725,
+        "y": 0.3033241958599575
+      },
+      "level": 0.3278346282730004
+    },
+    {
+      "text": "retained in the same grade level.",
+      "box": {
+        "height": 0.025228029116988182,
+        "width": 0.2476549545923869,
+        "x": 0.3168244579487401,
+        "y": 0.32787219271246726
+      },
+      "level": 0.34125239945395214
+    },
+    {
+      "text": "c. In grade 6, a pupil must pass all learning areas to earn the",
+      "box": {
+        "height": 0.03622247092425823,
+        "width": 0.44351168473561603,
+        "x": 0.28875968988409084,
+        "y": 0.3464471393537174
+      },
+      "level": 0.37149215181851497
+    },
+    {
+      "text": "Elementary Certificate and shall be promoted to the Junior",
+      "box": {
+        "height": 0.03535231575369835,
+        "width": 0.44383545716603606,
+        "x": 0.3225861611998578,
+        "y": 0.36080666904318437
+      },
+      "level": 0.3840362113937637
+    },
+    {
+      "text": "High School.",
+      "box": {
+        "height": 0.02354363538324833,
+        "width": 0.1011589566866557,
+        "x": 0.32231944402767754,
+        "y": 0.38962122870287286
+      },
+      "level": 0.40048024170588986
+    },
+    {
+      "text": "d. In grade 10, a student must pass all the learning areas in",
+      "box": {
+        "height": 0.03616157919168472,
+        "width": 0.44352912902832037,
+        "x": 0.29069767452289524,
+        "y": 0.39897648742315495
+      },
+      "level": 0.42402726833509996
+    },
+    {
+      "text": "the to earn the JHS Certificate and be promoted to Senior",
+      "box": {
+        "height": 0.03457429260015488,
+        "width": 0.44572317600250244,
+        "x": 0.32463500221527664,
+        "y": 0.41460411215769166
+      },
+      "level": 0.4375839603559811
+    },
+    {
+      "text": "High School.",
+      "box": {
+        "height": 0.015208911150693893,
+        "width": 0.0993005136648814,
+        "x": 0.32717411678928326,
+        "y": 0.44704169323335696
+      },
+      "level": 0.45067970792123613
+    },
+    {
+      "text": "e. For grades 11 to 12 learners,",
+      "box": {
+        "height": 0.026122694835066795,
+        "width": 0.24953220287958777,
+        "x": 0.2936714876020985,
+        "y": 0.463006214105116
+      },
+      "level": 0.4761875570301033
+    },
+    {
+      "text": "- getting a final grade of at least 75 in all learning areas",
+      "box": {
+        "height": 0.03518257848918438,
+        "width": 0.4473927815755208,
+        "x": 0.32856060623243427,
+        "y": 0.47721098153952857
+      },
+      "level": 0.5014723276120919
+    },
+    {
+      "text": "in a semester will enable students to proceed to the",
+      "box": {
+        "height": 0.030930918641388416,
+        "width": 0.4121907154719035,
+        "x": 0.3656900650936465,
+        "y": 0.4935829310848707
+      },
+      "level": 0.5163955159486631
+    },
+    {
+      "text": "next semester.",
+      "box": {
+        "height": 0.017210330814123154,
+        "width": 0.11370651920636493,
+        "x": 0.36924607381408303,
+        "y": 0.5204774646820958
+      },
+      "level": 0.5315237304290046
+    },
+    {
+      "text": "- failing in a pre-requisite subject in a learning area will",
+      "box": {
+        "height": 0.03303146921098232,
+        "width": 0.41840310891469323,
+        "x": 0.3655651184049147,
+        "y": 0.5329063651712405
+      },
+      "level": 0.5547426231706662
+    },
+    {
+      "text": "require student to take the re-examination for failed",
+      "box": {
+        "height": 0.031878359615802765,
+        "width": 0.4164639314015707,
+        "x": 0.36733450964020653,
+        "y": 0.5478130560104747
+      },
+      "level": 0.5704525209665602
+    },
+    {
+      "text": "competencies in the subject. The student must pass",
+      "box": {
+        "height": 0.030797040089964867,
+        "width": 0.41807182629903156,
+        "x": 0.3693609195770466,
+        "y": 0.5639274667837938
+      },
+      "level": 0.58534000019268
+    },
+    {
+      "text": "this exam to be eligible to enroll in the higher-level",
+      "box": {
+        "height": 0.029177450574934483,
+        "width": 0.4201438029607137,
+        "x": 0.3693941265655509,
+        "y": 0.5793125858453121
+      },
+      "level": 0.5982345525817107
+    },
+    {
+      "text": "subject.",
+      "box": {
+        "height": 0.015641652047634125,
+        "width": 0.06631030142307281,
+        "x": 0.3718836090322668,
+        "y": 0.6084582439244485
+      },
+      "level": 0.6150923115772016
+    },
+    {
+      "text": "- failing in any subject or learning area at the end of the",
+      "box": {
+        "height": 0.03307191655039787,
+        "width": 0.4277977148691813,
+        "x": 0.3637185390451383,
+        "y": 0.6186847309592078
+      },
+      "level": 0.6395500798091467
+    },
+    {
+      "text": "semester should require student to take and pass",
+      "box": {
+        "height": 0.029245643876492977,
+        "width": 0.4200649658838908,
+        "x": 0.37327657361694505,
+        "y": 0.6361150846401236
+      },
+      "level": 0.6551705788272689
+    },
+    {
+      "text": "the re-examination for failed competencies in the",
+      "box": {
+        "height": 0.02824881486594677,
+        "width": 0.42379073301951087,
+        "x": 0.37139034294016815,
+        "y": 0.6513287689118006
+      },
+      "level": 0.668494582901779
+    },
+    {
+      "text": "subjects to be able to enroll in the next semester.",
+      "box": {
+        "height": 0.029429025948047638,
+        "width": 0.42368364334106445,
+        "x": 0.3752157331746728,
+        "y": 0.6665341157214886
+      },
+      "level": 0.6859844761053447
+    },
+    {
+      "text": "Otherwise, the learner must retake the subjects",
+      "box": {
+        "height": 0.03111685998737812,
+        "width": 0.4221024115880331,
+        "x": 0.3772336772347531,
+        "y": 0.6824894900675883
+      },
+      "level": 0.7020558795949454
+    },
+    {
+      "text": "failed.",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.052325581510861696,
+        "x": 0.3759689926263521,
+        "y": 0.7107558141891674
+      },
+      "level": 0.7164517428784226
+    },
+    {
+      "text": "- passing all subjects in Senior High School entitles",
+      "box": {
+        "height": 0.0309808487072587,
+        "width": 0.42419517040252686,
+        "x": 0.37896763993867255,
+        "y": 0.7239984101819148
+      },
+      "level": 0.7439902652123339
+    },
+    {
+      "text": "students to receive the Senior High School",
+      "box": {
+        "height": 0.028438842855393887,
+        "width": 0.4278053442637126,
+        "x": 0.3791278152321575,
+        "y": 0.7395626332806163
+      },
+      "level": 0.7570794720385537
+    },
+    {
+      "text": "Certificate.",
+      "box": {
+        "height": 0.01535049732774496,
+        "width": 0.08937735358874005,
+        "x": 0.3816679134157697,
+        "y": 0.7684875422252393
+      },
+      "level": 0.7744338055651002
+    },
+    {
+      "text": "13",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.023255812625090244,
+        "x": 0.5232558143269898,
+        "y": 0.8270348838152632
+      },
+      "level": 0.8389426043657787
+    }
+  ],
+  "reviewed": true
+}

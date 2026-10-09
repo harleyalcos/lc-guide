@@ -1,0 +1,26 @@
+{
+  "edition": "Demonstration edition",
+  "version": "demo-1",
+  "pages": [
+    { "id": "demo-intro", "label": "1", "title": "A handbook, within reach", "chapter": "Welcome", "isDemo": true, "passages": [
+      { "id": "demo-intro-1", "verified": true, "text": "This is a demonstration of LC:Guide, your student handbook companion. These pages contain illustrative text, not official Laguna College policies. The original handbook scans will replace this demonstration edition." },
+      { "id": "demo-intro-2", "verified": true, "text": "Ask a question in your own words, or turn the pages at your own pace. Every supported response takes you back to the exact passage used to answer your question." }
+    ] },
+    { "id": "demo-attendance", "label": "2", "title": "Attendance & absences", "chapter": "Academic life", "isDemo": true, "passages": [
+      { "id": "demo-attendance-1", "verified": true, "text": "In this illustrative attendance policy, students attend their scheduled classes regularly. When a student is absent, they contact their instructor about missed lessons and class activities." },
+      { "id": "demo-attendance-2", "verified": true, "text": "This demonstration does not specify an absence limit, an excused absence procedure, or a penalty for being late. Those details must come from the actual student handbook." }
+    ] },
+    { "id": "demo-conduct", "label": "3", "title": "Respect for our community", "chapter": "Student conduct", "isDemo": true, "passages": [
+      { "id": "demo-conduct-1", "verified": true, "text": "In this illustrative school conduct policy, students treat classmates, faculty, and staff with respect. Students take care of school property and help keep shared spaces clean." },
+      { "id": "demo-conduct-2", "verified": true, "text": "Specific school rules, disciplinary procedures, prohibited conduct, and sanctions are not provided in this demonstration. Consult the original handbook for official regulations." }
+    ] },
+    { "id": "demo-responsibilities", "label": "4", "title": "Being a responsible student", "chapter": "Student responsibilities", "isDemo": true, "passages": [
+      { "id": "demo-responsibilities-1", "verified": true, "text": "In this illustrative student responsibilities section, students complete academic work honestly, keep track of their learning requirements, and read school announcements." },
+      { "id": "demo-responsibilities-2", "verified": true, "text": "Students ask their instructors for clarification when they need help understanding an assignment. Official student rights, obligations, and responsibilities will be taken from the original handbook." }
+    ] },
+    { "id": "demo-library", "label": "5", "title": "A place for learning", "chapter": "Library", "isDemo": true, "passages": [
+      { "id": "demo-library-1", "verified": true, "text": "In this illustrative library section, students use books and other learning resources with care. Students respect others who are reading and studying in the library." },
+      { "id": "demo-library-2", "verified": true, "text": "Library opening hours, borrowing limits, book return dates, and overdue fees are not specified in this demonstration." }
+    ] }
+  ]
+}

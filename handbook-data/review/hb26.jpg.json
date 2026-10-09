@@ -1,0 +1,787 @@
+{
+  "file": "hb26.jpg",
+  "imageSha256": "cc1c74bf359a7cc7ecbf2eae296ed96fd6ae5b34c30755887d5e876901e36461",
+  "passages": [
+    {
+      "box": {
+        "x": 0.8684555727185487,
+        "y": 0.07300983582134102,
+        "width": 0.13154442728145133,
+        "height": 0.0680008977651596
+      },
+      "confidence": 1,
+      "text": "Article III - Be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16165121584806963,
+        "y": 0.1147479259671631,
+        "width": 0.435762882232666,
+        "height": 0.05000374838709831
+      },
+      "confidence": 1,
+      "text": "indecent or lewd words or figures or any form of graffiti.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19812109143904535,
+        "y": 0.08842899897996026,
+        "width": 0.5062335332234701,
+        "height": 0.09437553957104683
+      },
+      "confidence": 1,
+      "text": "Section 5. Students shall not write or draw on blackboards and walls:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7771275562112471,
+        "y": 0.09789969655320108,
+        "width": 0.22287244378875293,
+        "height": 0.1046733558177948
+      },
+      "confidence": 1,
+      "text": "Rules and regulations gove",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19753045605890515,
+        "y": 0.12188657267810976,
+        "width": 0.48093934853871656,
+        "height": 0.08440869674086571
+      },
+      "confidence": 1,
+      "text": "Section 6, Students shall not damage any propty the Colage.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7476060264829765,
+        "y": 0.11367888378020774,
+        "width": 0.25239397351702353,
+        "height": 0.11498652026057243
+      },
+      "confidence": 1,
+      "text": "followed. The following rules an",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19581986749877953,
+        "y": 0.14542518114623038,
+        "width": 0.5157273213068644,
+        "height": 0.08980022370815277
+      },
+      "confidence": 1,
+      "text": "Section 7. Students shall hot bring into the College premises deadly",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1569767458546957,
+        "y": 0.1962209304386746,
+        "width": 0.31007750829060876,
+        "height": 0.01911110058426857
+      },
+      "confidence": 1,
+      "text": "such weapons shall aggravate the act.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1574685281457897,
+        "y": 0.1587350780784863,
+        "width": 0.5538529157638549,
+        "height": 0.08780829608440399
+      },
+      "confidence": 1,
+      "text": "weapons of any kind, whether concealed or openly. The use of threat to use",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8136987617329527,
+        "y": 0.15645225039802835,
+        "width": 0.18630123826704725,
+        "height": 0.0817338079214096
+      },
+      "confidence": 1,
+      "text": "Silence must be obser",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7525596067070802,
+        "y": 0.1859642382468526,
+        "width": 0.11318926016489661,
+        "height": 0.05697399936616421
+      },
+      "confidence": 1,
+      "text": "College library:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8110825858510692,
+        "y": 0.1867160232782319,
+        "width": 0.18124775091807044,
+        "height": 0.07354989647865295
+      },
+      "confidence": 1,
+      "text": "The main library is",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.15435772549033366,
+        "y": 0.22326145813319487,
+        "width": 0.44027201334635413,
+        "height": 0.04178418591618538
+      },
+      "confidence": 1,
+      "text": "unauthorized organization operating within the College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19233071703527216,
+        "y": 0.1961430179184871,
+        "width": 0.5204256772994995,
+        "height": 0.08383999019861221
+      },
+      "confidence": 1,
+      "text": "Section 8. Students shall not affillate knowingly or unknowingly with any",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.784166879191198,
+        "y": 0.20203218661975963,
+        "width": 0.21583312080880201,
+        "height": 0.079203762114048
+      },
+      "confidence": 1,
+      "text": "2. students may gain ac",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7887596903282122,
+        "y": 0.235465116228054,
+        "width": 0.0174418600896995,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8166368202231636,
+        "y": 0.21576954489941558,
+        "width": 0.18336317977683636,
+        "height": 0.07648840546607971
+      },
+      "confidence": 1,
+      "text": "properly return them t",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.15310078014401873,
+        "y": 0.26744186074524234,
+        "width": 0.2693798343340556,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "acts within the College premises.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19029281846654675,
+        "y": 0.23416840108150205,
+        "width": 0.5238552490870158,
+        "height": 0.07790333777666092
+      },
+      "confidence": 1,
+      "text": "Section 9. Students shall not commit any form of littering or unsanitary",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8191660021040478,
+        "y": 0.23581595538195632,
+        "width": 0.18083399789595223,
+        "height": 0.06956696510314941
+      },
+      "confidence": 1,
+      "text": "Avoid hiding books sc",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18917056550579145,
+        "y": 0.2852039939642046,
+        "width": 0.370245615641276,
+        "height": 0.0334645826369524
+      },
+      "confidence": 1,
+      "text": "Section 10. Students shall not disturb classes.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8226787865211428,
+        "y": 0.2617739096902387,
+        "width": 0.1773212134788572,
+        "height": 0.06491108983755112
+      },
+      "confidence": 1,
+      "text": "Readers must show",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8233264302036668,
+        "y": 0.2776389231414782,
+        "width": 0.1766735697963332,
+        "height": 0.06727586686611176
+      },
+      "confidence": 1,
+      "text": "cards upon borrowir",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18672847285394148,
+        "y": 0.2990825167130332,
+        "width": 0.5296652714411418,
+        "height": 0.06509516388177872
+      },
+      "confidence": 1,
+      "text": "Section 11. Students shall follow all College rules and regulations",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7945736437439099,
+        "y": 0.3212209303370023,
+        "width": 0.01744186008969939,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8234439876531656,
+        "y": 0.298952700283003,
+        "width": 0.17655601234683438,
+        "height": 0.06086931377649307
+      },
+      "confidence": 1,
+      "text": "Visiting researchers",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.14817386145797543,
+        "y": 0.318211450267612,
+        "width": 0.5539058049519856,
+        "height": 0.05582769401371479
+      },
+      "confidence": 1,
+      "text": "governing them during emergencies, such as fire, earthquakes, flood, etc.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8268873114901781,
+        "y": 0.31506261080919185,
+        "width": 0.17311268850982187,
+        "height": 0.06104203686118126
+      },
+      "confidence": 1,
+      "text": "must register with th",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8298476395148183,
+        "y": 0.34225160104850205,
+        "width": 0.17015236048518168,
+        "height": 0.05482449010014534
+      },
+      "confidence": 1,
+      "text": "For those with circu",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8287991699538816,
+        "y": 0.3620557240542217,
+        "width": 0.1712008300461184,
+        "height": 0.05166740156710148
+      },
+      "confidence": 1,
+      "text": "for one week. Rene",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8003875971294843,
+        "y": 0.38808139510231887,
+        "width": 0.019379844268163082,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "4.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18694904333126758,
+        "y": 0.3801447156777771,
+        "width": 0.5321978330612183,
+        "height": 0.05212215334177017
+      },
+      "confidence": 1,
+      "text": "Section 13. Students shall refrain from demonstrating amorous",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8326233972437164,
+        "y": 0.3979979962582123,
+        "width": 0.08105409145355225,
+        "height": 0.03175816312432289
+      },
+      "confidence": 1,
+      "text": "demand.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1446059622395237,
+        "y": 0.3977135893299444,
+        "width": 0.574167529741923,
+        "height": 0.048904020339250565
+      },
+      "confidence": 1,
+      "text": "affection and any other improper acts unbecoming of LC students inside or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.14534883785190197,
+        "y": 0.42578125022827795,
+        "width": 0.1686046520868937,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "outside the campus.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8365615960669187,
+        "y": 0.41125624427981533,
+        "width": 0.15213434894879663,
+        "height": 0.041522733867168427
+      },
+      "confidence": 1,
+      "text": "Reserve books,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8062015508956343,
+        "y": 0.44476744209614427,
+        "width": 0.019379844268163082,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "5.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8371112728636826,
+        "y": 0.4273209852877692,
+        "width": 0.1628887271363174,
+        "height": 0.04580250009894371
+      },
+      "confidence": 1,
+      "text": "accompanying rea",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18539913222697066,
+        "y": 0.43855674943754686,
+        "width": 0.5350894927978516,
+        "height": 0.0428995992988348
+      },
+      "confidence": 1,
+      "text": "Section 14. Students shall not take out from the premises of the school",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8375813910175941,
+        "y": 0.44631395193073353,
+        "width": 0.1624186089824059,
+        "height": 0.04136046580970287
+      },
+      "confidence": 1,
+      "text": "in the reading ro",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.14281990279507442,
+        "y": 0.45663645243228057,
+        "width": 0.5792274872461955,
+        "height": 0.03926046937704086
+      },
+      "confidence": 1,
+      "text": "any property owned by the school or its members without proper permission.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.840971841299039,
+        "y": 0.46496355204937856,
+        "width": 0.159028158700961,
+        "height": 0.039270833134651184
+      },
+      "confidence": 1,
+      "text": "shelves in the Res",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18410854314656447,
+        "y": 0.48828125002252065,
+        "width": 0.5387596686681112,
+        "height": 0.02783203125
+      },
+      "confidence": 1,
+      "text": "Section 15. Students shall only record classes upon prior permission",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8426141120282393,
+        "y": 0.48559629409163296,
+        "width": 0.1553932329018911,
+        "height": 0.03854145109653473
+      },
+      "confidence": 1,
+      "text": "being signed out.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13912322876113623,
+        "y": 0.49691186032226775,
+        "width": 0.5846280256907145,
+        "height": 0.035286396741867065
+      },
+      "confidence": 1,
+      "text": "from their teachers. Teachers likewise must inform students that classes are",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13949719937883676,
+        "y": 0.5216798140597172,
+        "width": 0.08340870340665182,
+        "height": 0.01477990671992302
+      },
+      "confidence": 1,
+      "text": "recorded.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.846305508702485,
+        "y": 0.5060239964903355,
+        "width": 0.14635702967643738,
+        "height": 0.03213637322187424
+      },
+      "confidence": 1,
+      "text": "Close-Reserves",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8465119009594068,
+        "y": 0.5254773058905876,
+        "width": 0.15348809904059324,
+        "height": 0.030718011781573296
+      },
+      "confidence": 1,
+      "text": "courses are char",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30232558961181644,
+        "y": 0.5434570312269047,
+        "width": 0.30232556660970056,
+        "height": 0.017589479684829712
+      },
+      "confidence": 1,
+      "text": "Article II - Behavior in Classroom",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8485092328342624,
+        "y": 0.5436717339998187,
+        "width": 0.15146095554033912,
+        "height": 0.029695887118577957
+      },
+      "confidence": 1,
+      "text": "one to two hou",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.17796125245462488,
+        "y": 0.5648033252685176,
+        "width": 0.5492916107177734,
+        "height": 0.028403189033269882
+      },
+      "confidence": 1,
+      "text": "Section 1. Students shall attend their classes regularly and punctually.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8510453386457586,
+        "y": 0.5645057818956589,
+        "width": 0.14863132437070214,
+        "height": 0.02739332988858223
+      },
+      "confidence": 1,
+      "text": "overnight may b",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13550353135753243,
+        "y": 0.584497337400958,
+        "width": 0.5934079885482788,
+        "height": 0.021694805473089218
+      },
+      "confidence": 1,
+      "text": "Tardiness of more than ten minutes without justifiable reason shall be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8511195532221659,
+        "y": 0.5836880513132578,
+        "width": 0.14843834439913428,
+        "height": 0.025003109127283096
+      },
+      "confidence": 1,
+      "text": "returned at 9:001",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13565891798958885,
+        "y": 0.6044921876840987,
+        "width": 0.20542635520299274,
+        "height": 0.014693858567625284
+      },
+      "confidence": 1,
+      "text": "considered an absence.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9105167849127026,
+        "y": 0.6201689420784178,
+        "width": 0.08796417713165283,
+        "height": 0.015641387552022934
+      },
+      "confidence": 1,
+      "text": "Article N",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.17441861763457642,
+        "y": 0.6293604650114758,
+        "width": 0.5581395228703816,
+        "height": 0.016147347167134285
+      },
+      "confidence": 1,
+      "text": "Section 2. Students shall rise when called upon to recite or when",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13178294727614046,
+        "y": 0.6468023260795446,
+        "width": 0.3449612458546957,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "propounding questions to the professor.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8217054239332825,
+        "y": 0.6497093029690795,
+        "width": 0.176356593767802,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "Section 1. Students",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.17248062103234427,
+        "y": 0.6713867185627704,
+        "width": 0.5600775082906086,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "Section 3. Students shall leave the room quietly and in an orderly",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.790697675836646,
+        "y": 0.6684570313345812,
+        "width": 0.20736434062321984,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "the corridors during class",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.12975925582343306,
+        "y": 0.6888786416350207,
+        "width": 0.5409104426701864,
+        "height": 0.020342761650681496
+      },
+      "confidence": 1,
+      "text": "manner and see to it that respective chairs are properly arranged.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8236434106985632,
+        "y": 0.687500000456621,
+        "width": 0.17248062292734778,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "Section 2. Students",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7936570328098794,
+        "y": 0.7015921722880185,
+        "width": 0.2018355131149292,
+        "height": 0.026671488769352436
+      },
+      "confidence": 1,
+      "text": "corridors and stairways.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.17034927827082477,
+        "y": 0.7105280478870402,
+        "width": 0.5664327939351399,
+        "height": 0.027467995882034302
+      },
+      "confidence": 1,
+      "text": "Section 4. Students waiting to occupy a classroom shall enter only after",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.12749931106717946,
+        "y": 0.7323372634826617,
+        "width": 0.312795360883077,
+        "height": 0.022188201546669006
+      },
+      "confidence": 1,
+      "text": "the outgoing class has left the room.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16833520787407905,
+        "y": 0.7512767271736485,
+        "width": 0.5725080172220866,
+        "height": 0.03205334395170212
+      },
+      "confidence": 1,
+      "text": "Section 5. Students may leave the classroom only upon permision of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.12458257870732332,
+        "y": 0.7739060112994396,
+        "width": 0.12295538187026979,
+        "height": 0.023126807995140553
+      },
+      "confidence": 1,
+      "text": "the professor.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1686046606938206,
+        "y": 0.7832031246834352,
+        "width": 0.571705420811971,
+        "height": 0.03076171875
+      },
+      "confidence": 1,
+      "text": "Section 6. Students shall not cheat or commit any form of dishonesty in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.12331417190532241,
+        "y": 0.8084318162102782,
+        "width": 0.22454055150349939,
+        "height": 0.024762259796261787
+      },
+      "confidence": 1,
+      "text": "relation with their studies.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.4302325585131715,
+        "y": 0.8473837211174622,
+        "width": 0.03682170559962594,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "26",
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,699 @@
+{
+  "file": "hb5.jpg",
+  "imageSha256": "da780cc2e3a0bd512c28e07ddf945368090e047a3960402f27f9db69ade5f8e5",
+  "passages": [
+    {
+      "box": {
+        "x": 0.26118148814900627,
+        "y": 0.2443948206587524,
+        "width": 0.39815763632456463,
+        "height": 0.02227972075343132
+      },
+      "confidence": 1,
+      "text": "2.3. Pupils/Students who cannot abide by the rules and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2939597969088774,
+        "y": 0.25977322958954563,
+        "width": 0.18896665175755817,
+        "height": 0.01873750425875187
+      },
+      "confidence": 1,
+      "text": "regulations of the school.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26313790338453025,
+        "y": 0.2684009469919414,
+        "width": 0.4485917091369629,
+        "height": 0.02440863475203514
+      },
+      "confidence": 1,
+      "text": "2.4. Pupils/Students whose attitudes, conduct and behavior",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.2815988372405145,
+        "width": 0.08337209027024933,
+        "height": 0.0221220925450325
+      },
+      "confidence": 1,
+      "text": "urriculum",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29586106843269916,
+        "y": 0.277224079366588,
+        "width": 0.4197614192962646,
+        "height": 0.028980348259210587
+      },
+      "confidence": 1,
+      "text": "tend to undermine the orderly processes and are not",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29785849070717885,
+        "y": 0.2938565546572326,
+        "width": 0.3498212893803915,
+        "height": 0.023545504547655582
+      },
+      "confidence": 1,
+      "text": "conducive to the promotion of the general welfare.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2668286532190381,
+        "y": 0.30481758446456,
+        "width": 0.45277027289072674,
+        "height": 0.026873472146689892
+      },
+      "confidence": 1,
+      "text": "Students who have been convicted by a competent court of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22674418656358164,
+        "y": 0.3212209304561249,
+        "width": 0.02519379804531735,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30163577531388697,
+        "y": 0.3186838211946188,
+        "width": 0.3343503077824911,
+        "height": 0.024573927745223045
+      },
+      "confidence": 1,
+      "text": "crimes of violence or involving moral turpitude.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22786915436204894,
+        "y": 0.3303648517892688,
+        "width": 0.4917396306991577,
+        "height": 0.03220035880804062
+      },
+      "confidence": 1,
+      "text": "4. Pupils/Students who have poor scholastic records especially",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2648819560970989,
+        "y": 0.3426599422289006,
+        "width": 0.4567519823710124,
+        "height": 0.029554108157753944
+      },
+      "confidence": 1,
+      "text": "those who in the previous term/year failed in 50% of all",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2666905346040462,
+        "y": 0.3629025053127668,
+        "width": 0.2571496566136678,
+        "height": 0.023394452407956123
+      },
+      "confidence": 1,
+      "text": "registered units and/or dropped",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5398839535463088,
+        "y": 0.3561889711860169,
+        "width": 0.18376052379608154,
+        "height": 0.021099669858813286
+      },
+      "confidence": 1,
+      "text": "majority of the subjects",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3846631648001777,
+        "width": 0.1274570322798623,
+        "height": 0.02166438102722168
+      },
+      "confidence": 1,
+      "text": "ictory academic",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26644875490915015,
+        "y": 0.3767007921241553,
+        "width": 0.2091754277547201,
+        "height": 0.02518437895923853
+      },
+      "confidence": 1,
+      "text": "without justifiable reasons.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.27061478114729914,
+        "y": 0.38161315460410494,
+        "width": 0.45686499277750653,
+        "height": 0.03228119947016239
+      },
+      "confidence": 1,
+      "text": "Transfer Pupils/Students who fail in or drop any subject or who",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3980294504449794,
+        "width": 0.12723980346450703,
+        "height": 0.02095644548535347
+      },
+      "confidence": 1,
+      "text": "hould pass the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23255813968762387,
+        "y": 0.4026162792832232,
+        "width": 0.019379844268163054,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "5.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.27069544338371787,
+        "y": 0.394319765429207,
+        "width": 0.46061762173970533,
+        "height": 0.03490376099944115
+      },
+      "confidence": 1,
+      "text": "violated any school rules and regulations during the probation",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4133746690750615,
+        "width": 0.12717268543707835,
+        "height": 0.02035341039299965
+      },
+      "confidence": 1,
+      "text": "e level he/she is",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.42810452151957223,
+        "width": 0.12872071666852644,
+        "height": 0.018798986449837685
+      },
+      "confidence": 1,
+      "text": "and facilities of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.27519380065379917,
+        "y": 0.4287790698537174,
+        "width": 0.056201547384262085,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "period.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.27611603779723976,
+        "y": 0.4275060159701576,
+        "width": 0.46114671230316157,
+        "height": 0.033590614795684814
+      },
+      "confidence": 1,
+      "text": "Students from other countries, if enrolling for the first time, shall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4416760101961994,
+        "width": 0.12906780110901864,
+        "height": 0.021662143990397453
+      },
+      "confidence": 1,
+      "text": "the DepEd age",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23930164413160573,
+        "y": 0.44093036488310133,
+        "width": 0.49977179368337,
+        "height": 0.03752372972667217
+      },
+      "confidence": 1,
+      "text": "submit a study permit (student visa) from the Bureau of Immigration",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24127336392519746,
+        "y": 0.4600373823069259,
+        "width": 0.37578606605529785,
+        "height": 0.031251367181539536
+      },
+      "confidence": 1,
+      "text": "and all other scholastic records valid for enrolment.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.4332081817632533e-10,
+        "y": 0.48535156254303,
+        "width": 0.12984496355056763,
+        "height": 0.013194948900491
+      },
+      "confidence": 1,
+      "text": "na College and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2800535099716077,
+        "y": 0.47365275614912106,
+        "width": 0.4688053528467814,
+        "height": 0.037960395216941833
+      },
+      "confidence": 1,
+      "text": "Cross-enrollees may be permitted only upon recommendation",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5014534884402,
+        "width": 0.12984496332290285,
+        "height": 0.013194948900491
+      },
+      "confidence": 1,
+      "text": "y the rules and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24322288344891954,
+        "y": 0.48524931239595215,
+        "width": 0.5115580161412558,
+        "height": 0.04493950307369232
+      },
+      "confidence": 1,
+      "text": "by the screening committee for admissions and upon presentation of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 4.4480646480919246e-9,
+        "y": 0.5159883723044776,
+        "width": 0.13178293903668722,
+        "height": 0.014773346483707428
+      },
+      "confidence": 1,
+      "text": "n policies set by",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24273412700256566,
+        "y": 0.5056078725547251,
+        "width": 0.4111241102218628,
+        "height": 0.040301570668816566
+      },
+      "confidence": 1,
+      "text": "a valid permit to cross-enroll by their original institution.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 2.7297184235219873e-9,
+        "y": 0.5305232562192063,
+        "width": 0.1317829390366872,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "se qualifications",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28370951743408157,
+        "y": 0.5208276323694543,
+        "width": 0.47486321131388354,
+        "height": 0.040654927492141724
+      },
+      "confidence": 1,
+      "text": "All transferees/second coursers shall be subject to an interview",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 4.6677028816185145e-9,
+        "y": 0.5449218750031308,
+        "width": 0.13178293903668722,
+        "height": 0.013217659667134285
+      },
+      "confidence": 1,
+      "text": "easure up to its",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24699571985473576,
+        "y": 0.5328797517902206,
+        "width": 0.5138303438822428,
+        "height": 0.05108603462576866
+      },
+      "confidence": 1,
+      "text": "by a screening committee. Only upon satisfactory findings shall the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5605833237631332,
+        "width": 0.13390225186697313,
+        "height": 0.013631757814437151
+      },
+      "confidence": 1,
+      "text": "ild be accepted.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5512879806617998,
+        "y": 0.5504926416279182,
+        "width": 0.21133464574813832,
+        "height": 0.023532364517450333
+      },
+      "confidence": 1,
+      "text": "entrance examination; and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 3.8429714133148e-9,
+        "y": 0.5755813955256848,
+        "width": 0.13372092445691428,
+        "height": 0.014750635717064142
+      },
+      "confidence": 1,
+      "text": "mits only those",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24686094757504243,
+        "y": 0.5599878794418449,
+        "width": 0.30440731843312585,
+        "height": 0.036029618233442307
+      },
+      "confidence": 1,
+      "text": "applicant be advised to take the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24868132224474104,
+        "y": 0.5642122969541451,
+        "width": 0.5179317394892374,
+        "height": 0.04548332467675209
+      },
+      "confidence": 1,
+      "text": "subsequently enroll. Second coursers who graduated from the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 3.549801425029031e-9,
+        "y": 0.590116278823249,
+        "width": 0.1356589098771413,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "al integrity, and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2468697595352598,
+        "y": 0.5815828069643112,
+        "width": 0.455806573232015,
+        "height": 0.04703563079237938
+      },
+      "confidence": 1,
+      "text": "Laguna College are exempt from the entrance examination.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28719875303054315,
+        "y": 0.5965598903367931,
+        "width": 0.4854287306467692,
+        "height": 0.05203925259411335
+      },
+      "confidence": 1,
+      "text": "Applicants may take only one entrance examination. Those who",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6303228442234212,
+        "width": 0.13655905324420578,
+        "height": 0.02041860669851303
+      },
+      "confidence": 1,
+      "text": "re-enrollment to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24884917226747075,
+        "y": 0.6133136385826015,
+        "width": 0.5297967592875162,
+        "height": 0.0511222705245018
+      },
+      "confidence": 1,
+      "text": "have taken the examination and have not immediately enrolled at",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2503922668653709,
+        "y": 0.627420550019247,
+        "width": 0.5283337434132895,
+        "height": 0.055131394416093826
+      },
+      "confidence": 1,
+      "text": "Laguna College at most a year from the date of enrollment shall be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2520441571824929,
+        "y": 0.6415789592354662,
+        "width": 0.5305113792419434,
+        "height": 0.05626721680164337
+      },
+      "confidence": 1,
+      "text": "exempt from retaking the examination. The results of the previous",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6713127158713865,
+        "width": 0.14118682042160277,
+        "height": 0.027403786778450012
+      },
+      "confidence": 1,
+      "text": "ess, contagious",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2499999959941864,
+        "y": 0.6624999995823765,
+        "width": 0.22222222884496054,
+        "height": 0.05429687537252903
+      },
+      "confidence": 0.30000001192092896,
+      "text": "came on ate to.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.683857125191816,
+        "width": 0.14126265962523918,
+        "height": 0.030269987881183624
+      },
+      "confidence": 1,
+      "text": "physician which",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2945813258048074,
+        "y": 0.6794459913220308,
+        "width": 0.4942985375722249,
+        "height": 0.05484573170542717
+      },
+      "confidence": 1,
+      "text": "Applicants for Graduate Studies need only to undergo a",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 5.170700094943766e-10,
+        "y": 0.7151162790550889,
+        "width": 0.02519379804531733,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "es.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25592649874752293,
+        "y": 0.6914903379246504,
+        "width": 0.536561131477356,
+        "height": 0.06301243603229523
+      },
+      "confidence": 1,
+      "text": "screening interview with the Dean of Graduate Studies. Enrollees for",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7280273439038003,
+        "width": 0.052325581356206054,
+        "height": 0.01615870278328657
+      },
+      "confidence": 1,
+      "text": "y the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25814703093548114,
+        "y": 0.7086429243613219,
+        "width": 0.536468784014384,
+        "height": 0.06232783570885658
+      },
+      "confidence": 1,
+      "text": "Graduate Studies must present to the registering officer their",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7471545592232294,
+        "width": 0.14771183432135568,
+        "height": 0.03111154306679964
+      },
+      "confidence": 1,
+      "text": "ed, or led acts of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25991303261789683,
+        "y": 0.7243856168596041,
+        "width": 0.5366390943527222,
+        "height": 0.06310565769672394
+      },
+      "confidence": 1,
+      "text": "undergraduate transcript of records. Applicants must have at least six",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7645796048306026,
+        "width": 0.1457960814444166,
+        "height": 0.030791595578193665
+      },
+      "confidence": 1,
+      "text": "disregard for law",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26194396382245505,
+        "y": 0.7691099389151399,
+        "width": 0.22952391703923547,
+        "height": 0.03050953522324562
+      },
+      "confidence": 1,
+      "text": "months of work experience.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7958045477043495,
+        "width": 0.14768675013214003,
+        "height": 0.031628213822841644
+      },
+      "confidence": 1,
+      "text": "associated with",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.8134808368169342,
+        "width": 0.14941907491149134,
+        "height": 0.03227526135742664
+      },
+      "confidence": 1,
+      "text": "I to subvert the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5348837213592313,
+        "y": 0.838662790864682,
+        "width": 0.011627906312545067,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "5",
+      "verified": false
+    }
+  ]
+}

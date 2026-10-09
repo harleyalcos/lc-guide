@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "LC:Guide",
+    "slug": "lc-guide",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/lc-guide-icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lcguide.handbook"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#10234D",
+        "foregroundImage": "./assets/lc-guide-icon.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.lcguide.handbook"
+    },
+    "web": {
+      "favicon": "./assets/lc-guide-favicon.png",
+      "name": "LC:Guide",
+      "description": "Your Laguna College Handbook Companion"
+    },
+    "plugins": [
+      "expo-sqlite",
+      "expo-font",
+      "expo-image"
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "file": "hb1.jpg",
+  "label": "1",
+  "imageSha256": "b73b2e0a36a315ec95ff841ecf1690543718fb53084d80c9a2caf47e334e3b68",
+  "left": 0.196430175360684,
+  "right": 0.6144025909854847,
+  "rows": [
+    {
+      "text": "TABLE OF CONTENTS",
+      "y": 70,
+      "x": 84,
+      "width": 608,
+      "fontSize": 23,
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "text": "Page",
+      "y": 125,
+      "x": 628,
+      "width": 64,
+      "fontSize": 18,
+      "align": "right"
+    },
+    {
+      "text": "IX. Selection of Honors",
+      "y": 155,
+      "x": 84,
+      "width": 608,
+      "fontSize": 18,
+      "rightText": "14–19",
+      "leader": true
+    },
+    {
+      "text": "A. College",
+      "y": 180,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "- Rules on Scholarships",
+      "y": 205,
+      "x": 152,
+      "width": 540,
+      "fontSize": 18
+    },
+    {
+      "text": "- Selections of Collegiate Honor Graduates",
+      "y": 230,
+      "x": 152,
+      "width": 540,
+      "fontSize": 18
+    },
+    {
+      "text": "B. High School",
+      "y": 255,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "- Roll of Academic Honors",
+      "y": 280,
+      "x": 152,
+      "width": 540,
+      "fontSize": 18
+    },
+    {
+      "text": "- Roll of Excellence",
+      "y": 305,
+      "x": 152,
+      "width": 540,
+      "fontSize": 18
+    },
+    {
+      "text": "- High School Student of the Year",
+      "y": 330,
+      "x": 152,
+      "width": 540,
+      "fontSize": 18
+    },
+    {
+      "text": "C. Elementary",
+      "y": 355,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "X. Graduation Requirements",
+      "y": 395,
+      "x": 84,
+      "width": 608,
+      "fontSize": 18,
+      "rightText": "19",
+      "leader": true
+    },
+    {
+      "text": "XI. Rules on Student Discipline",
+      "y": 435,
+      "x": 84,
+      "width": 608,
+      "fontSize": 18,
+      "rightText": "19–25",
+      "leader": true
+    },
+    {
+      "text": "A. Major Offense",
+      "y": 460,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "B. Serious Offenses",
+      "y": 485,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "C. Less Serious Offenses",
+      "y": 510,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "D. Special Provisions",
+      "y": 535,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "XII. Code of Conduct",
+      "y": 575,
+      "x": 84,
+      "width": 608,
+      "fontSize": 18,
+      "rightText": "26–28",
+      "leader": true
+    },
+    {
+      "text": "XIII. Other School Rules / Policies",
+      "y": 615,
+      "x": 84,
+      "width": 608,
+      "fontSize": 18,
+      "rightText": "28–36",
+      "leader": true
+    },
+    {
+      "text": "A. Rules on Examination",
+      "y": 640,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "B. Issuance of Credentials",
+      "y": 665,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "C. On Campus Organization",
+      "y": 690,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "D. On Educational Field Trips",
+      "y": 715,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "- Elementary and High School",
+      "y": 740,
+      "x": 152,
+      "width": 540,
+      "fontSize": 18
+    },
+    {
+      "text": "- College and Graduate Students",
+      "y": 765,
+      "x": 152,
+      "width": 540,
+      "fontSize": 18
+    },
+    {
+      "text": "- Policies and Guidelines on Local Off-Campus Activities",
+      "y": 790,
+      "x": 152,
+      "width": 540,
+      "fontSize": 18
+    },
+    {
+      "text": "E. Provisions for Anti-Sexual Harassment",
+      "y": 815,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "F. Provisions for Tobacco Regulation Act of 2003",
+      "y": 840,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "G. Provisions for Data Privacy Act",
+      "y": 865,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "H. Provisions for Dangerous Drugs Act of 2002",
+      "y": 890,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    },
+    {
+      "text": "I. Provisions for Anti-Bullying Act of 2013",
+      "y": 915,
+      "x": 118,
+      "width": 574,
+      "fontSize": 18
+    }
+  ],
+  "reviewed": true,
+  "fixedLayout": true
+}

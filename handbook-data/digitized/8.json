@@ -1,0 +1,340 @@
+{
+  "file": "hb8.jpg",
+  "label": "8",
+  "imageSha256": "0bbb4dca95a54e7ceffbde1f3f54aa530ebe60ffae979e7f3fa28e0934a5b6ee",
+  "left": 0.27800217590081366,
+  "right": 0.7432170454253283,
+  "rows": [
+    {
+      "text": "11. The maximum units for cross-enrollment is six (6) units. Board subjects",
+      "box": {
+        "height": 0.029296875,
+        "width": 0.43023256460825604,
+        "x": 0.2693798460130363,
+        "y": 0.23681640670626858
+      },
+      "level": 0.23681640670626858
+    },
+    {
+      "text": "are not permitted for cross enrolment. Only minor subjects for board",
+      "box": {
+        "height": 0.02783203125,
+        "width": 0.4224806229273478,
+        "x": 0.30232558423400047,
+        "y": 0.250000000065838
+      },
+      "level": 0.250000000065838
+    },
+    {
+      "text": "courses are allowed to be cross-enrolled.",
+      "box": {
+        "height": 0.02571488544344902,
+        "width": 0.25342514117558795,
+        "x": 0.30126899622988595,
+        "y": 0.2601529879049965
+      },
+      "level": 0.2742425830822074
+    },
+    {
+      "text": "12. Summer Classes are only available in courses based on the CHED",
+      "box": {
+        "height": 0.023460211232304573,
+        "width": 0.42635659376780194,
+        "x": 0.26356589198993824,
+        "y": 0.2861328121546106
+      },
+      "level": 0.2861328121546106
+    },
+    {
+      "text": "approved curriculum. Only students in the program are allowed to take",
+      "box": {
+        "height": 0.0234375,
+        "width": 0.42829457918802893,
+        "x": 0.3003875984098614,
+        "y": 0.2978515621107187
+      },
+      "level": 0.2978515621107187
+    },
+    {
+      "text": "summer classes.",
+      "box": {
+        "height": 0.013101756107062101,
+        "width": 0.1092890202999115,
+        "x": 0.2980169997582778,
+        "y": 0.31884661448397644
+      },
+      "level": 0.3223171217015476
+    },
+    {
+      "text": "D. Probationary Status of Transferees",
+      "box": {
+        "height": 0.0284749586135149,
+        "width": 0.319373905658722,
+        "x": 0.2627608584741992,
+        "y": 0.3334302307293777
+      },
+      "level": 0.34669051854415134
+    },
+    {
+      "text": "All transferees shall be under probationary status once",
+      "box": {
+        "height": 0.0205078125,
+        "width": 0.4360464811325073,
+        "x": 0.2965116450684362,
+        "y": 0.35595703142881285
+      },
+      "level": 0.35595703142881285
+    },
+    {
+      "text": "admitted as students in the institution. They shall be placed under",
+      "box": {
+        "height": 0.02197265625,
+        "width": 0.4748061895370483,
+        "x": 0.25968993323535167,
+        "y": 0.3706054684687248
+      },
+      "level": 0.3706054684687248
+    },
+    {
+      "text": "this status for one (1) full academic year. During this period,",
+      "box": {
+        "height": 0.019122456200420856,
+        "width": 0.4709302186965942,
+        "x": 0.26162791598116014,
+        "y": 0.3851744185673084
+      },
+      "level": 0.3851744185673084
+    },
+    {
+      "text": "transferees who obtained failing grades in most of their subjects",
+      "box": {
+        "height": 0.018895348533988,
+        "width": 0.4767441749572754,
+        "x": 0.25968993143055386,
+        "y": 0.3997093024668099
+      },
+      "level": 0.3997093024668099
+    },
+    {
+      "text": "and who have violated school rules and regulation shall no longer be",
+      "box": {
+        "height": 0.01908839028328657,
+        "width": 0.47868216037750244,
+        "x": 0.25968992976764405,
+        "y": 0.41259765584053887
+      },
+      "level": 0.41259765584053887
+    },
+    {
+      "text": "admitted in the succeeding semester.",
+      "box": {
+        "height": 0.015397758223116398,
+        "width": 0.26397732893625897,
+        "x": 0.25945917961977655,
+        "y": 0.4299593809113086
+      },
+      "level": 0.4328260672331036
+    },
+    {
+      "text": "E. Fees",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.058139532804489136,
+        "x": 0.2596899232295384,
+        "y": 0.46220930249258885
+      },
+      "level": 0.46220930249258885
+    },
+    {
+      "text": "1. Tuition fees and other charges are prescribed by the College",
+      "box": {
+        "height": 0.017600835300982,
+        "width": 0.48449611663818354,
+        "x": 0.2577519360123037,
+        "y": 0.4794921876747059
+      },
+      "level": 0.4794921876747059
+    },
+    {
+      "text": "with the approval of the Department of Education or the",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.4534883499145507,
+        "x": 0.29069768828561865,
+        "y": 0.49267578156831116
+      },
+      "level": 0.49267578156831116
+    },
+    {
+      "text": "Commission on Higher Education. Notice of increase in fees is",
+      "box": {
+        "height": 0.016170058399438858,
+        "width": 0.4515503644943238,
+        "x": 0.29263567422893627,
+        "y": 0.507267441761718
+      },
+      "level": 0.507267441761718
+    },
+    {
+      "text": "published in advance.",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.15697673956553143,
+        "x": 0.29069767934514124,
+        "y": 0.5247093024421379
+      },
+      "level": 0.5247093024421379
+    },
+    {
+      "text": "2. Tuition fees in the Elementary and Junior High School are paid",
+      "box": {
+        "height": 0.017589479684829712,
+        "width": 0.45930230617523204,
+        "x": 0.2519379846542012,
+        "y": 0.5434570312269047
+      },
+      "level": 0.5434570312269047
+    },
+    {
+      "text": "in six (6) installments, while those in Senior High School and",
+      "box": {
+        "height": 0.0146484375,
+        "width": 0.46511626243591314,
+        "x": 0.2829457408750667,
+        "y": 0.5595703123318629
+      },
+      "level": 0.5595703123318629
+    },
+    {
+      "text": "Collegiate courses are paid in five (5) installments per",
+      "box": {
+        "height": 0.016204124316573143,
+        "width": 0.46317827701568604,
+        "x": 0.2868217214081774,
+        "y": 0.5741279071565824
+      },
+      "level": 0.5741279071565824
+    },
+    {
+      "text": "semester, with the first installment in all levels and courses paid",
+      "box": {
+        "height": 0.01744185946881771,
+        "width": 0.4670542478561402,
+        "x": 0.28294574853317017,
+        "y": 0.5886627913702422
+      },
+      "level": 0.5886627913702422
+    },
+    {
+      "text": "upon enrollment.",
+      "box": {
+        "height": 0.01325172558426857,
+        "width": 0.12403100728988647,
+        "x": 0.284883721451956,
+        "y": 0.6030273438788745
+      },
+      "level": 0.6030273438788745
+    },
+    {
+      "text": "3. Tuition fees during summer classes are paid in full.",
+      "box": {
+        "height": 0.018912503495812416,
+        "width": 0.3783202171325683,
+        "x": 0.24612403115871193,
+        "y": 0.6244227539193232
+      },
+      "level": 0.6244227539193232
+    },
+    {
+      "text": "4. Tuition fees for Masteral students are paid in four (4) installments",
+      "box": {
+        "height": 0.018895348533988,
+        "width": 0.5096899271011353,
+        "x": 0.24612403379439352,
+        "y": 0.6540697675789362
+      },
+      "level": 0.6540697675789362
+    },
+    {
+      "text": "per semester.",
+      "box": {
+        "height": 0.013217659667134285,
+        "width": 0.10465116302172339,
+        "x": 0.2790697686344871,
+        "y": 0.6699218750939739
+      },
+      "level": 0.6699218750939739
+    },
+    {
+      "text": "According to the Manual of Regulations for Private Schools of",
+      "box": {
+        "height": 0.020348837599158287,
+        "width": 0.4806201457977295,
+        "x": 0.2790697754953766,
+        "y": 0.699127906740288
+      },
+      "level": 0.699127906740288
+    },
+    {
+      "text": "2008, a college student may drop from a subject and be entitled to",
+      "box": {
+        "height": 0.027214759960770607,
+        "width": 0.518329620361328,
+        "x": 0.23980170265324907,
+        "y": 0.7129073732041633
+      },
+      "level": 0.7129073732041633
+    },
+    {
+      "text": "the corresponding refund only during the first two weeks of the start",
+      "box": {
+        "height": 0.0234375,
+        "width": 0.5213178396224976,
+        "x": 0.23837209166438797,
+        "y": 0.728027343944928
+      },
+      "level": 0.728027343944928
+    },
+    {
+      "text": "of the classes of a regular semester. The effective date of dropping,",
+      "box": {
+        "height": 0.02798200212419033,
+        "width": 0.5262336730957031,
+        "x": 0.23593276769529892,
+        "y": 0.7435190906217211
+      },
+      "level": 0.7435190906217211
+    },
+    {
+      "text": "as far as refunds and grades are concerned, is the date the dropping",
+      "box": {
+        "height": 0.029560587368905544,
+        "width": 0.5262370904286703,
+        "x": 0.23393496089248758,
+        "y": 0.7595128789791306
+      },
+      "level": 0.7595128789791306
+    },
+    {
+      "text": "form is filed in the Registrar's office.",
+      "box": {
+        "height": 0.025860433466732502,
+        "width": 0.27516827980677294,
+        "x": 0.2316602044229447,
+        "y": 0.7725469764645684
+      },
+      "level": 0.7725469764645684
+    },
+    {
+      "text": "8",
+      "box": {
+        "height": 0.010174418799579144,
+        "width": 0.011627906312545122,
+        "x": 0.4864341087817119,
+        "y": 0.8386627904984663
+      },
+      "level": 0.8386627904984663
+    }
+  ],
+  "reviewed": true
+}

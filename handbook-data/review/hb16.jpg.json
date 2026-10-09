@@ -1,0 +1,809 @@
+{
+  "file": "hb16.jpg",
+  "imageSha256": "822372dc75c87557c09b36e69a1034c10a44af48586bcf9045aca509a90ddbf0",
+  "passages": [
+    {
+      "box": {
+        "x": 0.29216208551627715,
+        "y": 0.1510436522055223,
+        "width": 0.4875158071517944,
+        "height": 0.04093735292553902
+      },
+      "confidence": 1,
+      "text": "b. The average of the percentage range shall be taken for the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31312353693538,
+        "y": 0.16583635449512024,
+        "width": 0.17964112758636475,
+        "height": 0.021537667140364647
+      },
+      "confidence": 1,
+      "text": "numerical equivalent.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28999186938021637,
+        "y": 0.17333225425015208,
+        "width": 0.49264303843180335,
+        "height": 0.045112451538443565
+      },
+      "confidence": 1,
+      "text": "c. Only credited subjects to the program enrolled shall be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9094819428516786,
+        "y": 0.18395490669910108,
+        "width": 0.0905180571483214,
+        "height": 0.02284812740981579
+      },
+      "confidence": 1,
+      "text": "B. HIGH S",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3094952341563615,
+        "y": 0.18567646155590234,
+        "width": 0.4752060572306315,
+        "height": 0.047314682975411415
+      },
+      "confidence": 1,
+      "text": "included in the computation for the general weighted",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3139534886251803,
+        "y": 0.2165697673472401,
+        "width": 0.07364341119925183,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "average.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9111405250923864,
+        "y": 0.2064241290325749,
+        "width": 0.0884181559085846,
+        "height": 0.020593485794961452
+      },
+      "confidence": 1,
+      "text": "For the Ju",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.290697674863958,
+        "y": 0.23401162805786913,
+        "width": 0.03100775182247162,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "d.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.32116170567726404,
+        "y": 0.21654345775886719,
+        "width": 0.4635071754455567,
+        "height": 0.04397624731063843
+      },
+      "confidence": 1,
+      "text": "Transferees with failing grades in their subjects from the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8703677507586257,
+        "y": 0.2204870956301881,
+        "width": 0.12925410270690918,
+        "height": 0.024478869512677193
+      },
+      "confidence": 1,
+      "text": "to the A-Sciel",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8724089476730766,
+        "y": 0.23442853813795894,
+        "width": 0.12711557745933533,
+        "height": 0.024232087656855583
+      },
+      "confidence": 1,
+      "text": "members of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3113651509305238,
+        "y": 0.2528351557643217,
+        "width": 0.3170502583185832,
+        "height": 0.026392722502350807
+      },
+      "confidence": 1,
+      "text": "enrolled program, shall be disqualified.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31201551010244205,
+        "y": 0.24121093699548746,
+        "width": 0.47286820411682134,
+        "height": 0.03369140625
+      },
+      "confidence": 1,
+      "text": "previous school/s, even when the students are not in the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8746762444891655,
+        "y": 0.25577112787743783,
+        "width": 0.125244955221812,
+        "height": 0.026242445223033428
+      },
+      "confidence": 1,
+      "text": "1. Roll of Exce",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2538759690899135,
+        "y": 0.2892441862773458,
+        "width": 0.021317829688390078,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "9.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30000031478354794,
+        "y": 0.2730725445166353,
+        "width": 0.4878176848093668,
+        "height": 0.03677046298980713
+      },
+      "confidence": 1,
+      "text": "Candidates for honors for college must file for candidacy for",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9166666676132142,
+        "y": 0.27906976715537113,
+        "width": 0.08139534791310632,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "This refer",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29382416045277293,
+        "y": 0.2933958627553197,
+        "width": 0.25135978062947595,
+        "height": 0.02605036459863186
+      },
+      "confidence": 1,
+      "text": "honors at the registrar's office.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8768865194143839,
+        "y": 0.2944375427421244,
+        "width": 0.12230692307154345,
+        "height": 0.020042458549141884
+      },
+      "confidence": 1,
+      "text": "school year, te",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8785392044019664,
+        "y": 0.30675639861917836,
+        "width": 0.12096363306045532,
+        "height": 0.022742239758372307
+      },
+      "confidence": 1,
+      "text": "1-5 and Grad",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2558139596314895,
+        "y": 0.31976744197779206,
+        "width": 0.2344961166381836,
+        "height": 0.022029433399438858
+      },
+      "confidence": 1,
+      "text": "Residency Requirements",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8798449619875833,
+        "y": 0.3270348835797897,
+        "width": 0.07364341119925188,
+        "height": 0.016226835548877716
+      },
+      "confidence": 1,
+      "text": "and 12).",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25581395315483596,
+        "y": 0.35319767413211534,
+        "width": 0.021317829688390078,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2945736488147646,
+        "y": 0.3442382814466519,
+        "width": 0.498062014579773,
+        "height": 0.026401253417134285
+      },
+      "confidence": 1,
+      "text": "All candidates for the SUMMA CUM LAUDE and MAGNA CUM",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8856589151383011,
+        "y": 0.354651162993324,
+        "width": 0.011627906312545178,
+        "height": 0.007267441600561142
+      },
+      "confidence": 1,
+      "text": "-",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9244186072198183,
+        "y": 0.34570312481446475,
+        "width": 0.07364340623219812,
+        "height": 0.013308502733707428
+      },
+      "confidence": 1,
+      "text": "Based on",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29457364396597246,
+        "y": 0.36627907020903194,
+        "width": 0.058139532804489136,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "LAUDE",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.36803713209589617,
+        "y": 0.3563909019828745,
+        "width": 0.42517288525899255,
+        "height": 0.027465001679956913
+      },
+      "confidence": 1,
+      "text": "must have earned all the required units in the Laguna",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9234324621570643,
+        "y": 0.3601757047114693,
+        "width": 0.07567572096983599,
+        "height": 0.015789000317454338
+      },
+      "confidence": 1,
+      "text": "at the enc",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2945736480234209,
+        "y": 0.3750000000917669,
+        "width": 0.49806201457977295,
+        "height": 0.0234375
+      },
+      "confidence": 1,
+      "text": "College. They must finish the course within the prescribed curriculum",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9224806230691364,
+        "y": 0.3735351562192063,
+        "width": 0.07558139165242506,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "top ten st",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2926356588197378,
+        "y": 0.38953488407444903,
+        "width": 0.4321705500284831,
+        "height": 0.021802324801683426
+      },
+      "confidence": 1,
+      "text": "years otherwise the student will be granted CUM LAUDE.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9275485341177635,
+        "y": 0.3892454720149303,
+        "width": 0.07142244776089979,
+        "height": 0.014039669185876846
+      },
+      "confidence": 1,
+      "text": "must not",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9243360044248151,
+        "y": 0.4038102290331892,
+        "width": 0.07187062501907349,
+        "height": 0.01360047236084938
+      },
+      "confidence": 1,
+      "text": "learning",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25193798486962543,
+        "y": 0.42151162787484786,
+        "width": 0.023255812625090244,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2925137085706791,
+        "y": 0.4127226633506128,
+        "width": 0.5042115449905396,
+        "height": 0.024834467098116875
+      },
+      "confidence": 1,
+      "text": "A candidate for CUM LAUDE shall have earned at least 75% ofall the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9241706755502959,
+        "y": 0.4164090443353077,
+        "width": 0.07413926720619202,
+        "height": 0.016019120812416077
+      },
+      "confidence": 1,
+      "text": "level (75",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29263566218959197,
+        "y": 0.4301757808193929,
+        "width": 0.5038759708404541,
+        "height": 0.0205078125
+      },
+      "confidence": 1,
+      "text": "units required for his or her degree in the Laguna College. He or she",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8895348813247251,
+        "y": 0.4404069770121476,
+        "width": 0.1085271338621776,
+        "height": 0.013206304050981998
+      },
+      "confidence": 1,
+      "text": "- To deter",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2906976671960521,
+        "y": 0.444767441810886,
+        "width": 0.5038759708404541,
+        "height": 0.020564589649438858
+      },
+      "confidence": 1,
+      "text": "must have finished the course within the prescribed curriculum years.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9302325599176656,
+        "y": 0.45494186052111074,
+        "width": 0.06782945493857062,
+        "height": 0.013319858349859715
+      },
+      "confidence": 1,
+      "text": "7-3 por",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29263566258671353,
+        "y": 0.4680232562764839,
+        "width": 0.5058139562606812,
+        "height": 0.021802324801683426
+      },
+      "confidence": 1,
+      "text": "The maximum units for cross-enrolment is six (6) units.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9302019022504396,
+        "y": 0.4693867470307822,
+        "width": 0.06789076824982965,
+        "height": 0.013261389918625355
+      },
+      "confidence": 1,
+      "text": "while the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29263566129778873,
+        "y": 0.48535156271658664,
+        "width": 0.5077519416809082,
+        "height": 0.0205078125
+      },
+      "confidence": 1,
+      "text": "Only minor subjects or subjects in non-board courses can",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.891388875077949,
+        "y": 0.4895044056035811,
+        "width": 0.10675713419914246,
+        "height": 0.016630723141133785
+      },
+      "confidence": 1,
+      "text": "- Apupil c",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2906976763601495,
+        "y": 0.5043604648297897,
+        "width": 0.16279069582621258,
+        "height": 0.01614734809845686
+      },
+      "confidence": 1,
+      "text": "be cross-enrolled.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9341085273908645,
+        "y": 0.5043604648297897,
+        "width": 0.06395348906517029,
+        "height": 0.01614734809845686
+      },
+      "confidence": 1,
+      "text": "qualify i",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9320383247326113,
+        "y": 0.518583365674757,
+        "width": 0.06615591049194336,
+        "height": 0.0166123379021883
+      },
+      "confidence": 1,
+      "text": "recogni",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25000000494997243,
+        "y": 0.5317382815760292,
+        "width": 0.2306201457977295,
+        "height": 0.017680322751402855
+      },
+      "confidence": 1,
+      "text": "Unit Load Requirements",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8934108512895259,
+        "y": 0.5434570310774489,
+        "width": 0.1046511630217235,
+        "height": 0.011775527149438858
+      },
+      "confidence": 1,
+      "text": "- All canc",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2887597124896321,
+        "y": 0.5581054687514366,
+        "width": 0.5155038436253865,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "A candidate for honor must have taken at least 75% of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9359518816794384,
+        "y": 0.5578825270812928,
+        "width": 0.062204763293266296,
+        "height": 0.013595410622656345
+      },
+      "confidence": 1,
+      "text": "not ber",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24806201623318933,
+        "y": 0.5770348841900097,
+        "width": 0.2577519416809082,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "subject load in the institution.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9359658089190378,
+        "y": 0.5738808635330896,
+        "width": 0.06217690805594123,
+        "height": 0.01212199404835701
+      },
+      "confidence": 1,
+      "text": "school",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2848837417945269,
+        "y": 0.6015624995528664,
+        "width": 0.5232557853062948,
+        "height": 0.01762354653328657
+      },
+      "confidence": 1,
+      "text": "If a student is officially allowed to cross-enrol in another college,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9379303314093378,
+        "y": 0.5957889058412768,
+        "width": 0.06018584966659546,
+        "height": 0.013364048674702644
+      },
+      "confidence": 1,
+      "text": "Achiev",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9398678683602669,
+        "y": 0.6103527221637037,
+        "width": 0.05824875831604004,
+        "height": 0.016213160008192062
+      },
+      "confidence": 1,
+      "text": "Math,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24418605733439133,
+        "y": 0.6191406252584674,
+        "width": 0.536821683247884,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "the subject taken is considered as taken at the Laguna College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9398957549119565,
+        "y": 0.627831348568303,
+        "width": 0.058192988236745236,
+        "height": 0.011779163032770157
+      },
+      "confidence": 1,
+      "text": "Journal",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24418604516845432,
+        "y": 0.6468023261279943,
+        "width": 0.3275193770726522,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "Completion of Unit Requirements",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8971158654862764,
+        "y": 0.6476259099704957,
+        "width": 0.1011171042919159,
+        "height": 0.017248179763555527
+      },
+      "confidence": 1,
+      "text": "2. Roll of A",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28488371867494716,
+        "y": 0.6757812497766096,
+        "width": 0.5251938104629517,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "No student shall be conferred honors unless he/she has",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9399224811171353,
+        "y": 0.6728515626649962,
+        "width": 0.058139532804489136,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "This re",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24224807625959865,
+        "y": 0.6933139535963782,
+        "width": 0.5465116103490194,
+        "height": 0.01908839028328657
+      },
+      "confidence": 1,
+      "text": "completed all the required units before the graduation exercises.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9409660116147626,
+        "y": 0.6972600746321503,
+        "width": 0.058007995287577385,
+        "height": 0.01654083002358675
+      },
+      "confidence": 1,
+      "text": "To be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24210187722715162,
+        "y": 0.7189391898351684,
+        "width": 0.12044740716616312,
+        "height": 0.01997045800089836
+      },
+      "confidence": 1,
+      "text": "Deportment",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8987957499556943,
+        "y": 0.7135992909206634,
+        "width": 0.09973247845967614,
+        "height": 0.01541881263256073
+      },
+      "confidence": 1,
+      "text": "of the LC H",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8967508326164001,
+        "y": 0.7289075157726338,
+        "width": 0.1001354455947876,
+        "height": 0.01655340101569891
+      },
+      "confidence": 1,
+      "text": "least 90%",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2810077577757785,
+        "y": 0.7470703124315341,
+        "width": 0.5310077269872029,
+        "height": 0.02197265625
+      },
+      "confidence": 1,
+      "text": "Only students of good moral character shall be considered in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9010368669928419,
+        "y": 0.7480585198619756,
+        "width": 0.09715107083320618,
+        "height": 0.01551086688414216
+      },
+      "confidence": 1,
+      "text": "area. Neit",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23947992273389365,
+        "y": 0.7635880762355334,
+        "width": 0.3078933358192444,
+        "height": 0.027442374266684055
+      },
+      "confidence": 1,
+      "text": "determining candidates for honors.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8967165372751564,
+        "y": 0.7630833900603831,
+        "width": 0.10200152794520057,
+        "height": 0.0179266557097435
+      },
+      "confidence": 1,
+      "text": "level (75-7",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5251937983998219,
+        "y": 0.8444767443995023,
+        "width": 0.025193798045317406,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "16",
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,765 @@
+{
+  "file": "hb2.jpg",
+  "imageSha256": "19322f0b0ff9072657a15cb41a3697b8a29da24bd5e19e9add51816d898a7fe6",
+  "passages": [
+    {
+      "box": {
+        "x": 0.30426357067444076,
+        "y": 0.1962209306133298,
+        "width": 0.32170542081197107,
+        "height": 0.02204078808426857
+      },
+      "confidence": 1,
+      "text": "I. Brief History of the Laguna College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2822169322172307,
+        "y": 0.21234858851525162,
+        "width": 0.4227046966552734,
+        "height": 0.03944529965519905
+      },
+      "confidence": 1,
+      "text": "Don Zacarias Sahagun and Don Melecio Fule founded",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8305035309652662,
+        "y": 0.2126980853455409,
+        "width": 0.16877615451812744,
+        "height": 0.023037148639559746
+      },
+      "confidence": 1,
+      "text": "The Laguna College v",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2089181699001649,
+        "y": 0.23082456908222593,
+        "width": 0.49726935227712,
+        "height": 0.034213628619909286
+      },
+      "confidence": 1,
+      "text": "the Laguna Academy in 1923 to provide secondary schooling to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8003875989576498,
+        "y": 0.23535156237061283,
+        "width": 0.10271317760149634,
+        "height": 0.011741460766643286
+      },
+      "confidence": 1,
+      "text": "and decency.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.837209304700108,
+        "y": 0.2412109373255814,
+        "width": 0.1608527104059856,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "The Laguna Colleg",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20930232684928818,
+        "y": 0.2514534888164548,
+        "width": 0.4341085354487101,
+        "height": 0.021984010934829712
+      },
+      "confidence": 1,
+      "text": "the people of San Pablo City and its neighboring towns.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8006748250543727,
+        "y": 0.2519770691821781,
+        "width": 0.1988343199094137,
+        "height": 0.027719908393919468
+      },
+      "confidence": 1,
+      "text": "graduates who will make t",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24579097658795535,
+        "y": 0.27011001348982466,
+        "width": 0.4641382694244385,
+        "height": 0.030949268490076065
+      },
+      "confidence": 1,
+      "text": "Starting with just sixteen students, the school soon grew and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8953488368533217,
+        "y": 0.27761627978593995,
+        "width": 0.10271317760149645,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "IV. The Offic",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21098836553773426,
+        "y": 0.28635889735820386,
+        "width": 0.49885169665018714,
+        "height": 0.03064627293497324
+      },
+      "confidence": 1,
+      "text": "expanded under the competent leadership of its succeeding",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9554263560028243,
+        "y": 0.29069767464417273,
+        "width": 0.042635659376780266,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "BOA",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2112403074578794,
+        "y": 0.3066406247685586,
+        "width": 0.4961240291595459,
+        "height": 0.02490234375
+      },
+      "confidence": 1,
+      "text": "administrators: Dr. Nicasio Sahagun, Mrs. Gertrudis S.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8423483724178413,
+        "y": 0.3053509737741813,
+        "width": 0.1564132968584696,
+        "height": 0.019122891128063202
+      },
+      "confidence": 1,
+      "text": "Dr. Lavinia E. Bruar",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2112403121159634,
+        "y": 0.3212209303498851,
+        "width": 0.4961240291595459,
+        "height": 0.02204078808426857
+      },
+      "confidence": 1,
+      "text": "Evangelista, Mr. Alfredo Y. Evangelista and Miss Natividad S",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.844961242556066,
+        "y": 0.32122093090512605,
+        "width": 0.15310076872507727,
+        "height": 0.01764625683426857
+      },
+      "confidence": 1,
+      "text": "Dr. Melecio F. Almec",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21124030459608814,
+        "y": 0.338662790560886,
+        "width": 0.501937985420227,
+        "height": 0.020348837599158287
+      },
+      "confidence": 1,
+      "text": "Evangelista. Today, it offers kindergarten, elementary, science",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8468992272429237,
+        "y": 0.3343023262006687,
+        "width": 0.15116278330485022,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "Dr. Florizel S. Evang",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2110847963814213,
+        "y": 0.35176868334655687,
+        "width": 0.5041102568308512,
+        "height": 0.02339635882526636
+      },
+      "confidence": 1,
+      "text": "high school: special science and K-12 curriculum, college, short-",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.848148985795009,
+        "y": 0.34657790050954573,
+        "width": 0.15088626742362976,
+        "height": 0.021162768825888634
+      },
+      "confidence": 1,
+      "text": "Engr. Romel S. Eva",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8507751925216785,
+        "y": 0.36328124969792797,
+        "width": 0.14728682239850355,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "Dr. Rosilon S. Evan",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2112403133523828,
+        "y": 0.3706054691303097,
+        "width": 0.5038759708404541,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "term courses, and graduate school courses which, together,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21317828783736723,
+        "y": 0.3851744189197792,
+        "width": 0.501937985420227,
+        "height": 0.019122456200420856
+      },
+      "confidence": 1,
+      "text": "make up a student population of several thousands. Its new",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9883720930996258,
+        "y": 0.38372093003334995,
+        "width": 0.009689922134081486,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "V",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21317828861078084,
+        "y": 0.3997093026370757,
+        "width": 0.5038759708404541,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "name - Laguna College -- is a household word today. In 1996, it",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8189697520528942,
+        "y": 0.4059849989165054,
+        "width": 0.17995419104894006,
+        "height": 0.020340807735919952
+      },
+      "confidence": 1,
+      "text": "Master in Business Ma",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2130055098775284,
+        "y": 0.41339274442218765,
+        "width": 0.5041656891504923,
+        "height": 0.021550878882408142
+      },
+      "confidence": 1,
+      "text": "was granted Accreditation Status (Level II) for its courses in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8189879139389965,
+        "y": 0.4196370367368564,
+        "width": 0.1801030238469442,
+        "height": 0.021501287817955017
+      },
+      "confidence": 1,
+      "text": "Master in Public Admit",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2151162752386878,
+        "y": 0.43164062531890546,
+        "width": 0.5038759708404541,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "Liberal Arts, Education and Commerce by the PACUCOA",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.822748950072404,
+        "y": 0.4341144879606461,
+        "width": 0.17617173989613844,
+        "height": 0.020822901278734207
+      },
+      "confidence": 1,
+      "text": "Master of Arts in Educ",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21474610477013334,
+        "y": 0.44379919510666865,
+        "width": 0.5063490072886149,
+        "height": 0.023413632065057755
+      },
+      "confidence": 1,
+      "text": "(Philippine Association of Colleges and Universities-Commission",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8536800870992914,
+        "y": 0.44716291567083477,
+        "width": 0.14519392450650526,
+        "height": 0.021125217899680138
+      },
+      "confidence": 1,
+      "text": "Major in: Mathem",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21666028032548143,
+        "y": 0.45817483689325755,
+        "width": 0.5046313206354777,
+        "height": 0.025919358246028423
+      },
+      "confidence": 1,
+      "text": "on Accreditation). It was re-accredited for the fourth time for Level",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.941860465939652,
+        "y": 0.46366279091313145,
+        "width": 0.056201547384262085,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "Leader:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2170040212740196,
+        "y": 0.4824059197372279,
+        "width": 0.07761986553668973,
+        "height": 0.01483932277187705
+      },
+      "confidence": 1,
+      "text": "Il in 2019.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8266172189974458,
+        "y": 0.4751303137506404,
+        "width": 0.1723402738571167,
+        "height": 0.022037889808416367
+      },
+      "confidence": 1,
+      "text": "Bachelor of Arts in E",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.828394914687805,
+        "y": 0.48994363032504096,
+        "width": 0.17076889673868823,
+        "height": 0.023432889953255653
+      },
+      "confidence": 1,
+      "text": "Bachelor of Element",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2884771456706203,
+        "y": 0.5006070660418842,
+        "width": 0.32999447981516516,
+        "height": 0.02078234124928713
+      },
+      "confidence": 1,
+      "text": "II. The Mission of the Laguna College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8459970577925741,
+        "y": 0.5065106247303438,
+        "width": 0.15287357568740845,
+        "height": 0.020669609308242798
+      },
+      "confidence": 1,
+      "text": "Bachelor of Secon",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25556359690980096,
+        "y": 0.5228233278482537,
+        "width": 0.4733089208602906,
+        "height": 0.021106011234223843
+      },
+      "confidence": 1,
+      "text": "Laguna College does its best to impart and promote",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.861745418479944,
+        "y": 0.5225652414671021,
+        "width": 0.1371935109297434,
+        "height": 0.019368884153664112
+      },
+      "confidence": 1,
+      "text": "Major in: Englis!",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22058035611750068,
+        "y": 0.5376549911390205,
+        "width": 0.5084551175435383,
+        "height": 0.02510306052863598
+      },
+      "confidence": 1,
+      "text": "knowledge of the arts and sciences, to instill love of country and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.949940370736765,
+        "y": 0.5367173529997922,
+        "width": 0.05002981424331665,
+        "height": 0.017016993835568428
+      },
+      "confidence": 1,
+      "text": "and S",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21899224979977872,
+        "y": 0.5595703129227031,
+        "width": 0.2306201457977295,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "to protect the people's liberty.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8352713167186767,
+        "y": 0.5551757809943043,
+        "width": 0.16279069582621253,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "Bachelor of Scienc",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8701321887963814,
+        "y": 0.5696726795745681,
+        "width": 0.12795267502466834,
+        "height": 0.01763138547539711
+      },
+      "confidence": 1,
+      "text": "Major in: Financ",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2558139549244631,
+        "y": 0.5813953495097772,
+        "width": 0.4767441749572755,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "It spares no effort in cultivating the many good Filipino values",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9127356292250669,
+        "y": 0.5855602786521912,
+        "width": 0.08150548736254382,
+        "height": 0.013472465798258781
+      },
+      "confidence": 1,
+      "text": "Marketing",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2207773483457748,
+        "y": 0.5963770704896056,
+        "width": 0.4693002303441365,
+        "height": 0.021057281643152237
+      },
+      "confidence": 1,
+      "text": "of charity, justice, truth, honesty, decency and compassion.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9166666682915089,
+        "y": 0.6000976562186415,
+        "width": 0.08139534791310621,
+        "height": 0.011820948217064142
+      },
+      "confidence": 1,
+      "text": "Business T",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9186046513359246,
+        "y": 0.6147460937835655,
+        "width": 0.07945736249287927,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "Human Re",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25565930036131945,
+        "y": 0.6202137707504884,
+        "width": 0.48100316524505615,
+        "height": 0.020986448973417282
+      },
+      "confidence": 1,
+      "text": "It goes to great lengths to hire the best teachers available",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8442181295351029,
+        "y": 0.6291405434323253,
+        "width": 0.15450484553972887,
+        "height": 0.019402530044317245
+      },
+      "confidence": 1,
+      "text": "Bachelor of Scient",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22270287863306684,
+        "y": 0.6369815863620018,
+        "width": 0.5139406522115072,
+        "height": 0.019790399819612503
+      },
+      "confidence": 1,
+      "text": "and to provide the best facilities and equipment its resources can",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2226283931659737,
+        "y": 0.6495961313968339,
+        "width": 0.5160942077636719,
+        "height": 0.024434709921479225
+      },
+      "confidence": 1,
+      "text": "afford, in order to produce graduates who are honest, decent and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8468992288902105,
+        "y": 0.646802325294906,
+        "width": 0.15116278330485033,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "Bachelor of Scien",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22257697506676286,
+        "y": 0.6645152781260485,
+        "width": 0.5179589986801147,
+        "height": 0.02612587809562683
+      },
+      "confidence": 1,
+      "text": "responsible citizens, fully dedicated to the creation of a just,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8468992292293578,
+        "y": 0.6625976565699533,
+        "width": 0.15116278330485022,
+        "height": 0.01618141308426857
+      },
+      "confidence": 1,
+      "text": "Bachelor of Scien",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22286821720781536,
+        "y": 0.6845703120418836,
+        "width": 0.5174418687820435,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "humane and caring society that fears God, protects the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8488372070014875,
+        "y": 0.6801757813372094,
+        "width": 0.1492248078187306,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "Bachelor of Scien",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.224673263886109,
+        "y": 0.6961150654393308,
+        "width": 0.5041658083597819,
+        "height": 0.022711402736604214
+      },
+      "confidence": 1,
+      "text": "environment and serves the cause of the country and the world.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8502776064289482,
+        "y": 0.6941600587619755,
+        "width": 0.14831221103668213,
+        "height": 0.01790570840239525
+      },
+      "confidence": 1,
+      "text": "Bachelor of Scier",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8521538798828955,
+        "y": 0.7093558402491531,
+        "width": 0.14644442001978564,
+        "height": 0.018287712708115578
+      },
+      "confidence": 1,
+      "text": "Bachelor of Scier",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3197674464218494,
+        "y": 0.7265625003388402,
+        "width": 0.32558139165242517,
+        "height": 0.017623545601963997
+      },
+      "confidence": 1,
+      "text": "IlI. The Vision of the Laguna College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.854022713432269,
+        "y": 0.7251792489892916,
+        "width": 0.14465227723121643,
+        "height": 0.0188280139118433
+      },
+      "confidence": 1,
+      "text": "Bachelor of Scie",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25962508566656545,
+        "y": 0.7484857480398236,
+        "width": 0.4846526384353638,
+        "height": 0.020920313894748688
+      },
+      "confidence": 1,
+      "text": "The Laguna College will be the best school to provide",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8546511619341536,
+        "y": 0.7441406248597933,
+        "width": 0.14341085155804945,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "Bachelor of Scie",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2265289328579089,
+        "y": 0.7644086120968862,
+        "width": 0.4790649016698202,
+        "height": 0.023267904296517372
+      },
+      "confidence": 1,
+      "text": "education that is comparative locally, nationally and globally.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.482558139770084,
+        "y": 0.8110465114032628,
+        "width": 0.011627906312545122,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "2",
+      "verified": false
+    }
+  ]
+}

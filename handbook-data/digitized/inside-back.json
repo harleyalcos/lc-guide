@@ -1,0 +1,138 @@
+{
+  "file": "hb-insideback.jpg",
+  "label": "inside-back",
+  "imageSha256": "b536944b4ae3cdd45da5217c0ecb04704dcc353baf26700e23d0a1bdee3a094c",
+  "left": 0.25554561308833773,
+  "right": 0.5820908194202157,
+  "rows": [
+    {
+      "text": "Awit ng Laguna College",
+      "y": 200,
+      "x": 84,
+      "width": 608,
+      "fontSize": 27,
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "text": "Lingkod kaming tunay",
+      "y": 330,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Sa pag-ibig sa Laguna College",
+      "y": 362,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Sa puso ay walang takot",
+      "y": 394,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Na siya ay ipagtanggol",
+      "y": 426,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Bigkis kaming mag-uusig",
+      "y": 458,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Sa hukom at sa larangan",
+      "y": 490,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Dangal at giting ay hahanapin",
+      "y": 522,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Nang dahil sa Laguna College.",
+      "y": 554,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Kung mawalay man tayo",
+      "y": 618,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Sa piling ng Laguna College",
+      "y": 650,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Alaala'y magbabangon.",
+      "y": 682,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Ang dalanging iuukol",
+      "y": 714,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Sa tagumpay o kawalan.",
+      "y": 746,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Lalagi tayong anak",
+      "y": 778,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "May puso't diwa sa paaralan",
+      "y": 810,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Pumipintig ng tapat",
+      "y": 842,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    }
+  ],
+  "reviewed": true,
+  "fixedLayout": true,
+  "seal": {
+    "x": 220,
+    "y": 440,
+    "size": 350,
+    "opacity": 0.13
+  }
+}

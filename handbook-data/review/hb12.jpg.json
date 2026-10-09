@@ -1,0 +1,831 @@
+{
+  "file": "hb12.jpg",
+  "imageSha256": "1b33f6e33da411b90d11f645c812fc56abfac2751491dd98fb8f2647b90cdba5",
+  "passages": [
+    {
+      "box": {
+        "x": 0.2170542664045431,
+        "y": 0.23828124972613574,
+        "width": 0.4224806229273479,
+        "height": 0.02490234375
+      },
+      "confidence": 1,
+      "text": "A student is no longer retained in a course if he/she fails to meet the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1867632128558513,
+        "y": 0.2516899407309543,
+        "width": 0.19181944926579797,
+        "height": 0.025498028844594955
+      },
+      "confidence": 1,
+      "text": "minimum course requirements.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7344961278722275,
+        "y": 0.26017441904624117,
+        "width": 0.2635658780733744,
+        "height": 0.01472792448475957
+      },
+      "confidence": 1,
+      "text": "2. Promotion and Retention Poli",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21511628146574738,
+        "y": 0.2688953492997397,
+        "width": 0.42441860834757494,
+        "height": 0.021802324801683426
+      },
+      "confidence": 1,
+      "text": "A student who does not pass at least 50% of all the registered unit.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18604652649621292,
+        "y": 0.28052325590572047,
+        "width": 0.4534883499145508,
+        "height": 0.023255813866853714
+      },
+      "confidence": 1,
+      "text": "within the semester is placed under probation for another semester or may",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7674418606566161,
+        "y": 0.2863372093122929,
+        "width": 0.019379844268163082,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "a.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8062015561803447,
+        "y": 0.28466796871858946,
+        "width": 0.19186045726140344,
+        "height": 0.013297147583216429
+      },
+      "confidence": 1,
+      "text": "A final grade of 75 or higher",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18297122796959597,
+        "y": 0.2918389411629151,
+        "width": 0.21671122312545782,
+        "height": 0.024712136015295982
+      },
+      "confidence": 1,
+      "text": "be asked to shift to another course.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8062015540889366,
+        "y": 0.2963867188460274,
+        "width": 0.19186045726140333,
+        "height": 0.013206304050981998
+      },
+      "confidence": 1,
+      "text": "grade level (Grade 1-12) all",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.211240312172616,
+        "y": 0.3110351566741397,
+        "width": 0.4302325646082561,
+        "height": 0.02197265625
+      },
+      "confidence": 1,
+      "text": "If in the succeeding semester, the student still does not pass at least",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8062015511173604,
+        "y": 0.30957031228541476,
+        "width": 0.19186045726140344,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "promoted to the next grade le",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.182170537699928,
+        "y": 0.3241279069853046,
+        "width": 0.42054263750712084,
+        "height": 0.020348837599158287
+      },
+      "confidence": 1,
+      "text": "50% of all the registered units, he/she is not entitled to re-enrolment.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.796511626164984,
+        "y": 0.3343023257948511,
+        "width": 0.2015503843625387,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "In grades 1 to 5 and grades 7",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21317829893957704,
+        "y": 0.3415697676789762,
+        "width": 0.42829457918802893,
+        "height": 0.023255813866853714
+      },
+      "confidence": 1,
+      "text": "Transfer students who violate the conditions of their probation (i.e.,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8062015562336393,
+        "y": 0.34716796887254087,
+        "width": 0.19186045726140344,
+        "height": 0.011843658983707428
+      },
+      "confidence": 1,
+      "text": "a grade below 75 in 3 or m",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18023256878560381,
+        "y": 0.35302734345232223,
+        "width": 0.461240291595459,
+        "height": 0.020519168116152287
+      },
+      "confidence": 1,
+      "text": "no failed or dropped subject, no violation of school rules) shall not be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8042635661268851,
+        "y": 0.360351562659309,
+        "width": 0.1937984426816305,
+        "height": 0.013194948900491
+      },
+      "confidence": 1,
+      "text": "retained in the same grade le",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.17734969591853358,
+        "y": 0.36649109767251387,
+        "width": 0.16432852546374002,
+        "height": 0.02053704857826233
+      },
+      "confidence": 1,
+      "text": "admitted for re-enrolment.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.209302317563278,
+        "y": 0.38517441885800596,
+        "width": 0.43217055002848304,
+        "height": 0.019122456200420856
+      },
+      "confidence": 1,
+      "text": "Registered units are considered all units enrolled for at the start of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7732558141761651,
+        "y": 0.38953488393366764,
+        "width": 0.01550387591123581,
+        "height": 0.008720929734408855
+      },
+      "confidence": 0.5,
+      "text": "C.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.806201555913872,
+        "y": 0.3866279069499532,
+        "width": 0.19186045726140344,
+        "height": 0.011809593066573143
+      },
+      "confidence": 1,
+      "text": "In grade 6, a pupil must pas",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.17441861335212647,
+        "y": 0.39680232549681416,
+        "width": 0.4689922332763672,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "semester or term except those dropped officially within the prescribed",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8081395368991794,
+        "y": 0.39970930241991454,
+        "width": 0.18992247184117628,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "Elementary Certificate and:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.17441860622180894,
+        "y": 0.41715116266700747,
+        "width": 0.04651162525018057,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "period.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8080443528197837,
+        "y": 0.4124324071410992,
+        "width": 0.09515160322189331,
+        "height": 0.015251465141773224
+      },
+      "confidence": 1,
+      "text": "High School.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.17191500508732238,
+        "y": 0.42684875699594327,
+        "width": 0.2531656821568807,
+        "height": 0.022821742109954357
+      },
+      "confidence": 1,
+      "text": "C. Elementary and High School",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7732558145422749,
+        "y": 0.4374999999853215,
+        "width": 0.019379844268163082,
+        "height": 0.011627906933426857
+      },
+      "confidence": 0.5,
+      "text": "d.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8042635661268851,
+        "y": 0.4345703126541768,
+        "width": 0.1937984426816305,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "In grade 10, a student mus",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16800922960620465,
+        "y": 0.45030658449337313,
+        "width": 0.1620550056298574,
+        "height": 0.01966825220733881
+      },
+      "confidence": 1,
+      "text": "1. Grading System",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8081395373739855,
+        "y": 0.4491279069519546,
+        "width": 0.1899224718411764,
+        "height": 0.010344749316573143
+      },
+      "confidence": 1,
+      "text": "the to ear the JHS Certific",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8081058907634988,
+        "y": 0.4620676161604348,
+        "width": 0.0969665149847666,
+        "height": 0.013364767655730247
+      },
+      "confidence": 1,
+      "text": "High School.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19767441831956464,
+        "y": 0.4752906976516824,
+        "width": 0.021317829688390078,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "a.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22286820912111693,
+        "y": 0.47070312492619604,
+        "width": 0.42054263750712073,
+        "height": 0.01621547993272543
+      },
+      "confidence": 1,
+      "text": "The Laguna College Elementary (including Kindergarten), the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23449612076777981,
+        "y": 0.4838867188265237,
+        "width": 0.4089147249857584,
+        "height": 0.014659792650491
+      },
+      "confidence": 1,
+      "text": "Junior and Senior High School program adopt the assessment",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7751938025685274,
+        "y": 0.483886718899198,
+        "width": 0.2228682041168213,
+        "height": 0.014659792650491
+      },
+      "confidence": 1,
+      "text": "e. For grades 11 to 12 leamer:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.234496129968361,
+        "y": 0.49560546876082934,
+        "width": 0.4089147249857584,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "policy for the K to 12 Basic Education Curriculum stipulated in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23418605694786013,
+        "y": 0.5084875863711691,
+        "width": 0.19042843580245974,
+        "height": 0.015679603442549706
+      },
+      "confidence": 1,
+      "text": "DepEd Order No. 8, s. 2015.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8100775210983109,
+        "y": 0.5072674420739208,
+        "width": 0.18798448642094934,
+        "height": 0.01324037043377757
+      },
+      "confidence": 1,
+      "text": "- getting a final grade o",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8468992266130787,
+        "y": 0.5218023255384372,
+        "width": 0.15116278330485033,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "in a semester will en",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1976744186103581,
+        "y": 0.5334302324170709,
+        "width": 0.0135658917327722,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "b.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2325581352991032,
+        "y": 0.5290697676734848,
+        "width": 0.41279069582621264,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "The quarterly grade for each subject is based on the student's",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8488372150385489,
+        "y": 0.5361328123292968,
+        "width": 0.10852712392807007,
+        "height": 0.010378815233707428
+      },
+      "confidence": 1,
+      "text": "next semester.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23062015031670283,
+        "y": 0.5419921873274489,
+        "width": 0.4147286812464397,
+        "height": 0.014693859033286572
+      },
+      "confidence": 1,
+      "text": "written work, performance tasks and quarterly assessment,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23062015964809798,
+        "y": 0.5551757810872727,
+        "width": 0.4147286812464396,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "each of which is given a different weight depending on the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8449612429824226,
+        "y": 0.5581054689061782,
+        "width": 0.15310076872507727,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "failing in a pre-requis",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22868217938675486,
+        "y": 0.5697674419285721,
+        "width": 0.18410851558049515,
+        "height": 0.01324037043377757
+      },
+      "confidence": 1,
+      "text": "subject area and program.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8488372109737092,
+        "y": 0.5726744186747594,
+        "width": 0.14922479788462317,
+        "height": 0.011798237450420856
+      },
+      "confidence": 1,
+      "text": "require student to ta",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18992248077823223,
+        "y": 0.5944767440280205,
+        "width": 0.01550387591123581,
+        "height": 0.010174418799579144
+      },
+      "confidence": 0.5,
+      "text": "C.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.228682166737561,
+        "y": 0.5886627911392643,
+        "width": 0.4186046520868937,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "The final grade for each learning area is the fourth quarterly",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8507751995171559,
+        "y": 0.5857558138762464,
+        "width": 0.14728681246439623,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "competencies in the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22674418986172648,
+        "y": 0.6030273438412022,
+        "width": 0.26550386349360144,
+        "height": 0.01470521418377757
+      },
+      "confidence": 1,
+      "text": "grades, expressed as a whole number",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8507751922245207,
+        "y": 0.6000976561022386,
+        "width": 0.14728682239850355,
+        "height": 0.013274436816573143
+      },
+      "confidence": 1,
+      "text": "this exam to be elig",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18798449648615803,
+        "y": 0.626453488364682,
+        "width": 0.017441860089699446,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "d.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22674418816405284,
+        "y": 0.6235351560778601,
+        "width": 0.3488372166951498,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "The general average is computed as the weighted",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5987648656422754,
+        "y": 0.6233491892480214,
+        "width": 0.04859430094559991,
+        "height": 0.010569063015282154
+      },
+      "confidence": 1,
+      "text": "average",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8507506673778966,
+        "y": 0.6147598683300628,
+        "width": 0.062064558267593384,
+        "height": 0.013212821446359158
+      },
+      "confidence": 1,
+      "text": "subject.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2227338236117049,
+        "y": 0.6346285529457001,
+        "width": 0.4247461954752604,
+        "height": 0.017810719087719917
+      },
+      "confidence": 1,
+      "text": "of the final grades of all the learning areas, expressed also as a",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8488372116923784,
+        "y": 0.6366279070549621,
+        "width": 0.14922479788462317,
+        "height": 0.014739280566573143
+      },
+      "confidence": 1,
+      "text": "failing in any subject",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22286821824689018,
+        "y": 0.652616279091426,
+        "width": 0.10465116302172345,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "whole number.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8527131794482926,
+        "y": 0.6526162790291337,
+        "width": 0.1453488369782765,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "semester should re",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1821705423747972,
+        "y": 0.6744186047899428,
+        "width": 0.021317829688390078,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "e.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2207210303579258,
+        "y": 0.6684564644092048,
+        "width": 0.4288369814554851,
+        "height": 0.021741999313235283
+      },
+      "confidence": 1,
+      "text": "However, the lowest failing grade a student may receive and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8507751924604742,
+        "y": 0.6669921874749232,
+        "width": 0.1453488369782765,
+        "height": 0.011786882299929857
+      },
+      "confidence": 1,
+      "text": "the re-examination",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22070720420990764,
+        "y": 0.6815159468376539,
+        "width": 0.4308560689290365,
+        "height": 0.021985492669045925
+      },
+      "confidence": 1,
+      "text": "which should appear on the report card is 70% instead of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.852713177465319,
+        "y": 0.680175781431686,
+        "width": 0.1453488369782766,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "subjects to be able",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22093024017486865,
+        "y": 0.7020348839517645,
+        "width": 0.1841085155804952,
+        "height": 0.014761990867555141
+      },
+      "confidence": 1,
+      "text": "DepEd's prescribed 60%.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8546511636008202,
+        "y": 0.694767442265718,
+        "width": 0.14341085155804956,
+        "height": 0.01470521418377757
+      },
+      "confidence": 1,
+      "text": "Otherwise, the lee",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8524651010961725,
+        "y": 0.7073503697084864,
+        "width": 0.05088375012079882,
+        "height": 0.015531818382441998
+      },
+      "confidence": 1,
+      "text": "failed.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18192414154296235,
+        "y": 0.7221995695316537,
+        "width": 0.469658652941386,
+        "height": 0.0253840871155262
+      },
+      "confidence": 1,
+      "text": "f. For grades 11 and 12, the 3rd and 4th quarter grades will",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8546511630291148,
+        "y": 0.732421875048244,
+        "width": 0.14341085155804956,
+        "height": 0.016124636866152287
+      },
+      "confidence": 1,
+      "text": "passing all subject",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21845759426745795,
+        "y": 0.7328490885698025,
+        "width": 0.4335604508717855,
+        "height": 0.03167222812771797
+      },
+      "confidence": 1,
+      "text": "determine the final grade in a semester which is the average of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8565891486817346,
+        "y": 0.7470703124119287,
+        "width": 0.1414728661378225,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "students to rece",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21705426370921233,
+        "y": 0.7601744188354853,
+        "width": 0.12984496355056763,
+        "height": 0.014727924950420856
+      },
+      "confidence": 1,
+      "text": "these two grades.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8564537456510418,
+        "y": 0.7611671814767937,
+        "width": 0.08554212252298987,
+        "height": 0.015456334687769413
+      },
+      "confidence": 1,
+      "text": "Certificate.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3934108526848747,
+        "y": 0.8328488374154905,
+        "width": 0.021317829688390078,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "12",
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "file": "hb4.jpg",
+  "label": "4",
+  "imageSha256": "9881a2a8c9a65a107f31dce8ae0e7f6c375b8c8371a1e7ab14111f1900fdd168",
+  "left": 0.24031008254008132,
+  "right": 0.746124026509059,
+  "rows": [
+    {
+      "text": "Bachelor of Science in Information Technology (BSIT)",
+      "box": {
+        "height": 0.02535967342555523,
+        "width": 0.40352745850880933,
+        "x": 0.23823846376834354,
+        "y": 0.17965378091880058
+      },
+      "level": 0.17965378091880058
+    },
+    {
+      "text": "Bachelor of Science in Tourism Management (BSTM)",
+      "box": {
+        "height": 0.02057594433426857,
+        "width": 0.4011627833048502,
+        "x": 0.24031008254008132,
+        "y": 0.1962209306298055
+      },
+      "level": 0.1962209306298055
+    },
+    {
+      "text": "Certificate in Pre-Elementary, Elementary and",
+      "box": {
+        "height": 0.021348947659134865,
+        "width": 0.35150460402170824,
+        "x": 0.2360103995197799,
+        "y": 0.20884328245457084
+      },
+      "level": 0.21429085827704342
+    },
+    {
+      "text": "Secondary Teaching Proficiency",
+      "box": {
+        "height": 0.016192768700420856,
+        "width": 0.24999999999999994,
+        "x": 0.3410852721124031,
+        "y": 0.2236328126216789
+      },
+      "level": 0.2236328126216789
+    },
+    {
+      "text": "High School: Special Science Curriculum and K-12 Curriculum",
+      "box": {
+        "height": 0.03198876231908798,
+        "width": 0.4661020040512085,
+        "x": 0.23420600676276285,
+        "y": 0.23418666856328185
+      },
+      "level": 0.23418666856328185
+    },
+    {
+      "text": "Elementary",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.10077519218126932,
+        "x": 0.23449612526595445,
+        "y": 0.27180232569595053
+      },
+      "level": 0.2529944971296162
+    },
+    {
+      "text": "Kindergarten",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.10077519218126932,
+        "x": 0.23449612526595445,
+        "y": 0.27180232569595053
+      },
+      "level": 0.27180232569595053
+    },
+    {
+      "text": "VI. Admission and Registration",
+      "box": {
+        "height": 0.017612190917134285,
+        "width": 0.27519379059473675,
+        "x": 0.35658914845263173,
+        "y": 0.2905273436864606
+      },
+      "level": 0.2905273436864606
+    },
+    {
+      "text": "A. Admission Policies",
+      "box": {
+        "height": 0.020497391000390053,
+        "width": 0.20843183994293216,
+        "x": 0.23391898631262778,
+        "y": 0.31431320397121665
+      },
+      "level": 0.3192864516185021
+    },
+    {
+      "text": "The Laguna College is open to students with satisfactory academic",
+      "box": {
+        "height": 0.031195489689707756,
+        "width": 0.47014395395914715,
+        "x": 0.2689839850078009,
+        "y": 0.33094947948971776
+      },
+      "level": 0.33094947948971776
+    },
+    {
+      "text": "work and valid entrance credentials. The applicants should pass the",
+      "box": {
+        "height": 0.02857987303286791,
+        "width": 0.5026790698369344,
+        "x": 0.23624417943341225,
+        "y": 0.3450805937895829
+      },
+      "level": 0.3450805937895829
+    },
+    {
+      "text": "entrance examination given by the guidance office for the level he/she is",
+      "box": {
+        "height": 0.02197265625,
+        "width": 0.501937985420227,
+        "x": 0.2364341122478968,
+        "y": 0.3647460934397986
+      },
+      "level": 0.3647460934397986
+    },
+    {
+      "text": "applying for, subject to the availability of accommodation and facilities of",
+      "box": {
+        "height": 0.021995366550982,
+        "width": 0.5038759708404541,
+        "x": 0.23449611890793834,
+        "y": 0.37790697724305367
+      },
+      "level": 0.37790697724305367
+    },
+    {
+      "text": "the school. Kindergarten and grade one pupils must meet the DepEd age",
+      "box": {
+        "height": 0.02492791786789894,
+        "width": 0.5062840779622395,
+        "x": 0.23626998724184692,
+        "y": 0.3880055049791361
+      },
+      "level": 0.3880055049791361
+    },
+    {
+      "text": "requirements.",
+      "box": {
+        "height": 0.01681794784963131,
+        "width": 0.0985321799914042,
+        "x": 0.23557757829742745,
+        "y": 0.4076399408148059
+      },
+      "level": 0.41348162394551724
+    },
+    {
+      "text": "The students, having been admitted to the Laguna College and",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.4709302186965942,
+        "x": 0.2732558161749587,
+        "y": 0.4301757810052056
+      },
+      "level": 0.4301757810052056
+    },
+    {
+      "text": "having completed his/her enrollment, agree to abide by the rules and",
+      "box": {
+        "height": 0.017623545601963997,
+        "width": 0.5077519416809082,
+        "x": 0.23837208609753047,
+        "y": 0.4433139541028004
+      },
+      "level": 0.4433139541028004
+    },
+    {
+      "text": "regulations set by the College. The basis of the admission policies set by",
+      "box": {
+        "height": 0.01744185946881771,
+        "width": 0.5077519416809082,
+        "x": 0.23837208482815075,
+        "y": 0.4578488378528004
+      },
+      "level": 0.4578488378528004
+    },
+    {
+      "text": "the College is the belief that only those students whose qualifications",
+      "box": {
+        "height": 0.016204124316573143,
+        "width": 0.5116278727849324,
+        "x": 0.23837211864629312,
+        "y": 0.4721679687690925
+      },
+      "level": 0.4721679687690925
+    },
+    {
+      "text": "indicate a strong likelihood of success and who can measure up to its",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.5116278727849324,
+        "x": 0.23837210159203023,
+        "y": 0.485351562946004
+      },
+      "level": 0.485351562946004
+    },
+    {
+      "text": "academic standards in the course they are enrolled, should be accepted.",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.5077519416809082,
+        "x": 0.2403100695665228,
+        "y": 0.50000000011322
+      },
+      "level": 0.50000000011322
+    },
+    {
+      "text": "As a general rule, therefore, the Laguna College admits only those",
+      "box": {
+        "height": 0.017680322751402855,
+        "width": 0.5116278727849324,
+        "x": 0.2422480876385412,
+        "y": 0.513081395798537
+      },
+      "level": 0.513081395798537
+    },
+    {
+      "text": "enrollees who possess good moral character, personal integrity, and",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.5116279125213623,
+        "x": 0.24224806345831093,
+        "y": 0.5276162791479855
+      },
+      "level": 0.5276162791479855
+    },
+    {
+      "text": "maturity of purpose and behavior befitting a student.",
+      "box": {
+        "height": 0.017600835300982,
+        "width": 0.3779069582621256,
+        "x": 0.23837210604335576,
+        "y": 0.5419921873985432
+      },
+      "level": 0.5419921873985432
+    },
+    {
+      "text": "The school reserves the right to refuse enrollment or re-enrollment to",
+      "box": {
+        "height": 0.014682502951472998,
+        "width": 0.4825581312179565,
+        "x": 0.2751938008961898,
+        "y": 0.5668604656184311
+      },
+      "level": 0.5668604656184311
+    },
+    {
+      "text": "the following:",
+      "box": {
+        "height": 0.014020530972629786,
+        "width": 0.09711676836013788,
+        "x": 0.23632533594169292,
+        "y": 0.5838327575893901
+      },
+      "level": 0.5838327575893901
+    },
+    {
+      "text": "1. Pupils/Students who have physical or mental illness, contagious",
+      "box": {
+        "height": 0.014682503417134285,
+        "width": 0.501937985420227,
+        "x": 0.25968991365293587,
+        "y": 0.6059570313035818
+      },
+      "level": 0.6059570313035818
+    },
+    {
+      "text": "disease or other sickness as certified by the school physician which",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.49224805831909174,
+        "x": 0.27131783261370995,
+        "y": 0.6206054690798066
+      },
+      "level": 0.6206054690798066
+    },
+    {
+      "text": "may be aggravated by the burden of academic studies.",
+      "box": {
+        "height": 0.018488207831978798,
+        "width": 0.40339108308156335,
+        "x": 0.271164556204198,
+        "y": 0.6348541279925368
+      },
+      "level": 0.6383700490599833
+    },
+    {
+      "text": "2. Students with disciplinary cases considered grave by the",
+      "box": {
+        "height": 0.01744185946881771,
+        "width": 0.4437984228134155,
+        "x": 0.25387597684426133,
+        "y": 0.6497093029327423
+      },
+      "level": 0.6497093029327423
+    },
+    {
+      "text": "committee on discipline",
+      "box": {
+        "height": 0.01324037043377757,
+        "width": 0.178294579188029,
+        "x": 0.2674418562070191,
+        "y": 0.6669921876497629
+      },
+      "level": 0.6669921876497629
+    },
+    {
+      "text": "2.1. Students who have participated in, incited, caused, or led acts of",
+      "box": {
+        "height": 0.01904296875,
+        "width": 0.503875970840454,
+        "x": 0.26744186434721473,
+        "y": 0.6772460939075852
+      },
+      "level": 0.6772460939075852
+    },
+    {
+      "text": "violence, vandalism, and other forms of utter disregard for law",
+      "box": {
+        "height": 0.02222876437008381,
+        "width": 0.46757491429646814,
+        "x": 0.302103774739936,
+        "y": 0.6919565316482985
+      },
+      "level": 0.6977009725950265
+    },
+    {
+      "text": "and order.",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.07558139165242511,
+        "x": 0.3042635671905833,
+        "y": 0.7107558138762464
+      },
+      "level": 0.7107558138762464
+    },
+    {
+      "text": "2.2. Students known to be or to have been associated with",
+      "box": {
+        "height": 0.01911110058426857,
+        "width": 0.5038759708404541,
+        "x": 0.26744186314012736,
+        "y": 0.72216796891736
+      },
+      "level": 0.72216796891736
+    },
+    {
+      "text": "elements, groups, or movements that tend to subvert the",
+      "box": {
+        "height": 0.02901649009436369,
+        "width": 0.47176341215769446,
+        "x": 0.3019470410633289,
+        "y": 0.7343295219508089
+      },
+      "level": 0.7442347573270179
+    },
+    {
+      "text": "country's democratic institutions.",
+      "box": {
+        "height": 0.016181414015591145,
+        "width": 0.26744184891382855,
+        "x": 0.30232558527176795,
+        "y": 0.7587209299860398
+      },
+      "level": 0.7587209299860398
+    },
+    {
+      "text": "4",
+      "box": {
+        "height": 0.010174418799579144,
+        "width": 0.009689922134081486,
+        "x": 0.49224806211609873,
+        "y": 0.8081395346590767
+      },
+      "level": 0.8081395346590767
+    }
+  ],
+  "reviewed": true
+}

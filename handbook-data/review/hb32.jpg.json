@@ -1,0 +1,754 @@
+{
+  "file": "hb32.jpg",
+  "imageSha256": "6e0c6ded87683c2656dc691ab2ae1859c9263a139f5633443c5ade7d9501a047",
+  "passages": [
+    {
+      "box": {
+        "x": 0.9455514809138057,
+        "y": 0.24683368756217117,
+        "width": 0.0544485190861943,
+        "height": 0.021223342046141624
+      },
+      "confidence": 1,
+      "text": "crea",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1569767442481822,
+        "y": 0.2747093025612606,
+        "width": 0.021317829688390105,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7919207945535917,
+        "y": 0.2549315668404234,
+        "width": 0.15957684318224596,
+        "height": 0.04447132349014282
+      },
+      "confidence": 1,
+      "text": "The school shall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19496624970967544,
+        "y": 0.27105863048133916,
+        "width": 0.4805325667063395,
+        "height": 0.0346069298684597
+      },
+      "confidence": 1,
+      "text": "Students who cannot join the tour and/or trip shall be given",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7564554946578358,
+        "y": 0.2590617453744877,
+        "width": 0.2435445053421642,
+        "height": 0.06230414658784866
+      },
+      "confidence": 1,
+      "text": "investigation of cases on sex",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19186046869695325,
+        "y": 0.29052734346843734,
+        "width": 0.28875968853632605,
+        "height": 0.017612190917134285
+      },
+      "confidence": 1,
+      "text": "parallel activity which provides",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19182528028961668,
+        "y": 0.3050775560508585,
+        "width": 0.12410138050715128,
+        "height": 0.01629837602376938
+      },
+      "confidence": 1,
+      "text": "knowledge of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.4915866710751147,
+        "y": 0.29495084400484894,
+        "width": 0.18577561775843304,
+        "height": 0.022719139233231544
+      },
+      "confidence": 1,
+      "text": "similar acquisition of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7597198609661797,
+        "y": 0.2748556597634837,
+        "width": 0.24028013903382028,
+        "height": 0.06010456383228302
+      },
+      "confidence": 1,
+      "text": "comprise of a member of th",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9116511892307028,
+        "y": 0.2908661033363493,
+        "width": 0.08777906497319543,
+        "height": 0.029453415423631668
+      },
+      "confidence": 1,
+      "text": "deemed",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3151719095371546,
+        "y": 0.3022558123936321,
+        "width": 0.3619316021601359,
+        "height": 0.03180164285004139
+      },
+      "confidence": 1,
+      "text": "the required practical competencies and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1895897409368621,
+        "y": 0.3160933175155416,
+        "width": 0.2838541467984517,
+        "height": 0.022819025442004204
+      },
+      "confidence": 1,
+      "text": "achieves other learning objectives.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7600152529439383,
+        "y": 0.3071845369419359,
+        "width": 0.1581066449483236,
+        "height": 0.04061109200119972
+      },
+      "confidence": 1,
+      "text": "and students, as",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7601173063457963,
+        "y": 0.3066816101399996,
+        "width": 0.23988269365420367,
+        "height": 0.055396150797605515
+      },
+      "confidence": 1,
+      "text": "investigate the alleged case",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.152561554426075,
+        "y": 0.3371221539058905,
+        "width": 0.5244998931884765,
+        "height": 0.029659987427294254
+      },
+      "confidence": 1,
+      "text": "3. Students must submit their parent's and/or guardians's written",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7621134840698729,
+        "y": 0.3219992732113326,
+        "width": 0.2378865159301271,
+        "height": 0.05450833588838577
+      },
+      "confidence": 1,
+      "text": "recommend to the school a",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19154976099895102,
+        "y": 0.3543438987238767,
+        "width": 0.30888650814692176,
+        "height": 0.020809734240174294
+      },
+      "confidence": 1,
+      "text": "consent, except for graduate students.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7640876572084659,
+        "y": 0.3537008042236407,
+        "width": 0.13983303308486938,
+        "height": 0.036001790314912796
+      },
+      "confidence": 1,
+      "text": "based on the act.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.15270465476010534,
+        "y": 0.3755387061856894,
+        "width": 0.5241167942682903,
+        "height": 0.025757407769560814
+      },
+      "confidence": 1,
+      "text": "4. The students, through their dean, must first secure a written",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9223911770243673,
+        "y": 0.3746645798657514,
+        "width": 0.06201549867788947,
+        "height": 0.018492843955755234
+      },
+      "confidence": 1,
+      "text": "when",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8018895508998648,
+        "y": 0.3815079954769911,
+        "width": 0.12442123889923096,
+        "height": 0.029557714238762856
+      },
+      "confidence": 1,
+      "text": "The offender,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18798450806577804,
+        "y": 0.3953488376900013,
+        "width": 0.47480618953704834,
+        "height": 0.021802324801683426
+      },
+      "confidence": 1,
+      "text": "approval from the College President for such tour and/or trip.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7659071016697295,
+        "y": 0.3844576293253892,
+        "width": 0.23409289833027047,
+        "height": 0.050274770706892014
+      },
+      "confidence": 1,
+      "text": "penalties as prescribed in S",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.17413828698492248,
+        "y": 0.42091709675377764,
+        "width": 0.48325443267822266,
+        "height": 0.024003595113754272
+      },
+      "confidence": 1,
+      "text": "Policies and Guidelines on Local-Off Campus Activities",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7685417949285731,
+        "y": 0.40367693283257666,
+        "width": 0.2314582050714269,
+        "height": 0.04368321783840656
+      },
+      "confidence": 1,
+      "text": "and imprisonment. Moreo",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7687702578173811,
+        "y": 0.4189692846021993,
+        "width": 0.23122974218261894,
+        "height": 0.041834864765405655
+      },
+      "confidence": 1,
+      "text": "administrative sanctions",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3313953445791122,
+        "y": 0.44040697671811346,
+        "width": 0.178294579188029,
+        "height": 0.016135992482304573
+      },
+      "confidence": 1,
+      "text": "(C.M.O. #63 s. 2017)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7708382535788338,
+        "y": 0.43590499419430895,
+        "width": 0.22916174642116616,
+        "height": 0.03946235775947571
+      },
+      "confidence": 1,
+      "text": "manual of the Laguna Colle",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18798450378006093,
+        "y": 0.4707031253607862,
+        "width": 0.4883720874786377,
+        "height": 0.01766896713525057
+      },
+      "confidence": 1,
+      "text": "Laguna College adopts the requirement provisions of CHED",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.14728682266823778,
+        "y": 0.48535156262270085,
+        "width": 0.2965116302172343,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "Memorandum Order no. 63 s. 2017",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8116786107181585,
+        "y": 0.46909407834630923,
+        "width": 0.18820331494013476,
+        "height": 0.032782699912786484
+      },
+      "confidence": 1,
+      "text": "Provisions for Toba",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.777131782997786,
+        "y": 0.491279069881997,
+        "width": 0.01744186008969939,
+        "height": 0.014534883201122284
+      },
+      "confidence": 0.5,
+      "text": "F.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8124292147467256,
+        "y": 0.48782335969773527,
+        "width": 0.18757078525327442,
+        "height": 0.030539589002728462
+      },
+      "confidence": 1,
+      "text": "Based on R.A. No. S",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21899225462387606,
+        "y": 0.5116279068381993,
+        "width": 0.4011627833048502,
+        "height": 0.016204124316573143
+      },
+      "confidence": 1,
+      "text": "E. Provisions for Anti- Sexual Harassment",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3120155110005401,
+        "y": 0.5276162787832781,
+        "width": 0.2209302186965943,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "Based on R.A. No. 7877",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8143722043288381,
+        "y": 0.5215307269527898,
+        "width": 0.1770751873652141,
+        "height": 0.03149082884192467
+      },
+      "confidence": 1,
+      "text": "As provided for in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7793909940650169,
+        "y": 0.5401330772681123,
+        "width": 0.2199779748916626,
+        "height": 0.02891603484749794
+      },
+      "confidence": 1,
+      "text": "prohibited in schools or ce",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18023256351388137,
+        "y": 0.5595703124853215,
+        "width": 0.5038759708404541,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "In keeping with the commitment of the Laguna College to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7816272726349972,
+        "y": 0.5558044225055567,
+        "width": 0.2179120580355327,
+        "height": 0.03214353695511818
+      },
+      "confidence": 1,
+      "text": "are visible in conspicuou:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.14147288290382085,
+        "y": 0.575581395218598,
+        "width": 0.5445736249287922,
+        "height": 0.01621547993272543
+      },
+      "confidence": 1,
+      "text": "provide a secure and conducive learning and working environment",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.784112625481229,
+        "y": 0.5757111379746569,
+        "width": 0.21456074714660645,
+        "height": 0.022628478705883026
+      },
+      "confidence": 1,
+      "text": "be observed accordingly",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13759690800200466,
+        "y": 0.5915697677219864,
+        "width": 0.5484495957692465,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "for student, faculty members and employees, the school shall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7840417006661125,
+        "y": 0.5918404177243985,
+        "width": 0.2130379478136698,
+        "height": 0.02561647817492485
+      },
+      "confidence": 1,
+      "text": "subject to the provisions",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1395348970541724,
+        "y": 0.6074218753604989,
+        "width": 0.5465116103490193,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "observe all provisions as indicated in R.A. No. 7877 specifically, for",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7868217065016901,
+        "y": 0.6103515628269334,
+        "width": 0.21124031146367384,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "minors who are caught s",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13759690287988943,
+        "y": 0.6250000000466018,
+        "width": 0.393410841623942,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "students, that sexual harassment is committed:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7845262948433507,
+        "y": 0.6273680533330311,
+        "width": 0.21418823798497522,
+        "height": 0.021314948797225952
+      },
+      "confidence": 1,
+      "text": "tobacco products shall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13554510067866263,
+        "y": 0.6466104775186634,
+        "width": 0.5525567531585693,
+        "height": 0.01969953440129757
+      },
+      "confidence": 1,
+      "text": "a. against a student who is underthe care, custody or supervision",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7887596905958475,
+        "y": 0.6453488369894312,
+        "width": 0.2093023260434469,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "603 The Child and Youth",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1724806199966874,
+        "y": 0.6640624999915833,
+        "width": 0.12596899271011353,
+        "height": 0.01471656933426857
+      },
+      "confidence": 1,
+      "text": "of the offender",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1336278223012716,
+        "y": 0.6869679070135009,
+        "width": 0.5583449204762776,
+        "height": 0.019681465812027454
+      },
+      "confidence": 1,
+      "text": "b. against a student whose education, training, apprenticeship or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7906976730023437,
+        "y": 0.6801757816626639,
+        "width": 0.20736434062321973,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "G. Provisions for Da",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16843514851909505,
+        "y": 0.7043682858904874,
+        "width": 0.3123201926549276,
+        "height": 0.019282251596450806
+      },
+      "confidence": 1,
+      "text": "tutorship is entrusted to the offender.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8288925334334527,
+        "y": 0.7164054977972664,
+        "width": 0.16981464624404907,
+        "height": 0.01683655194938183
+      },
+      "confidence": 1,
+      "text": "The student's pers",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.12984496178064717,
+        "y": 0.7340116278995656,
+        "width": 0.019379844268163027,
+        "height": 0.011627906933426857
+      },
+      "confidence": 0.5,
+      "text": "C.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1705426537131316,
+        "y": 0.7280273436864606,
+        "width": 0.5232557853062947,
+        "height": 0.017612190917134285
+      },
+      "confidence": 1,
+      "text": "when the sexual form is made a condition for a passing grade,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.791646844372076,
+        "y": 0.7272121564659899,
+        "width": 0.20767895380655932,
+        "height": 0.02825676742941141
+      },
+      "confidence": 1,
+      "text": "confidentiality. Only w",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16837040922176896,
+        "y": 0.7440250221615459,
+        "width": 0.5256102482477825,
+        "height": 0.02333809994161129
+      },
+      "confidence": 1,
+      "text": "granting of honors or scholarship, or payment of a stipend,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7894744999525347,
+        "y": 0.7409573924843174,
+        "width": 0.21025546391805017,
+        "height": 0.03331109881401062
+      },
+      "confidence": 1,
+      "text": "information be provided",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1665507708193897,
+        "y": 0.7628275854813302,
+        "width": 0.44984002908070875,
+        "height": 0.020409252494573593
+      },
+      "confidence": 1,
+      "text": "allowance or of the benefits, privileges, or conditions.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.125968992765132,
+        "y": 0.7906976743501386,
+        "width": 0.02519379804531735,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "d.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1531007794705237,
+        "y": 0.7861328125803728,
+        "width": 0.5426356395085652,
+        "height": 0.01764625683426857
+      },
+      "confidence": 1,
+      "text": "when the sexual advances result in an intimidating, hostile or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.831951313885682,
+        "y": 0.7817384657058054,
+        "width": 0.16758801539738977,
+        "height": 0.025853032246232033
+      },
+      "confidence": 1,
+      "text": "Minors who are re",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16472868539985588,
+        "y": 0.8037109370807869,
+        "width": 0.5077519416809082,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "offensive environment for the student, trainee or apprentice.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7951910458293842,
+        "y": 0.7988462117823467,
+        "width": 0.20434590180714918,
+        "height": 0.027024595998227596
+      },
+      "confidence": 1,
+      "text": "co-sign request of doct",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16637887824121642,
+        "y": 0.824016120448245,
+        "width": 0.5335242350896199,
+        "height": 0.025101276114583015
+      },
+      "confidence": 1,
+      "text": "A person who directs or induces another to commit any act of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1218624126952248,
+        "y": 0.8461809677923862,
+        "width": 0.4945479234059652,
+        "height": 0.019589684903621674
+      },
+      "confidence": 1,
+      "text": "sexual harassment shall also be held liable under this act.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.405038760144008,
+        "y": 0.9331395350854854,
+        "width": 0.02519379804531735,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "32",
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "file": "hb-back.jpg",
+  "label": "back-cover",
+  "imageSha256": "84b33016f119c236f5c0f34b3fce145d01793af3f065db0341cd62eb2a14a50b",
+  "left": 0.13517243286952052,
+  "right": 0.43604651526672056,
+  "rows": [
+    {
+      "text": "The Laguna College Hymn",
+      "y": 200,
+      "x": 84,
+      "width": 608,
+      "fontSize": 27,
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "text": "Faithful and true hearted",
+      "y": 330,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "We shall be to the College",
+      "y": 362,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "We will hold her and defend her",
+      "y": 394,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "In our hearts without a fear.",
+      "y": 426,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "We will fight for her united",
+      "y": 490,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "In the courts or in the fields",
+      "y": 522,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "With colors flying honors pursuing",
+      "y": 554,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "All for the Laguna College.",
+      "y": 586,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Cruel time may send us",
+      "y": 650,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Far away from the College",
+      "y": 682,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Still her memory we’ll cherish",
+      "y": 714,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Prayers offer for her bliss",
+      "y": 746,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "In high places or in lowly",
+      "y": 810,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "We her loyal sons shall be",
+      "y": 842,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "And as we love our dear Alma Mater",
+      "y": 874,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    },
+    {
+      "text": "Loyal shall we be to her.",
+      "y": 906,
+      "x": 174,
+      "width": 520,
+      "fontSize": 24
+    }
+  ],
+  "reviewed": true,
+  "fixedLayout": true,
+  "seal": {
+    "x": 220,
+    "y": 440,
+    "size": 350,
+    "opacity": 0.13
+  }
+}

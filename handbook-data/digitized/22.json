@@ -1,0 +1,440 @@
+{
+  "file": "hb22.jpg",
+  "label": "22",
+  "imageSha256": "af366fb727e1560cdbf49a92a6876d4aee37e8adeea50445190c67035e814979",
+  "left": 0.2127613324418943,
+  "right": 0.7122535963647358,
+  "rows": [
+    {
+      "text": "20. Hacking or the intention to falsify information or misrepresent anyone on",
+      "box": {
+        "height": 0.0490790456533432,
+        "width": 0.45625193913777684,
+        "x": 0.2131782946528867,
+        "y": 0.15942407135145298
+      },
+      "level": 0.15942407135145298
+    },
+    {
+      "text": "the school's online platforms.",
+      "box": {
+        "height": 0.017300669103860855,
+        "width": 0.18914330005645752,
+        "x": 0.24948962435747912,
+        "y": 0.17773660546635084
+      },
+      "level": 0.17773660546635084
+    },
+    {
+      "text": "21. Violation of health, safety and sanitation protocols which compromises the",
+      "box": {
+        "height": 0.04528963752090931,
+        "width": 0.45980377991994215,
+        "x": 0.2112403100437136,
+        "y": 0.18352550254679023
+      },
+      "level": 0.18352550254679023
+    },
+    {
+      "text": "health, safety and welfare of any member of the school.",
+      "box": {
+        "height": 0.028999129310250282,
+        "width": 0.34859677155812585,
+        "x": 0.24932888932982392,
+        "y": 0.19833802437287373
+      },
+      "level": 0.19833802437287373
+    },
+    {
+      "text": "22. Physical injury / assault upon any member of the faculty, administration,",
+      "box": {
+        "height": 0.04484507627785206,
+        "width": 0.4582025607426961,
+        "x": 0.21317829552854015,
+        "y": 0.20707673418306238
+      },
+      "level": 0.20707673418306238
+    },
+    {
+      "text": "staff; or any student, personnel or visitor of the institution.",
+      "box": {
+        "height": 0.027598392218351364,
+        "width": 0.35997017224629724,
+        "x": 0.24946333923601585,
+        "y": 0.22280411421841306
+      },
+      "level": 0.22280411421841306
+    },
+    {
+      "text": "23. Any acts of threat either physical or by means of any medium of",
+      "box": {
+        "height": 0.040801648050546646,
+        "width": 0.46136693159739184,
+        "x": 0.21124031053160489,
+        "y": 0.23162118804066822
+      },
+      "level": 0.23162118804066822
+    },
+    {
+      "text": "communications including oral, social media, and using any electronic",
+      "box": {
+        "height": 0.03787917643785477,
+        "width": 0.4631507396697998,
+        "x": 0.24744617146787476,
+        "y": 0.24456549053730936
+      },
+      "level": 0.24456549053730936
+    },
+    {
+      "text": "gadgets against any school officials, faculty member, or students of the institution.",
+      "box": {
+        "height": 0.03695319592952728,
+        "width": 0.46316417058308923,
+        "x": 0.24741854099490027,
+        "y": 0.2570574100149059
+      },
+      "level": 0.2570574100149059
+    },
+    {
+      "text": "24. Perjury, lying or giving false statements in any administrative proceeding",
+      "box": {
+        "height": 0.03918476589024067,
+        "width": 0.4652357896169027,
+        "x": 0.20930232559280917,
+        "y": 0.2795779406056885
+      },
+      "level": 0.2795779406056885
+    },
+    {
+      "text": "and/or presenting false documents to mislead an investigation during the",
+      "box": {
+        "height": 0.033716831356287,
+        "width": 0.4646653334299724,
+        "x": 0.24758826293476344,
+        "y": 0.2944684055698552
+      },
+      "level": 0.2944684055698552
+    },
+    {
+      "text": "administrative investigation or proceedings.",
+      "box": {
+        "height": 0.015162307769060135,
+        "width": 0.285308837890625,
+        "x": 0.2498290589598621,
+        "y": 0.3107708937231627
+      },
+      "level": 0.3107708937231627
+    },
+    {
+      "text": "25. Using the school's property such as the school seal without authorization.",
+      "box": {
+        "height": 0.030913297086954117,
+        "width": 0.48963216940561927,
+        "x": 0.2127613324418943,
+        "y": 0.3182532247806116
+      },
+      "level": 0.3182532247806116
+    },
+    {
+      "text": "PENALTY:",
+      "box": {
+        "height": 0.012256615795195103,
+        "width": 0.07961666584014893,
+        "x": 0.21116065866485645,
+        "y": 0.34416238984424674
+      },
+      "level": 0.34416238984424674
+    },
+    {
+      "text": "1. First Offense: Two (2) weeks suspension",
+      "box": {
+        "height": 0.013229015283286572,
+        "width": 0.2887596885363261,
+        "x": 0.2887596935031547,
+        "y": 0.3559570310730251
+      },
+      "level": 0.3559570310730251
+    },
+    {
+      "text": "2. Second Offense: Exclusion / Dismissal",
+      "box": {
+        "height": 0.01564987376332283,
+        "width": 0.27748624483744305,
+        "x": 0.28859121132140936,
+        "y": 0.36672226040098077
+      },
+      "level": 0.36672226040098077
+    },
+    {
+      "text": "B. Serious Offenses",
+      "box": {
+        "height": 0.011832303833216429,
+        "width": 0.14534883697827658,
+        "x": 0.21511628160776083,
+        "y": 0.38953488364568967
+      },
+      "level": 0.38953488364568967
+    },
+    {
+      "text": "1. Using obscene language and showing of indecent pictures in and out",
+      "box": {
+        "height": 0.01766896713525057,
+        "width": 0.4844961166381836,
+        "x": 0.2151162786635569,
+        "y": 0.4082031254261932
+      },
+      "level": 0.4082031254261932
+    },
+    {
+      "text": "of the school.",
+      "box": {
+        "height": 0.011741460766643286,
+        "width": 0.09496123592058814,
+        "x": 0.2538759698627034,
+        "y": 0.4228515626613104
+      },
+      "level": 0.4228515626613104
+    },
+    {
+      "text": "2. Tearing or obliteration of notices on the bulletin boards, erasing",
+      "box": {
+        "height": 0.017578125,
+        "width": 0.46705424785614014,
+        "x": 0.21317829476514327,
+        "y": 0.4345703125216587
+      },
+      "level": 0.4345703125216587
+    },
+    {
+      "text": "notices and writings on the board without proper authority as well as",
+      "box": {
+        "height": 0.014727924950420856,
+        "width": 0.4709302186965942,
+        "x": 0.2538759806323229,
+        "y": 0.44767441886455517
+      },
+      "level": 0.44767441886455517
+    },
+    {
+      "text": "deleting or adding letters or words so as to change the original",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.4709302186965943,
+        "x": 0.2538759818096484,
+        "y": 0.46220930254914816
+      },
+      "level": 0.46220930254914816
+    },
+    {
+      "text": "meaning.",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.06976744035879773,
+        "x": 0.25387597013067864,
+        "y": 0.47819767424646487
+      },
+      "level": 0.47819767424646487
+    },
+    {
+      "text": "3. Defrauding anyone in school by any deceitful means although no",
+      "box": {
+        "height": 0.0146484375,
+        "width": 0.49031007289886475,
+        "x": 0.2131782947246034,
+        "y": 0.4882812498962742
+      },
+      "level": 0.4882812498962742
+    },
+    {
+      "text": "damage may have been caused to the other.",
+      "box": {
+        "height": 0.018369469791650772,
+        "width": 0.31629461050033564,
+        "x": 0.25360007846541127,
+        "y": 0.4998981348810805
+      },
+      "level": 0.5050864342240704
+    },
+    {
+      "text": "4. Inviting or accompanying outsiders inside the school premises",
+      "box": {
+        "height": 0.017587552778422832,
+        "width": 0.4866385062535603,
+        "x": 0.21317829511398045,
+        "y": 0.5133620119468197
+      },
+      "level": 0.5167092434876487
+    },
+    {
+      "text": "without official business.",
+      "box": {
+        "height": 0.011866369750350714,
+        "width": 0.17829455931981403,
+        "x": 0.2519379946294986,
+        "y": 0.5317382813423317
+      },
+      "level": 0.5317382813423317
+    },
+    {
+      "text": "5. Practicing unsanitary or unhygienic habits, such as spitting within the",
+      "box": {
+        "height": 0.017600835300982,
+        "width": 0.48062014579772944,
+        "x": 0.2519379951243909,
+        "y": 0.5419921873840083
+      },
+      "level": 0.5419921873840083
+    },
+    {
+      "text": "College premises and urinating in places other than the urinals.",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.43992245197296137,
+        "x": 0.2538759888148758,
+        "y": 0.5566406248008637
+      },
+      "level": 0.5566406248008637
+    },
+    {
+      "text": "6. Quarreling inside and/or outside school premises.",
+      "box": {
+        "height": 0.017654627561569214,
+        "width": 0.3570316235224406,
+        "x": 0.21317829490670068,
+        "y": 0.5692312902892909
+      },
+      "level": 0.5741857077582708
+    },
+    {
+      "text": "7. Instigating, causing, and or participating in quarrels, fistfights and",
+      "box": {
+        "height": 0.021199031732976437,
+        "width": 0.49265170097351074,
+        "x": 0.2131782945917782,
+        "y": 0.5812551387568898
+      },
+      "level": 0.5884946499934383
+    },
+    {
+      "text": "other similar misbehavior during intramural games or in any place",
+      "box": {
+        "height": 0.018997284583747387,
+        "width": 0.4830141067504882,
+        "x": 0.2536201721519011,
+        "y": 0.5961651427777582
+      },
+      "level": 0.6026300853690231
+    },
+    {
+      "text": "within or near the vicinity of the school.",
+      "box": {
+        "height": 0.01664958894252777,
+        "width": 0.279474953810374,
+        "x": 0.24977247141548312,
+        "y": 0.6132234449009859
+      },
+      "level": 0.6163029542635643
+    },
+    {
+      "text": "8. Gambling in any form in and within the immediate vicinity of the",
+      "box": {
+        "height": 0.023513682186603546,
+        "width": 0.4890108108520508,
+        "x": 0.21124031022847936,
+        "y": 0.6230178511011772
+      },
+      "level": 0.6308809896706962
+    },
+    {
+      "text": "school.",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.058139532804489136,
+        "x": 0.2500000014756624,
+        "y": 0.6453488371865662
+      },
+      "level": 0.6453488371865662
+    },
+    {
+      "text": "9. Eating, talking aloud, or creating noise in the library.",
+      "box": {
+        "height": 0.01744185946881771,
+        "width": 0.37403098742167157,
+        "x": 0.25000001484052065,
+        "y": 0.6555232562030912
+      },
+      "level": 0.6555232562030912
+    },
+    {
+      "text": "10. Putting up posters, posting or writing notices on the bulletin boards,",
+      "box": {
+        "height": 0.024586396291851997,
+        "width": 0.49675770600636804,
+        "x": 0.24962923081611388,
+        "y": 0.6655275399225267
+      },
+      "level": 0.6744601620721133
+    },
+    {
+      "text": "walls, and other places in the campus without prior approval from the",
+      "box": {
+        "height": 0.024887530133128166,
+        "width": 0.49494306246439623,
+        "x": 0.2496768179362078,
+        "y": 0.6798888152688551
+      },
+      "level": 0.6878811257183362
+    },
+    {
+      "text": "school.",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.056201547384262085,
+        "x": 0.25000000183112475,
+        "y": 0.7034883721029906
+      },
+      "level": 0.7034883721029906
+    },
+    {
+      "text": "11. Showing socially unacceptable behavior in school programs,",
+      "box": {
+        "height": 0.02160846535116434,
+        "width": 0.4230116208394369,
+        "x": 0.21317829495574667,
+        "y": 0.7091944101226082
+      },
+      "level": 0.7173203849193206
+    },
+    {
+      "text": "functions, and the like, e.g. booing, hissing, shouting and taking",
+      "box": {
+        "height": 0.028735829517245293,
+        "width": 0.5027960141499838,
+        "x": 0.24773116161392542,
+        "y": 0.7219229973325232
+      },
+      "level": 0.7311463239075342
+    },
+    {
+      "text": "selfies within the program proper.",
+      "box": {
+        "height": 0.0146484375,
+        "width": 0.24806201457977295,
+        "x": 0.2500000029426716,
+        "y": 0.7456054687317595
+      },
+      "level": 0.7456054687317595
+    },
+    {
+      "text": "22",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.0232558126250903,
+        "x": 0.47674418687682363,
+        "y": 0.7790697675099673
+      },
+      "level": 0.7790697675099673
+    }
+  ],
+  "reviewed": true
+}

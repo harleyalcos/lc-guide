@@ -1,0 +1,356 @@
+{
+  "file": "hb3.jpg",
+  "label": "3",
+  "imageSha256": "606472d36a16d95f6749b7a1b1b74279541de44e0673a05ebe34a588c2d625cd",
+  "left": 0.23093341965602257,
+  "right": 0.6854200840542051,
+  "rows": [
+    {
+      "text": "The Laguna College will be the best school to teach honesty",
+      "x": 118,
+      "y": 68,
+      "width": 574,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "and decency.",
+      "x": 84,
+      "y": 92,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "The Laguna College will be the best place to produce",
+      "x": 118,
+      "y": 116,
+      "width": 574,
+      "fontSize": 21,
+      "bold": false,
+      "align": "justify",
+      "italic": false
+    },
+    {
+      "text": "graduates who will make the world a better place.",
+      "x": 84,
+      "y": 140,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "IV. The Officers of the Administration",
+      "x": 84,
+      "y": 177,
+      "width": 608,
+      "fontSize": 21,
+      "bold": true,
+      "align": "center",
+      "italic": false
+    },
+    {
+      "text": "BOARD OF TRUSTEES",
+      "x": 84,
+      "y": 202,
+      "width": 608,
+      "fontSize": 21,
+      "bold": true,
+      "align": "center",
+      "italic": false
+    },
+    {
+      "text": "Dr. Lavinia E. Bruan",
+      "rightText": "Chairperson",
+      "leader": true,
+      "x": 105,
+      "y": 229,
+      "width": 568,
+      "fontSize": 21
+    },
+    {
+      "text": "Dr. Melecio F. Almeda, Jr.",
+      "rightText": "Member",
+      "leader": true,
+      "x": 105,
+      "y": 253,
+      "width": 568,
+      "fontSize": 21
+    },
+    {
+      "text": "Dr. Florizel S. Evangelista",
+      "rightText": "Member",
+      "leader": true,
+      "x": 105,
+      "y": 277,
+      "width": 568,
+      "fontSize": 21
+    },
+    {
+      "text": "Engr. Romel S. Evangelista",
+      "rightText": "Member",
+      "leader": true,
+      "x": 105,
+      "y": 301,
+      "width": 568,
+      "fontSize": 21
+    },
+    {
+      "text": "Dr. Rosilon S. Evangelista",
+      "rightText": "Member",
+      "leader": true,
+      "x": 105,
+      "y": 325,
+      "width": 568,
+      "fontSize": 21
+    },
+    {
+      "text": "V. Courses Offered",
+      "x": 84,
+      "y": 372,
+      "width": 608,
+      "fontSize": 21,
+      "bold": true,
+      "align": "center",
+      "italic": false
+    },
+    {
+      "text": "Master in Business Management (M.B.M)",
+      "x": 84,
+      "y": 411,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Master in Public Administration (M.P.A.)",
+      "x": 84,
+      "y": 436,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Master of Arts in Education",
+      "x": 84,
+      "y": 460,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Major in: Mathematics, Educational Management and",
+      "x": 126,
+      "y": 484,
+      "width": 566,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Leadership, Science",
+      "x": 221,
+      "y": 508,
+      "width": 471,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Bachelor of Arts in English Language (A.B.)",
+      "x": 84,
+      "y": 533,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Bachelor of Elementary Education (B.E.ED.)",
+      "x": 84,
+      "y": 557,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Bachelor of Secondary Education (B.S.Ed.)",
+      "x": 84,
+      "y": 581,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Major in: English, Mathematics, Filipino, Science",
+      "x": 118,
+      "y": 606,
+      "width": 574,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "and Social Studies",
+      "x": 221,
+      "y": 631,
+      "width": 471,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Bachelor of Science in Business Administration (BSBA)",
+      "x": 84,
+      "y": 657,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Major in: Financial Management, Business Economics,",
+      "x": 118,
+      "y": 681,
+      "width": 574,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Marketing Management, Operations Management,",
+      "x": 206,
+      "y": 706,
+      "width": 486,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Business Management, Management Accounting and",
+      "x": 206,
+      "y": 731,
+      "width": 520,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Human Resource Development Management",
+      "x": 206,
+      "y": 756,
+      "width": 486,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Bachelor of Science in Accountancy (BSA)",
+      "x": 84,
+      "y": 790,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Bachelor of Science in Accounting Information System (BSAIS)",
+      "x": 84,
+      "y": 814,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Bachelor of Science in Nursing (BSN)",
+      "x": 84,
+      "y": 839,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Bachelor of Science in Civil Engineering (BSCE)",
+      "x": 84,
+      "y": 863,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Bachelor of Science in Computer Science (BSCS)",
+      "x": 84,
+      "y": 888,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Bachelor of Science in Industrial Engineering (BSIE)",
+      "x": 84,
+      "y": 912,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Bachelor of Science in Hospitality Management(BSHM)",
+      "x": 84,
+      "y": 937,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    },
+    {
+      "text": "Bachelor of Science in Psychology (BS Psy)",
+      "x": 84,
+      "y": 961,
+      "width": 608,
+      "fontSize": 21,
+      "bold": false,
+      "align": "left",
+      "italic": false
+    }
+  ],
+  "reviewed": true,
+  "fixedLayout": true
+}

@@ -1,0 +1,545 @@
+{
+  "file": "hb1.jpg",
+  "imageSha256": "b73b2e0a36a315ec95ff841ecf1690543718fb53084d80c9a2caf47e334e3b68",
+  "passages": [
+    {
+      "box": {
+        "x": 0.36522067549174864,
+        "y": 0.11846473986638006,
+        "width": 0.2560169299443563,
+        "height": 0.027967870235443115
+      },
+      "confidence": 1,
+      "text": "TABLE OF CONTENTS",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.699612403039954,
+        "y": 0.1395348834744119,
+        "width": 0.0503875960906347,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "Page",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.6935408826415347,
+        "y": 0.17082494532490022,
+        "width": 0.06640660762786865,
+        "height": 0.015908248722553253
+      },
+      "confidence": 1,
+      "text": "..14-19",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19804865641846625,
+        "y": 0.17474939853463334,
+        "width": 0.23670140902201336,
+        "height": 0.03318965435028076
+      },
+      "confidence": 1,
+      "text": "IX. Selection of Honors..",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.019379847024923208,
+        "y": 0.19912790684650483,
+        "width": 0.056201547384262085,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "Page",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24031007767321663,
+        "y": 0.20348837211540016,
+        "width": 0.12015503644943235,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "A. College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.03682170605825589,
+        "y": 0.21656976747363021,
+        "width": 0.023255812625090286,
+        "height": 0.01308139506727457
+      },
+      "confidence": 0.5,
+      "text": ".2",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2799595791683383,
+        "y": 0.2095907615209026,
+        "width": 0.22289838393529254,
+        "height": 0.025501085445284843
+      },
+      "confidence": 1,
+      "text": "- Rules on Scholarships",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2821575681791481,
+        "y": 0.22140378181269682,
+        "width": 0.41615088780721027,
+        "height": 0.029766627587378025
+      },
+      "confidence": 1,
+      "text": "- Selections of Collegiate Honor Graduates",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.04263565934372743,
+        "y": 0.25290697691119357,
+        "width": 0.011627906312545143,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "2",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24031007778724986,
+        "y": 0.25581395360292725,
+        "width": 0.02906976640224454,
+        "height": 0.014534883201122284
+      },
+      "confidence": 0.5,
+      "text": "B.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26744186458662306,
+        "y": 0.2514534886885562,
+        "width": 0.13565890987714135,
+        "height": 0.017589479684829712
+      },
+      "confidence": 1,
+      "text": "High School",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2783162919238988,
+        "y": 0.26215866866913484,
+        "width": 0.2630796233812968,
+        "height": 0.02421749010682106
+      },
+      "confidence": 1,
+      "text": "- Roll of Academic Honors",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 4.994140887874347e-10,
+        "y": 0.28779069811600855,
+        "width": 0.05232558151086171,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "...2-3",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.280342154233455,
+        "y": 0.28413143606582947,
+        "width": 0.19127843777338666,
+        "height": 0.020864291116595268
+      },
+      "confidence": 1,
+      "text": "- Roll of Excellence",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28200919021036847,
+        "y": 0.29485846650165415,
+        "width": 0.32930690050125117,
+        "height": 0.031260911375284195
+      },
+      "confidence": 1,
+      "text": "- High School Student of the Year",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.011627907518177891,
+        "y": 0.3241279074304466,
+        "width": 0.036821703116099044,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "....3",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24191505264756064,
+        "y": 0.3266260639209738,
+        "width": 0.15954973300298053,
+        "height": 0.01773988828063011
+      },
+      "confidence": 1,
+      "text": "C. Elementary",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7403100775115791,
+        "y": 0.3488372095036689,
+        "width": 0.025193798045317406,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "19",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 5.514241054512444e-10,
+        "y": 0.36046511639228973,
+        "width": 0.048449610670407615,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "..3-4",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19676965410835656,
+        "y": 0.3558115425672257,
+        "width": 0.30795218547185266,
+        "height": 0.02881681453436613
+      },
+      "confidence": 1,
+      "text": "X. Graduation Requirements.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7383720953571071,
+        "y": 0.3793604649279002,
+        "width": 0.06589146951834357,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "..19-25",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.134599641091268e-9,
+        "y": 0.39970930237218316,
+        "width": 0.04651162525018056,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "..4-9",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1968201720088265,
+        "y": 0.3879655812943925,
+        "width": 0.32124588886896766,
+        "height": 0.02873269096016884
+      },
+      "confidence": 1,
+      "text": "XI. Rules on Student Discipline.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2422480640243371,
+        "y": 0.4125976562075446,
+        "width": 0.1918604572614034,
+        "height": 0.01908839028328657
+      },
+      "confidence": 1,
+      "text": "A. Major Offense",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24307608433659963,
+        "y": 0.427044988955517,
+        "width": 0.2169141968091329,
+        "height": 0.025862254202365875
+      },
+      "confidence": 1,
+      "text": "B. Serious Offenses",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24314087846131013,
+        "y": 0.44464231476467453,
+        "width": 0.2634519934654236,
+        "height": 0.028975285589694977
+      },
+      "confidence": 1,
+      "text": "C. Less Serious Offenses",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24302324555240315,
+        "y": 0.46392783827554895,
+        "width": 0.22908117373784384,
+        "height": 0.03155779838562012
+      },
+      "confidence": 1,
+      "text": "D. Special Provisions",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7616279073829547,
+        "y": 0.49418604686442835,
+        "width": 0.06201550364494324,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "26-28",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19632568013138288,
+        "y": 0.5045759742440682,
+        "width": 0.24826721350351974,
+        "height": 0.03356460854411125
+      },
+      "confidence": 1,
+      "text": "XII. Code of Conduct...",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7655038768202855,
+        "y": 0.5290697675187432,
+        "width": 0.06589146951834357,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "28-36",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.00968992252964441,
+        "y": 0.5392441857999932,
+        "width": 0.03682170559962591,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "...9",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.196430175360684,
+        "y": 0.5374513622807986,
+        "width": 0.34138691425323486,
+        "height": 0.034029725939035416
+      },
+      "confidence": 1,
+      "text": "XIII. Other School Rules / Policies",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24275154750820102,
+        "y": 0.5574575073124647,
+        "width": 0.27575987577438354,
+        "height": 0.03405173495411873
+      },
+      "confidence": 1,
+      "text": "A. Rules on Examination",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.3563185759698133e-9,
+        "y": 0.5813953488838111,
+        "width": 0.056201547384262085,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "10-13",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24495798667984792,
+        "y": 0.5795483488594243,
+        "width": 0.2987730701764425,
+        "height": 0.03198050335049629
+      },
+      "confidence": 1,
+      "text": "B. Issuance of Credentials",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2468925367118715,
+        "y": 0.600390938247225,
+        "width": 0.32014836867650354,
+        "height": 0.03297413885593414
+      },
+      "confidence": 1,
+      "text": "C. On Campus Organization",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24502028492873232,
+        "y": 0.6213756168264047,
+        "width": 0.32394794623057055,
+        "height": 0.03383801691234112
+      },
+      "confidence": 1,
+      "text": "D. On Educational Field Trips",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2906976717426537,
+        "y": 0.645348837456108,
+        "width": 0.2906976739565531,
+        "height": 0.023255813866853714
+      },
+      "confidence": 1,
+      "text": "- Elementary and High School",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2915206667801831,
+        "y": 0.6603902660978767,
+        "width": 0.3259684244791667,
+        "height": 0.033575545996427536
+      },
+      "confidence": 1,
+      "text": "- College and Graduate Students",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2915141339833623,
+        "y": 0.6698999874777152,
+        "width": 0.5331442356109619,
+        "height": 0.04113505221903324
+      },
+      "confidence": 1,
+      "text": "- Policies and Guidelines on Local Off-Campus Activities",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29524122643685086,
+        "y": 0.6956230916166323,
+        "width": 0.3937506278355915,
+        "height": 0.03754633665084839
+      },
+      "confidence": 1,
+      "text": "Provisions for Anti-Sexual Harassment",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.248062016020946,
+        "y": 0.7180232562757656,
+        "width": 0.025193798045317323,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "E.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24670174455221602,
+        "y": 0.7130768979415325,
+        "width": 0.5414371887842814,
+        "height": 0.04721677489578724
+      },
+      "confidence": 1,
+      "text": "F. Provisions for Tobacco Regulation Act of 2003",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24694945866988727,
+        "y": 0.7450852528389781,
+        "width": 0.3765774567921957,
+        "height": 0.03682069852948189
+      },
+      "confidence": 1,
+      "text": "G. Provisions for Data Privacy Act",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24875084002061212,
+        "y": 0.7587204606456428,
+        "width": 0.5125267505645752,
+        "height": 0.04855715483427048
+      },
+      "confidence": 1,
+      "text": "H. Provisions for Dangerous Drugs Act of 2002",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28560959085818016,
+        "y": 0.7827195045871068,
+        "width": 0.41988559563954675,
+        "height": 0.04571988806128502
+      },
+      "confidence": 1,
+      "text": "Provisions for Anti-Bullying Act of 2013",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.250000000329431,
+        "y": 0.8095930232734698,
+        "width": 0.013565890491008759,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "I.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5503875969755948,
+        "y": 0.8343023255041534,
+        "width": 0.009689922134081597,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "1",
+      "verified": false
+    }
+  ]
+}

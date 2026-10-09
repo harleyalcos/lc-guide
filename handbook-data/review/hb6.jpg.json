@@ -1,0 +1,875 @@
+{
+  "file": "hb6.jpg",
+  "imageSha256": "a52d82ca8ca16c79abe0ca16b170f77707d5645c3bb41a1d96c4697ddaffbee2",
+  "passages": [
+    {
+      "box": {
+        "x": 0.22057874775321284,
+        "y": 0.19350009320607475,
+        "width": 0.4645108381907145,
+        "height": 0.03505268692970276
+      },
+      "confidence": 1,
+      "text": "Students with misaligned Senior High school strands to their collete",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18410853503536426,
+        "y": 0.21366279122148513,
+        "width": 0.501937985420227,
+        "height": 0.02616279013454914
+      },
+      "confidence": 1,
+      "text": "courses are advised to take bridging programs. Credit for these programs",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18395594353009548,
+        "y": 0.22176981865683332,
+        "width": 0.5044963359832764,
+        "height": 0.02982061356306076
+      },
+      "confidence": 1,
+      "text": "shall be provided thru an assessment by and recommendation of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7710713424665676,
+        "y": 0.22514619617575604,
+        "width": 0.2097199559211731,
+        "height": 0.0167609304189682
+      },
+      "confidence": 1,
+      "text": "C. Registration Procedures",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18604651670389383,
+        "y": 0.23974609360465116,
+        "width": 0.29069767395655316,
+        "height": 0.0205078125
+      },
+      "confidence": 1,
+      "text": "Dean, the Registrar or faculty-in-charge.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7730303197180439,
+        "y": 0.2414009659749311,
+        "width": 0.22526419162750244,
+        "height": 0.01605941355228424
+      },
+      "confidence": 1,
+      "text": "1. Students are advised to reac",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8042635661268851,
+        "y": 0.2558139536553796,
+        "width": 0.1937984426816305,
+        "height": 0.011764171533286572
+      },
+      "confidence": 1,
+      "text": "procedures must be strictly folle",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21899226368613536,
+        "y": 0.2630813958113676,
+        "width": 0.4534883499145508,
+        "height": 0.021802324801683426
+      },
+      "confidence": 1,
+      "text": "Pupils/students for admission inall levels should apply in person.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8062015567375154,
+        "y": 0.2674418603878743,
+        "width": 0.19186045726140344,
+        "height": 0.013319858349859715
+      },
+      "confidence": 1,
+      "text": "the proper filing of their enrollme",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18498479213700447,
+        "y": 0.287823420536761,
+        "width": 0.12791789571444195,
+        "height": 0.020231577567756176
+      },
+      "confidence": 1,
+      "text": "B. Credentials",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7732558140577789,
+        "y": 0.29215116284869347,
+        "width": 0.019379844268163082,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8100775261935951,
+        "y": 0.28906249978967513,
+        "width": 0.18798448642094934,
+        "height": 0.011809593066573143
+      },
+      "confidence": 1,
+      "text": "Students must enroll on the da",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8081395373739855,
+        "y": 0.3007812500655507,
+        "width": 0.1899224718411764,
+        "height": 0.01171875
+      },
+      "confidence": 1,
+      "text": "to facilitate enrolment. Enrolim",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2226120939261036,
+        "y": 0.3079230108694401,
+        "width": 0.409283717473348,
+        "height": 0.020670559257268906
+      },
+      "confidence": 1,
+      "text": "Elementary school graduates must present their F-138.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8120155068639799,
+        "y": 0.31250000013067036,
+        "width": 0.1860465010007223,
+        "height": 0.01171875
+      },
+      "confidence": 1,
+      "text": "semester. Students are asked",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8120155082843424,
+        "y": 0.3241279068611116,
+        "width": 0.11240309476852417,
+        "height": 0.010344749316573143
+      },
+      "confidence": 1,
+      "text": "start of each term.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22093024207562584,
+        "y": 0.3343023257451184,
+        "width": 0.4767441749572754,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "Transfer elementary pupils/high school students must present to the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18770177108980665,
+        "y": 0.3454223773551034,
+        "width": 0.5100884437561035,
+        "height": 0.02397190034389496
+      },
+      "confidence": 1,
+      "text": "registering officer their F-138 and certification of good moral character",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7810077522710417,
+        "y": 0.3473837209034416,
+        "width": 0.01744186008969939,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8178294658664136,
+        "y": 0.34570312482615606,
+        "width": 0.18023254474004113,
+        "height": 0.011855014599859715
+      },
+      "confidence": 1,
+      "text": "The Laguna College does ni",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8176899747609347,
+        "y": 0.3575049702687976,
+        "width": 0.18053919076919556,
+        "height": 0.011982148513197899
+      },
+      "confidence": 1,
+      "text": "subjects) or sections thereof",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18758758375878548,
+        "y": 0.3611383948806728,
+        "width": 0.39210478464762366,
+        "height": 0.021408462896943092
+      },
+      "confidence": 1,
+      "text": "from the Principal of the school where they came from.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8197674505242015,
+        "y": 0.3691406252193584,
+        "width": 0.17829455931981397,
+        "height": 0.01025390625
+      },
+      "confidence": 1,
+      "text": "allowable maximum number:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22449164754553141,
+        "y": 0.3836496302010425,
+        "width": 0.47529029846191406,
+        "height": 0.023417942225933075
+      },
+      "confidence": 1,
+      "text": "Junior High School completers and Senior High School Transferees",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7848837214705696,
+        "y": 0.3938953492787993,
+        "width": 0.01937984426816297,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "4.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8236434084715615,
+        "y": 0.392441860769415,
+        "width": 0.17441860834757483,
+        "height": 0.013319857884198427
+      },
+      "confidence": 1,
+      "text": "The college reserves the rig",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19186046873931875,
+        "y": 0.3997093020216418,
+        "width": 0.5116279125213623,
+        "height": 0.020348837599158287
+      },
+      "confidence": 1,
+      "text": "must present to the registering officer their F-138 and a certification of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8217054309159227,
+        "y": 0.4055232556256465,
+        "width": 0.1337209244569143,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "due to insufficient",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9612403112003486,
+        "y": 0.40406976797963146,
+        "width": 0.036821703116099,
+        "height": 0.010174417868256569
+      },
+      "confidence": 1,
+      "text": "numb",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19129756403651474,
+        "y": 0.40999164365586105,
+        "width": 0.5143894751866658,
+        "height": 0.027702823281288147
+      },
+      "confidence": 1,
+      "text": "good moral character from the Principal of the school where they came",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8236434231052812,
+        "y": 0.4155273436325717,
+        "width": 0.17441858847935998,
+        "height": 0.01179823698475957
+      },
+      "confidence": 1,
+      "text": "circumstances. No charge i",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8255813962357129,
+        "y": 0.4302325582432607,
+        "width": 0.038759688536326165,
+        "height": 0.008720929734408855
+      },
+      "confidence": 1,
+      "text": "case.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18981342127846315,
+        "y": 0.43730680129574273,
+        "width": 0.04091579218705496,
+        "height": 0.013467792421579361
+      },
+      "confidence": 1,
+      "text": "from.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23209814316118793,
+        "y": 0.44840568891938215,
+        "width": 0.47751665115356445,
+        "height": 0.024856158532202244
+      },
+      "confidence": 1,
+      "text": "College enrollees must present to the registering officer their Senior",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7906976746197945,
+        "y": 0.45348837207028714,
+        "width": 0.019379844268163082,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "5.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.829457363200739,
+        "y": 0.4505813957076418,
+        "width": 0.1686046520868938,
+        "height": 0.013285791967064142
+      },
+      "confidence": 1,
+      "text": "When a pupil/student fails",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19507380911533426,
+        "y": 0.459188954280936,
+        "width": 0.5165083010991415,
+        "height": 0.031252630054950714
+      },
+      "confidence": 1,
+      "text": "High School F-138, certificate of good moral character and PSA Birth",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8291874296222058,
+        "y": 0.4625742620809127,
+        "width": 0.16911909977595008,
+        "height": 0.013042358681559563
+      },
+      "confidence": 1,
+      "text": "enrollment and other se",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8291826621364411,
+        "y": 0.4736403522573014,
+        "width": 0.16935980319976807,
+        "height": 0.015120449010282755
+      },
+      "confidence": 1,
+      "text": "transcript of records of F-1",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1931965806654307,
+        "y": 0.4749524424871241,
+        "width": 0.5184236764907838,
+        "height": 0.02901818510144949
+      },
+      "confidence": 1,
+      "text": "Certificate. Applicants who finished their studies abroad must present an",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19513894884113592,
+        "y": 0.48809395734860284,
+        "width": 0.5203800996144613,
+        "height": 0.029800143092870712
+      },
+      "confidence": 1,
+      "text": "equivalent document with red ribbon indicating completion of equivalent",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7965116279590263,
+        "y": 0.5029069767541534,
+        "width": 0.01744186008969939,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "6.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.839147290462547,
+        "y": 0.49999999997726385,
+        "width": 0.15891472498575843,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "The college reserves t",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19299341314507013,
+        "y": 0.5115697665071344,
+        "width": 0.1951342026392619,
+        "height": 0.02257603034377098
+      },
+      "confidence": 1,
+      "text": "or a higher level of studies.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.83720930328687,
+        "y": 0.5130813954152187,
+        "width": 0.1608527104059856,
+        "height": 0.011820948217064142
+      },
+      "confidence": 1,
+      "text": "submitted will be accepte",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8385049380368779,
+        "y": 0.5225154217081567,
+        "width": 0.16001498699188232,
+        "height": 0.016964077949523926
+      },
+      "confidence": 1,
+      "text": "part of the student's per",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23394805834080845,
+        "y": 0.5278829038158703,
+        "width": 0.48351848125457764,
+        "height": 0.027138574980199337
+      },
+      "confidence": 1,
+      "text": "College enrollees transferring from other schools must present to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8386536393512625,
+        "y": 0.5357091926187547,
+        "width": 0.15991298357645667,
+        "height": 0.01598014496266842
+      },
+      "confidence": 1,
+      "text": "registration has been cor",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19523942815200593,
+        "y": 0.5426115529628427,
+        "width": 0.5241968631744385,
+        "height": 0.028395533561706543
+      },
+      "confidence": 1,
+      "text": "the registering officer their transfer credentials from the school previously",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19507539711831937,
+        "y": 0.5563157050268563,
+        "width": 0.52638312180837,
+        "height": 0.030029469169676304
+      },
+      "confidence": 1,
+      "text": "attended with a certification of good Moral conduct and behavior from (a)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8062015508660029,
+        "y": 0.5654069767658447,
+        "width": 0.0174418600896995,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "7.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8449612387663379,
+        "y": 0.5624999999925889,
+        "width": 0.1531007786591848,
+        "height": 0.01171875
+      },
+      "confidence": 1,
+      "text": "Students are not allowe",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19329857642658443,
+        "y": 0.5708826548892477,
+        "width": 0.5301414330800375,
+        "height": 0.031141506507992744
+      },
+      "confidence": 1,
+      "text": "their Dean, (b) Guidance Counselor, or (c) School Registrar. A PSA birth",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8425907345557153,
+        "y": 0.5738750091491673,
+        "width": 0.15595742066701257,
+        "height": 0.016186757944524288
+      },
+      "confidence": 1,
+      "text": "they have completed tr",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8441528619546194,
+        "y": 0.5856112690125137,
+        "width": 0.15451945861180616,
+        "height": 0.01781526952981949
+      },
+      "confidence": 1,
+      "text": "preceding year or seme:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19720983907163867,
+        "y": 0.5934095253419804,
+        "width": 0.27588136990865075,
+        "height": 0.01904467958956957
+      },
+      "confidence": 1,
+      "text": "certificate also needs to be submitted.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.233918272901014,
+        "y": 0.6117008862653814,
+        "width": 0.47614971796671557,
+        "height": 0.028900358825922012
+      },
+      "confidence": 1,
+      "text": "Applicants for Graduate Studies must present their transcript of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8062015504918875,
+        "y": 0.6162790700636831,
+        "width": 0.019379844268163082,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "8.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8488372121103523,
+        "y": 0.6132812500066209,
+        "width": 0.1414728661378224,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "No credits will be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19530540423239753,
+        "y": 0.6254862190078025,
+        "width": 0.5262145201365153,
+        "height": 0.03093844186514616
+      },
+      "confidence": 1,
+      "text": "records and good moral certificate except when they are alumni of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8463742024151809,
+        "y": 0.6257789069717776,
+        "width": 0.15233833591143287,
+        "height": 0.01645430363714695
+      },
+      "confidence": 1,
+      "text": "registered, subjects tak",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8480241958114263,
+        "y": 0.636066024246002,
+        "width": 0.15097730358441674,
+        "height": 0.02128380350768566
+      },
+      "confidence": 1,
+      "text": "subject and subjects or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19338015258548227,
+        "y": 0.6429495060854014,
+        "width": 0.47759433587392186,
+        "height": 0.028363903053104877
+      },
+      "confidence": 1,
+      "text": "institution. Transferees must provide their transfer credentials.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8481419232204127,
+        "y": 0.6505754001786288,
+        "width": 0.150551438331604,
+        "height": 0.019015226513147354
+      },
+      "confidence": 1,
+      "text": "as per CHED regulatio",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23406761586775393,
+        "y": 0.6713066667376231,
+        "width": 0.5008352597554525,
+        "height": 0.025767730548977852
+      },
+      "confidence": 1,
+      "text": "NOTE: Students who are Baccalaureate degree holders who wish",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8139534881112315,
+        "y": 0.6831395349154906,
+        "width": 0.021317829688390022,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "9.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8560148122152311,
+        "y": 0.677086272185552,
+        "width": 0.1425946752230326,
+        "height": 0.015983333811163902
+      },
+      "confidence": 1,
+      "text": "Students are allowed",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19339068327647965,
+        "y": 0.6866408181939028,
+        "width": 0.5416189829508463,
+        "height": 0.03028099052608013
+      },
+      "confidence": 1,
+      "text": "to take another undergraduate course must apply for admission; thus,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8559574243936288,
+        "y": 0.6903387179634535,
+        "width": 0.14271489779154456,
+        "height": 0.017273224890232086
+      },
+      "confidence": 1,
+      "text": "they are enrolled or re",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.195173025192627,
+        "y": 0.6988601012391698,
+        "width": 0.5422273874282837,
+        "height": 0.034887928515672684
+      },
+      "confidence": 1,
+      "text": "they will be classified as new students. An original copy of Transcript of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19510491047835363,
+        "y": 0.7132100289004356,
+        "width": 0.5419112046559651,
+        "height": 0.03486049920320511
+      },
+      "confidence": 1,
+      "text": "records and certification of good moral character must be submitted,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8174142781068529,
+        "y": 0.718270372624527,
+        "width": 0.18121780951817823,
+        "height": 0.019269634038209915
+      },
+      "confidence": 1,
+      "text": "10. Cross-registrations ou",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8604651165228274,
+        "y": 0.7309570313520315,
+        "width": 0.1375968952973684,
+        "height": 0.014682503417134285
+      },
+      "confidence": 1,
+      "text": "may be permitted wit",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19547976535573733,
+        "y": 0.7388435054169237,
+        "width": 0.38423987229665124,
+        "height": 0.02252858877182007
+      },
+      "confidence": 1,
+      "text": "unless he/she graduated from the Laguna College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8604651203422717,
+        "y": 0.7441406249959972,
+        "width": 0.1375968952973684,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "and the Registrar. A",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8614727352010091,
+        "y": 0.7570779172133864,
+        "width": 0.13730214039484667,
+        "height": 0.018076924607157707
+      },
+      "confidence": 1,
+      "text": "permit has not been:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23588972046456025,
+        "y": 0.7598717881097474,
+        "width": 0.5090515613555908,
+        "height": 0.032718388363718987
+      },
+      "confidence": 1,
+      "text": "Applicants seeking admission for the first time at all levels must",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19767442661204193,
+        "y": 0.7875976561268845,
+        "width": 0.2693798343340556,
+        "height": 0.014727924950420856
+      },
+      "confidence": 1,
+      "text": "present a birth certificate from PSA.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.4631782943467922,
+        "y": 0.8299418604750837,
+        "width": 0.013565891732772228,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "6",
+      "verified": false
+    }
+  ]
+}

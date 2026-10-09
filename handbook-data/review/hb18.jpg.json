@@ -1,0 +1,963 @@
+{
+  "file": "hb18.jpg",
+  "imageSha256": "3db99854e0c086bb1f6e301d9bff5bb8b24388921416cfa99d776eb094ab4313",
+  "passages": [
+    {
+      "box": {
+        "x": 0.2558139445073919,
+        "y": 0.16699218714719954,
+        "width": 0.43604652086893714,
+        "height": 0.0234375
+      },
+      "confidence": 1,
+      "text": "If his/her general weighted average reaches 90 during the 4th grading.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7926152674582446,
+        "y": 0.1553533593851273,
+        "width": 0.20738473254175538,
+        "height": 0.04584578052163124
+      },
+      "confidence": 1,
+      "text": "The Adviser of every grade l",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22454829330647427,
+        "y": 0.17769623113840338,
+        "width": 0.46739415327707934,
+        "height": 0.025841408409178257
+      },
+      "confidence": 1,
+      "text": "period, and if helshe had a weighted average of 90% and above for at least",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7942018810660091,
+        "y": 0.1692411586177266,
+        "width": 0.20579811893399091,
+        "height": 0.04203121364116669
+      },
+      "confidence": 1,
+      "text": "be declared achievers based",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22480621712490123,
+        "y": 0.1904069774974141,
+        "width": 0.46705424785614014,
+        "height": 0.021995366550982
+      },
+      "confidence": 1,
+      "text": "three grading periods, he/she may be a candidate for honors to be awarded",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7596899226315802,
+        "y": 0.19186046523889178,
+        "width": 0.021317829688390022,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22433497595891158,
+        "y": 0.2004448619914807,
+        "width": 0.4076841672261555,
+        "height": 0.02356863208115101
+      },
+      "confidence": 1,
+      "text": "during the recognition rites or he/she may be declared as Achiever",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7593947827511051,
+        "y": 0.21272402417340786,
+        "width": 0.1035452584425608,
+        "height": 0.026176124811172485
+      },
+      "confidence": 1,
+      "text": "For All Levels:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2577519443993273,
+        "y": 0.2265625003076941,
+        "width": 0.31589146455128986,
+        "height": 0.017623545601963997
+      },
+      "confidence": 1,
+      "text": "For Senior High School, the following policies apply.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7961449842421106,
+        "y": 0.21448774272803717,
+        "width": 0.20385501575788945,
+        "height": 0.03857636824250221
+      },
+      "confidence": 1,
+      "text": "Final grades should be exi",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2558139632854907,
+        "y": 0.2456054686787622,
+        "width": 0.43604648113250727,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "For Grade 11, he/she may be a candidate for honors if the general",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7634166755297495,
+        "y": 0.2293366769808649,
+        "width": 0.23658332447025054,
+        "height": 0.03903461433947086
+      },
+      "confidence": 1,
+      "text": "computations for selecting honor /",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22480621363313422,
+        "y": 0.25726744202661067,
+        "width": 0.4689922332763672,
+        "height": 0.019099745899438858
+      },
+      "confidence": 1,
+      "text": "weighted average is 90% and above for two semesters. There is no final grade",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.762254019642603,
+        "y": 0.2544275478469631,
+        "width": 0.149821122487386,
+        "height": 0.025491952896118164
+      },
+      "confidence": 1,
+      "text": "three decimal places.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2248062148056147,
+        "y": 0.2703488377437888,
+        "width": 0.4689922332763672,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "of below 85% in any subject of the current year. The average GWA will be taken",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22431833648439406,
+        "y": 0.2799855057253392,
+        "width": 0.262411375840505,
+        "height": 0.019609104841947556
+      },
+      "confidence": 1,
+      "text": "from 1st and 2nd semesters, 50% for each.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7985934658631697,
+        "y": 0.26651517884467024,
+        "width": 0.20122881730397546,
+        "height": 0.03218620456755161
+      },
+      "confidence": 1,
+      "text": "Once the final results hav",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7618060278265905,
+        "y": 0.2801077436403182,
+        "width": 0.23819397217340954,
+        "height": 0.03933762386441231
+      },
+      "confidence": 1,
+      "text": "approved by the School Hea",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25581396097427905,
+        "y": 0.3037109370363401,
+        "width": 0.4379844665527343,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "For Grade 12, he/she may be a candidate for honors during recognition or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7656676913704862,
+        "y": 0.29447668562971074,
+        "width": 0.23429447412490845,
+        "height": 0.035338614135980606
+      },
+      "confidence": 1,
+      "text": "should be made not later t",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2248062032746072,
+        "y": 0.31686046583245164,
+        "width": 0.4689922332763673,
+        "height": 0.01761218998581171
+      },
+      "confidence": 1,
+      "text": "graduation if he/she obtained 90% and above during the final semester and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7617362550759313,
+        "y": 0.3069419651362879,
+        "width": 0.23816092809041334,
+        "height": 0.03876523673534393
+      },
+      "confidence": 1,
+      "text": "recognition or commencementi",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22480622093518857,
+        "y": 0.3284883719155456,
+        "width": 0.4418604373931885,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "three consecutive semesters (Grade 11 second semester, Grade 12",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2228682264801911,
+        "y": 0.3401162793498935,
+        "width": 0.47093021869659424,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "semester and Grade 12 second semester). No grade of two 80s in any subject",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7972184238364622,
+        "y": 0.3340971280788081,
+        "width": 0.20021659135818481,
+        "height": 0.02735123038291931
+      },
+      "confidence": 1,
+      "text": "In case of protest, in any",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22286822552887298,
+        "y": 0.35302734384120216,
+        "width": 0.4341084957122803,
+        "height": 0.01470521418377757
+      },
+      "confidence": 1,
+      "text": "in the first to third grading period. No final grade below 85 in any subject.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7644236668416283,
+        "y": 0.3487180704720585,
+        "width": 0.23516333103179932,
+        "height": 0.030070532113313675
+      },
+      "confidence": 1,
+      "text": "within five (5) working days fro",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22458700872191462,
+        "y": 0.3693645098084559,
+        "width": 0.4170259634653727,
+        "height": 0.01739068143069744
+      },
+      "confidence": 1,
+      "text": "3. Board of Trustees Special Award: High School Student of the Year",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7683173937683355,
+        "y": 0.36317288411655624,
+        "width": 0.23087592919667566,
+        "height": 0.025830775499343872
+      },
+      "confidence": 1,
+      "text": "be settled by the Departmen",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2558139576157379,
+        "y": 0.3851744185391005,
+        "width": 0.11240309476852417,
+        "height": 0.011798237916082144
+      },
+      "confidence": 1,
+      "text": "3.1. Prerequisites",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7644635957565166,
+        "y": 0.3777729250090117,
+        "width": 0.2347792784372965,
+        "height": 0.02661163918673992
+      },
+      "confidence": 1,
+      "text": "within five (5) working days fron",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29069767465380497,
+        "y": 0.3997093023646904,
+        "width": 0.011627906312545122,
+        "height": 0.007267441600561142
+      },
+      "confidence": 1,
+      "text": "a.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3255813974871998,
+        "y": 0.3953488373181703,
+        "width": 0.27131781975428265,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "The student must be of good moral standing",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29069767425368437,
+        "y": 0.4098837210339583,
+        "width": 0.01550387591123581,
+        "height": 0.008720929734408855
+      },
+      "confidence": 1,
+      "text": "b.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3255814110650113,
+        "y": 0.408203124776074,
+        "width": 0.37015501658121747,
+        "height": 0.010401526466012001
+      },
+      "confidence": 1,
+      "text": "The student must be carrying the prescribed load for the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8888548210709937,
+        "y": 0.40203889521505376,
+        "width": 0.10998086134592688,
+        "height": 0.01872270740568638
+      },
+      "confidence": 1,
+      "text": "X. Graduati",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.32751938133184594,
+        "y": 0.4213867189529855,
+        "width": 0.10077519218126929,
+        "height": 0.010299327783286572
+      },
+      "confidence": 1,
+      "text": "curriculum year.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25753282701445795,
+        "y": 0.4315869958094203,
+        "width": 0.17885384956995648,
+        "height": 0.014367548283189535
+      },
+      "confidence": 1,
+      "text": "3. 2. Rating to be considered",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.76668171144637,
+        "y": 0.42477238881510315,
+        "width": 0.2321128646532694,
+        "height": 0.02069486491382122
+      },
+      "confidence": 1,
+      "text": "a. A student must finish al",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.325581400225144,
+        "y": 0.4447674418094494,
+        "width": 0.24224805831909174,
+        "height": 0.011775527149438858
+      },
+      "confidence": 1,
+      "text": "Final grades of the current school year.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7998647091281558,
+        "y": 0.43946358087369886,
+        "width": 0.1987275083859762,
+        "height": 0.018001316115260124
+      },
+      "confidence": 1,
+      "text": "requirements of his/her",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29069767863728124,
+        "y": 0.45639534877165866,
+        "width": 0.32945736249287927,
+        "height": 0.011866369750350714
+      },
+      "confidence": 1,
+      "text": "b. Co-curricular ratings for the current school year.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8023255829245309,
+        "y": 0.45494186087036903,
+        "width": 0.19186045726140333,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "curriculum approved by",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2596899285219934,
+        "y": 0.46923828119898425,
+        "width": 0.2344961166381836,
+        "height": 0.010412881616503
+      },
+      "confidence": 1,
+      "text": "3.3. Bases for determining the honors",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7980747376249543,
+        "y": 0.4681028274980725,
+        "width": 0.20043853918711352,
+        "height": 0.01794898882508278
+      },
+      "confidence": 1,
+      "text": "required Thesis/Feasibili",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.32558139931404345,
+        "y": 0.47949218734695276,
+        "width": 0.2034883697827657,
+        "height": 0.01324037043377757
+      },
+      "confidence": 1,
+      "text": "Final grades fifty percent (50%)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31007753014935924,
+        "y": 0.49121093739027,
+        "width": 0.2635658780733744,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "Co-curricular rating fifty percent (50%)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8003573316290851,
+        "y": 0.48539378533529476,
+        "width": 0.04851014415423072,
+        "height": 0.011770568788051605
+      },
+      "confidence": 0.5,
+      "text": "NSTP.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2577519429915115,
+        "y": 0.5058139533162324,
+        "width": 0.1298449536164602,
+        "height": 0.011764171533286572
+      },
+      "confidence": 1,
+      "text": "3.4. Grade Standard",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7655038761604921,
+        "y": 0.5058139534983395,
+        "width": 0.019379844268163082,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "b.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8003875961459346,
+        "y": 0.5043604653297348,
+        "width": 0.1976744135220846,
+        "height": 0.013217659667134285
+      },
+      "confidence": 1,
+      "text": "Special Order Number (S",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29069767462150514,
+        "y": 0.5203488373130282,
+        "width": 0.011627906312545178,
+        "height": 0.008720929734408855
+      },
+      "confidence": 1,
+      "text": "a.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3273152406799338,
+        "y": 0.5136846698799453,
+        "width": 0.37056024869283044,
+        "height": 0.01609354466199875
+      },
+      "confidence": 1,
+      "text": "To qualify for the high school student of the year, the candidate",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.32751939667369623,
+        "y": 0.5276162790409751,
+        "width": 0.37209300200144446,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "must have an average rating of not less than ninety percent.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.800387597463764,
+        "y": 0.5188953491552528,
+        "width": 0.1976744135220846,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "CHED Region IV as evide",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.800387597216198,
+        "y": 0.5348837208146,
+        "width": 0.1085271338621775,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "requirements.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3236085778461392,
+        "y": 0.5435257989700133,
+        "width": 0.046581293145815494,
+        "height": 0.011785611510276794
+      },
+      "confidence": 1,
+      "text": "(90%).",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29069767464128127,
+        "y": 0.5566860463959953,
+        "width": 0.01550387591123581,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "b.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.327307095151432,
+        "y": 0.5499803212631955,
+        "width": 0.37252056598663325,
+        "height": 0.016445886343717575
+      },
+      "confidence": 1,
+      "text": "The student must have no grade below eighty five percent",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7672658133818615,
+        "y": 0.5519278649124342,
+        "width": 0.230977455774943,
+        "height": 0.015001597814261913
+      },
+      "confidence": 1,
+      "text": "c. Only students who ha",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3255814058123179,
+        "y": 0.5624999997751179,
+        "width": 0.37403098742167157,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "(85% in all subjects in any grading period of the current.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8003875961459346,
+        "y": 0.5683139536049286,
+        "width": 0.1976744135220846,
+        "height": 0.013229015283286572
+      },
+      "confidence": 1,
+      "text": "requirements will be all",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.32548723707845334,
+        "y": 0.5795589246719997,
+        "width": 0.0815836638212204,
+        "height": 0.012393778190016747
+      },
+      "confidence": 1,
+      "text": "school year.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8032271556980599,
+        "y": 0.5794064693105376,
+        "width": 0.07740040123462677,
+        "height": 0.015268567949533463
+      },
+      "confidence": 1,
+      "text": "Exercises.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25581395614543884,
+        "y": 0.5971679689298903,
+        "width": 0.12015503644943237,
+        "height": 0.013297147117555141
+      },
+      "confidence": 1,
+      "text": "C. ELEMENTARY",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8794550736597241,
+        "y": 0.5969793224142721,
+        "width": 0.11908758680025733,
+        "height": 0.015061350539326668
+      },
+      "confidence": 1,
+      "text": "Xl. Rules on",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25550575253293023,
+        "y": 0.6088005760228332,
+        "width": 0.4445388317108154,
+        "height": 0.023931682109832764
+      },
+      "confidence": 1,
+      "text": "The aforementioned guidelines for selecting candidates for high school",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8034940324102511,
+        "y": 0.6130456761063541,
+        "width": 0.19539741675058997,
+        "height": 0.020215199328958988
+      },
+      "confidence": 1,
+      "text": "A school formulates rules ar",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2209302324523393,
+        "y": 0.6308139534010192,
+        "width": 0.1763565937678019,
+        "height": 0.011764171533286572
+      },
+      "confidence": 1,
+      "text": "graduation honors under",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.39695094140881615,
+        "y": 0.6214771187949597,
+        "width": 0.3031380375226339,
+        "height": 0.02019557449966669
+      },
+      "confidence": 1,
+      "text": "Roll of Excellence shall also be adopted in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7685731662930753,
+        "y": 0.6241884075731204,
+        "width": 0.23047260443369544,
+        "height": 0.024473203346133232
+      },
+      "confidence": 1,
+      "text": "of maintaining the peace, order",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22093024143811898,
+        "y": 0.6409883721712413,
+        "width": 0.2635658780733744,
+        "height": 0.014773346483707428
+      },
+      "confidence": 1,
+      "text": "determining elementary honor graduates.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7701592009507436,
+        "y": 0.6375738986751105,
+        "width": 0.22900446256001794,
+        "height": 0.024879803881049156
+      },
+      "confidence": 1,
+      "text": "also above all, of protecting the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21899224810437512,
+        "y": 0.6642441862236301,
+        "width": 0.017441860089699418,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25345435988706216,
+        "y": 0.6523898077799932,
+        "width": 0.44673418998718256,
+        "height": 0.025947270914912224
+      },
+      "confidence": 1,
+      "text": "Only first and second honors shall be declared from Kindergarten up",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.768081758003416,
+        "y": 0.6487747640075294,
+        "width": 0.2313869992891947,
+        "height": 0.028540095314383507
+      },
+      "confidence": 1,
+      "text": "whose notion of freedom is that th",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.255813956596268,
+        "y": 0.6757812501216889,
+        "width": 0.07558139165242517,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "to grade 5.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7678448121066713,
+        "y": 0.6607759610663511,
+        "width": 0.2316754857699076,
+        "height": 0.030767902731895447
+      },
+      "confidence": 1,
+      "text": "like to do, even if by so doing the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7659650837844376,
+        "y": 0.6706536780515926,
+        "width": 0.23403491621556238,
+        "height": 0.03696427121758461
+      },
+      "confidence": 1,
+      "text": "this in view, the Laguna Colleg",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22093023279333987,
+        "y": 0.696220930007914,
+        "width": 0.011627906312545122,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2553148551523199,
+        "y": 0.6838981372832067,
+        "width": 0.4468222061793009,
+        "height": 0.027873126789927483
+      },
+      "confidence": 1,
+      "text": "For grade 6, there should be one Valedictorian, one Salutatorian;",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.767929780586614,
+        "y": 0.6867715464442551,
+        "width": 0.2315823038419087,
+        "height": 0.030526675283908844
+      },
+      "confidence": 1,
+      "text": "following Rules on Student Disci",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25581395454714273,
+        "y": 0.7093023255061548,
+        "width": 0.1744186083475749,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "honorable mention and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.42772457167776173,
+        "y": 0.6952291372982463,
+        "width": 0.2750570178031921,
+        "height": 0.030232559889554977
+      },
+      "confidence": 1,
+      "text": "special mention, the number of which",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.76979731645682,
+        "y": 0.6971129297672788,
+        "width": 0.23020268354317996,
+        "height": 0.036202434450387955
+      },
+      "confidence": 1,
+      "text": "offenses and their corresponding",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2577519405357626,
+        "y": 0.720703125042599,
+        "width": 0.2965116302172343,
+        "height": 0.014761990867555141
+      },
+      "confidence": 1,
+      "text": "depends on how many will meet the criteria.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.45930232544650257,
+        "y": 0.7470930232657813,
+        "width": 0.021317829688390133,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "18",
+      "verified": false
+    }
+  ]
+}

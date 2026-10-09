@@ -1,0 +1,1106 @@
+{
+  "file": "hb20.jpg",
+  "imageSha256": "4e3a25a498f06890cfa84f7b5feb9f38bab378047c68c01dd16fe3fa1c9693c3",
+  "passages": [
+    {
+      "box": {
+        "x": 0.890116276150379,
+        "y": 0.16642441735429847,
+        "width": 0.10988372384962097,
+        "height": 0.04156976938247681
+      },
+      "confidence": 1,
+      "text": "Libeling or sle",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9515503895066927,
+        "y": 0.1802325581660188,
+        "width": 0.04651162525018049,
+        "height": 0.021802324801683426
+      },
+      "confidence": 1,
+      "text": "empl",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2655038776356589,
+        "y": 0.19622093043432254,
+        "width": 0.16666666666666669,
+        "height": 0.01471656933426857
+      },
+      "confidence": 1,
+      "text": "A. Major Offenses",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8585271326409432,
+        "y": 0.20058139579853684,
+        "width": 0.023255812625090244,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "8.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.890891472350363,
+        "y": 0.19302325487255367,
+        "width": 0.06608527402083075,
+        "height": 0.028924420475959778
+      },
+      "confidence": 1,
+      "text": "faculty,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.892580750725239,
+        "y": 0.19405417668914238,
+        "width": 0.10741924927476099,
+        "height": 0.04263157770037651
+      },
+      "confidence": 1,
+      "text": "orally or thro",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2652729466316039,
+        "y": 0.21883978861407138,
+        "width": 0.41144009431203205,
+        "height": 0.021275793202221394
+      },
+      "confidence": 1,
+      "text": "1. Committing Hooliganism, that is, rough or riotous",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8919538520672147,
+        "y": 0.2080956573005246,
+        "width": 0.10804614793278533,
+        "height": 0.041552044451236725
+      },
+      "confidence": 1,
+      "text": "complaint/pr",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3038943047650539,
+        "y": 0.23061299851202088,
+        "width": 0.41763707002003986,
+        "height": 0.026985074393451214
+      },
+      "confidence": 1,
+      "text": "and its immediate vicinity, carrying, possessing and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.6733720961371804,
+        "y": 0.2293604650342752,
+        "width": 0.12131782372792554,
+        "height": 0.02436046488583088
+      },
+      "confidence": 1,
+      "text": "conduct in school",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8928294587516352,
+        "y": 0.2228197670014448,
+        "width": 0.10717054124836478,
+        "height": 0.040697675198316574
+      },
+      "confidence": 1,
+      "text": "reported ins",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30426356976388863,
+        "y": 0.2500000003924221,
+        "width": 0.0833333283662796,
+        "height": 0.010174417868256569
+      },
+      "confidence": 1,
+      "text": "explosives.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7148033208149084,
+        "y": 0.24525465837064986,
+        "width": 0.08289597928524017,
+        "height": 0.024996502324938774
+      },
+      "confidence": 1,
+      "text": "detonating",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8949755428527828,
+        "y": 0.2382374732684196,
+        "width": 0.1050244571472172,
+        "height": 0.03767949342727661
+      },
+      "confidence": 1,
+      "text": "Counselor, P",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.263565891491003,
+        "y": 0.2616279070549621,
+        "width": 0.01744186008969939,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30153670114209447,
+        "y": 0.25343562270340203,
+        "width": 0.49631961186726886,
+        "height": 0.04063387028872967
+      },
+      "confidence": 1,
+      "text": "Violating of any law or city ordinance, involving moral turpitude or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.894287182335426,
+        "y": 0.2553880372599562,
+        "width": 0.09916718800862623,
+        "height": 0.03485054895281792
+      },
+      "confidence": 1,
+      "text": "Committing",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30382402349016635,
+        "y": 0.27386118338400145,
+        "width": 0.13674978415171307,
+        "height": 0.017097219824790955
+      },
+      "confidence": 1,
+      "text": "crimes of violence.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2635658911393321,
+        "y": 0.2892441861247296,
+        "width": 0.021317829688390078,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.862403101671951,
+        "y": 0.2805232559219595,
+        "width": 0.023255812625090355,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "9.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8953867845728704,
+        "y": 0.2711581038858992,
+        "width": 0.08613331119219458,
+        "height": 0.03517509624361992
+      },
+      "confidence": 1,
+      "text": "premises.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3036986868598304,
+        "y": 0.28176316674027546,
+        "width": 0.49401692549387616,
+        "height": 0.03696909546852112
+      },
+      "confidence": 1,
+      "text": "Possessing, selling, or smoking marijuana, or possessing, selling,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8970252165236983,
+        "y": 0.2846006886170256,
+        "width": 0.10297478347630173,
+        "height": 0.0327006708830595
+      },
+      "confidence": 1,
+      "text": "Assaulting, k",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30214101219630046,
+        "y": 0.30273890111741486,
+        "width": 0.37058738867441815,
+        "height": 0.018589678220450878
+      },
+      "confidence": 1,
+      "text": "sniffing or taking any drugs prohibited under the law.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2616279070744096,
+        "y": 0.31686046537618306,
+        "width": 0.021317829688390133,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "4.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8662790705294979,
+        "y": 0.3081395347365242,
+        "width": 0.029069766402244568,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "10.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8961468272647188,
+        "y": 0.30027359624989325,
+        "width": 0.10385317273528116,
+        "height": 0.03231874480843544
+      },
+      "confidence": 1,
+      "text": "teachers, sti",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28435987764266235,
+        "y": 0.3098893019105837,
+        "width": 0.5151775280634562,
+        "height": 0.0363758560270071
+      },
+      "confidence": 1,
+      "text": "Instigating, holding, and/or participating in ILLEGAL demonstrations,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8994349774927451,
+        "y": 0.3126757582843368,
+        "width": 0.10056502250725485,
+        "height": 0.03562301769852638
+      },
+      "confidence": 1,
+      "text": "may include",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3023255834006671,
+        "y": 0.33284883746920624,
+        "width": 0.33914728959401447,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "pickets, boycotts, meetings, rallies and the like.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9001490740056205,
+        "y": 0.3311046503245454,
+        "width": 0.09639237324396766,
+        "height": 0.02752683497965336
+      },
+      "confidence": 1,
+      "text": "Doing acts",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30581947893908246,
+        "y": 0.3514866583586209,
+        "width": 0.493276039759318,
+        "height": 0.028110399842262268
+      },
+      "confidence": 1,
+      "text": "The Laguna College considers as illegal demonstration, pickets, etc.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8682170547176513,
+        "y": 0.3517441861436883,
+        "width": 0.025193798045317295,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "11.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.900009456189379,
+        "y": 0.3442073182992009,
+        "width": 0.099990543810621,
+        "height": 0.03010493330657482
+      },
+      "confidence": 1,
+      "text": "unintentiona",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3042635803075824,
+        "y": 0.3720703123823139,
+        "width": 0.3701550165812175,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "those which do not meet all the following conditions:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9017389542559799,
+        "y": 0.3599544320268382,
+        "width": 0.09820866584777832,
+        "height": 0.02808767929673195
+      },
+      "confidence": 1,
+      "text": "blackboard,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.907116276422383,
+        "y": 0.3785116273060657,
+        "width": 0.09283721446990967,
+        "height": 0.022430233657360077
+      },
+      "confidence": 1,
+      "text": "making any",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3217054268415553,
+        "y": 0.3982558140423593,
+        "width": 0.019379844268163027,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "a.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.38535600184101854,
+        "y": 0.39341524227960045,
+        "width": 0.41542216142018634,
+        "height": 0.022398660890758038
+      },
+      "confidence": 1,
+      "text": "Any grievance and/or complaint by students shall be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9073187397474607,
+        "y": 0.3923563610421682,
+        "width": 0.09268126025253931,
+        "height": 0.025820793583989143
+      },
+      "confidence": 1,
+      "text": "anyone, or c",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.34689923998764977,
+        "y": 0.411132812435024,
+        "width": 0.4554263353347779,
+        "height": 0.01764625683426857
+      },
+      "confidence": 1,
+      "text": "coursed through their duly elected department officers who shall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9049226107514344,
+        "y": 0.4090240086621302,
+        "width": 0.09507738924856557,
+        "height": 0.022412147372961044
+      },
+      "confidence": 1,
+      "text": "Stealing an",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.34283022456934137,
+        "y": 0.4212142849103877,
+        "width": 0.38033703962961835,
+        "height": 0.019346090033650398
+      },
+      "confidence": 1,
+      "text": "then act on its merit after due deliberation by the body.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8720930237029475,
+        "y": 0.4215116279851947,
+        "width": 0.029069766402244568,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "12.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9047908189874297,
+        "y": 0.4235229630011619,
+        "width": 0.09314503272374475,
+        "height": 0.023026956245303154
+      },
+      "confidence": 1,
+      "text": "without the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3854898630124062,
+        "y": 0.4476000581045687,
+        "width": 0.418985923131307,
+        "height": 0.01766570284962654
+      },
+      "confidence": 1,
+      "text": "The department shall submit its decision and/ or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9056865191364714,
+        "y": 0.44111091711587125,
+        "width": 0.09372917811075843,
+        "height": 0.019583426415920258
+      },
+      "confidence": 1,
+      "text": "teachers, el",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3430232573676455,
+        "y": 0.4636627905868149,
+        "width": 0.461240291595459,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "recommendations to the Laguna College Supreme Student",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.872093024138994,
+        "y": 0.46656976739084466,
+        "width": 0.029069766402244568,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "13.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9051825684746423,
+        "y": 0.45299959058997374,
+        "width": 0.09481743152535771,
+        "height": 0.023181602358818054
+      },
+      "confidence": 1,
+      "text": "FORGING",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3447658486587875,
+        "y": 0.4745983455978082,
+        "width": 0.45973114172617585,
+        "height": 0.018424497917294502
+      },
+      "confidence": 1,
+      "text": "Council (LCSSC) which shall promptly act on the matter after due",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9089147321661706,
+        "y": 0.4707031249511391,
+        "width": 0.08914727965990699,
+        "height": 0.020575945265591145
+      },
+      "confidence": 1,
+      "text": "slips, recei",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.34302325290292074,
+        "y": 0.4897460935938218,
+        "width": 0.17635659376780194,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "deliberation by the body.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9081468455367716,
+        "y": 0.48818286536724664,
+        "width": 0.09071596463521325,
+        "height": 0.016934510320425034
+      },
+      "confidence": 1,
+      "text": "transfer cre",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9077476035288817,
+        "y": 0.5021562942372153,
+        "width": 0.09147069851557421,
+        "height": 0.018834823742508888
+      },
+      "confidence": 1,
+      "text": "orteacher's",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3217054266438653,
+        "y": 0.5174418607141908,
+        "width": 0.015503875911235754,
+        "height": 0.008720929734408855
+      },
+      "confidence": 0.5,
+      "text": "C.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.38350712160535744,
+        "y": 0.5138362025396084,
+        "width": 0.42294406890869146,
+        "height": 0.01718189474195242
+      },
+      "confidence": 1,
+      "text": "The LCSSC shall present its decision and/or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8740310071528867,
+        "y": 0.5247093025208686,
+        "width": 0.027131783465544346,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "14.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9089147292860105,
+        "y": 0.5203488373965319,
+        "width": 0.08527131875356042,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "Removing",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3409031027896117,
+        "y": 0.5261913145046677,
+        "width": 0.41910684108734136,
+        "height": 0.018999721854925156
+      },
+      "confidence": 1,
+      "text": "recommendation to the President of the College for action.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9108527113820984,
+        "y": 0.5361328123130578,
+        "width": 0.08720930417378747,
+        "height": 0.014739280566573143
+      },
+      "confidence": 1,
+      "text": "materials (",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31782945790467815,
+        "y": 0.5537790698936883,
+        "width": 0.019379844268163082,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "d.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3814946587140922,
+        "y": 0.5525728289995194,
+        "width": 0.42688902219136554,
+        "height": 0.01870189607143402
+      },
+      "confidence": 1,
+      "text": "The President of the College shall create an ad hoc",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9088778832432255,
+        "y": 0.5507467176310329,
+        "width": 0.0872829953829447,
+        "height": 0.014785633888095617
+      },
+      "confidence": 1,
+      "text": "in addition",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3408616483913936,
+        "y": 0.5656259860233175,
+        "width": 0.46561789512634283,
+        "height": 0.02090129628777504
+      },
+      "confidence": 1,
+      "text": "committee to study the grievance and/or complaint and to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8740310071528867,
+        "y": 0.5697674420557522,
+        "width": 0.027131783465544346,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "15.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.910836997118933,
+        "y": 0.5682547591584521,
+        "width": 0.08724073568979895,
+        "height": 0.013199783861637115
+      },
+      "confidence": 1,
+      "text": "Drunkenne",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3389219987059425,
+        "y": 0.5800866968889786,
+        "width": 0.41141100724538177,
+        "height": 0.018865028396248817
+      },
+      "confidence": 1,
+      "text": "recommend to the President what actions shall be taken.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9107345877470031,
+        "y": 0.5838650091719779,
+        "width": 0.08356958627700806,
+        "height": 0.013956028036773205
+      },
+      "confidence": 1,
+      "text": "within the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3158914734085541,
+        "y": 0.6090116278995656,
+        "width": 0.019379844268163082,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "e.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9127735056305154,
+        "y": 0.6002273721446567,
+        "width": 0.0853057006994884,
+        "height": 0.013208046555519104
+      },
+      "confidence": 1,
+      "text": "of the colle",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.37758841908718305,
+        "y": 0.6055249757333192,
+        "width": 0.43087251981099445,
+        "height": 0.021411335095763206
+      },
+      "confidence": 1,
+      "text": "The President's decision shall be taken up in a dialogue",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3388366408192695,
+        "y": 0.619471447701103,
+        "width": 0.34759680430094403,
+        "height": 0.018743530847132206
+      },
+      "confidence": 1,
+      "text": "between the LCSSC and the ad hoc committee.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9127906979229614,
+        "y": 0.6162109376547416,
+        "width": 0.08527131875356042,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "activity he",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8749999966357672,
+        "y": 0.6288542512141051,
+        "width": 0.12404437859853112,
+        "height": 0.01973736844956875
+      },
+      "confidence": 1,
+      "text": "16. Joining in c",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3100775196025216,
+        "y": 0.6468023257040081,
+        "width": 0.01550387591123581,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "f.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3756553694201125,
+        "y": 0.6471886685599528,
+        "width": 0.4327339331309001,
+        "height": 0.02118786610662937
+      },
+      "confidence": 1,
+      "text": "Any deadlock resulting from the dialogue shall be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9104753024349338,
+        "y": 0.6466602696156575,
+        "width": 0.08825034896532691,
+        "height": 0.015315411146730185
+      },
+      "confidence": 1,
+      "text": "and/or un",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.33492169962736656,
+        "y": 0.6582953195359608,
+        "width": 0.3709748983383179,
+        "height": 0.02312990091741085
+      },
+      "confidence": 1,
+      "text": "submitted for arbitration to the CHED in Region IV.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9108009099786623,
+        "y": 0.6641088156561085,
+        "width": 0.08731290698051453,
+        "height": 0.019166089594364166
+      },
+      "confidence": 1,
+      "text": "unknowing",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2558139659298109,
+        "y": 0.6860351564856791,
+        "width": 0.5503875811894734,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "5. Preventing or threatening students, teachers or school authorities from",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9127906976645633,
+        "y": 0.6801757810366977,
+        "width": 0.08527131875356042,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "such orgar",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8779069771982716,
+        "y": 0.6918604652425255,
+        "width": 0.025193798045317406,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "17.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9137397154507895,
+        "y": 0.6939447976711988,
+        "width": 0.08551505208015442,
+        "height": 0.01605430245399475
+      },
+      "confidence": 1,
+      "text": "Possessin!",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29043384871798433,
+        "y": 0.701441601495411,
+        "width": 0.5178978443145752,
+        "height": 0.021871784701943398
+      },
+      "confidence": 1,
+      "text": "discharging their duties, or from attending classes or entering the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.877906977156282,
+        "y": 0.7049418603663692,
+        "width": 0.025193798045317295,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "18.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29069767256273676,
+        "y": 0.7165697674191244,
+        "width": 0.12790697813034058,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "school premises.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9166666677101135,
+        "y": 0.7107558140267374,
+        "width": 0.08139534791310621,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "cheating i",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25000000005204953,
+        "y": 0.729651162800665,
+        "width": 0.01744186008969939,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "6.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9125486930747276,
+        "y": 0.7211671718303595,
+        "width": 0.0857460995515188,
+        "height": 0.024279765784740448
+      },
+      "confidence": 1,
+      "text": "use of any",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2904631871035681,
+        "y": 0.7307252020559731,
+        "width": 0.5198054711023966,
+        "height": 0.022265296429395676
+      },
+      "confidence": 1,
+      "text": "Distributing leaflets and other materials without prior approval from the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29069767584581746,
+        "y": 0.7456395348609848,
+        "width": 0.058139532804489136,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "school.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9133730177454966,
+        "y": 0.7392571261567252,
+        "width": 0.08622336387634277,
+        "height": 0.019810423254966736
+      },
+      "confidence": 1,
+      "text": "or any form",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28875969901351944,
+        "y": 0.7601744184097232,
+        "width": 0.5232557853062947,
+        "height": 0.020587299950420856
+      },
+      "confidence": 1,
+      "text": "Giving talks or campaigning to students in classrooms and other",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.912031007221787,
+        "y": 0.7518488363426559,
+        "width": 0.08796899277821302,
+        "height": 0.026697675697505474
+      },
+      "confidence": 1,
+      "text": "allowing a",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2887596931539787,
+        "y": 0.7761627902483861,
+        "width": 0.4631782770156861,
+        "height": 0.020348837599158287
+      },
+      "confidence": 1,
+      "text": "places in the school without prior approval from the school.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9129031431876253,
+        "y": 0.7687663703683827,
+        "width": 0.07741354902585351,
+        "height": 0.02130129374563694
+      },
+      "confidence": 1,
+      "text": "assigned",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9141001451737824,
+        "y": 0.781819608812537,
+        "width": 0.08589985482621765,
+        "height": 0.02506285533308983
+      },
+      "confidence": 1,
+      "text": "similar ma",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8765557098820848,
+        "y": 0.7909040638382558,
+        "width": 0.12344429011791525,
+        "height": 0.03284319117665291
+      },
+      "confidence": 1,
+      "text": "19. Immoral or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5135658922824161,
+        "y": 0.861918604728354,
+        "width": 0.023255812625090244,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "20",
+      "verified": false
+    }
+  ]
+}

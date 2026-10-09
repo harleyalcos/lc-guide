@@ -1,0 +1,248 @@
+{
+  "edition": "Laguna College Student Handbook · Revised 2023",
+  "exclude": [
+    "laguna-college-seal.png"
+  ],
+  "pages": [
+    {
+      "file": "hb-front.jpg",
+      "label": "cover",
+      "title": "Student handbook Revised 2023",
+      "chapter": "Cover"
+    },
+    {
+      "file": "hb-toc1.jpg",
+      "label": "contents",
+      "title": "Table of contents",
+      "chapter": "Contents"
+    },
+    {
+      "file": "hb1.jpg",
+      "label": "1",
+      "title": "Contents continued",
+      "chapter": "Contents"
+    },
+    {
+      "file": "hb2.jpg",
+      "label": "2",
+      "title": "History and mission",
+      "chapter": "About the college"
+    },
+    {
+      "file": "hb3.jpg",
+      "label": "3",
+      "title": "Vision, administration and courses",
+      "chapter": "About the college"
+    },
+    {
+      "file": "hb4.jpg",
+      "label": "4",
+      "title": "Courses and admission policies",
+      "chapter": "Admission and registration"
+    },
+    {
+      "file": "hb5.jpg",
+      "label": "5",
+      "title": "Admission policies",
+      "chapter": "Admission and registration"
+    },
+    {
+      "file": "hb6.jpg",
+      "label": "6",
+      "title": "Admission credentials",
+      "chapter": "Admission and registration"
+    },
+    {
+      "file": "hb7.jpg",
+      "label": "7",
+      "title": "Registration procedures",
+      "chapter": "Admission and registration"
+    },
+    {
+      "file": "hb8.jpg",
+      "label": "8",
+      "title": "Probationary status and fees",
+      "chapter": "Admission and registration"
+    },
+    {
+      "file": "hb9.jpg",
+      "label": "9",
+      "title": "Class attendance",
+      "chapter": "Class attendance"
+    },
+    {
+      "file": "hb10.jpg",
+      "label": "10",
+      "title": "Grading systems",
+      "chapter": "Grading and retention"
+    },
+    {
+      "file": "hb11.jpg",
+      "label": "11",
+      "title": "Incomplete grades and dropping subjects",
+      "chapter": "Grading and retention"
+    },
+    {
+      "file": "hb12.jpg",
+      "label": "12",
+      "title": "Retention policies and grading",
+      "chapter": "Grading and retention"
+    },
+    {
+      "file": "hb13.jpg",
+      "label": "13",
+      "title": "Promotion and retention",
+      "chapter": "Grading and retention"
+    },
+    {
+      "file": "hb14.jpg",
+      "label": "14",
+      "title": "Scholarship rules",
+      "chapter": "Scholarships and honors"
+    },
+    {
+      "file": "hb15.jpg",
+      "label": "15",
+      "title": "College honor graduates",
+      "chapter": "Scholarships and honors"
+    },
+    {
+      "file": "hb16.jpg",
+      "label": "16",
+      "title": "Honors computation and eligibility",
+      "chapter": "Scholarships and honors"
+    },
+    {
+      "file": "hb17.jpg",
+      "label": "17",
+      "title": "High school honors",
+      "chapter": "Scholarships and honors"
+    },
+    {
+      "file": "hb18.jpg",
+      "label": "18",
+      "title": "Elementary honors",
+      "chapter": "Scholarships and honors"
+    },
+    {
+      "file": "hb19.jpg",
+      "label": "19",
+      "title": "Graduation requirements and discipline",
+      "chapter": "Graduation and discipline"
+    },
+    {
+      "file": "hb20.jpg",
+      "label": "20",
+      "title": "Major offenses",
+      "chapter": "Graduation and discipline"
+    },
+    {
+      "file": "hb21.jpg",
+      "label": "21",
+      "title": "Major and serious offenses",
+      "chapter": "Graduation and discipline"
+    },
+    {
+      "file": "hb22.jpg",
+      "label": "22",
+      "title": "Serious offenses",
+      "chapter": "Graduation and discipline"
+    },
+    {
+      "file": "hb23.jpg",
+      "label": "23",
+      "title": "Serious and less serious offenses",
+      "chapter": "Graduation and discipline"
+    },
+    {
+      "file": "hb24.jpg",
+      "label": "24",
+      "title": "Less serious offenses",
+      "chapter": "Graduation and discipline"
+    },
+    {
+      "file": "hb25.jpg",
+      "label": "25",
+      "title": "General behavior and student responsibilities",
+      "chapter": "Code of conduct"
+    },
+    {
+      "file": "hb26.jpg",
+      "label": "26",
+      "title": "Classroom behavior",
+      "chapter": "Code of conduct"
+    },
+    {
+      "file": "hb27.jpg",
+      "label": "27",
+      "title": "Library and corridor rules",
+      "chapter": "Code of conduct"
+    },
+    {
+      "file": "hb28.jpg",
+      "label": "28",
+      "title": "Academic functions and examinations",
+      "chapter": "Code of conduct"
+    },
+    {
+      "file": "hb29.jpg",
+      "label": "29",
+      "title": "Examinations and school credentials",
+      "chapter": "Other school rules and policies"
+    },
+    {
+      "file": "hb30.jpg",
+      "label": "30",
+      "title": "Campus organizations",
+      "chapter": "Other school rules and policies"
+    },
+    {
+      "file": "hb31.jpg",
+      "label": "31",
+      "title": "Organization membership and field trips",
+      "chapter": "Other school rules and policies"
+    },
+    {
+      "file": "hb32.jpg",
+      "label": "32",
+      "title": "Field trips and anti-sexual harassment provisions",
+      "chapter": "Other school rules and policies"
+    },
+    {
+      "file": "hb33.jpg",
+      "label": "33",
+      "title": "Tobacco and data privacy provisions",
+      "chapter": "Other school rules and policies"
+    },
+    {
+      "file": "hb34.jpg",
+      "label": "34",
+      "title": "Drugs and anti-bullying provisions",
+      "chapter": "Other school rules and policies"
+    },
+    {
+      "file": "hb35.jpg",
+      "label": "35",
+      "title": "Anti-bullying provisions",
+      "chapter": "Other school rules and policies"
+    },
+    {
+      "file": "hb36.jpg",
+      "label": "36",
+      "title": "Reporting bullying incidents",
+      "chapter": "Other school rules and policies"
+    },
+    {
+      "file": "hb-insideback.jpg",
+      "label": "inside-back",
+      "title": "Inside back cover",
+      "chapter": "Closing pages"
+    },
+    {
+      "file": "hb-back.jpg",
+      "label": "back-cover",
+      "title": "Back cover",
+      "chapter": "Cover"
+    }
+  ]
+}

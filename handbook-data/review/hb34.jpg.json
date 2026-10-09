@@ -1,0 +1,721 @@
+{
+  "file": "hb34.jpg",
+  "imageSha256": "71e2a4d68966cdfe56fdd9593724166ddee9a6694467d5ab9f460102fc3949a3",
+  "passages": [
+    {
+      "box": {
+        "x": 0.872228418018631,
+        "y": 0.19440570672536173,
+        "width": 0.12777158198136895,
+        "height": 0.03321778029203415
+      },
+      "confidence": 1,
+      "text": "\"Cyber-bullyir",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8696460364386448,
+        "y": 0.21223507906514394,
+        "width": 0.1269357999165852,
+        "height": 0.02873848471790552
+      },
+      "confidence": 1,
+      "text": "of technology",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21485061950187623,
+        "y": 0.22492265002731626,
+        "width": 0.4540491898854574,
+        "height": 0.02093787956982851
+      },
+      "confidence": 1,
+      "text": "H. Provisions for the Dangerous Drugs Act of 2002",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8692628319863136,
+        "y": 0.22508775763497113,
+        "width": 0.1307371680136864,
+        "height": 0.03374835476279259
+      },
+      "confidence": 1,
+      "text": "any conduct r",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2577519394976564,
+        "y": 0.24267578117732558,
+        "width": 0.20930232604344684,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "Based on R.A. No. 9165",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9883720930350265,
+        "y": 0.2456395353245926,
+        "width": 0.009689922134081597,
+        "height": 0.010174417868256569
+      },
+      "confidence": 1,
+      "text": "t",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8722518717223339,
+        "y": 0.24858225274838763,
+        "width": 0.10590609908103943,
+        "height": 0.023077107965946198
+      },
+      "confidence": 1,
+      "text": "humiliation,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2533664250840936,
+        "y": 0.26421661653951967,
+        "width": 0.4663012027740478,
+        "height": 0.02958863228559494
+      },
+      "confidence": 1,
+      "text": "Sale, trading, administration, dispensation, delivery,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8686391826136135,
+        "y": 0.26236184524666073,
+        "width": 0.13134163618087769,
+        "height": 0.02481004036962986
+      },
+      "confidence": 1,
+      "text": "technology, St",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21480711997562393,
+        "y": 0.2816705625276237,
+        "width": 0.504571795463562,
+        "height": 0.02385008055716753
+      },
+      "confidence": 1,
+      "text": "distribution and transportation of dangerous drugs and/or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8686642865382268,
+        "y": 0.276945438022028,
+        "width": 0.13118663430213928,
+        "height": 0.026386404410004616
+      },
+      "confidence": 1,
+      "text": "instant messa",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.215116283588336,
+        "y": 0.3007812496332394,
+        "width": 0.501937985420227,
+        "height": 0.02197265625
+      },
+      "confidence": 1,
+      "text": "controlled precursors and essential chemicals are strictly",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8725608108160513,
+        "y": 0.29579991956977725,
+        "width": 0.12687784433364868,
+        "height": 0.02238372154533863
+      },
+      "confidence": 1,
+      "text": "online game o",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21511628219298728,
+        "y": 0.31686046525750766,
+        "width": 0.501937985420227,
+        "height": 0.019077034667134285
+      },
+      "confidence": 1,
+      "text": "prohibited. Students involved in any of these activities shall be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8719952097276794,
+        "y": 0.3088112576127271,
+        "width": 0.1280047902723206,
+        "height": 0.027132545597851276
+      },
+      "confidence": 1,
+      "text": "DepEd Order/",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2149808514345811,
+        "y": 0.3318148102984354,
+        "width": 0.5022546052932739,
+        "height": 0.020060192793607712
+      },
+      "confidence": 1,
+      "text": "penalized according to the provisions on school discipline and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21511628796250157,
+        "y": 0.34863281276702773,
+        "width": 0.26550386349360144,
+        "height": 0.016192768700420856
+      },
+      "confidence": 1,
+      "text": "the provisions of R.A. No. 9165.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8352713173273053,
+        "y": 0.35319767413211534,
+        "width": 0.027131783465544346,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "5.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8649555680869438,
+        "y": 0.34194200079441583,
+        "width": 0.1348081032435099,
+        "height": 0.02651730366051197
+      },
+      "confidence": 1,
+      "text": "Any other forr",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8740310088744364,
+        "y": 0.3603515628741718,
+        "width": 0.12403100728988647,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "school's child",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.255813953280332,
+        "y": 0.3749999998406909,
+        "width": 0.3488372166951497,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "Provisions for Anti-Bullying Act of 2013",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25581395251131916,
+        "y": 0.3909883722698708,
+        "width": 0.2189922531445821,
+        "height": 0.014773346483707428
+      },
+      "confidence": 1,
+      "text": "Based on R.A. No. 10627",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8341203234564082,
+        "y": 0.39194752517079057,
+        "width": 0.1650139888127644,
+        "height": 0.024871623143553734
+      },
+      "confidence": 1,
+      "text": "6. Any delibera",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2519379876804572,
+        "y": 0.41552734346843734,
+        "width": 0.4670542478561402,
+        "height": 0.017612190917134285
+      },
+      "confidence": 1,
+      "text": "\"Bullying\" refers to any severe or repeated use by one or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8733959818781507,
+        "y": 0.41130341308666707,
+        "width": 0.12519097328186035,
+        "height": 0.01598186232149601
+      },
+      "confidence": 1,
+      "text": "behavior inten",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21500035060572195,
+        "y": 0.43221608638232134,
+        "width": 0.5021761258443196,
+        "height": 0.018734500743448734
+      },
+      "confidence": 1,
+      "text": "more students of a written, verbal or electronic expression, or a",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8701550367875428,
+        "y": 0.4287109373198943,
+        "width": 0.12790697813034058,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "individual orgi",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21511628234463073,
+        "y": 0.44912790680532266,
+        "width": 0.5038759708404541,
+        "height": 0.016204124316573143
+      },
+      "confidence": 1,
+      "text": "physical act or gesture or any combination thereof, directed at",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21511628234463073,
+        "y": 0.46366279055047777,
+        "width": 0.5038759708404541,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "another student that has the effect of actually causing or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.83527131755201,
+        "y": 0.4607558146260563,
+        "width": 0.16279069582621253,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "7. Any act that f",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2151162827905324,
+        "y": 0.47949218733555865,
+        "width": 0.501937985420227,
+        "height": 0.017600835300982
+      },
+      "confidence": 1,
+      "text": "placing the latter in reasonable fear of physical or emotional",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8740310080314133,
+        "y": 0.476562499626876,
+        "width": 0.12403100728988647,
+        "height": 0.016170058399438858
+      },
+      "confidence": 1,
+      "text": "basis of perc",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21511628219298728,
+        "y": 0.4956054688072776,
+        "width": 0.501937985420227,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "harm or damage to his property; creating a hostile",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8740310086720249,
+        "y": 0.4941406251736459,
+        "width": 0.12403100728988647,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "gender identit",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21511627442489947,
+        "y": 0.5116279069991212,
+        "width": 0.501937985420227,
+        "height": 0.016204124316573143
+      },
+      "confidence": 1,
+      "text": "environment at school for the other student; infringing on the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2149353760733487,
+        "y": 0.5259242114009518,
+        "width": 0.5023174285888672,
+        "height": 0.02074160799384117
+      },
+      "confidence": 1,
+      "text": "rights of other student at school or materially or substantially",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8042635674188746,
+        "y": 0.5247093028237306,
+        "width": 0.19379844268163038,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "Laguna College Anti-l",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2129161613526224,
+        "y": 0.5404356369955076,
+        "width": 0.5044614871342977,
+        "height": 0.023410752415657043
+      },
+      "confidence": 1,
+      "text": "disrupting the education process or the orderly operation of a",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8385838534203568,
+        "y": 0.550470412067946,
+        "width": 0.16017471750577283,
+        "height": 0.01865619421005249
+      },
+      "confidence": 1,
+      "text": "Consistent with t",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2131782966655845,
+        "y": 0.5595703126670075,
+        "width": 0.39147285620371497,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "school; such as, but not limited to the following:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25740277505333947,
+        "y": 0.5709096442009791,
+        "width": 0.46014451980590826,
+        "height": 0.024048851802945137
+      },
+      "confidence": 1,
+      "text": "1. Any unwanted physical contact between the bully and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8053696656846631,
+        "y": 0.5645675003227728,
+        "width": 0.1933918992678324,
+        "height": 0.023320083506405354
+      },
+      "confidence": 1,
+      "text": "College Anti-bullying I",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2965116322396566,
+        "y": 0.5886627907947792,
+        "width": 0.42054263750712073,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "the victim like punching, pushing, shoving, kicking,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.803450754647999,
+        "y": 0.58188404363461,
+        "width": 0.19537705183029175,
+        "height": 0.023124823346734047
+      },
+      "confidence": 1,
+      "text": "school grounds; prop",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2984496168691182,
+        "y": 0.6074218750139603,
+        "width": 0.28488371769587195,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "slapping, tickling, head locks,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5833333376988684,
+        "y": 0.6015625001934913,
+        "width": 0.1337209244569142,
+        "height": 0.017623545601963997
+      },
+      "confidence": 1,
+      "text": "inflicting school",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8034241064939321,
+        "y": 0.5959016144396069,
+        "width": 0.19159738222757983,
+        "height": 0.023359742015600204
+      },
+      "confidence": 1,
+      "text": "school-sponsored or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2976794301534536,
+        "y": 0.6166480542063366,
+        "width": 0.4219650824864705,
+        "height": 0.028880173340439796
+      },
+      "confidence": 1,
+      "text": "pranks, teasing, fighting and the use of available",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8050930543088998,
+        "y": 0.6122862186117268,
+        "width": 0.1940020521481831,
+        "height": 0.023425482213497162
+      },
+      "confidence": 1,
+      "text": "programs whether he",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8028005912204587,
+        "y": 0.6264927716859616,
+        "width": 0.19680674870808912,
+        "height": 0.028239665552973747
+      },
+      "confidence": 1,
+      "text": "where students get the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2961716521379496,
+        "y": 0.642146769331047,
+        "width": 0.17898472150166828,
+        "height": 0.01832999847829342
+      },
+      "confidence": 1,
+      "text": "objects as weapons;",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8029938492951567,
+        "y": 0.642461908089352,
+        "width": 0.19661855697631836,
+        "height": 0.026503609493374825
+      },
+      "confidence": 1,
+      "text": "computer lab and cl",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25512654857005446,
+        "y": 0.6592530969597126,
+        "width": 0.46473662058512366,
+        "height": 0.03234891593456268
+      },
+      "confidence": 1,
+      "text": "2. Any act that causes damage to a victim's psyche",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8006371522227015,
+        "y": 0.6546471804649396,
+        "width": 0.1993628477772985,
+        "height": 0.03138340264558792
+      },
+      "confidence": 1,
+      "text": "teacher to come or duri",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29607172519971386,
+        "y": 0.683182787536524,
+        "width": 0.24686837196350103,
+        "height": 0.020762251690030098
+      },
+      "confidence": 1,
+      "text": "and/or emotional well-being;",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8347881829559601,
+        "y": 0.6845450877961765,
+        "width": 0.16521181704403987,
+        "height": 0.03132190182805061
+      },
+      "confidence": 1,
+      "text": "In addition, bullyin",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8019582830954538,
+        "y": 0.692511713208906,
+        "width": 0.1980417169045462,
+        "height": 0.04182035103440285
+      },
+      "confidence": 1,
+      "text": "another school by any",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2918326393264096,
+        "y": 0.7057127730275544,
+        "width": 0.42821959654490155,
+        "height": 0.034096747636795044
+      },
+      "confidence": 1,
+      "text": "Any slanderous statement or accusation that causes",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24806201640063316,
+        "y": 0.723837209201156,
+        "width": 0.023255812625090272,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8014861969964849,
+        "y": 0.7115964313797787,
+        "width": 0.15293487906455994,
+        "height": 0.03272033482789993
+      },
+      "confidence": 1,
+      "text": "strictly prohibited.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28786988066457053,
+        "y": 0.7190299521097764,
+        "width": 0.43445539474487316,
+        "height": 0.038933128118515015
+      },
+      "confidence": 1,
+      "text": "the victim undue emotional distress like directing foul",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28771589776369955,
+        "y": 0.7354772363435164,
+        "width": 0.4324355125427247,
+        "height": 0.041952550411224365
+      },
+      "confidence": 1,
+      "text": "language or profanity at the target, name-calling,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2877602812633029,
+        "y": 0.7508110157672118,
+        "width": 0.43325722217559814,
+        "height": 0.04510176740586758
+      },
+      "confidence": 1,
+      "text": "tormenting and commenting negatively on victims",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2881869679227484,
+        "y": 0.7840220051151703,
+        "width": 0.2126852472623189,
+        "height": 0.024443957023322582
+      },
+      "confidence": 1,
+      "text": "looks, clothes and body;",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.476744186268039,
+        "y": 0.822674419009904,
+        "width": 0.02519379804531735,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "34",
+      "verified": false
+    }
+  ]
+}

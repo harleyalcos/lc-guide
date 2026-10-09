@@ -1,0 +1,360 @@
+{
+  "file": "hb12.jpg",
+  "label": "12",
+  "imageSha256": "1b33f6e33da411b90d11f645c812fc56abfac2751491dd98fb8f2647b90cdba5",
+  "left": 0.17441861335212647,
+  "right": 0.6434108466283657,
+  "rows": [
+    {
+      "text": "A student is no longer retained in a course if he/she fails to meet the",
+      "box": {
+        "height": 0.02490234375,
+        "width": 0.4224806229273479,
+        "x": 0.2170542664045431,
+        "y": 0.23828124972613574
+      },
+      "level": 0.23828124972613574
+    },
+    {
+      "text": "minimum course requirements.",
+      "box": {
+        "height": 0.025498028844594955,
+        "width": 0.19181944926579797,
+        "x": 0.1867632128558513,
+        "y": 0.2516899407309543
+      },
+      "level": 0.2645192292220022
+    },
+    {
+      "text": "A student who does not pass at least 50% of all the registered units",
+      "box": {
+        "height": 0.021802324801683426,
+        "width": 0.42441860834757494,
+        "x": 0.21511628146574738,
+        "y": 0.2688953492997397
+      },
+      "level": 0.2688953492997397
+    },
+    {
+      "text": "within the semester is placed under probation for another semester or may",
+      "box": {
+        "height": 0.023255813866853714,
+        "width": 0.4534883499145508,
+        "x": 0.18604652649621292,
+        "y": 0.28052325590572047
+      },
+      "level": 0.28052325590572047
+    },
+    {
+      "text": "be asked to shift to another course.",
+      "box": {
+        "height": 0.024712136015295982,
+        "width": 0.21671122312545782,
+        "x": 0.18297122796959597,
+        "y": 0.2918389411629151
+      },
+      "level": 0.3046381351000137
+    },
+    {
+      "text": "If in the succeeding semester, the student still does not pass at least",
+      "box": {
+        "height": 0.02197265625,
+        "width": 0.4302325646082561,
+        "x": 0.211240312172616,
+        "y": 0.3110351566741397
+      },
+      "level": 0.3110351566741397
+    },
+    {
+      "text": "50% of all the registered units, he/she is not entitled to re-enrolment.",
+      "box": {
+        "height": 0.020348837599158287,
+        "width": 0.42054263750712084,
+        "x": 0.182170537699928,
+        "y": 0.3241279069853046
+      },
+      "level": 0.3241279069853046
+    },
+    {
+      "text": "Transfer students who violate the conditions of their probation (i.e.,",
+      "box": {
+        "height": 0.023255813866853714,
+        "width": 0.42829457918802893,
+        "x": 0.21317829893957704,
+        "y": 0.3415697676789762
+      },
+      "level": 0.3415697676789762
+    },
+    {
+      "text": "no failed or dropped subject, no violation of school rules) shall not be",
+      "box": {
+        "height": 0.020519168116152287,
+        "width": 0.461240291595459,
+        "x": 0.18023256878560381,
+        "y": 0.35302734345232223
+      },
+      "level": 0.35302734345232223
+    },
+    {
+      "text": "admitted for re-enrolment.",
+      "box": {
+        "height": 0.02053704857826233,
+        "width": 0.16432852546374002,
+        "x": 0.17734969591853358,
+        "y": 0.36649109767251387
+      },
+      "level": 0.37511132140145376
+    },
+    {
+      "text": "Registered units are considered all units enrolled for at the start of the",
+      "box": {
+        "height": 0.019122456200420856,
+        "width": 0.43217055002848304,
+        "x": 0.209302317563278,
+        "y": 0.38517441885800596
+      },
+      "level": 0.38517441885800596
+    },
+    {
+      "text": "semester or term except those dropped officially within the prescribed",
+      "box": {
+        "height": 0.018895348533988,
+        "width": 0.4689922332763672,
+        "x": 0.17441861335212647,
+        "y": 0.39680232549681416
+      },
+      "level": 0.39680232549681416
+    },
+    {
+      "text": "period.",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.04651162525018057,
+        "x": 0.17441860622180894,
+        "y": 0.41715116266700747
+      },
+      "level": 0.41715116266700747
+    },
+    {
+      "text": "C. Elementary and High School",
+      "box": {
+        "height": 0.022821742109954357,
+        "width": 0.2531656821568807,
+        "x": 0.17191500508732238,
+        "y": 0.42684875699594327
+      },
+      "level": 0.435859070307535
+    },
+    {
+      "text": "1. Grading System",
+      "box": {
+        "height": 0.01966825220733881,
+        "width": 0.1620550056298574,
+        "x": 0.16800922960620465,
+        "y": 0.45030658449337313
+      },
+      "level": 0.45495903528586457
+    },
+    {
+      "text": "a. The Laguna College Elementary (including Kindergarten), the",
+      "box": {
+        "height": 0.01621547993272543,
+        "width": 0.42054263750712073,
+        "x": 0.19767441831956464,
+        "y": 0.47070312492619604
+      },
+      "level": 0.47070312492619604
+    },
+    {
+      "text": "Junior and Senior High School program adopt the assessment",
+      "box": {
+        "height": 0.014659792650491,
+        "width": 0.4089147249857584,
+        "x": 0.23449612076777981,
+        "y": 0.4838867188265237
+      },
+      "level": 0.4838867188265237
+    },
+    {
+      "text": "policy for the K to 12 Basic Education Curriculum stipulated in",
+      "box": {
+        "height": 0.0146484375,
+        "width": 0.4089147249857584,
+        "x": 0.234496129968361,
+        "y": 0.49560546876082934
+      },
+      "level": 0.49560546876082934
+    },
+    {
+      "text": "DepEd Order No. 8, s. 2015.",
+      "box": {
+        "height": 0.015679603442549706,
+        "width": 0.19042843580245974,
+        "x": 0.23418605694786013,
+        "y": 0.5084875863711691
+      },
+      "level": 0.5118023254643536
+    },
+    {
+      "text": "b. The quarterly grade for each subject is based on the student's",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.41279069582621264,
+        "x": 0.1976744186103581,
+        "y": 0.5290697676734848
+      },
+      "level": 0.5290697676734848
+    },
+    {
+      "text": "written work, performance tasks and quarterly assessment,",
+      "box": {
+        "height": 0.014693859033286572,
+        "width": 0.4147286812464397,
+        "x": 0.23062015031670283,
+        "y": 0.5419921873274489
+      },
+      "level": 0.5419921873274489
+    },
+    {
+      "text": "each of which is given a different weight depending on the",
+      "box": {
+        "height": 0.01318359375,
+        "width": 0.4147286812464396,
+        "x": 0.23062015964809798,
+        "y": 0.5551757810872727
+      },
+      "level": 0.5551757810872727
+    },
+    {
+      "text": "subject area and program.",
+      "box": {
+        "height": 0.01324037043377757,
+        "width": 0.18410851558049515,
+        "x": 0.22868217938675486,
+        "y": 0.5697674419285721
+      },
+      "level": 0.5697674419285721
+    },
+    {
+      "text": "c. The final grade for each learning area is the fourth quarterly",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.4186046520868937,
+        "x": 0.18992248077823223,
+        "y": 0.5886627911392643
+      },
+      "level": 0.5886627911392643
+    },
+    {
+      "text": "grades, expressed as a whole number",
+      "box": {
+        "height": 0.01470521418377757,
+        "width": 0.26550386349360144,
+        "x": 0.22674418986172648,
+        "y": 0.6030273438412022
+      },
+      "level": 0.6030273438412022
+    },
+    {
+      "text": "d. The general average is computed as the weighted average",
+      "box": {
+        "height": 0.0146484375,
+        "width": 0.3488372166951498,
+        "x": 0.18798449648615803,
+        "y": 0.6235351560778601
+      },
+      "level": 0.6235351560778601
+    },
+    {
+      "text": "of the final grades of all the learning areas, expressed also as a",
+      "box": {
+        "height": 0.017810719087719917,
+        "width": 0.4247461954752604,
+        "x": 0.2227338236117049,
+        "y": 0.6346285529457001
+      },
+      "level": 0.6384878316916494
+    },
+    {
+      "text": "whole number.",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.10465116302172345,
+        "x": 0.22286821824689018,
+        "y": 0.652616279091426
+      },
+      "level": 0.652616279091426
+    },
+    {
+      "text": "e. However, the lowest failing grade a student may receive and",
+      "box": {
+        "height": 0.021741999313235283,
+        "width": 0.4288369814554851,
+        "x": 0.1821705423747972,
+        "y": 0.6684564644092048
+      },
+      "level": 0.6739340297499026
+    },
+    {
+      "text": "which should appear on the report card is 70% instead of",
+      "box": {
+        "height": 0.021985492669045925,
+        "width": 0.4308560689290365,
+        "x": 0.22070720420990764,
+        "y": 0.6815159468376539
+      },
+      "level": 0.6891113224835597
+    },
+    {
+      "text": "DepEd's prescribed 60%.",
+      "box": {
+        "height": 0.014761990867555141,
+        "width": 0.1841085155804952,
+        "x": 0.22093024017486865,
+        "y": 0.7020348839517645
+      },
+      "level": 0.7020348839517645
+    },
+    {
+      "text": "f. For grades 11 and 12, the 3rd and 4th quarter grades will",
+      "box": {
+        "height": 0.0253840871155262,
+        "width": 0.469658652941386,
+        "x": 0.18192414154296235,
+        "y": 0.7221995695316537
+      },
+      "level": 0.7296860204832001
+    },
+    {
+      "text": "determine the final grade in a semester which is the average of",
+      "box": {
+        "height": 0.03167222812771797,
+        "width": 0.4335604508717855,
+        "x": 0.21845759426745795,
+        "y": 0.7328490885698025
+      },
+      "level": 0.745655363497955
+    },
+    {
+      "text": "these two grades.",
+      "box": {
+        "height": 0.014727924950420856,
+        "width": 0.12984496355056763,
+        "x": 0.21705426370921233,
+        "y": 0.7601744188354853
+      },
+      "level": 0.7601744188354853
+    },
+    {
+      "text": "12",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.021317829688390078,
+        "x": 0.3934108526848747,
+        "y": 0.8328488374154905
+      },
+      "level": 0.8328488374154905
+    }
+  ],
+  "reviewed": true
+}

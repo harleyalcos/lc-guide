@@ -1,0 +1,798 @@
+{
+  "file": "hb27.jpg",
+  "imageSha256": "15bcc764f86e0eae146510f7be24b1f260fe50c29732400ae828290f1c10ee83",
+  "passages": [
+    {
+      "text": "1. Silence must be observed at all times.",
+      "topic": "Library silence",
+      "box": {
+        "x": 0.22586712784042753,
+        "y": 0.265218930534175,
+        "width": 0.3212309552828472,
+        "height": 0.03018937315046788
+      },
+      "verified": true
+    },
+    {
+      "text": "2. The main library is an \"open stack\" library. Thus, the students may gain access to the library books anytime and properly return them to the shelves or the circulation desk. Avoid hiding books so that others may also gain access.",
+      "topic": "Library books open stack shelves",
+      "box": {
+        "x": 0.2051782946256929,
+        "y": 0.28216237680667366,
+        "width": 0.5027407728437211,
+        "height": 0.078153326698718
+      },
+      "verified": true
+    },
+    {
+      "text": "3. Readers must show their ID card at the desk and library cards upon borrowing and at the request of the librarian. Visiting researchers should have identification papers and must register with the office of the Chief Librarian.",
+      "topic": "Library borrowing identification ID cards",
+      "box": {
+        "x": 0.2032403100952429,
+        "y": 0.3472409436328674,
+        "width": 0.5086199476033259,
+        "height": 0.07669811256203318
+      },
+      "verified": true
+    },
+    {
+      "text": "4. For those with circulation privileges, a book is allowed out for one week. Renewal may be granted if the book is not in demand.",
+      "topic": "Library book borrowing renewal period",
+      "box": {
+        "x": 0.20130232605179596,
+        "y": 0.41236174451035446,
+        "width": 0.5145527100780741,
+        "height": 0.06294948868133732
+      },
+      "verified": true
+    },
+    {
+      "text": "5. Reserve books, Open Reserves - Books used as accompanying reading for course work have unlimited use in the reading room. This collection is located in open shelves in the Reserved Section and may be there without being signed out. Close-Reserves - Books in demand prescribed for courses are charged out at the loan desk and limited from one to two hours and overnight use. Books borrowed overnight may be checked out at 6:00 P.M. and should be returned at 9:00 the following morning.",
+      "topic": "Library reserve books loan overnight return",
+      "box": {
+        "x": 0.20324031059458939,
+        "y": 0.46963281224122555,
+        "width": 0.5262842920312736,
+        "height": 0.16846934437577732
+      },
+      "verified": true
+    },
+    {
+      "text": "Section 1. Students shall not loiter or make any disturbance in the corridors during class hours.",
+      "topic": "Corridors loitering disturbance",
+      "box": {
+        "x": 0.16060465848882213,
+        "y": 0.6533343128268848,
+        "width": 0.5766935616696267,
+        "height": 0.05427896884060435
+      },
+      "verified": true
+    },
+    {
+      "text": "Section 2. Students shall keep to the right when walking in the corridors and stairways.",
+      "topic": "Corridors stairways keep right",
+      "box": {
+        "x": 0.1625426385860147,
+        "y": 0.685778253952243,
+        "width": 0.578728945560176,
+        "height": 0.055140349982747194
+      },
+      "verified": true
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.12298747643106422,
+        "width": 0.05903398983522443,
+        "height": 0.04170393943786621
+      },
+      "confidence": 1,
+      "text": "graffiti.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.10695355948837348,
+        "width": 0.13734011551148462,
+        "height": 0.09949927777051926
+      },
+      "confidence": 1,
+      "text": "on blackboards and walls",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.14407693666414723,
+        "width": 0.11906850654500462,
+        "height": 0.08000360429286957
+      },
+      "confidence": 1,
+      "text": "perty of the College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.16672504390326048,
+        "width": 0.1384394251793597,
+        "height": 0.09193508327007294
+      },
+      "confidence": 1,
+      "text": "College premises deadly",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3153507654361696,
+        "y": 0.20128764431434176,
+        "width": 0.266491691271464,
+        "height": 0.021485481411218643
+      },
+      "confidence": 1,
+      "text": "Article III - Behavior in Libraries",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.18191860245992864,
+        "width": 0.13860465364026656,
+        "height": 0.08901162818074226
+      },
+      "confidence": 1,
+      "text": "y. The use of threat to use",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21629919326364785,
+        "y": 0.21729593871689146,
+        "width": 0.4721736510594685,
+        "height": 0.030163347721099854
+      },
+      "confidence": 1,
+      "text": "Rules and regulations governing the use of the library shall be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.0806741566430726e-9,
+        "y": 0.23982558179319058,
+        "width": 0.038759688536326095,
+        "height": 0.02616279013454914
+      },
+      "confidence": 1,
+      "text": "lege.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18113183926427615,
+        "y": 0.22858575045997287,
+        "width": 0.5092430909474691,
+        "height": 0.03497525490820408
+      },
+      "confidence": 1,
+      "text": "followed. The following rules and regulations govern the use of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.218888845062029,
+        "width": 0.13705665072974305,
+        "height": 0.08542424440383911
+      },
+      "confidence": 1,
+      "text": "ly or unknowingly with any",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1791405956743594,
+        "y": 0.2585217203688134,
+        "width": 0.11662338177363077,
+        "height": 0.020326703786849976
+      },
+      "confidence": 1,
+      "text": "College library:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23386712784042754,
+        "y": 0.269218930534175,
+        "width": 0.30523095528284716,
+        "height": 0.022189373150467873
+      },
+      "confidence": 1,
+      "text": "Silence must be observed at all times.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.25762572387134586,
+        "width": 0.13430596896260527,
+        "height": 0.07856625318527222
+      },
+      "confidence": 1,
+      "text": "n of littering or unsanitary",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21317829552854015,
+        "y": 0.283430232543461,
+        "width": 0.023255812625090272,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24948496990186073,
+        "y": 0.28616237680667367,
+        "width": 0.4465972582499186,
+        "height": 0.026091355830430984
+      },
+      "confidence": 1,
+      "text": "The main library is an \"open stack\" library. Thus, the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2131782946256929,
+        "y": 0.3023255814053162,
+        "width": 0.017441860089699418,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24949144622025665,
+        "y": 0.30146483439480665,
+        "width": 0.4467252095540365,
+        "height": 0.024296650663018227
+      },
+      "confidence": 1,
+      "text": "students may gain access to the library books anytime and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2474660899710416,
+        "y": 0.3162439763437983,
+        "width": 0.45245297749837243,
+        "height": 0.025616252794861794
+      },
+      "confidence": 1,
+      "text": "properly return them to the shelves or the circulation desk.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2475645325341338,
+        "y": 0.3310159588248678,
+        "width": 0.43110692501068115,
+        "height": 0.025299744680523872
+      },
+      "confidence": 1,
+      "text": "Avoid hiding books so that others may also gain access.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3230883413399306,
+        "width": 0.13232176291315903,
+        "height": 0.06507845968008041
+      },
+      "confidence": 1,
+      "text": "e rules and regulations",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3380813975595143,
+        "width": 0.12286821403725362,
+        "height": 0.06017441675066948
+      },
+      "confidence": 1,
+      "text": "arthquakes, food, els",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2515109578221173,
+        "y": 0.3512409436328674,
+        "width": 0.44842569033304847,
+        "height": 0.022952931001782417
+      },
+      "confidence": 1,
+      "text": "Readers must show their ID card at the desk and library",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2112403100952429,
+        "y": 0.36337209289119965,
+        "width": 0.021317829688390105,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24953140874168542,
+        "y": 0.3655980247898367,
+        "width": 0.45420149962107337,
+        "height": 0.023810576647520065
+      },
+      "confidence": 1,
+      "text": "cards upon borrowing and at the request of the librarian.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3626276176306694,
+        "width": 0.12884121382297575,
+        "height": 0.05963265150785446
+      },
+      "confidence": 1,
+      "text": "king inside the campus,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24765556517588397,
+        "y": 0.3815595546549354,
+        "width": 0.4562046925226848,
+        "height": 0.023556724190711975
+      },
+      "confidence": 1,
+      "text": "Visiting researchers should have identification papers and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.38050852733975415,
+        "width": 0.11316221687115957,
+        "height": 0.04941168799996376
+      },
+      "confidence": 1,
+      "text": "ner school premises.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24762447373667898,
+        "y": 0.3967526742886296,
+        "width": 0.3863839705785116,
+        "height": 0.02318638190627098
+      },
+      "confidence": 1,
+      "text": "must register with the office of the Chief Librarian.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.402700351316009,
+        "width": 0.12774411072184833,
+        "height": 0.0542847216129303
+      },
+      "confidence": 1,
+      "text": "lemonstrating amorous",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20930232605179597,
+        "y": 0.4273255819419477,
+        "width": 0.023255812625090272,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "4.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24950751689108022,
+        "y": 0.41636174451035446,
+        "width": 0.4583475192387899,
+        "height": 0.02624413277953863
+      },
+      "confidence": 1,
+      "text": "For those with circulation privileges, a book is allowed out",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.42030874256094064,
+        "width": 0.12603581199496217,
+        "height": 0.0532277412712574
+      },
+      "confidence": 1,
+      "text": "of LC students inside u",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2475673611291279,
+        "y": 0.4318956225370185,
+        "width": 0.4583216905593872,
+        "height": 0.024848828092217445
+      },
+      "confidence": 1,
+      "text": "for one week. Renewal may be granted if the book is not in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24792188861687514,
+        "y": 0.4545608602454294,
+        "width": 0.07586164772510529,
+        "height": 0.01675037294626236
+      },
+      "confidence": 1,
+      "text": "demand.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2112403105945894,
+        "y": 0.48110465135002034,
+        "width": 0.02519379804531735,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "5.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25193799649795595,
+        "y": 0.47363281224122555,
+        "width": 0.30426355202992755,
+        "height": 0.01764625683426857
+      },
+      "confidence": 1,
+      "text": "Reserve books, Open Reserves -",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5600775247333989,
+        "y": 0.4692382812918807,
+        "width": 0.14922479788462328,
+        "height": 0.013319857884198427
+      },
+      "confidence": 1,
+      "text": "Books used as",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4659712701186506,
+        "width": 0.12289101948890356,
+        "height": 0.03898769058287144
+      },
+      "confidence": 1,
+      "text": "e premises of the schol",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.48184044130143433,
+        "width": 0.12091093105540372,
+        "height": 0.03850236535072327
+      },
+      "confidence": 1,
+      "text": "nout proper permission.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24751425673622554,
+        "y": 0.48177895374951607,
+        "width": 0.4623166720072429,
+        "height": 0.02880651969462633
+      },
+      "confidence": 1,
+      "text": "accompanying reading for course work have unlimited use",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24757451752070736,
+        "y": 0.4987830355251903,
+        "width": 0.4659783442815145,
+        "height": 0.02542068250477314
+      },
+      "confidence": 1,
+      "text": "in the reading room. This collection is located in open",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5068202124003658,
+        "width": 0.12164579581887873,
+        "height": 0.034604206681251526
+      },
+      "confidence": 1,
+      "text": "s upon prior permission",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24759377241597447,
+        "y": 0.5143705497883695,
+        "width": 0.4679577350616455,
+        "height": 0.023948416113853455
+      },
+      "confidence": 1,
+      "text": "shelves in the Reserved Section and may be there without",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5233676195651674,
+        "width": 0.1200059633547818,
+        "height": 0.033262524753808975
+      },
+      "confidence": 1,
+      "text": "tudents that classes are",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24806201654042712,
+        "y": 0.5375976565976879,
+        "width": 0.13953488071759543,
+        "height": 0.017634901218116283
+      },
+      "confidence": 1,
+      "text": "being signed out.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24941041449630866,
+        "y": 0.542925016364985,
+        "width": 0.47005418936411547,
+        "height": 0.027439147233963013
+      },
+      "confidence": 1,
+      "text": "Close-Reserves - Books in demand prescribed for",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.571220930209822,
+        "width": 0.027131782914942743,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "om",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2475176367871524,
+        "y": 0.5600666296552081,
+        "width": 0.47000229358673096,
+        "height": 0.0261150561273098
+      },
+      "confidence": 1,
+      "text": "courses are charged out at the loan desk and limited from",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24746493112741152,
+        "y": 0.5748289686042479,
+        "width": 0.4721027215321859,
+        "height": 0.027135564014315605
+      },
+      "confidence": 1,
+      "text": "one to two hours and overnight use. Books borrowed",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5965224659508039,
+        "width": 0.11262941234438158,
+        "height": 0.019164370372891426
+      },
+      "confidence": 1,
+      "text": "egularly and punctualy",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24738713746676458,
+        "y": 0.5894266859123527,
+        "width": 0.4741374651590984,
+        "height": 0.03039322793483734
+      },
+      "confidence": 1,
+      "text": "overnight may be checked out at 6:00 P.M. and should be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6144252033091243,
+        "width": 0.11665146220004485,
+        "height": 0.014820937532931566
+      },
+      "confidence": 1,
+      "text": "able reason shall be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24560768260997015,
+        "y": 0.611272831678646,
+        "width": 0.31869987646738696,
+        "height": 0.022829324938356876
+      },
+      "confidence": 1,
+      "text": "returned at 9:00 the following morning.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3015262149785893,
+        "y": 0.6363936343545891,
+        "width": 0.2920646667480468,
+        "height": 0.023913285695016384
+      },
+      "confidence": 1,
+      "text": "Article IV Behavior in Corridors",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6549441915235374,
+        "width": 0.11314836557955314,
+        "height": 0.01841261424124241
+      },
+      "confidence": 1,
+      "text": "pon to recite or when",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20473288107000887,
+        "y": 0.6573343128268848,
+        "width": 0.5245653390884399,
+        "height": 0.03271741792559624
+      },
+      "confidence": 1,
+      "text": "Section 1. Students shall not loiter or make any disturbance in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16860465848882214,
+        "y": 0.6845703129174892,
+        "width": 0.2674418489138286,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "the corridors during class hours.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6944838340725987,
+        "width": 0.11429382481178996,
+        "height": 0.025436047464609146
+      },
+      "confidence": 1,
+      "text": "etly and in an ordery",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2046900840927849,
+        "y": 0.689778253952243,
+        "width": 0.5285815000534058,
+        "height": 0.03427025489509106
+      },
+      "confidence": 1,
+      "text": "Section 2. Students shall keep to the right when walking in the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.713699415898031,
+        "width": 0.07453272421137642,
+        "height": 0.02748326864093542
+      },
+      "confidence": 1,
+      "text": "y arranged.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1705426385860147,
+        "y": 0.7192382811835873,
+        "width": 0.1996123989423116,
+        "height": 0.017680322751402855
+      },
+      "confidence": 1,
+      "text": "corridors and stairways.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7333981634133042,
+        "width": 0.11568043220663664,
+        "height": 0.03125258535146713
+      },
+      "confidence": 1,
+      "text": "n shall enter only afer.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7699598945947983,
+        "width": 0.11802876475325919,
+        "height": 0.0455399788916111
+      },
+      "confidence": 1,
+      "text": "ly upon permission of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.8027616248553566,
+        "width": 0.11899224664797037,
+        "height": 0.04825581796467304
+      },
+      "confidence": 1,
+      "text": "form of dishonesty in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.4437984493912588,
+        "y": 0.8415697671953422,
+        "width": 0.0271317834655444,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "27",
+      "verified": false
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "file": "hb5.jpg",
+  "label": "5",
+  "imageSha256": "da780cc2e3a0bd512c28e07ddf945368090e047a3960402f27f9db69ade5f8e5",
+  "left": 0.25991303261789683,
+  "right": 0.7372627501004013,
+  "rows": [
+    {
+      "text": "2.3. Pupils/Students who cannot abide by the rules and",
+      "box": {
+        "height": 0.02227972075343132,
+        "width": 0.39815763632456463,
+        "x": 0.26118148814900627,
+        "y": 0.2443948206587524
+      },
+      "level": 0.25329108100923314
+    },
+    {
+      "text": "regulations of the school.",
+      "box": {
+        "height": 0.01873750425875187,
+        "width": 0.18896665175755817,
+        "x": 0.2939597969088774,
+        "y": 0.25977322958954563
+      },
+      "level": 0.26845902783252673
+    },
+    {
+      "text": "2.4. Pupils/Students whose attitudes, conduct and behavior",
+      "box": {
+        "height": 0.02440863475203514,
+        "width": 0.4485917091369629,
+        "x": 0.26313790338453025,
+        "y": 0.2684009469919414
+      },
+      "level": 0.2781421081755307
+    },
+    {
+      "text": "tend to undermine the orderly processes and are not",
+      "box": {
+        "height": 0.028980348259210587,
+        "width": 0.4197614192962646,
+        "x": 0.29586106843269916,
+        "y": 0.277224079366588
+      },
+      "level": 0.293909760056382
+    },
+    {
+      "text": "conducive to the promotion of the general welfare.",
+      "box": {
+        "height": 0.023545504547655582,
+        "width": 0.3498212893803915,
+        "x": 0.29785849070717885,
+        "y": 0.2938565546572326
+      },
+      "level": 0.30695569558921254
+    },
+    {
+      "text": "3. Students who have been convicted by a competent court of",
+      "box": {
+        "height": 0.026873472146689892,
+        "width": 0.45277027289072674,
+        "x": 0.22674418656358164,
+        "y": 0.30481758446456
+      },
+      "level": 0.3191499561119324
+    },
+    {
+      "text": "crimes of violence or involving moral turpitude.",
+      "box": {
+        "height": 0.024573927745223045,
+        "width": 0.3343503077824911,
+        "x": 0.30163577531388697,
+        "y": 0.3186838211946188
+      },
+      "level": 0.33130218848825493
+    },
+    {
+      "text": "4. Pupils/Students who have poor scholastic records especially",
+      "box": {
+        "height": 0.03220035880804062,
+        "width": 0.4917396306991577,
+        "x": 0.22786915436204894,
+        "y": 0.3303648517892688
+      },
+      "level": 0.34499829779419977
+    },
+    {
+      "text": "those who in the previous term/year failed in 50% of all",
+      "box": {
+        "height": 0.029554108157753944,
+        "width": 0.4567519823710124,
+        "x": 0.2648819560970989,
+        "y": 0.3426599422289006
+      },
+      "level": 0.36026024261805134
+    },
+    {
+      "text": "registered units and/or dropped majority of the subjects",
+      "box": {
+        "height": 0.023394452407956123,
+        "width": 0.2571496566136678,
+        "x": 0.2666905346040462,
+        "y": 0.3629025053127668
+      },
+      "level": 0.373968826959537
+    },
+    {
+      "text": "without justifiable reasons.",
+      "box": {
+        "height": 0.02518437895923853,
+        "width": 0.2091754277547201,
+        "x": 0.26644875490915015,
+        "y": 0.3767007921241553
+      },
+      "level": 0.3876467134910511
+    },
+    {
+      "text": "5. Transfer Pupils/Students who fail in or drop any subject or who",
+      "box": {
+        "height": 0.03228119947016239,
+        "width": 0.45686499277750653,
+        "x": 0.23255813968762387,
+        "y": 0.38161315460410494
+      },
+      "level": 0.40078348327674235
+    },
+    {
+      "text": "violated any school rules and regulations during the probation",
+      "box": {
+        "height": 0.03490376099944115,
+        "width": 0.46061762173970533,
+        "x": 0.27069544338371787,
+        "y": 0.394319765429207
+      },
+      "level": 0.4159184231905595
+    },
+    {
+      "text": "period.",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.056201547384262085,
+        "x": 0.27519380065379917,
+        "y": 0.4287790698537174
+      },
+      "level": 0.42966065265507536
+    },
+    {
+      "text": "Students from other countries, if enrolling for the first time, shall",
+      "box": {
+        "height": 0.033590614795684814,
+        "width": 0.46114671230316157,
+        "x": 0.27611603779723976,
+        "y": 0.4275060159701576
+      },
+      "level": 0.4487395199775505
+    },
+    {
+      "text": "submit a study permit (student visa) from the Bureau of Immigration",
+      "box": {
+        "height": 0.03752372972667217,
+        "width": 0.49977179368337,
+        "x": 0.23930164413160573,
+        "y": 0.44093036488310133
+      },
+      "level": 0.46379731396629703
+    },
+    {
+      "text": "and all other scholastic records valid for enrolment.",
+      "box": {
+        "height": 0.031251367181539536,
+        "width": 0.37578606605529785,
+        "x": 0.24127336392519746,
+        "y": 0.4600373823069259
+      },
+      "level": 0.4779065002519717
+    },
+    {
+      "text": "Cross-enrollees may be permitted only upon recommendation",
+      "box": {
+        "height": 0.037960395216941833,
+        "width": 0.4688053528467814,
+        "x": 0.2800535099716077,
+        "y": 0.47365275614912106
+      },
+      "level": 0.49986340277562247
+    },
+    {
+      "text": "by the screening committee for admissions and upon presentation of",
+      "box": {
+        "height": 0.04493950307369232,
+        "width": 0.5115580161412558,
+        "x": 0.24322288344891954,
+        "y": 0.48524931239595215
+      },
+      "level": 0.5146444542592248
+    },
+    {
+      "text": "a valid permit to cross-enroll by their original institution.",
+      "box": {
+        "height": 0.040301570668816566,
+        "width": 0.4111241102218628,
+        "x": 0.24273412700256566,
+        "y": 0.5056078725547251
+      },
+      "level": 0.5287685801500569
+    },
+    {
+      "text": "All transferees/second coursers shall be subject to an interview",
+      "box": {
+        "height": 0.040654927492141724,
+        "width": 0.47486321131388354,
+        "x": 0.28370951743408157,
+        "y": 0.5208276323694543
+      },
+      "level": 0.5495175396895725
+    },
+    {
+      "text": "by a screening committee. Only upon satisfactory findings shall the",
+      "box": {
+        "height": 0.05108603462576866,
+        "width": 0.5138303438822428,
+        "x": 0.24699571985473576,
+        "y": 0.5328797517902206
+      },
+      "level": 0.5676426854556579
+    },
+    {
+      "text": "applicant be advised to take the entrance examination; and",
+      "box": {
+        "height": 0.023532364517450333,
+        "width": 0.21133464574813832,
+        "x": 0.249,
+        "y": 0.5504926416279182
+      },
+      "level": 0.5778115858071018
+    },
+    {
+      "text": "subsequently enroll. Second coursers who graduated from the",
+      "box": {
+        "height": 0.04548332467675209,
+        "width": 0.5179317394892374,
+        "x": 0.24868132224474104,
+        "y": 0.5642122969541451
+      },
+      "level": 0.5945474161491836
+    },
+    {
+      "text": "Laguna College are exempt from the entrance examination.",
+      "box": {
+        "height": 0.04703563079237938,
+        "width": 0.455806573232015,
+        "x": 0.2468697595352598,
+        "y": 0.5815828069643112
+      },
+      "level": 0.6113767963267127
+    },
+    {
+      "text": "Applicants may take only one entrance examination. Those who",
+      "box": {
+        "height": 0.05203925259411335,
+        "width": 0.4854287306467692,
+        "x": 0.28719875303054315,
+        "y": 0.5965598903367931
+      },
+      "level": 0.6334568454263588
+    },
+    {
+      "text": "have taken the examination and have not immediately enrolled at",
+      "box": {
+        "height": 0.0511222705245018,
+        "width": 0.5297967592875162,
+        "x": 0.24884917226747075,
+        "y": 0.6133136385826015
+      },
+      "level": 0.6481610824702341
+    },
+    {
+      "text": "Laguna College at most a year from the date of enrollment shall be",
+      "box": {
+        "height": 0.055131394416093826,
+        "width": 0.5283337434132895,
+        "x": 0.2503922668653709,
+        "y": 0.627420550019247
+      },
+      "level": 0.6646763321840135
+    },
+    {
+      "text": "exempt from retaking the examination. The results of the previous",
+      "box": {
+        "height": 0.05626721680164337,
+        "width": 0.5305113792419434,
+        "x": 0.2520441571824929,
+        "y": 0.6415789592354662
+      },
+      "level": 0.6804829775262962
+    },
+    {
+      "text": "examination shall be used.",
+      "box": {
+        "height": 0.05429687537252903,
+        "width": 0.22222222884496054,
+        "x": 0.2499999959941864,
+        "y": 0.6624999995823765
+      },
+      "level": 0.6924829775262962
+    },
+    {
+      "text": "Applicants for Graduate Studies need only to undergo a",
+      "box": {
+        "height": 0.05484573170542717,
+        "width": 0.4942985375722249,
+        "x": 0.2945813258048074,
+        "y": 0.6794459913220308
+      },
+      "level": 0.7188084586619338
+    },
+    {
+      "text": "screening interview with the Dean of Graduate Studies. Enrollees for",
+      "box": {
+        "height": 0.06301243603229523,
+        "width": 0.536561131477356,
+        "x": 0.25592649874752293,
+        "y": 0.6914903379246504
+      },
+      "level": 0.7380507339909075
+    },
+    {
+      "text": "Graduate Studies must present to the registering officer their",
+      "box": {
+        "height": 0.06232783570885658,
+        "width": 0.536468784014384,
+        "x": 0.25814703093548114,
+        "y": 0.7086429243613219
+      },
+      "level": 0.7543077713695443
+    },
+    {
+      "text": "undergraduate transcript of records. Applicants must have at least six",
+      "box": {
+        "height": 0.06310565769672394,
+        "width": 0.5366390943527222,
+        "x": 0.25991303261789683,
+        "y": 0.7243856168596041
+      },
+      "level": 0.7709014234377038
+    },
+    {
+      "text": "months of work experience.",
+      "box": {
+        "height": 0.03050953522324562,
+        "width": 0.22952391703923547,
+        "x": 0.26194396382245505,
+        "y": 0.7691099389151399
+      },
+      "level": 0.7842959781667473
+    },
+    {
+      "text": "5",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.011627906312545067,
+        "x": 0.5348837213592313,
+        "y": 0.838662790864682
+      },
+      "level": 0.8545264849867554
+    }
+  ],
+  "reviewed": true
+}

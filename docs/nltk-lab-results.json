@@ -1,0 +1,134 @@
+{
+  "stemmers": [
+    "Porter",
+    "Lancaster",
+    "Regexp",
+    "Snowball English"
+  ],
+  "snowballLanguages": [
+    "arabic",
+    "danish",
+    "dutch",
+    "english",
+    "finnish",
+    "french",
+    "german",
+    "hungarian",
+    "italian",
+    "norwegian",
+    "porter",
+    "portuguese",
+    "romanian",
+    "russian",
+    "spanish",
+    "swedish"
+  ],
+  "comparison": {
+    "writing": {
+      "lemma": "write",
+      "porter": "write",
+      "lancaster": "writ",
+      "regexp": "writ",
+      "snowball": "write"
+    },
+    "eating": {
+      "lemma": "eat",
+      "porter": "eat",
+      "lancaster": "eat",
+      "regexp": "eat",
+      "snowball": "eat"
+    },
+    "eats": {
+      "lemma": "eat",
+      "porter": "eat",
+      "lancaster": "eat",
+      "regexp": "eat",
+      "snowball": "eat"
+    },
+    "eaten": {
+      "lemma": "eat",
+      "porter": "eaten",
+      "lancaster": "eat",
+      "regexp": "eaten",
+      "snowball": "eaten"
+    },
+    "believes": {
+      "lemma": "belief",
+      "porter": "believ",
+      "lancaster": "believ",
+      "regexp": "believe",
+      "snowball": "believ"
+    },
+    "books": {
+      "lemma": "book",
+      "porter": "book",
+      "lancaster": "book",
+      "regexp": "book",
+      "snowball": "book"
+    },
+    "classes": {
+      "lemma": "class",
+      "porter": "class",
+      "lancaster": "class",
+      "regexp": "classe",
+      "snowball": "class"
+    },
+    "responsibilities": {
+      "lemma": "responsibility",
+      "porter": "respons",
+      "lancaster": "respons",
+      "regexp": "responsibilitie",
+      "snowball": "respons"
+    }
+  },
+  "wordnetExample": {
+    "dog": {
+      "synset": "dog.n.01",
+      "definition": "a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds",
+      "examples": [
+        "the dog barked all night"
+      ],
+      "lemmas": [
+        "dog",
+        "domestic_dog",
+        "Canis_familiaris"
+      ],
+      "hypernyms": [
+        "domestic_animal.n.01",
+        "canine.n.02"
+      ],
+      "hyponyms": [
+        "great_pyrenees.n.01",
+        "working_dog.n.01",
+        "poodle.n.01",
+        "toy_dog.n.01",
+        "mexican_hairless.n.01",
+        "puppy.n.01",
+        "hunting_dog.n.01",
+        "newfoundland.n.01",
+        "corgi.n.01",
+        "lapdog.n.01",
+        "dalmatian.n.02",
+        "leonberg.n.01",
+        "cur.n.01",
+        "griffon.n.02",
+        "pug.n.01",
+        "pooch.n.01",
+        "spitz.n.01",
+        "basenji.n.01"
+      ],
+      "roots": [
+        "entity.n.01"
+      ]
+    },
+    "antonyms": {
+      "good.n.02": [
+        "evil",
+        "evilness"
+      ],
+      "good.a.01": [
+        "bad"
+      ]
+    }
+  }
+}

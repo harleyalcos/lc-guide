@@ -1,0 +1,402 @@
+{
+  "file": "hb-insideback.jpg",
+  "imageSha256": "b536944b4ae3cdd45da5217c0ecb04704dcc353baf26700e23d0a1bdee3a094c",
+  "passages": [
+    {
+      "box": {
+        "x": 0,
+        "y": 0.23008720892292955,
+        "width": 0.05755814325544067,
+        "height": 0.027906978502869606
+      },
+      "confidence": 1,
+      "text": "liation",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.24578679132264125,
+        "width": 0.05652515323006938,
+        "height": 0.026528209447860718
+      },
+      "confidence": 1,
+      "text": "vides",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.2619380460474545,
+        "width": 0.056522488028669014,
+        "height": 0.02554251253604889
+      },
+      "confidence": 1,
+      "text": "to or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.30971070151030955,
+        "width": 0.05439502827619478,
+        "height": 0.02108035422861576
+      },
+      "confidence": 0.5,
+      "text": "onnel",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25554561308833773,
+        "y": 0.29065294945397935,
+        "width": 0.3439177274703979,
+        "height": 0.05601520836353302
+      },
+      "confidence": 1,
+      "text": "Awit ng Laguna College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3258139531064157,
+        "width": 0.052596898616034,
+        "height": 0.019854651764035225
+      },
+      "confidence": 1,
+      "text": "eport",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.33864569093272734,
+        "width": 0.05196078389357348,
+        "height": 0.023290013894438744
+      },
+      "confidence": 1,
+      "text": "ction",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.35699910534099133,
+        "width": 0.049344066792211795,
+        "height": 0.02023703046143055
+      },
+      "confidence": 1,
+      "text": "ance",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2575848552642786,
+        "y": 0.3679396124837785,
+        "width": 0.25176733732223516,
+        "height": 0.0396108441054821
+      },
+      "confidence": 1,
+      "text": "Lingkod kaming tunay",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2578391321002458,
+        "y": 0.3808329652232715,
+        "width": 0.35852857430775964,
+        "height": 0.04778043366968632
+      },
+      "confidence": 1,
+      "text": "Sa pag-ibig sa Laguna College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2597539992792564,
+        "y": 0.4084388055957454,
+        "width": 0.2849980394045512,
+        "height": 0.03970581851899624
+      },
+      "confidence": 1,
+      "text": "Sa puso ay walang takot",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.5657114031212652e-10,
+        "y": 0.44040697741675394,
+        "width": 0.0426356593767802,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "sting",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25965814197312964,
+        "y": 0.4307686790655857,
+        "width": 0.26804552475611365,
+        "height": 0.039720743894577026
+      },
+      "confidence": 1,
+      "text": "Na siya ay ipagtanggol",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.9533083021420575e-10,
+        "y": 0.4578488374401366,
+        "width": 0.04263565937678019,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "vate",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25961517715677385,
+        "y": 0.4487069760806738,
+        "width": 0.2943686842918396,
+        "height": 0.0446133129298687
+      },
+      "confidence": 1,
+      "text": "Bigkis kaming mag-uusig",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4752906978333685,
+        "width": 0.04069767367885798,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 3.544711283757588e-11,
+        "y": 0.4898255812632927,
+        "width": 0.04263565937678019,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "dant",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2583225074306614,
+        "y": 0.4758292994418256,
+        "width": 0.29355055093765253,
+        "height": 0.0350460410118103
+      },
+      "confidence": 1,
+      "text": "Sa hukom at sa larangan",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 6.912970635745511e-10,
+        "y": 0.5087209306741481,
+        "width": 0.040697673956553146,
+        "height": 0.01471656933426857
+      },
+      "confidence": 1,
+      "text": "r the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2582513242567204,
+        "y": 0.49120434596690266,
+        "width": 0.3562041123708089,
+        "height": 0.04497482627630234
+      },
+      "confidence": 1,
+      "text": "Dangal at giting ay hahanapin",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 8.222762309014383e-10,
+        "y": 0.5261627907294442,
+        "width": 0.03875968853632609,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "und",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25815258303990646,
+        "y": 0.5129258825872152,
+        "width": 0.37288610140482586,
+        "height": 0.044990379363298416
+      },
+      "confidence": 1,
+      "text": "Nang dahil sa Laguna College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 2.6414435453740264e-11,
+        "y": 0.578488372124793,
+        "width": 0.03682170559962591,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "ead",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25857390660616403,
+        "y": 0.5657628296415638,
+        "width": 0.2971531748771667,
+        "height": 0.035695672035217285
+      },
+      "confidence": 1,
+      "text": "Kung mawalay man tayo",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5959302325899092,
+        "width": 0.0368217055937406,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "esk",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25843045024366074,
+        "y": 0.5850867530950122,
+        "width": 0.34401325384775794,
+        "height": 0.04095980152487755
+      },
+      "confidence": 1,
+      "text": "Sa piling ng Laguna College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 3.736366493978238e-10,
+        "y": 0.6119186048747296,
+        "width": 0.03682170559962591,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "iate",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.013565892330865711,
+        "y": 0.6322674418094494,
+        "width": 0.02325581262509028,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "Or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25848833766051077,
+        "y": 0.6129084883808877,
+        "width": 0.2889316082000733,
+        "height": 0.034868352115154266
+      },
+      "confidence": 1,
+      "text": "Alaala'y magbabangon.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 4.916959177777199e-10,
+        "y": 0.6482558140680436,
+        "width": 0.03488372017939885,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "Ited",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25853279862229733,
+        "y": 0.638158938108256,
+        "width": 0.2582344214121501,
+        "height": 0.03352123126387596
+      },
+      "confidence": 1,
+      "text": "Ang dalanging iuukol",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 6.19445113259065e-10,
+        "y": 0.6656976745318246,
+        "width": 0.032945734759171806,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "nile",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25861069775170725,
+        "y": 0.6609774666664452,
+        "width": 0.3061076005299886,
+        "height": 0.0349329374730587
+      },
+      "confidence": 1,
+      "text": "Sa tagumpay o kawalan.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25898835882760807,
+        "y": 0.6898000005520318,
+        "width": 0.2341582377751668,
+        "height": 0.026931830681860447
+      },
+      "confidence": 1,
+      "text": "Lalagi tayong anak",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.259064805758846,
+        "y": 0.7107786538171394,
+        "width": 0.3579149643580119,
+        "height": 0.032253969460725784
+      },
+      "confidence": 1,
+      "text": "May puso't diwa sa paaralan",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2592001542249922,
+        "y": 0.7396333132601315,
+        "width": 0.24143119653066003,
+        "height": 0.02841835469007492
+      },
+      "confidence": 1,
+      "text": "Pumipintig ng tapat",
+      "verified": false
+    }
+  ]
+}

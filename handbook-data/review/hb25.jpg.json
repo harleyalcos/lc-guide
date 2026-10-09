@@ -1,0 +1,776 @@
+{
+  "file": "hb25.jpg",
+  "imageSha256": "6f063e86a30863f574b54323189050fa82e22423b751395cecfe0106a849ca7d",
+  "passages": [
+    {
+      "text": "Section 1. Students shall at all times be neat, clean, decent in their clothing, orderly, respectful, and courteous in their conduct.",
+      "topic": "School rules student responsibilities respect dress",
+      "box": {
+        "x": 0.22436822476499296,
+        "y": 0.6672530791493954,
+        "width": 0.5783675649335844,
+        "height": 0.04424612674028561
+      },
+      "verified": true
+    },
+    {
+      "text": "Section 2. Students shall refrain from using language and committing acts that are disrespectful, vulgar, or indecent, or which in any manner may cause or tend to disturb other students, faculty members, employees, or officials of the Administration of the College.",
+      "topic": "Respect language student responsibilities",
+      "box": {
+        "x": 0.22427699535836632,
+        "y": 0.6962955655079781,
+        "width": 0.5822886723542285,
+        "height": 0.08127585257156089
+      },
+      "verified": true
+    },
+    {
+      "text": "Section 3. Students shall not bring into the College objects, pictures, or literature that are morally offensive.",
+      "topic": "Morally offensive objects pictures literature",
+      "box": {
+        "x": 0.22421598875779644,
+        "y": 0.7633010491535221,
+        "width": 0.5825675851098692,
+        "height": 0.04461423808659282
+      },
+      "verified": true
+    },
+    {
+      "text": "Section 4. Students shall not bring into the premises of the College any alcoholic drink, or any prohibited drug or opiate, or enter the College premises under the influence of liquor or drug.",
+      "topic": "Alcohol drugs school premises",
+      "box": {
+        "x": 0.22393400496144836,
+        "y": 0.7937795190127186,
+        "width": 0.5828589795419493,
+        "height": 0.06053222522871504
+      },
+      "verified": true
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.18294396849357808,
+        "width": 0.17836996280942316,
+        "height": 0.06257651001214981
+      },
+      "confidence": 1,
+      "text": "nust be at least up to the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.19841266145486758,
+        "width": 0.17806059400958718,
+        "height": 0.061876244843006134
+      },
+      "confidence": 1,
+      "text": "ts shall avoid hairstyles",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.21416840657902148,
+        "width": 0.17783903216785377,
+        "height": 0.06164483353495598
+      },
+      "confidence": 1,
+      "text": "les which do not belong",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2765177583994303,
+        "y": 0.23515471517749287,
+        "width": 0.5069073836008708,
+        "height": 0.029833633452653885
+      },
+      "confidence": 1,
+      "text": "All disciplinary cases classified as Major offenses and Serious",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23976489551361965,
+        "y": 0.2517608145873712,
+        "width": 0.5436337391535441,
+        "height": 0.027589427307248116
+      },
+      "confidence": 1,
+      "text": "offenses shall be heard by an ad hoc Committee on Discipline to be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.2467551904074664,
+        "width": 0.17855646032036485,
+        "height": 0.057613130658864975
+      },
+      "confidence": 1,
+      "text": "piercing on the nose,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23789863067395464,
+        "y": 0.2664415495876369,
+        "width": 0.5475414594014485,
+        "height": 0.030075740069150925
+      },
+      "confidence": 1,
+      "text": "formed by the President of the College. The Committee's decisions",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23983938706608007,
+        "y": 0.2826639151908479,
+        "width": 0.5455351273218791,
+        "height": 0.02820797823369503
+      },
+      "confidence": 1,
+      "text": "are recommendatory and become final and immediately executory",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.282403196356388,
+        "width": 0.17443828051756793,
+        "height": 0.04678905010223389
+      },
+      "confidence": 1,
+      "text": "unnecessary noise and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.29612981937395755,
+        "width": 0.17634753183836582,
+        "height": 0.050012243911623955
+      },
+      "confidence": 1,
+      "text": "tween periods except",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23976569371354098,
+        "y": 0.30291647451780124,
+        "width": 0.26858643690745043,
+        "height": 0.02314835600554943
+      },
+      "confidence": 1,
+      "text": "upon the approval of the President.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.27486003934205244,
+        "y": 0.3204664054261628,
+        "width": 0.5142992734909058,
+        "height": 0.025304192677140236
+      },
+      "confidence": 1,
+      "text": "Any misconduct not otherwise specified in the Student",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.200840445599501e-9,
+        "y": 0.3343023256946154,
+        "width": 0.0329457347591718,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "urs.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23818413904843672,
+        "y": 0.33638431952881986,
+        "width": 0.5488827625910441,
+        "height": 0.024034006521105766
+      },
+      "confidence": 1,
+      "text": "Handbook, whether committed inside or outside the school campus,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3450221233128461,
+        "width": 0.17227626820808495,
+        "height": 0.043482035398483276
+      },
+      "confidence": 1,
+      "text": "whistling, clapping or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23998090087921367,
+        "y": 0.35251127750151845,
+        "width": 0.5472013552983602,
+        "height": 0.024469616822898388
+      },
+      "confidence": 1,
+      "text": "during and outside school hours, shall be punished accordingly for as",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3622876773273359,
+        "width": 0.17038505231620102,
+        "height": 0.040492404252290726
+      },
+      "confidence": 1,
+      "text": "r asking him/her to step",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24008293894215002,
+        "y": 0.3684042248591969,
+        "width": 0.5489705006281533,
+        "height": 0.021604050882160664
+      },
+      "confidence": 1,
+      "text": "long as the misconduct is adverse to the school's good order or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3784420304142577,
+        "width": 0.17159669358944454,
+        "height": 0.04023803398013115
+      },
+      "confidence": 1,
+      "text": "on of the instructor, the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23809503028891088,
+        "y": 0.38259019840837705,
+        "width": 0.5491164922714233,
+        "height": 0.02528322394937277
+      },
+      "confidence": 1,
+      "text": "discipline, welfare, good name and reputation, or shall affect the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23808933212786934,
+        "y": 0.3981187420414274,
+        "width": 0.5510827302932739,
+        "height": 0.02432342618703842
+      },
+      "confidence": 1,
+      "text": "student's status or shall adversely affect the interest and welfare of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4147596532963683,
+        "width": 0.11825922871723948,
+        "height": 0.024994464591145515
+      },
+      "confidence": 1,
+      "text": ", corridors, etc.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2400204176289161,
+        "y": 0.41548042677492536,
+        "width": 0.43463265895843506,
+        "height": 0.021497145295143127
+      },
+      "confidence": 1,
+      "text": "other students, faculty members, and school personnel.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4297629693989806,
+        "width": 0.17492546144185428,
+        "height": 0.031708408147096634
+      },
+      "confidence": 1,
+      "text": "1 the school premises,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2771317918983902,
+        "y": 0.44186046530350864,
+        "width": 0.18023254474004108,
+        "height": 0.014682503417134285
+      },
+      "confidence": 1,
+      "text": "D. Special Provisions",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4471195271943902,
+        "width": 0.17409826637854806,
+        "height": 0.026400119066238403
+      },
+      "confidence": 1,
+      "text": "uation balls or induction",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2403100778524371,
+        "y": 0.4651162791742115,
+        "width": 0.017441860089699418,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2769546995074547,
+        "y": 0.4590457418584333,
+        "width": 0.5100487073262532,
+        "height": 0.019721660763025284
+      },
+      "confidence": 1,
+      "text": "All regulations formulated by the Department of Education",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2751937956896735,
+        "y": 0.47509765642945434,
+        "width": 0.5116279125213623,
+        "height": 0.017634902149438858
+      },
+      "confidence": 1,
+      "text": "(DepEd), the Commission on Higher Education (CHED), and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4812994505177338,
+        "width": 0.17346589866438666,
+        "height": 0.0220334529876709
+      },
+      "confidence": 1,
+      "text": "ds or tends to offend the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.27503214086719757,
+        "y": 0.4897537757306726,
+        "width": 0.5139154195785522,
+        "height": 0.019571231678128242
+      },
+      "confidence": 1,
+      "text": "other higher offices and all existing laws of the Philippines shall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4979410386114618,
+        "width": 0.17331907511996691,
+        "height": 0.021517647430300713
+      },
+      "confidence": 1,
+      "text": "• inappropriate intimate",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.27519379888357953,
+        "y": 0.507267441680392,
+        "width": 0.5135658979415894,
+        "height": 0.016170058399438858
+      },
+      "confidence": 1,
+      "text": "be considered and are hereby incorporated as part of these rules",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5174418603265714,
+        "width": 0.17248062277319773,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "ugging, lying/leaning on",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.27519380595287934,
+        "y": 0.5232558142133923,
+        "width": 0.2306201457977295,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "and regulations on discipline.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5332031246052173,
+        "width": 0.17441860451293478,
+        "height": 0.01621547993272543
+      },
+      "confidence": 1,
+      "text": "nises or at any school-",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23643410906746887,
+        "y": 0.5465116280332232,
+        "width": 0.019379844268163027,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.27519379235009955,
+        "y": 0.5434570312705094,
+        "width": 0.5155038833618164,
+        "height": 0.017589479684829712
+      },
+      "confidence": 1,
+      "text": "For the purpose of meting out the proper penalty for those not so",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2732558328833587,
+        "y": 0.5595703127396819,
+        "width": 0.5193798144658406,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "provided in the Rules for Students Discipline, the School",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2732558142717689,
+        "y": 0.5755813960214051,
+        "width": 0.5174418687820435,
+        "height": 0.017680322751402855
+      },
+      "confidence": 1,
+      "text": "Administration shall be guided by the Manual of Regulations, and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2732558172931763,
+        "y": 0.5915697676726946,
+        "width": 0.13759689529736835,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "DepEd or CHED.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.4108527138203531,
+        "y": 0.6220703127083136,
+        "width": 0.19767441352208454,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "XII. Code of Conduct",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6378608661077878,
+        "width": 0.09822239691363242,
+        "height": 0.021170809864997864
+      },
+      "confidence": 1,
+      "text": "-enrollment",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3817829461775221,
+        "y": 0.639534883939306,
+        "width": 0.2558139562606811,
+        "height": 0.014761990867555141
+      },
+      "confidence": 1,
+      "text": "Article | - General Behavior",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2672717972618505,
+        "y": 0.6712530791493954,
+        "width": 0.5274639924367268,
+        "height": 0.020114505663514137
+      },
+      "confidence": 1,
+      "text": "Section 1. Students shall at all times be neat, clean, decent in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23236822476499297,
+        "y": 0.687108846204856,
+        "width": 0.5178125699361166,
+        "height": 0.020390359684824944
+      },
+      "confidence": 1,
+      "text": "their clothing, orderly, respectful, and courteous in their conduct.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26706364863878207,
+        "y": 0.7002955655079781,
+        "width": 0.5297063986460367,
+        "height": 0.02562178671360016
+      },
+      "confidence": 1,
+      "text": "Section 2. Students shall refrain from using language and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7022855780230777,
+        "width": 0.17713533032990467,
+        "height": 0.038846807554364204
+      },
+      "confidence": 1,
+      "text": "Il be submitted to the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23255814793446858,
+        "y": 0.7207031252322709,
+        "width": 0.5639534791310628,
+        "height": 0.019122456200420856
+      },
+      "confidence": 1,
+      "text": "committing acts that are disrespectful, vulgar, or indecent, or which in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7189485520151544,
+        "width": 0.17769569856560619,
+        "height": 0.041333818808197975
+      },
+      "confidence": 1,
+      "text": ", complaints may come",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1472868215424216,
+        "y": 0.7325581392483944,
+        "width": 0.0271317834655444,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23240184967111124,
+        "y": 0.736814109919072,
+        "width": 0.5661638180414836,
+        "height": 0.02081412822008133
+      },
+      "confidence": 1,
+      "text": "any manner may cause or tend to disturb other students, faculty",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7393438201545512,
+        "width": 0.14988901846410277,
+        "height": 0.03774251788854599
+      },
+      "confidence": 1,
+      "text": "ching employees,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23227699535836632,
+        "y": 0.7503586424915034,
+        "width": 0.56259290377299,
+        "height": 0.023212775588035583
+      },
+      "confidence": 1,
+      "text": "members, employees, or officials of the Administration of the College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7643467937054498,
+        "width": 0.1780897390981926,
+        "height": 0.04521416500210762
+      },
+      "confidence": 1,
+      "text": "1 conduct a preliminary",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2651727133609722,
+        "y": 0.7673010491535222,
+        "width": 0.5336108605066934,
+        "height": 0.023408010601997375
+      },
+      "confidence": 1,
+      "text": "Section 3. Students shall not bring into the College objects,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23221598875779645,
+        "y": 0.7817598179566534,
+        "width": 0.3806039492289225,
+        "height": 0.02215546928346157
+      },
+      "confidence": 1,
+      "text": "pictures, or literature that are morally offensive.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7721653347274793,
+        "width": 0.1797619907997011,
+        "height": 0.05871646851301193
+      },
+      "confidence": 1,
+      "text": "uding documents and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26895231646089685,
+        "y": 0.7977795190127186,
+        "width": 0.5298406680425007,
+        "height": 0.025128841400146484
+      },
+      "confidence": 1,
+      "text": "Section 4. Students shall not bring into the premises of the College any",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23209029810434023,
+        "y": 0.8119093945256672,
+        "width": 0.5666928688685099,
+        "height": 0.02648522239178419
+      },
+      "confidence": 1,
+      "text": "alcoholic drink, or any prohibited drug or opiate, or enter the College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.8170308514042876,
+        "width": 0.14390270181878542,
+        "height": 0.04374866001307964
+      },
+      "confidence": 1,
+      "text": "aterials and other",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23193400496144836,
+        "y": 0.8250477921500974,
+        "width": 0.33856328328450525,
+        "height": 0.02526395209133625
+      },
+      "confidence": 1,
+      "text": "premises under the influence of liquor or drug.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.8290280859064707,
+        "width": 0.15718228032260664,
+        "height": 0.05181748792529106
+      },
+      "confidence": 1,
+      "text": "incipal/Department",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.8393895339287407,
+        "width": 0.17189922971210816,
+        "height": 0.06031976826488972
+      },
+      "confidence": 1,
+      "text": "ne case, and proceed",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.49418604746652467,
+        "y": 0.8808139534373564,
+        "width": 0.0232558126250903,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "25",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 4.821712149919813e-10,
+        "y": 0.8938953493393613,
+        "width": 0.032945734759171806,
+        "height": 0.014534883201122284
+      },
+      "confidence": 0.5,
+      "text": "ns.",
+      "verified": false
+    }
+  ]
+}

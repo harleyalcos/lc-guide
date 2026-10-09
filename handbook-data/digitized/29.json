@@ -1,0 +1,340 @@
+{
+  "file": "hb29.jpg",
+  "label": "29",
+  "imageSha256": "ebdbe3f768e6ffd414ce47902be4d3ee00f6933e21d3883c51f31bd4074e54de",
+  "left": 0.2688319052856789,
+  "right": 0.746124030360105,
+  "rows": [
+    {
+      "text": "c. attempting to communicate with another student,",
+      "box": {
+        "height": 0.01470521418377757,
+        "width": 0.3294573624928793,
+        "x": 0.3120155041111693,
+        "y": 0.22802734373219058
+      },
+      "level": 0.22802734373219058
+    },
+    {
+      "text": "d. caught with an advanced copy of the test questions,",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.3488372166951497,
+        "x": 0.3120155043543751,
+        "y": 0.24560546895262636
+      },
+      "level": 0.24560546895262636
+    },
+    {
+      "text": "e. getting another copy of the test question,",
+      "box": {
+        "height": 0.014750635717064142,
+        "width": 0.27906976143519086,
+        "x": 0.3120155042817007,
+        "y": 0.2630813956087412
+      },
+      "level": 0.2630813956087412
+    },
+    {
+      "text": "f. Possessing notes or any material relative to the",
+      "box": {
+        "height": 0.014821285381913185,
+        "width": 0.38207801183064777,
+        "x": 0.31201550395233907,
+        "y": 0.2793933794234683
+      },
+      "level": 0.2793933794234683
+    },
+    {
+      "text": "examination, test or quiz, without authorization,",
+      "box": {
+        "height": 0.017797616310417652,
+        "width": 0.38222082455952966,
+        "x": 0.34674042898541146,
+        "y": 0.2906754147961448
+      },
+      "level": 0.2906754147961448
+    },
+    {
+      "text": "whether the student actually uses them or not,",
+      "box": {
+        "height": 0.017768247053027153,
+        "width": 0.31830598910649616,
+        "x": 0.3448157439342438,
+        "y": 0.3021088526127773
+      },
+      "level": 0.3021088526127773
+    },
+    {
+      "text": "g. Deliberately looking at a neighbor's examination paper,",
+      "box": {
+        "height": 0.017657611519098282,
+        "width": 0.38178292910257966,
+        "x": 0.310077519920182,
+        "y": 0.32267441932082375
+      },
+      "level": 0.32267441932082375
+    },
+    {
+      "text": "h. copying from or allowing another to copy from one's",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.3895348707834879,
+        "x": 0.310077519920182,
+        "y": 0.34156976778897374
+      },
+      "level": 0.34156976778897374
+    },
+    {
+      "text": "examination papers,",
+      "box": {
+        "height": 0.011786882299929857,
+        "width": 0.14922479788462317,
+        "x": 0.34689922647758514,
+        "y": 0.35449218759120216
+      },
+      "level": 0.35449218759120216
+    },
+    {
+      "text": "i. having somebody else take the examination for another",
+      "box": {
+        "height": 0.01171875,
+        "width": 0.39147285620371497,
+        "x": 0.31007751985825105,
+        "y": 0.3735351561206226
+      },
+      "level": 0.3735351561206226
+    },
+    {
+      "text": "(both shall be liable).",
+      "box": {
+        "height": 0.013263081200420856,
+        "width": 0.14922479788462323,
+        "x": 0.3468992308299752,
+        "y": 0.38517441876360103
+      },
+      "level": 0.38517441876360103
+    },
+    {
+      "text": "j. talking with another student without permission from the",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.3934108416239421,
+        "x": 0.3449612497888041,
+        "y": 0.4055232557774726
+      },
+      "level": 0.4055232557774726
+    },
+    {
+      "text": "proctor.",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.058139532804489136,
+        "x": 0.3488372113109337,
+        "y": 0.4200581395080928
+      },
+      "level": 0.4200581395080928
+    },
+    {
+      "text": "k. Possessing or using of cellular phone during the test.",
+      "box": {
+        "height": 0.01318359375,
+        "width": 0.3720930020014445,
+        "x": 0.31395348889799096,
+        "y": 0.4360351564001741
+      },
+      "level": 0.4360351564001741
+    },
+    {
+      "text": "l. Getting out of the examination room without permission",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.3992247978846231,
+        "x": 0.3468992339549751,
+        "y": 0.45639534892348477
+      },
+      "level": 0.45639534892348477
+    },
+    {
+      "text": "from the proctors or bringing the test paper out of the",
+      "box": {
+        "height": 0.013319857884198427,
+        "width": 0.3972868124643962,
+        "x": 0.3488372178957088,
+        "y": 0.46923828143722957
+      },
+      "level": 0.46923828143722957
+    },
+    {
+      "text": "said room.",
+      "box": {
+        "height": 0.011855579912662506,
+        "width": 0.07951603829860687,
+        "x": 0.34880787331658936,
+        "y": 0.4853512797719267
+      },
+      "level": 0.4855790384328392
+    },
+    {
+      "text": "Cheating is an act of dishonesty; thus, this is classified as an",
+      "box": {
+        "height": 0.016192768700420856,
+        "width": 0.4418604373931884,
+        "x": 0.31007753765999485,
+        "y": 0.5101744184162723
+      },
+      "level": 0.5101744184162723
+    },
+    {
+      "text": "act punishable by dismissal or exclusion in accordance with the",
+      "box": {
+        "height": 0.025349467992782593,
+        "width": 0.477534532546997,
+        "x": 0.2766472070176486,
+        "y": 0.5189452130125216
+      },
+      "level": 0.5284006521814815
+    },
+    {
+      "text": "Manual of Regulations for Private Schools of 2008.",
+      "box": {
+        "height": 0.01908839028328657,
+        "width": 0.37403098742167157,
+        "x": 0.2732558278589316,
+        "y": 0.5375976560040563
+      },
+      "level": 0.5375976560040563
+    },
+    {
+      "text": "B. Issuance of School Credentials",
+      "box": {
+        "height": 0.01761218998581171,
+        "width": 0.2887596885363261,
+        "x": 0.3081395324517982,
+        "y": 0.5668604658324516
+      },
+      "level": 0.5668604658324516
+    },
+    {
+      "text": "Clearance forms for purposes of requesting for TOR, transfer",
+      "box": {
+        "height": 0.0221501300111413,
+        "width": 0.4560555617014567,
+        "x": 0.30778871195046104,
+        "y": 0.5841154670196331
+      },
+      "level": 0.590444147106514
+    },
+    {
+      "text": "credentials, diploma, certificate of (a) enrollment, (b) graduation,",
+      "box": {
+        "height": 0.023343175649642944,
+        "width": 0.4947290420532227,
+        "x": 0.2729146197140387,
+        "y": 0.5997558716807525
+      },
+      "level": 0.6054601083632569
+    },
+    {
+      "text": "(c) good moral character are available at the Cashier's office",
+      "box": {
+        "height": 0.027682701125741005,
+        "width": 0.49515843391418457,
+        "x": 0.2707491659840362,
+        "y": 0.6112625455712883
+      },
+      "level": 0.622309835278055
+    },
+    {
+      "text": "counter. The credentials will be issued eighteen (18) working days",
+      "box": {
+        "height": 0.02412218227982521,
+        "width": 0.49879686037699383,
+        "x": 0.27090101238980796,
+        "y": 0.6286837261899603
+      },
+      "level": 0.63684418762878
+    },
+    {
+      "text": "after filing and only after the student is cleared of all his financial",
+      "box": {
+        "height": 0.02848915569484234,
+        "width": 0.5029931465784709,
+        "x": 0.26883247746492883,
+        "y": 0.6408264377733152
+      },
+      "level": 0.6531777732653002
+    },
+    {
+      "text": "obligations to the college.",
+      "box": {
+        "height": 0.020824888721108437,
+        "width": 0.19862206776936853,
+        "x": 0.26893002001745275,
+        "y": 0.6646002233920527
+      },
+      "level": 0.6690993705725206
+    },
+    {
+      "text": "School certifications, TOR, F-137 and Transfer Credential",
+      "box": {
+        "height": 0.025122600607573986,
+        "width": 0.4736145337422689,
+        "x": 0.303921299291269,
+        "y": 0.6813232526661792
+      },
+      "level": 0.6876603141905704
+    },
+    {
+      "text": "cannot be released unless the original high school and/or",
+      "box": {
+        "height": 0.02581540122628212,
+        "width": 0.5105677843093872,
+        "x": 0.2689211039265877,
+        "y": 0.6957522406582188
+      },
+      "level": 0.704596944559778
+    },
+    {
+      "text": "Elementary F-137 or the Transcript of Records of the student from",
+      "box": {
+        "height": 0.032129984349012375,
+        "width": 0.5107795794804891,
+        "x": 0.2688319052856789,
+        "y": 0.7084409144901994
+      },
+      "level": 0.7237373683913003
+    },
+    {
+      "text": "a previous school are on file with the records section of the Laguna",
+      "box": {
+        "height": 0.0273219533264637,
+        "width": 0.512611985206604,
+        "x": 0.26888345072574477,
+        "y": 0.7275077976365714
+      },
+      "level": 0.7388491855082242
+    },
+    {
+      "text": "College.",
+      "box": {
+        "height": 0.015988372266292572,
+        "width": 0.06589146951834357,
+        "x": 0.26937984710683044,
+        "y": 0.7543604649984983
+      },
+      "level": 0.7543604649984983
+    },
+    {
+      "text": "29",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.023255812625090355,
+        "x": 0.5155038766331913,
+        "y": 0.8008720932948511
+      },
+      "level": 0.8008720932948511
+    }
+  ],
+  "reviewed": true
+}

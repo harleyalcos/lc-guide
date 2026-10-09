@@ -1,0 +1,523 @@
+{
+  "file": "hb-toc1.jpg",
+  "imageSha256": "0afa0955238e576c518715032ef3affa55c9ac5f0be891641be7d53178916165",
+  "passages": [
+    {
+      "box": {
+        "x": 0.34689922466002665,
+        "y": 0.1395348838362036,
+        "width": 0.25968992710113525,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "TABLE OF CONTENTS",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8934108534406274,
+        "y": 0.17587209350064104,
+        "width": 0.029069766402244568,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "IX.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.924418603557351,
+        "y": 0.1729651163196153,
+        "width": 0.07364341119925177,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "Select",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7189922480011943,
+        "y": 0.18895348869582373,
+        "width": 0.0503875960906347,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "Page",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9399224809209126,
+        "y": 0.19331395373816507,
+        "width": 0.01744186008969939,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "A.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.982558139680041,
+        "y": 0.19040697701578135,
+        "width": 0.01550387591123581,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "C",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16279071076363247,
+        "y": 0.19912790707384898,
+        "width": 0.3817829291025797,
+        "height": 0.019133811816573143
+      },
+      "confidence": 1,
+      "text": "I. Brief History of the Laguna College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7403100776236705,
+        "y": 0.20639534910517088,
+        "width": 0.01937984426816297,
+        "height": 0.01308139506727457
+      },
+      "confidence": 0.5,
+      "text": ",2",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.15856147807829843,
+        "y": 0.23244263719878722,
+        "width": 0.3475006024042765,
+        "height": 0.022189239971339703
+      },
+      "confidence": 1,
+      "text": "II. Mission of the Laguna College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7461240307809008,
+        "y": 0.23982558150990396,
+        "width": 0.013565891732772117,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "2",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9476744195110983,
+        "y": 0.24273255858112486,
+        "width": 0.023255812625090244,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "B.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1566404343653327,
+        "y": 0.26864852052530275,
+        "width": 0.3320704897244771,
+        "height": 0.02239156886935234
+      },
+      "confidence": 1,
+      "text": "III. Vision of the Laguna College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7286821699324296,
+        "y": 0.27470930265815974,
+        "width": 0.03294573724269867,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "2-3",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.15479825248242982,
+        "y": 0.30574390714571487,
+        "width": 0.33375044663747144,
+        "height": 0.020067956298589706
+      },
+      "confidence": 1,
+      "text": "N. Officers of the Administration",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7499999997731489,
+        "y": 0.3110465117424621,
+        "width": 0.013565891732772117,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "3",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9612403106178564,
+        "y": 0.3154069768122929,
+        "width": 0.019379844268163082,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "C",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.15077256165742683,
+        "y": 0.3446964112238202,
+        "width": 0.21769267320632937,
+        "height": 0.019262338988482952
+      },
+      "confidence": 1,
+      "text": "V. Courses Offered.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7325581397434648,
+        "y": 0.34593023292705505,
+        "width": 0.038759688536326053,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": ".3-4",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9186046518446457,
+        "y": 0.35156249962554087,
+        "width": 0.07945736249287927,
+        "height": 0.01762354653328657
+      },
+      "confidence": 1,
+      "text": "X. Gr",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.14905833764567408,
+        "y": 0.3834256791690296,
+        "width": 0.3277993599573771,
+        "height": 0.019357575103640556
+      },
+      "confidence": 1,
+      "text": "VI. Admission and Registration.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7403100780885952,
+        "y": 0.382267441701156,
+        "width": 0.03488372017939889,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "4-9",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9244186043228547,
+        "y": 0.382267442533033,
+        "width": 0.07364341119925188,
+        "height": 0.017634901218116283
+      },
+      "confidence": 1,
+      "text": "XI. Ru",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1934691748032388,
+        "y": 0.4030847123110961,
+        "width": 0.23510587215423587,
+        "height": 0.018815656192600727
+      },
+      "confidence": 1,
+      "text": "A. Admission Policies",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9748062024471448,
+        "y": 0.3997093021662723,
+        "width": 0.023255812625090244,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "A.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1933178425792891,
+        "y": 0.42354816552030305,
+        "width": 0.1676106850306193,
+        "height": 0.018698588013648987
+      },
+      "confidence": 1,
+      "text": "B. Credentials",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9767441859784906,
+        "y": 0.4215116279387464,
+        "width": 0.01550387591123581,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "B",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19186046587833508,
+        "y": 0.4447674423343896,
+        "width": 0.029069766402244568,
+        "height": 0.01744185946881771
+      },
+      "confidence": 0.5,
+      "text": "C.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23980248977846483,
+        "y": 0.44089128900820795,
+        "width": 0.24514317512512204,
+        "height": 0.022246122360229492
+      },
+      "confidence": 1,
+      "text": "Registration Procedures",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9806201551572545,
+        "y": 0.4389534881712558,
+        "width": 0.01744186008969939,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "C",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19186046592774242,
+        "y": 0.4665697673007201,
+        "width": 0.034883720179398864,
+        "height": 0.015988372266292572
+      },
+      "confidence": 0.5,
+      "text": "D.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23837209181853813,
+        "y": 0.4622093023837536,
+        "width": 0.3488372166951498,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "Probationary Status of Transferees",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18967747591124584,
+        "y": 0.4860843628726339,
+        "width": 0.10126520196596783,
+        "height": 0.019110344350337982
+      },
+      "confidence": 1,
+      "text": "E. Fees",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9418604671266673,
+        "y": 0.5014534880856037,
+        "width": 0.056201547384262085,
+        "height": 0.016124636866152287
+      },
+      "confidence": 1,
+      "text": "XII. (",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13953488843428855,
+        "y": 0.5276162790905641,
+        "width": 0.24031007289886477,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "VIl. Class Attendance",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7751937985947697,
+        "y": 0.5218023259866481,
+        "width": 0.01550387591123581,
+        "height": 0.014534883201122284
+      },
+      "confidence": 0.5,
+      "text": "9",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9457364343038579,
+        "y": 0.5348837214283818,
+        "width": 0.042635659376780155,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "XIII.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1369331832220618,
+        "y": 0.559555190819505,
+        "width": 0.46037753423055006,
+        "height": 0.03275924175977707
+      },
+      "confidence": 1,
+      "text": "Vill. Grading System and Retention Policies",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7441346185065884,
+        "y": 0.562390643244154,
+        "width": 0.06018037597338355,
+        "height": 0.01620708592236042
+      },
+      "confidence": 1,
+      "text": "10-13",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18023255857454465,
+        "y": 0.5915697680272191,
+        "width": 0.1182170510292053,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "A. College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22868217215314543,
+        "y": 0.6074218745534411,
+        "width": 0.393410841623942,
+        "height": 0.02197265625
+      },
+      "confidence": 1,
+      "text": "- Grading System in all Departments",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2285823685871821,
+        "y": 0.6333971194041843,
+        "width": 0.09903681278228763,
+        "height": 0.018089482560753822
+      },
+      "confidence": 1,
+      "text": "- For BSN",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22594810396641515,
+        "y": 0.6507054667929457,
+        "width": 0.24205748240152994,
+        "height": 0.027778245508670807
+      },
+      "confidence": 1,
+      "text": "- Incomplete Grades",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2248062073423466,
+        "y": 0.6743164062443128,
+        "width": 0.26550386349360144,
+        "height": 0.0234375
+      },
+      "confidence": 1,
+      "text": "- On Dropping Subjects",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22286821822649636,
+        "y": 0.699127906892163,
+        "width": 0.21124031146367392,
+        "height": 0.019133811816573143
+      },
+      "confidence": 1,
+      "text": "- Retention Policies",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.17777292520202512,
+        "y": 0.7185873199027432,
+        "width": 0.3673579295476277,
+        "height": 0.027575382962822914
+      },
+      "confidence": 1,
+      "text": "B. Elementary and High School",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22286821954047206,
+        "y": 0.7441406251501741,
+        "width": 0.19961239894231161,
+        "height": 0.02197265625
+      },
+      "confidence": 1,
+      "text": "- Grading System",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22286822760600242,
+        "y": 0.7645348838927629,
+        "width": 0.3856588999430338,
+        "height": 0.021802324801683426
+      },
+      "confidence": 1,
+      "text": "- Promotion and Retention Policies",
+      "verified": false
+    }
+  ]
+}

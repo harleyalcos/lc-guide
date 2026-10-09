@@ -1,0 +1,430 @@
+{
+  "file": "hb23.jpg",
+  "label": "23",
+  "imageSha256": "91e6b99ecad372d436df0b0c68fe22d0503aa01588319602a3a3605fc2881766",
+  "left": 0.2379281338683136,
+  "right": 0.7209302174484117,
+  "rows": [
+    {
+      "text": "12. Cutting classes, playing video games or billiards and other activities",
+      "box": {
+        "height": 0.025178104639053345,
+        "width": 0.48126931985219323,
+        "x": 0.2379281338683136,
+        "y": 0.22228363202622348
+      },
+      "level": 0.22992304758837634
+    },
+    {
+      "text": "not related to school work during class hours.",
+      "box": {
+        "height": 0.02038033865392208,
+        "width": 0.30298177401224774,
+        "x": 0.27086683150869434,
+        "y": 0.23707973102472213
+      },
+      "level": 0.24378794990083338
+    },
+    {
+      "text": "13. Affiliating knowingly or unknowingly with any unauthorized",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.06395348906517029,
+        "x": 0.2364341089587727,
+        "y": 0.257267441928572
+      },
+      "level": 0.2578964761758778
+    },
+    {
+      "text": "organization operating within the college.",
+      "box": {
+        "height": 0.019252629950642586,
+        "width": 0.30269386370976764,
+        "x": 0.2730118711430262,
+        "y": 0.26435679664132106
+      },
+      "level": 0.2678586845857729
+    },
+    {
+      "text": "14. Peeping at ladies’ or men’s comfort room.",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.2771317760149638,
+        "x": 0.23837209288836306,
+        "y": 0.28052325596484584
+      },
+      "level": 0.2811910500398915
+    },
+    {
+      "text": "15. Entering the school premises smelling of liquor.",
+      "box": {
+        "height": 0.016929900273680687,
+        "width": 0.31632314125696814,
+        "x": 0.24031007775916413,
+        "y": 0.291289811295949
+      },
+      "level": 0.2952610791605139
+    },
+    {
+      "text": "16. Violating Republic Act No. 7877 as specified in LC Rules and",
+      "box": {
+        "height": 0.01902674324810505,
+        "width": 0.4538256724675496,
+        "x": 0.23837209397815254,
+        "y": 0.30229362800638726
+      },
+      "level": 0.3076385249429683
+    },
+    {
+      "text": "Regulations on Anti-Sexual Harassment. (See “Implementing Rules",
+      "box": {
+        "height": 0.01762354653328657,
+        "width": 0.4515503644943238,
+        "x": 0.2732558292676959,
+        "y": 0.31831395388962214
+      },
+      "level": 0.3190205078237158
+    },
+    {
+      "text": "and Regulations of the Anti-Sexual Harassment Act of 1995”)",
+      "box": {
+        "height": 0.01905655860900879,
+        "width": 0.42079961299896246,
+        "x": 0.2711757847011154,
+        "y": 0.32985123191636845
+      },
+      "level": 0.3327070360983608
+    },
+    {
+      "text": "PENALTIES:",
+      "box": {
+        "height": 0.015988372266292572,
+        "width": 0.09302325050036112,
+        "x": 0.24031008110640859,
+        "y": 0.36046511611976073
+      },
+      "level": 0.36051275506628283
+    },
+    {
+      "text": "1. First Offense: Three (3) days suspension",
+      "box": {
+        "height": 0.01171875,
+        "width": 0.28100774685541785,
+        "x": 0.27325581399311005,
+        "y": 0.37207031240181776
+      },
+      "level": 0.3735133002864421
+    },
+    {
+      "text": "2. Second Offense: One (1) week suspension",
+      "box": {
+        "height": 0.011786882299929857,
+        "width": 0.29263563950856525,
+        "x": 0.27325581415638894,
+        "y": 0.383720930351116
+      },
+      "level": 0.38512515851982454
+    },
+    {
+      "text": "3. Third Offense: Two (2) weeks suspension",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.284883717695872,
+        "x": 0.27325581418868866,
+        "y": 0.3968023254940425
+      },
+      "level": 0.39824531336115376
+    },
+    {
+      "text": "4. Fourth Offense: Exclusion / Dismissal",
+      "box": {
+        "height": 0.013308503199368715,
+        "width": 0.2577519218126933,
+        "x": 0.27519379916664033,
+        "y": 0.40820312478485
+      },
+      "level": 0.4096461126293654
+    },
+    {
+      "text": "C. Less Serious Offenses",
+      "box": {
+        "height": 0.01950094848871231,
+        "width": 0.187296986579895,
+        "x": 0.24542382252288072,
+        "y": 0.4259403057011808
+      },
+      "level": 0.43335448270925586
+    },
+    {
+      "text": "1. Soliciting money or donation and selling tickets within the school",
+      "box": {
+        "height": 0.02381780557334423,
+        "width": 0.48527089754740393,
+        "x": 0.24568700175944413,
+        "y": 0.44450628997632946
+      },
+      "level": 0.4541050989684139
+    },
+    {
+      "text": "premises without authorization or approval from the school.",
+      "box": {
+        "height": 0.01986818201839924,
+        "width": 0.3998156388600667,
+        "x": 0.27867257592168865,
+        "y": 0.4599191699459815
+      },
+      "level": 0.46775501076435516
+    },
+    {
+      "text": "2. Smoking and/or vaping inside the campus.",
+      "box": {
+        "height": 0.020143961533904076,
+        "width": 0.2913988629976908,
+        "x": 0.24418604664992896,
+        "y": 0.47403885857216355
+      },
+      "level": 0.48212349810006905
+    },
+    {
+      "text": "3. Littering or scattering pieces of paper, peelings, and other rubbish,",
+      "box": {
+        "height": 0.020366095937788486,
+        "width": 0.45780952771504724,
+        "x": 0.24612403127792049,
+        "y": 0.4862329069991911
+      },
+      "level": 0.4936415971699111
+    },
+    {
+      "text": "and sticking of chewing gums inside the school premises.",
+      "box": {
+        "height": 0.016135992482304573,
+        "width": 0.389534870783488,
+        "x": 0.2790697778059304,
+        "y": 0.5029069765558072
+      },
+      "level": 0.5037298094649619
+    },
+    {
+      "text": "4. NOT wearing prescribed uniforms.",
+      "box": {
+        "height": 0.019849078729748726,
+        "width": 0.2468594113985697,
+        "x": 0.27862110358786696,
+        "y": 0.514598596503215
+      },
+      "level": 0.5222518160381386
+    },
+    {
+      "text": "a. College-Ladies: white blouse with navy blue skirt and",
+      "box": {
+        "height": 0.013653558678925037,
+        "width": 0.10671132802963257,
+        "x": 0.3119544144433138,
+        "y": 0.531690662308016
+      },
+      "level": 0.533173686203656
+    },
+    {
+      "text": "jackets, black shoes.",
+      "box": {
+        "height": 0.013217659667134285,
+        "width": 0.1434108515580495,
+        "x": 0.31007751756722857,
+        "y": 0.5449218751969294
+      },
+      "level": 0.5463648629242238
+    },
+    {
+      "text": "b. College-Gentlemen: sky blue polo barong with",
+      "box": {
+        "height": 0.022828317247331142,
+        "width": 0.436752716700236,
+        "x": 0.30201444908849934,
+        "y": 0.5491968310189854
+      },
+      "level": 0.5605972627076827
+    },
+    {
+      "text": "embossed LC seal, navy blue pants and shoes.",
+      "box": {
+        "height": 0.01812434010207653,
+        "width": 0.304949422677358,
+        "x": 0.31353361047307243,
+        "y": 0.5651682768086668
+      },
+      "level": 0.5730244100229297
+    },
+    {
+      "text": "c. Junior High School-Girls: white blouse with necktie and dark",
+      "box": {
+        "height": 0.022100738249719143,
+        "width": 0.4271672964096069,
+        "x": 0.31352570501320226,
+        "y": 0.5741948822503218
+      },
+      "level": 0.5862561088172078
+    },
+    {
+      "text": "blue pleated skirt and black shoes with white socks.",
+      "box": {
+        "height": 0.022236650809645653,
+        "width": 0.33213629325230914,
+        "x": 0.31351993333420475,
+        "y": 0.5880056068035376
+      },
+      "level": 0.5995961993366438
+    },
+    {
+      "text": "Senior High School-Girls: white blouse with necktie and dark blue",
+      "box": {
+        "height": 0.02446287777274847,
+        "width": 0.42538690567016596,
+        "x": 0.3153672912876628,
+        "y": 0.5981752567158347
+      },
+      "level": 0.6119097992290596
+    },
+    {
+      "text": "pleated skirt and black shoes, no socks (or with black foot socks).",
+      "box": {
+        "height": 0.022822238504886627,
+        "width": 0.4175289471944173,
+        "x": 0.3134947329745293,
+        "y": 0.6129727607279831
+      },
+      "level": 0.6249961239150679
+    },
+    {
+      "text": "d. High School-Boys: white polo barong with embossed LC",
+      "box": {
+        "height": 0.025800123810768127,
+        "width": 0.4274612665176391,
+        "x": 0.3153758053232811,
+        "y": 0.6244465812516922
+      },
+      "level": 0.6382472998560035
+    },
+    {
+      "text": "seal, navy blue pants and black shoes",
+      "box": {
+        "height": 0.022064934484660625,
+        "width": 0.25308700402577716,
+        "x": 0.31150565486101717,
+        "y": 0.6427799914774163
+      },
+      "level": 0.6519230983871672
+    },
+    {
+      "text": "e. Prescribed uniform for Nursing, Hospitality Management,",
+      "box": {
+        "height": 0.024550696834921837,
+        "width": 0.43107465902964276,
+        "x": 0.31536131480162116,
+        "y": 0.6502951613424242
+      },
+      "level": 0.6628498783226107
+    },
+    {
+      "text": "Tourism Mgt., and Psychology Students",
+      "box": {
+        "height": 0.01904296875,
+        "width": 0.2693798343340556,
+        "x": 0.31395349705293335,
+        "y": 0.6699218749231173
+      },
+      "level": 0.67144238224299
+    },
+    {
+      "text": "5. Wearing skirts above the knee for all female students in Junior HS,",
+      "box": {
+        "height": 0.030848409980535507,
+        "width": 0.47201689084370935,
+        "x": 0.2765587424595086,
+        "y": 0.6743946445283602
+      },
+      "level": 0.6885644509410335
+    },
+    {
+      "text": "Senior HS and College.",
+      "box": {
+        "height": 0.014761990867555141,
+        "width": 0.16860465208689368,
+        "x": 0.2829457348819408,
+        "y": 0.7020348841625202
+      },
+      "level": 0.7029352362160594
+    },
+    {
+      "text": "6. Lending and/or borrowing a school uniform or ID in order to gain",
+      "box": {
+        "height": 0.02891279198229313,
+        "width": 0.44307974974314374,
+        "x": 0.24612403119166892,
+        "y": 0.7058167127765493
+      },
+      "level": 0.718849897324517
+    },
+    {
+      "text": "Entrance to the campus or classroom.",
+      "box": {
+        "height": 0.01470521418377757,
+        "width": 0.26744184891382855,
+        "x": 0.284883729380295,
+        "y": 0.728027343608644
+      },
+      "level": 0.7289664555535823
+    },
+    {
+      "text": "7. Entering the school premises without wearing the official ID or",
+      "box": {
+        "height": 0.031461477279663086,
+        "width": 0.4704000155131022,
+        "x": 0.24612403159653864,
+        "y": 0.730863358558285
+      },
+      "level": 0.7465464366328117
+    },
+    {
+      "text": "refusal to present his/ her ID to the security guard.",
+      "box": {
+        "height": 0.026199940592050552,
+        "width": 0.35174723466237384,
+        "x": 0.27863018599281303,
+        "y": 0.7501253809823758
+      },
+      "level": 0.7614667636815279
+    },
+    {
+      "text": "8. Leaving class during the period without the permission of the",
+      "box": {
+        "height": 0.033594779670238495,
+        "width": 0.4722758928934733,
+        "x": 0.2805908963467892,
+        "y": 0.7579667609658994
+      },
+      "level": 0.7741858571141571
+    },
+    {
+      "text": "instructor/teacher.",
+      "box": {
+        "height": 0.01543883141130209,
+        "width": 0.1383487681547801,
+        "x": 0.28064137696332475,
+        "y": 0.7870158852578675
+      },
+      "level": 0.7878779366043893
+    },
+    {
+      "text": "23",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.0232558126250903,
+        "x": 0.49031007837737733,
+        "y": 0.8270348836699145
+      },
+      "level": 0.8320825227465981
+    }
+  ],
+  "reviewed": true
+}

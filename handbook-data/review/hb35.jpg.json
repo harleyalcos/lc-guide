@@ -1,0 +1,622 @@
+{
+  "file": "hb35.jpg",
+  "imageSha256": "6d5373d5fe2ec1dbf20f3b3f33c7afed0eeda486434e41d5815559c93cbb33c9",
+  "passages": [
+    {
+      "box": {
+        "x": 1.0419144713669226e-9,
+        "y": 0.2776162797423354,
+        "width": 0.03875968853632609,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "2002",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2206422300581153,
+        "y": 0.2750435182751584,
+        "width": 0.37868690490722656,
+        "height": 0.02232981286942959
+      },
+      "confidence": 1,
+      "text": "\"Cyber-bullying\" or any bullying done through the use",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18604651221669366,
+        "y": 0.2877906978979854,
+        "width": 0.019379844268163054,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "4.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.220286195894727,
+        "y": 0.28596714233685194,
+        "width": 0.3809929688771566,
+        "height": 0.026080403476953506
+      },
+      "confidence": 1,
+      "text": "of technology or any electronic means. This includes",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22029795064799673,
+        "y": 0.29933125141432493,
+        "width": 0.382996658484141,
+        "height": 0.025442284531891346
+      },
+      "confidence": 1,
+      "text": "any conduct resulting in harassment, intimidation or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3142099890197334,
+        "width": 0.08800729553318708,
+        "height": 0.031976740807294846
+      },
+      "confidence": 1,
+      "text": "n, delivery,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22034643528919137,
+        "y": 0.3132602347340989,
+        "width": 0.3849299351374308,
+        "height": 0.025397655554115772
+      },
+      "confidence": 1,
+      "text": "humiliation, through the use of other forms of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3309506978224661,
+        "width": 0.08810540366995012,
+        "height": 0.026999606750905514
+      },
+      "confidence": 1,
+      "text": "rugs and/or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2163265160124014,
+        "y": 0.3265386175024808,
+        "width": 0.38885466257731127,
+        "height": 0.02812285628169775
+      },
+      "confidence": 1,
+      "text": "technology, such as but not limited to texting, email,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3472265869192759,
+        "width": 0.08773308569339834,
+        "height": 0.026437776163220406
+      },
+      "confidence": 1,
+      "text": "are strictly",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21840153937304904,
+        "y": 0.34072278302785963,
+        "width": 0.38673766454060865,
+        "height": 0.02589329518377781
+      },
+      "confidence": 1,
+      "text": "instant messaging, chatting, internet, social media,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.36001403607990623,
+        "width": 0.08804721241136636,
+        "height": 0.026856761425733566
+      },
+      "confidence": 1,
+      "text": "ties shall be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2222873258163208,
+        "y": 0.3541019282759392,
+        "width": 0.38286030292510986,
+        "height": 0.02420378290116787
+      },
+      "confidence": 1,
+      "text": "online game or other platforms or format as defined in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3746228788217466,
+        "width": 0.08806830095711486,
+        "height": 0.02534962259232998
+      },
+      "confidence": 1,
+      "text": "scipline and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22223272266714264,
+        "y": 0.37254817694045084,
+        "width": 0.2104588150978088,
+        "height": 0.021566160954535007
+      },
+      "confidence": 1,
+      "text": "DepEd Order No. 40s. 2012;",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1893944361393832,
+        "y": 0.39464823170212004,
+        "width": 0.417795976003011,
+        "height": 0.025988373905420303
+      },
+      "confidence": 1,
+      "text": "5. Any other form of bullying as may be provided in the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.222225975926111,
+        "y": 0.41048406265473003,
+        "width": 0.3382964928944905,
+        "height": 0.023614877834916115
+      },
+      "confidence": 1,
+      "text": "school's child protection or anti-bullying policy:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.18992248068229076,
+        "y": 0.44912790685377224,
+        "width": 0.021317829688390078,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "6.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21457014736851207,
+        "y": 0.44011026404789755,
+        "width": 0.25316103299458825,
+        "height": 0.02186725288629532
+      },
+      "confidence": 1,
+      "text": "Any deliberate, repetitive and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.46849685526186396,
+        "y": 0.4348561985488676,
+        "width": 0.14472271998723346,
+        "height": 0.018953832797706127
+      },
+      "confidence": 1,
+      "text": "aggressive social",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 4.695240270654229e-9,
+        "y": 0.4593023258412994,
+        "width": 0.08914727965990703,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "se by one or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22617803831783778,
+        "y": 0.44848130202869385,
+        "width": 0.3868222236633301,
+        "height": 0.025068635120987892
+      },
+      "confidence": 1,
+      "text": "behavior intended to hurt others or to belittle another",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.47509765616079913,
+        "width": 0.0872093039764286,
+        "height": 0.014727924950420856
+      },
+      "confidence": 1,
+      "text": "pression, ora",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22421400483806705,
+        "y": 0.4668080441046283,
+        "width": 0.26097091039021814,
+        "height": 0.02564525417983532
+      },
+      "confidence": 1,
+      "text": "individual or group (social bullying);",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.48783481087640235,
+        "width": 0.09017283407060883,
+        "height": 0.017611528746783733
+      },
+      "confidence": 1,
+      "text": "f, directed at",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19323540841795298,
+        "y": 0.4883633662867639,
+        "width": 0.42171637217203783,
+        "height": 0.029759403318166733
+      },
+      "confidence": 1,
+      "text": "7. Any act that humiliates or excludes a person on the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5054941991650107,
+        "width": 0.08922873202172708,
+        "height": 0.013720903545618057
+      },
+      "confidence": 1,
+      "text": "/ causing or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2280149715357663,
+        "y": 0.5028246562614417,
+        "width": 0.38709096113840735,
+        "height": 0.0277096601203084
+      },
+      "confidence": 1,
+      "text": "basis of perceived or actual sexual orientation and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5218023255566058,
+        "width": 0.0872093023775914,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "or emotional",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22593455601137982,
+        "y": 0.5203392572020743,
+        "width": 0.2979626258214315,
+        "height": 0.026607167907059193
+      },
+      "confidence": 1,
+      "text": "gender identity (gender-based bullying);",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.536240641000264,
+        "width": 0.08917230318219982,
+        "height": 0.013274531811475754
+      },
+      "confidence": 1,
+      "text": "g a hostile",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5521773789721154,
+        "width": 0.08918982531355772,
+        "height": 0.01483128871768713
+      },
+      "confidence": 1,
+      "text": "inging on the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16584550430661305,
+        "y": 0.5509036743404926,
+        "width": 0.28641480207443243,
+        "height": 0.02574569545686245
+      },
+      "confidence": 1,
+      "text": "Laguna College Anti-Bullying Policy",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.0018041815068314444,
+        "y": 0.5663839136006695,
+        "width": 0.08941489458084106,
+        "height": 0.015487986616790295
+      },
+      "confidence": 1,
+      "text": "substantially",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5797452130897389,
+        "width": 0.09211126268850146,
+        "height": 0.019870039075613022
+      },
+      "confidence": 1,
+      "text": "operation of a",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20082769327068073,
+        "y": 0.5683549067673019,
+        "width": 0.41998326778411865,
+        "height": 0.02782186958938837
+      },
+      "confidence": 1,
+      "text": "Consistent with the above bullying acts, the Laguna",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1677656670084923,
+        "y": 0.5798773535085493,
+        "width": 0.45515334606170654,
+        "height": 0.03629826568067074
+      },
+      "confidence": 1,
+      "text": "College Anti-bullying Policy strictly prohibits bullying at the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 3.83590193867948e-9,
+        "y": 0.6118164066532416,
+        "width": 0.09108526508013406,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "i the bully and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1677680825488279,
+        "y": 0.5960787627975896,
+        "width": 0.45702266693115234,
+        "height": 0.03501451388001442
+      },
+      "confidence": 1,
+      "text": "school grounds; property adjacent to the school building;",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16980318934907399,
+        "y": 0.6105590326964329,
+        "width": 0.45692312717437744,
+        "height": 0.03348390385508537
+      },
+      "confidence": 1,
+      "text": "school-sponsored or school-related activities, functions or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 3.81958685051013e-9,
+        "y": 0.6279069771696609,
+        "width": 0.09302325050036112,
+        "height": 0.017600835300982
+      },
+      "confidence": 1,
+      "text": "ving, kicking,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16779323359165121,
+        "y": 0.6248535317799274,
+        "width": 0.4588712851206461,
+        "height": 0.03193607181310654
+      },
+      "confidence": 1,
+      "text": "programs whether held on or off school grounds, spaces",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6402363984613139,
+        "width": 0.09560898444416759,
+        "height": 0.024835947901010513
+      },
+      "confidence": 1,
+      "text": "icting school",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16781410386476056,
+        "y": 0.6379881890854473,
+        "width": 0.4606754779815674,
+        "height": 0.036846283823251724
+      },
+      "confidence": 1,
+      "text": "where students get their rides, restaurants, school corridors,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6525377142077468,
+        "width": 0.09532788335025862,
+        "height": 0.02812696062028408
+      },
+      "confidence": 1,
+      "text": "of available",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16781358088979426,
+        "y": 0.6531469857780181,
+        "width": 0.46303017934163415,
+        "height": 0.03515079244971275
+      },
+      "confidence": 1,
+      "text": "computer lab and classrooms (while waiting for subject",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.16610824681728817,
+        "y": 0.6762005350171505,
+        "width": 0.30917513370513916,
+        "height": 0.023784457705914974
+      },
+      "confidence": 1,
+      "text": "teacher to come or during vacant period).",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6950041048193387,
+        "width": 0.09834011202253373,
+        "height": 0.03134780377149582
+      },
+      "confidence": 1,
+      "text": "ctim's psyche",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.19886519447870854,
+        "y": 0.6928673036131862,
+        "width": 0.4336460828781128,
+        "height": 0.034067342057824135
+      },
+      "confidence": 1,
+      "text": "In addition, bullying any student or group of students from",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.171922706471066,
+        "y": 0.7073933423132311,
+        "width": 0.46069534619649255,
+        "height": 0.03374352306127548
+      },
+      "confidence": 1,
+      "text": "another school by any means mentioned above is likewise",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1703774199385181,
+        "y": 0.7382564185376874,
+        "width": 0.13404170672098795,
+        "height": 0.01602802239358425
+      },
+      "confidence": 1,
+      "text": "strictly prohibited.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.739770733780686,
+        "width": 0.10099458814118316,
+        "height": 0.03655660152435303
+      },
+      "confidence": 1,
+      "text": "on that causes",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7553098720011542,
+        "width": 0.10196117388883426,
+        "height": 0.03646646440029144
+      },
+      "confidence": 1,
+      "text": "e directing foul",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.772098019903559,
+        "width": 0.1002587724710493,
+        "height": 0.03644965961575508
+      },
+      "confidence": 1,
+      "text": "name-calling,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.785836191772984,
+        "width": 0.1042363162873393,
+        "height": 0.04251262545585632
+      },
+      "confidence": 1,
+      "text": "aly on victim's",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3992248065750517,
+        "y": 0.8183139535827051,
+        "width": 0.0232558126250903,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "35",
+      "verified": false
+    }
+  ]
+}

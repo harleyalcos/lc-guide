@@ -1,0 +1,330 @@
+{
+  "file": "hb14.jpg",
+  "label": "14",
+  "imageSha256": "0294e4fc00819a47af0c3189d970657332ae5144a0cc2894483230cb8bb39b54",
+  "left": 0.06893725643528792,
+  "right": 0.6719851682419852,
+  "rows": [
+    {
+      "text": "IX. Rules on Scholarships",
+      "box": {
+        "height": 0.03317110054194927,
+        "width": 0.24545184771219886,
+        "x": 0.26592006455353245,
+        "y": 0.12660896713877356
+      },
+      "level": 0.12660896713877356
+    },
+    {
+      "text": "A. College",
+      "box": {
+        "height": 0.016938460990786552,
+        "width": 0.1049018402894338,
+        "x": 0.12778163904195738,
+        "y": 0.1434203043542388
+      },
+      "level": 0.1434203043542388
+    },
+    {
+      "text": "Rules on Scholarships",
+      "box": {
+        "height": 0.01982591301202774,
+        "width": 0.22365989287694293,
+        "x": 0.08100005600684416,
+        "y": 0.16957556348097014
+      },
+      "level": 0.16957556348097014
+    },
+    {
+      "text": "Both grades and financial standing of the students are used as",
+      "box": {
+        "height": 0.05310523137450218,
+        "width": 0.5439180135726929,
+        "x": 0.12483032585147343,
+        "y": 0.19461228969600652
+      },
+      "level": 0.19461228969600652
+    },
+    {
+      "text": "considerations for granting scholarship. These rules apply for",
+      "box": {
+        "height": 0.05149209126830101,
+        "width": 0.5917768478393554,
+        "x": 0.07863713033328253,
+        "y": 0.21092830031578047
+      },
+      "level": 0.21092830031578047
+    },
+    {
+      "text": "Academic Scholarship granted by this institution:",
+      "box": {
+        "height": 0.029368668794631958,
+        "width": 0.43346917629241943,
+        "x": 0.08089801161484533,
+        "y": 0.23249235688419057
+      },
+      "level": 0.23249235688419057
+    },
+    {
+      "text": "Grades",
+      "box": {
+        "height": 0.014709535986185074,
+        "width": 0.07176800568898518,
+        "x": 0.0813640597687632,
+        "y": 0.2673545342854956
+      },
+      "level": 0.2673545342854956
+    },
+    {
+      "text": "1. A student who has a weighted average of 95% and above is",
+      "box": {
+        "height": 0.041230399161577225,
+        "width": 0.5467483997344971,
+        "x": 0.08139534893487471,
+        "y": 0.28919486143129014
+      },
+      "level": 0.28919486143129014
+    },
+    {
+      "text": "entitled to Full Scholarship, 100% discount from tuition fees,",
+      "box": {
+        "height": 0.04240108281373978,
+        "width": 0.542872389157613,
+        "x": 0.1291127790843721,
+        "y": 0.3053279246086973
+      },
+      "level": 0.3053279246086973
+    },
+    {
+      "text": "provided he/she has no grade lower than 88% in all subjects",
+      "box": {
+        "height": 0.036545466631650925,
+        "width": 0.5423121849695841,
+        "x": 0.12924953937263473,
+        "y": 0.32498024610013854
+      },
+      "level": 0.32498024610013854
+    },
+    {
+      "text": "taken.",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.06201550364494324,
+        "x": 0.12596899216977644,
+        "y": 0.3473837210084505
+      },
+      "level": 0.3473837210084505
+    },
+    {
+      "text": "2. A student with a weighted average of 92% to 94% is entitled to",
+      "box": {
+        "height": 0.0300060473382473,
+        "width": 0.5978071689605713,
+        "x": 0.07713204705795322,
+        "y": 0.37278574761500016
+      },
+      "level": 0.37278574761500016
+    },
+    {
+      "text": "Half Scholarship, 50% discount from tuition fees, provided",
+      "box": {
+        "height": 0.02730719745159149,
+        "width": 0.5473645925521851,
+        "x": 0.12756957674247626,
+        "y": 0.39014982694437084
+      },
+      "level": 0.39014982694437084
+    },
+    {
+      "text": "he/she has no grade lower than 85% in all subjects taken.",
+      "box": {
+        "height": 0.02055323403328657,
+        "width": 0.49418604373931885,
+        "x": 0.12790698307220097,
+        "y": 0.4111328127314088
+      },
+      "level": 0.4111328127314088
+    },
+    {
+      "text": "3. A student with a weighted average of 90% to 91% is entitled to",
+      "box": {
+        "height": 0.02237621136009693,
+        "width": 0.5759618679682413,
+        "x": 0.10065187572610397,
+        "y": 0.4384594555165673
+      },
+      "level": 0.4384594555165673
+    },
+    {
+      "text": "Partial Scholarship, 25% discount from tuition fees, provided",
+      "box": {
+        "height": 0.018895348533988,
+        "width": 0.5523255666097006,
+        "x": 0.1259690035860689,
+        "y": 0.4578488373297668
+      },
+      "level": 0.4578488373297668
+    },
+    {
+      "text": "he/she has no grade lower than 80% in all subjects taken.",
+      "box": {
+        "height": 0.017634901218116283,
+        "width": 0.5,
+        "x": 0.1259689972480619,
+        "y": 0.4750976564232693
+      },
+      "level": 0.4750976564232693
+    },
+    {
+      "text": "Units Load Requirements",
+      "box": {
+        "height": 0.01762354653328657,
+        "width": 0.25193798542022705,
+        "x": 0.07558139803601042,
+        "y": 0.505813953913847
+      },
+      "level": 0.505813953913847
+    },
+    {
+      "text": "A student to qualify for scholarship should have earned not less",
+      "box": {
+        "height": 0.019122456200420856,
+        "width": 0.5639534791310628,
+        "x": 0.12015505042962345,
+        "y": 0.5332031249524743
+      },
+      "level": 0.5332031249524743
+    },
+    {
+      "text": "than 18 units except when the required units for the particular semester",
+      "box": {
+        "height": 0.01904296875,
+        "width": 0.6143410603205363,
+        "x": 0.07170544395148888,
+        "y": 0.5507812499750568
+      },
+      "level": 0.5507812499750568
+    },
+    {
+      "text": "is less than 18, as certified by the College Registrar.",
+      "box": {
+        "height": 0.024393567815423012,
+        "width": 0.46566478411356604,
+        "x": 0.07140733491548423,
+        "y": 0.5673093058191766
+      },
+      "level": 0.5726778579898705
+    },
+    {
+      "text": "Special Provisions",
+      "box": {
+        "height": 0.017612190917134285,
+        "width": 0.18798448642094928,
+        "x": 0.07364341758409898,
+        "y": 0.6030273433812281
+      },
+      "level": 0.6030273433812281
+    },
+    {
+      "text": "1. Grades will be computed up to the second decimal place.",
+      "box": {
+        "height": 0.027922801673412323,
+        "width": 0.5588927666346232,
+        "x": 0.07324870417459402,
+        "y": 0.6256999428710774
+      },
+      "level": 0.6351811205363707
+    },
+    {
+      "text": "2. No student who has been punished for any act whether major,",
+      "box": {
+        "height": 0.0324300192296505,
+        "width": 0.5745943387349446,
+        "x": 0.07170542725334633,
+        "y": 0.6576883775752975
+      },
+      "level": 0.6715705528960569
+    },
+    {
+      "text": "serious or less serious offense in the school rules and regulations",
+      "box": {
+        "height": 0.031193114817142487,
+        "width": 0.5748953421910604,
+        "x": 0.11952458156146784,
+        "y": 0.6746946583274783
+      },
+      "level": 0.6871766625676335
+    },
+    {
+      "text": "on discipline shall qualify for scholarship.",
+      "box": {
+        "height": 0.025404395535588264,
+        "width": 0.37485678990681964,
+        "x": 0.11968104519254667,
+        "y": 0.6999115129088571
+      },
+      "level": 0.7071547107858172
+    },
+    {
+      "text": "B. Elementary and Junior High School",
+      "box": {
+        "height": 0.023341134190559387,
+        "width": 0.35151342550913495,
+        "x": 0.11983876641776847,
+        "y": 0.7330041099806128
+      },
+      "level": 0.7383769336622952
+    },
+    {
+      "text": "When a student ranks first in his/her batch in the previous school",
+      "box": {
+        "height": 0.037211157381534576,
+        "width": 0.5792697668075562,
+        "x": 0.1194291898984196,
+        "y": 0.7512461094209324
+      },
+      "level": 0.7667345565767358
+    },
+    {
+      "text": "year at Laguna College, the student receives 100% discount on tuition",
+      "box": {
+        "height": 0.04497979208827019,
+        "width": 0.6317981878916422,
+        "x": 0.06893725643528792,
+        "y": 0.7674531849508783
+      },
+      "level": 0.7915748394036344
+    },
+    {
+      "text": "fees. A student who ranks second in the batch shall receive 50%",
+      "box": {
+        "height": 0.045239005237817764,
+        "width": 0.631980299949646,
+        "x": 0.06894312902268258,
+        "y": 0.784265494185125
+      },
+      "level": 0.8067846990452707
+    },
+    {
+      "text": "discount on tuition fee.",
+      "box": {
+        "height": 0.017657612450420856,
+        "width": 0.213178296883901,
+        "x": 0.06976743857355346,
+        "y": 0.8226744192190796
+      },
+      "level": 0.8226744192190796
+    },
+    {
+      "text": "14",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.0271317834655444,
+        "x": 0.37984496064125883,
+        "y": 0.8837209305651366
+      },
+      "level": 0.8837209305651366
+    }
+  ],
+  "reviewed": true
+}

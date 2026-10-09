@@ -1,0 +1,430 @@
+{
+  "file": "hb18.jpg",
+  "label": "18",
+  "imageSha256": "3db99854e0c086bb1f6e301d9bff5bb8b24388921416cfa99d776eb094ab4313",
+  "left": 0.22286822552887298,
+  "right": 0.6937984365509745,
+  "rows": [
+    {
+      "text": "If his/her general weighted average reaches 90 during the 4th grading",
+      "box": {
+        "height": 0.0234375,
+        "width": 0.43604652086893714,
+        "x": 0.2558139445073919,
+        "y": 0.16699218714719954
+      },
+      "level": 0.16699218714719954
+    },
+    {
+      "text": "period, and if he/she had a weighted average of 90% and above for at least",
+      "box": {
+        "height": 0.025841408409178257,
+        "width": 0.46739415327707934,
+        "x": 0.22454829330647427,
+        "y": 0.17769623113840338
+      },
+      "level": 0.18066531358330962
+    },
+    {
+      "text": "three grading periods, he/she may be a candidate for honors to be awarded",
+      "box": {
+        "height": 0.021995366550982,
+        "width": 0.46705424785614014,
+        "x": 0.22480621712490123,
+        "y": 0.1904069774974141
+      },
+      "level": 0.1904069774974141
+    },
+    {
+      "text": "during the recognition rites or he/she may be declared as Achiever.",
+      "box": {
+        "height": 0.02356863208115101,
+        "width": 0.4076841672261555,
+        "x": 0.22433497595891158,
+        "y": 0.2004448619914807
+      },
+      "level": 0.20789290939100158
+    },
+    {
+      "text": "For Senior High School, the following policies apply.",
+      "box": {
+        "height": 0.017623545601963997,
+        "width": 0.31589146455128986,
+        "x": 0.2577519443993273,
+        "y": 0.2265625003076941
+      },
+      "level": 0.2265625003076941
+    },
+    {
+      "text": "For Grade 11, he/she may be a candidate for honors if the general",
+      "box": {
+        "height": 0.017578125,
+        "width": 0.43604648113250727,
+        "x": 0.2558139632854907,
+        "y": 0.2456054686787622
+      },
+      "level": 0.2456054686787622
+    },
+    {
+      "text": "weighted average is 90% and above for two semesters. There is no final grade",
+      "box": {
+        "height": 0.019099745899438858,
+        "width": 0.4689922332763672,
+        "x": 0.22480621363313422,
+        "y": 0.25726744202661067
+      },
+      "level": 0.25726744202661067
+    },
+    {
+      "text": "of below 85% in any subject of the current year. The average GWA will be taken",
+      "box": {
+        "height": 0.01744185946881771,
+        "width": 0.4689922332763672,
+        "x": 0.2248062148056147,
+        "y": 0.2703488377437888
+      },
+      "level": 0.2703488377437888
+    },
+    {
+      "text": "from 1st and 2nd semesters, 50% for each.",
+      "box": {
+        "height": 0.019609104841947556,
+        "width": 0.262411375840505,
+        "x": 0.22431833648439406,
+        "y": 0.2799855057253392
+      },
+      "level": 0.28598223450694993
+    },
+    {
+      "text": "For Grade 12, he/she may be a candidate for honors during recognition or",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.4379844665527343,
+        "x": 0.25581396097427905,
+        "y": 0.3037109370363401
+      },
+      "level": 0.3037109370363401
+    },
+    {
+      "text": "graduation if he/she obtained 90% and above during the final semester and",
+      "box": {
+        "height": 0.01761218998581171,
+        "width": 0.4689922332763673,
+        "x": 0.2248062032746072,
+        "y": 0.31686046583245164
+      },
+      "level": 0.31686046583245164
+    },
+    {
+      "text": "three consecutive semesters (Grade 11 second semester, Grade 12 first",
+      "box": {
+        "height": 0.015988372266292572,
+        "width": 0.4418604373931885,
+        "x": 0.22480622093518857,
+        "y": 0.3284883719155456
+      },
+      "level": 0.3284883719155456
+    },
+    {
+      "text": "semester and Grade 12 second semester). No grade of two 80s in any subject",
+      "box": {
+        "height": 0.01744185946881771,
+        "width": 0.47093021869659424,
+        "x": 0.2228682264801911,
+        "y": 0.3401162793498935
+      },
+      "level": 0.3401162793498935
+    },
+    {
+      "text": "in the first to third grading period. No final grade below 85 in any subject.",
+      "box": {
+        "height": 0.01470521418377757,
+        "width": 0.4341084957122803,
+        "x": 0.22286822552887298,
+        "y": 0.35302734384120216
+      },
+      "level": 0.35302734384120216
+    },
+    {
+      "text": "3. Board of Trustees Special Award: High School Student of the Year",
+      "box": {
+        "height": 0.01739068143069744,
+        "width": 0.4170259634653727,
+        "x": 0.22458700872191462,
+        "y": 0.3693645098084559
+      },
+      "level": 0.3739388789819529
+    },
+    {
+      "text": "3.1. Prerequisites",
+      "box": {
+        "height": 0.011798237916082144,
+        "width": 0.11240309476852417,
+        "x": 0.2558139576157379,
+        "y": 0.3851744185391005
+      },
+      "level": 0.3851744185391005
+    },
+    {
+      "text": "a. The student must be of good moral standing",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.27131781975428265,
+        "x": 0.29069767465380497,
+        "y": 0.3953488373181703
+      },
+      "level": 0.3953488373181703
+    },
+    {
+      "text": "b. The student must be carrying the prescribed load for the",
+      "box": {
+        "height": 0.010401526466012001,
+        "width": 0.37015501658121747,
+        "x": 0.29069767425368437,
+        "y": 0.408203124776074
+      },
+      "level": 0.408203124776074
+    },
+    {
+      "text": "curriculum year.",
+      "box": {
+        "height": 0.010299327783286572,
+        "width": 0.10077519218126929,
+        "x": 0.32751938133184594,
+        "y": 0.4213867189529855
+      },
+      "level": 0.4213867189529855
+    },
+    {
+      "text": "3.2. Rating to be considered",
+      "box": {
+        "height": 0.014367548283189535,
+        "width": 0.17885384956995648,
+        "x": 0.25753282701445795,
+        "y": 0.4315869958094203
+      },
+      "level": 0.43462979150478476
+    },
+    {
+      "text": "a. Final grades of the current school year.",
+      "box": {
+        "height": 0.011775527149438858,
+        "width": 0.24224805831909174,
+        "x": 0.325581400225144,
+        "y": 0.4447674418094494
+      },
+      "level": 0.4447674418094494
+    },
+    {
+      "text": "b. Co-curricular ratings for the current school year.",
+      "box": {
+        "height": 0.011866369750350714,
+        "width": 0.32945736249287927,
+        "x": 0.29069767863728124,
+        "y": 0.45639534877165866
+      },
+      "level": 0.45639534877165866
+    },
+    {
+      "text": "3.3. Bases for determining the honors",
+      "box": {
+        "height": 0.010412881616503,
+        "width": 0.2344961166381836,
+        "x": 0.2596899285219934,
+        "y": 0.46923828119898425
+      },
+      "level": 0.46923828119898425
+    },
+    {
+      "text": "a. Final grades fifty percent (50%)",
+      "box": {
+        "height": 0.01324037043377757,
+        "width": 0.2034883697827657,
+        "x": 0.32558139931404345,
+        "y": 0.47949218734695276
+      },
+      "level": 0.47949218734695276
+    },
+    {
+      "text": "b. Co-curricular rating fifty percent (50%)",
+      "box": {
+        "height": 0.01318359375,
+        "width": 0.2635658780733744,
+        "x": 0.31007753014935924,
+        "y": 0.49121093739027
+      },
+      "level": 0.49121093739027
+    },
+    {
+      "text": "3.4. Grade Standard",
+      "box": {
+        "height": 0.011764171533286572,
+        "width": 0.1298449536164602,
+        "x": 0.2577519429915115,
+        "y": 0.5058139533162324
+      },
+      "level": 0.5058139533162324
+    },
+    {
+      "text": "a. To qualify for the high school student of the year, the candidate",
+      "box": {
+        "height": 0.01609354466199875,
+        "width": 0.37056024869283044,
+        "x": 0.29069767462150514,
+        "y": 0.5136846698799453
+      },
+      "level": 0.5182006358147881
+    },
+    {
+      "text": "must have an average rating of not less than ninety percent",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.37209300200144446,
+        "x": 0.32751939667369623,
+        "y": 0.5276162790409751
+      },
+      "level": 0.5276162790409751
+    },
+    {
+      "text": "(90%).",
+      "box": {
+        "height": 0.011785611510276794,
+        "width": 0.046581293145815494,
+        "x": 0.3236085778461392,
+        "y": 0.5435257989700133
+      },
+      "level": 0.5436836227561528
+    },
+    {
+      "text": "b. The student must have no grade below eighty five percent",
+      "box": {
+        "height": 0.016445886343717575,
+        "width": 0.37252056598663325,
+        "x": 0.29069767464128127,
+        "y": 0.5499803212631955
+      },
+      "level": 0.5548783536695405
+    },
+    {
+      "text": "(85%) in all subjects in any grading period of the current",
+      "box": {
+        "height": 0.0146484375,
+        "width": 0.37403098742167157,
+        "x": 0.3255814058123179,
+        "y": 0.5624999997751179
+      },
+      "level": 0.5624999997751179
+    },
+    {
+      "text": "school year.",
+      "box": {
+        "height": 0.012393778190016747,
+        "width": 0.0815836638212204,
+        "x": 0.32548723707845334,
+        "y": 0.5795589246719997
+      },
+      "level": 0.5803257142126481
+    },
+    {
+      "text": "C. ELEMENTARY",
+      "box": {
+        "height": 0.013297147117555141,
+        "width": 0.12015503644943237,
+        "x": 0.25581395614543884,
+        "y": 0.5971679689298903
+      },
+      "level": 0.5971679689298903
+    },
+    {
+      "text": "The aforementioned guidelines for selecting candidates for high school",
+      "box": {
+        "height": 0.023931682109832764,
+        "width": 0.4445388317108154,
+        "x": 0.25550575253293023,
+        "y": 0.6088005760228332
+      },
+      "level": 0.618594349549159
+    },
+    {
+      "text": "graduation honors under Roll of Excellence shall also be adopted in",
+      "box": {
+        "height": 0.02019557449966669,
+        "width": 0.3031380375226339,
+        "x": 0.39695094140881615,
+        "y": 0.6214771187949597
+      },
+      "level": 0.6295240243050872
+    },
+    {
+      "text": "determining elementary honor graduates.",
+      "box": {
+        "height": 0.014773346483707428,
+        "width": 0.2635658780733744,
+        "x": 0.22093024143811898,
+        "y": 0.6409883721712413
+      },
+      "level": 0.6409883721712413
+    },
+    {
+      "text": "1. Only first and second honors shall be declared from Kindergarten up",
+      "box": {
+        "height": 0.025947270914912224,
+        "width": 0.44673418998718256,
+        "x": 0.21899224810437512,
+        "y": 0.6523898077799932
+      },
+      "level": 0.6628918735447333
+    },
+    {
+      "text": "to grade 5.",
+      "box": {
+        "height": 0.01318359375,
+        "width": 0.07558139165242517,
+        "x": 0.255813956596268,
+        "y": 0.6757812501216889
+      },
+      "level": 0.6757812501216889
+    },
+    {
+      "text": "2. For grade 6, there should be one Valedictorian, one Salutatorian;",
+      "box": {
+        "height": 0.027873126789927483,
+        "width": 0.4468222061793009,
+        "x": 0.22093023279333987,
+        "y": 0.6838981372832067
+      },
+      "level": 0.6962886266239665
+    },
+    {
+      "text": "honorable mention and special mention, the number of which",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.1744186083475749,
+        "x": 0.25581395454714273,
+        "y": 0.7093023255061548
+      },
+      "level": 0.7093023255061548
+    },
+    {
+      "text": "depends on how many will meet the criteria.",
+      "box": {
+        "height": 0.014761990867555141,
+        "width": 0.2965116302172343,
+        "x": 0.2577519405357626,
+        "y": 0.720703125042599
+      },
+      "level": 0.720703125042599
+    },
+    {
+      "text": "18",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.021317829688390133,
+        "x": 0.45930232544650257,
+        "y": 0.7470930232657813
+      },
+      "level": 0.7470930232657813
+    }
+  ],
+  "reviewed": true
+}

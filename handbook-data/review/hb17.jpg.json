@@ -1,0 +1,655 @@
+{
+  "file": "hb17.jpg",
+  "imageSha256": "ad05ef75009197de67b2c7943ac2dcb9ac93d0f68b148cd38eb2821092b6731a",
+  "passages": [
+    {
+      "box": {
+        "x": 0,
+        "y": 0.10981439640118995,
+        "width": 0.1373245359581873,
+        "height": 0.05748188495635986
+      },
+      "confidence": 1,
+      "text": "e taken for the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.14483630888062138,
+        "width": 0.13622572805714206,
+        "height": 0.05357864871621132
+      },
+      "confidence": 1,
+      "text": "rolled shall be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.16420210470346608,
+        "width": 0.13697967075925174,
+        "height": 0.050956252962350845
+      },
+      "confidence": 1,
+      "text": "eral weighted",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2771317829008472,
+        "y": 0.17724609399152969,
+        "width": 0.16279069582621253,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "B. HIGH SCHOOL",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2767012451913238,
+        "y": 0.19693829172905875,
+        "width": 0.5010956128438314,
+        "height": 0.02859543077647686
+      },
+      "confidence": 1,
+      "text": "For the Junior High School, a candidate for honors must belong",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.19941898826087168,
+        "width": 0.1371224287048517,
+        "height": 0.04658912494778633
+      },
+      "confidence": 1,
+      "text": "ojects from the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23643411252778512,
+        "y": 0.21656976762909008,
+        "width": 0.2461240291595459,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "to the A-Science Section.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.48971974160470805,
+        "y": 0.21675356343412344,
+        "width": 0.28996650377909344,
+        "height": 0.022411169484257698
+      },
+      "confidence": 1,
+      "text": "All candidates for honors must be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.2179158511742164,
+        "width": 0.1383123765143388,
+        "height": 0.044421590864658356
+      },
+      "confidence": 1,
+      "text": "are not in the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2383721051580124,
+        "y": 0.2309570311129242,
+        "width": 0.3817829291025797,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "members of the Laguna College Honor Society.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2378111901757138,
+        "y": 0.2503123610101671,
+        "width": 0.17947012186050412,
+        "height": 0.022144915536046028
+      },
+      "confidence": 1,
+      "text": "1. Roll of Excellence",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.2619153391314233,
+        "width": 0.1387836425105145,
+        "height": 0.04122680798172951
+      },
+      "confidence": 1,
+      "text": "r candidacy for",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2788983643626432,
+        "y": 0.2746550465143278,
+        "width": 0.5043109655380249,
+        "height": 0.020807797089219093
+      },
+      "confidence": 1,
+      "text": "This refers to the list of candidates for honors at the end of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23828786102081198,
+        "y": 0.2910246202071991,
+        "width": 0.5467465718587239,
+        "height": 0.02007447462528944
+      },
+      "confidence": 1,
+      "text": "school year, to be awarded during the Recognition Rites (for Grades",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24031009176347462,
+        "y": 0.3081054685043436,
+        "width": 0.5465116103490194,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "1-5 and Grades 7-11) or Commencement Exercises (for Grades 6",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2403100779598056,
+        "y": 0.32412790685377235,
+        "width": 0.0736434111992518,
+        "height": 0.016204124316573143
+      },
+      "confidence": 1,
+      "text": "and 12).",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.33716822359985454,
+        "width": 0.13834989852591725,
+        "height": 0.03210391104221344
+      },
+      "confidence": 1,
+      "text": "d MAGNA CUM",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24418604679890407,
+        "y": 0.35319767447588224,
+        "width": 0.015503875911235782,
+        "height": 0.007267441600561142
+      },
+      "confidence": 1,
+      "text": "-",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28294573926307015,
+        "y": 0.34716796862574506,
+        "width": 0.5058139562606812,
+        "height": 0.014750635717064142
+      },
+      "confidence": 1,
+      "text": "Based on DepEd Order No. 74 series of 2012, candidates for honors",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3546466276737201,
+        "width": 0.13834367074360518,
+        "height": 0.032192159444093704
+      },
+      "confidence": 1,
+      "text": "s in the Laguna",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28682171080070296,
+        "y": 0.3618164060547129,
+        "width": 0.5038759708404541,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "at the end of the school year in grades 1 to 12 shall be drawn from the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3713193564145889,
+        "width": 0.13800421045593944,
+        "height": 0.02934993803501129
+      },
+      "confidence": 1,
+      "text": "cribed curriculum",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2829457289172979,
+        "y": 0.3764534890882656,
+        "width": 0.5077519416809082,
+        "height": 0.017589479684829712
+      },
+      "confidence": 1,
+      "text": "top ten students at the Outstanding Proficiency Level (90-100). They",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.4719667198089443e-9,
+        "y": 0.39098837262750974,
+        "width": 0.04844961067040761,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "JDE.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2868216977175278,
+        "y": 0.3909883724982761,
+        "width": 0.5058139562606812,
+        "height": 0.014773346483707428
+      },
+      "confidence": 1,
+      "text": "must not have a final grade lower than 85 (very satisfactory) in any",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28488372371687404,
+        "y": 0.40406976785280047,
+        "width": 0.5096899271011353,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "learning area. They should have no grade at the Fairly Satisfactory",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4178421633609206,
+        "width": 0.1391854109972843,
+        "height": 0.02479270100593567
+      },
+      "confidence": 1,
+      "text": "ast 75% of all the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2848370201323542,
+        "y": 0.42130564335694964,
+        "width": 0.11249650518099463,
+        "height": 0.014946852345019579
+      },
+      "confidence": 1,
+      "text": "level (75-79).",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.43917908231540537,
+        "width": 0.13823897239016672,
+        "height": 0.016631830483675003
+      },
+      "confidence": 1,
+      "text": "ollege. He or she",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28467438395770267,
+        "y": 0.43869386685817313,
+        "width": 0.512086311976115,
+        "height": 0.021409982815384865
+      },
+      "confidence": 1,
+      "text": "To determine the top ten, pupils or students shall be ranked using the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 3.6836801109441097e-9,
+        "y": 0.45639534940803295,
+        "width": 0.13759689529736835,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "urriculum years.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2903412666823755,
+        "y": 0.4507244876330416,
+        "width": 0.5083975791931152,
+        "height": 0.02388116717338562
+      },
+      "confidence": 1,
+      "text": "7-3 point scheme. The 7 points are for the academic performance",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.28831613336723344,
+        "y": 0.46645306846645795,
+        "width": 0.4696892897288005,
+        "height": 0.023858217522501945
+      },
+      "confidence": 1,
+      "text": "while the 3 points are for involvement in co-curricular activities.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.48158545686474397,
+        "width": 0.14023101976859653,
+        "height": 0.018959516659379005
+      },
+      "confidence": 1,
+      "text": "six (6) units.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24953742483138472,
+        "y": 0.4875498631537658,
+        "width": 0.5551689465840657,
+        "height": 0.027257682755589485
+      },
+      "confidence": 1,
+      "text": "- A pupil or student who may be included in the 7-3 ranking but did not",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 2.664458080096447e-9,
+        "y": 0.5014534882491211,
+        "width": 0.13953488071759543,
+        "height": 0.016124636866152287
+      },
+      "confidence": 1,
+      "text": "d courses can",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29012712230523857,
+        "y": 0.5019079374583152,
+        "width": 0.5126787424087524,
+        "height": 0.027430592104792595
+      },
+      "confidence": 1,
+      "text": "qualify in the top ten shall be declared Achiever and will also be given",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29058128848315495,
+        "y": 0.5271477937585957,
+        "width": 0.10100796818733215,
+        "height": 0.015471854247152805
+      },
+      "confidence": 1,
+      "text": "recognition.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29203188786951245,
+        "y": 0.5375273971783596,
+        "width": 0.5146408478418987,
+        "height": 0.026672997511923313
+      },
+      "confidence": 1,
+      "text": "All candidates for honors must be of good moral character and have",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2920712963287639,
+        "y": 0.5523303006935385,
+        "width": 0.5186095635096233,
+        "height": 0.029785893857479095
+      },
+      "confidence": 1,
+      "text": "not been subjected to any disciplinary action within the current",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.5776293275538552,
+        "width": 0.1422412922230967,
+        "height": 0.022077799774706364
+      },
+      "confidence": 1,
+      "text": "ast 75% of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29069767421944287,
+        "y": 0.5828488374518278,
+        "width": 0.10077519218126929,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "school year.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2899580485156256,
+        "y": 0.588104071233319,
+        "width": 0.524467945098877,
+        "height": 0.03256627172231674
+      },
+      "confidence": 1,
+      "text": "Achievements in specific academic disciplines such as Science,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.253875969709276,
+        "y": 0.6119186047084404,
+        "width": 0.013565890491008759,
+        "height": 0.007267441600561142
+      },
+      "confidence": 1,
+      "text": "-",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29188655547339737,
+        "y": 0.6036272927856827,
+        "width": 0.522856076558431,
+        "height": 0.03323923051357269
+      },
+      "confidence": 1,
+      "text": "Math, etc. And in curricular areas such as sports, arts and campus",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6245393554573349,
+        "width": 0.14416219764037994,
+        "height": 0.02387746050953865
+      },
+      "confidence": 1,
+      "text": "another college,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2896725106147697,
+        "y": 0.624842566069965,
+        "width": 0.3351239363352458,
+        "height": 0.030092699453234673
+      },
+      "confidence": 1,
+      "text": "journalism shall also be given recognition.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 2.312450823419946e-9,
+        "y": 0.6497093031144283,
+        "width": 0.10852712392807007,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "1a College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24906157199769238,
+        "y": 0.6518696328722255,
+        "width": 0.24209284782409665,
+        "height": 0.02795703336596489
+      },
+      "confidence": 1,
+      "text": "2. Roll of Academic Honors",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2917012626051436,
+        "y": 0.6651204145464029,
+        "width": 0.4919471343358358,
+        "height": 0.03701893799006939
+      },
+      "confidence": 1,
+      "text": "This refers to the list of honor students every grading period.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6985733980418831,
+        "width": 0.1476116835128022,
+        "height": 0.032934531569480896
+      },
+      "confidence": 1,
+      "text": "ss he/she has",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2934631576826616,
+        "y": 0.686857449509761,
+        "width": 0.5313047965367635,
+        "height": 0.04214802384376526
+      },
+      "confidence": 1,
+      "text": "To be an honor student for any quarter (I-IV) and to be a member",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2527850459912408,
+        "y": 0.7020747470143409,
+        "width": 0.5740445852279663,
+        "height": 0.04677426069974899
+      },
+      "confidence": 1,
+      "text": "of the LC Honor Society, a student must have a general average of at",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7207032927529045,
+        "width": 0.11773796081381653,
+        "height": 0.028837427496910095
+      },
+      "confidence": 1,
+      "text": "1 exercises.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2509368352117427,
+        "y": 0.7191662577839664,
+        "width": 0.5740420818328857,
+        "height": 0.04660748317837715
+      },
+      "confidence": 1,
+      "text": "least 90% and must not have a grade lower than 85 in any learning",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2547959152977324,
+        "y": 0.733755397567954,
+        "width": 0.5722892681757609,
+        "height": 0.05039720982313156
+      },
+      "confidence": 1,
+      "text": "area. Neither should he/she have grades at the fairly satisfactory",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25273249169170714,
+        "y": 0.7557616280120156,
+        "width": 0.5043660799662273,
+        "height": 0.04531731642782688
+      },
+      "confidence": 1,
+      "text": "level (75-79) of the current year in any subject in any quarter.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7734177413715373,
+        "width": 0.15220631925337677,
+        "height": 0.04164610244333744
+      },
+      "confidence": 1,
+      "text": "e considered in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5406976751312533,
+        "y": 0.8401162791479855,
+        "width": 0.023255812625090244,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "17",
+      "verified": false
+    }
+  ]
+}

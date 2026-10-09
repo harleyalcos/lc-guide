@@ -1,0 +1,743 @@
+{
+  "file": "hb3.jpg",
+  "imageSha256": "606472d36a16d95f6749b7a1b1b74279541de44e0673a05ebe34a588c2d625cd",
+  "passages": [
+    {
+      "box": {
+        "x": 0.22225207402226252,
+        "y": 0.13541806649161725,
+        "width": 0.5109446048736572,
+        "height": 0.07665681093931198
+      },
+      "confidence": 1,
+      "text": "The Laguna College will be the best school to teach honesty",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22610943193145974,
+        "y": 0.16793497331913554,
+        "width": 0.5126186609268188,
+        "height": 0.07553669065237045
+      },
+      "confidence": 1,
+      "text": "The Laguna College will be the best place to produce",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.20776333651205103,
+        "width": 0.07904696957994348,
+        "height": 0.028180576860904694
+      },
+      "confidence": 1,
+      "text": "founded",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1881571900848847,
+        "y": 0.2051433335930417,
+        "width": 0.1134584347407023,
+        "height": 0.023183858953416348
+      },
+      "confidence": 1,
+      "text": "and decency.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.22741136016206875,
+        "width": 0.0794255949687143,
+        "height": 0.023363038897514343
+      },
+      "confidence": 1,
+      "text": "ooling to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1892957752318171,
+        "y": 0.199648796666404,
+        "width": 0.41108179092407227,
+        "height": 0.06366422027349472
+      },
+      "confidence": 1,
+      "text": "graduates who will make the world a better place.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.29048961912872456,
+        "y": 0.2215273386974329,
+        "width": 0.34687336285909015,
+        "height": 0.05323357880115509
+      },
+      "confidence": 1,
+      "text": "IV. The Officers of the Administration",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.35434108242700163,
+        "y": 0.24569767483587135,
+        "width": 0.21779070297876996,
+        "height": 0.03828488290309906
+      },
+      "confidence": 1,
+      "text": "BOARD OF TRUSTEES",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.6185461461570543,
+        "y": 0.24837723675380252,
+        "width": 0.11582767963409424,
+        "height": 0.023652995005249977
+      },
+      "confidence": 1,
+      "text": "Chairperson",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.2690370651635674,
+        "width": 0.08147499441966038,
+        "height": 0.02119094878435135
+      },
+      "confidence": 1,
+      "text": "grew and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.617799201053068,
+        "y": 0.26572631170975936,
+        "width": 0.08956154187520338,
+        "height": 0.022810041904449463
+      },
+      "confidence": 1,
+      "text": "Member",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.28550967616560863,
+        "width": 0.08332201234421302,
+        "height": 0.023584704846143723
+      },
+      "confidence": 1,
+      "text": "cceeding",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23450295524037434,
+        "y": 0.2780452456170861,
+        "width": 0.20480217536290485,
+        "height": 0.03298349305987358
+      },
+      "confidence": 1,
+      "text": "Dr. Lavinia E. Bruan .....",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.6282882202484549,
+        "y": 0.2840974069040241,
+        "width": 0.08080760141213728,
+        "height": 0.020456064492464066
+      },
+      "confidence": 1,
+      "text": "Member",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.7547546795245357e-9,
+        "y": 0.3037790701726947,
+        "width": 0.04651162525018056,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "rudis",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23654945625142876,
+        "y": 0.2921494487677794,
+        "width": 0.2279307246208191,
+        "height": 0.033790821209549904
+      },
+      "confidence": 1,
+      "text": "Dr. Melecio F. Almeda, Jr....",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.6297555091154186,
+        "y": 0.2984399649406978,
+        "width": 0.08307728171348572,
+        "height": 0.022521836683154106
+      },
+      "confidence": 1,
+      "text": "Member",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3181309854832507,
+        "width": 0.08525534970627924,
+        "height": 0.02127564698457718
+      },
+      "confidence": 1,
+      "text": "ividad S.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2368814751017898,
+        "y": 0.3085359046700711,
+        "width": 0.23172871271769208,
+        "height": 0.036012569442391396
+      },
+      "confidence": 1,
+      "text": "Dr. Florizel S. Evangelista...",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.6323934504377156,
+        "y": 0.3175616321644881,
+        "width": 0.08413515488306678,
+        "height": 0.01966763287782669
+      },
+      "confidence": 1,
+      "text": "Member",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.33720930207906297,
+        "width": 0.08333333315891472,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": ", science",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23861561282339858,
+        "y": 0.32400983496103686,
+        "width": 0.23213684558868405,
+        "height": 0.03701276332139969
+      },
+      "confidence": 1,
+      "text": "Engr. Romel S. Evangelista",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.35452489805806764,
+        "width": 0.08724640823116521,
+        "height": 0.014787412714213133
+      },
+      "confidence": 1,
+      "text": "ge, short-",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24060516879388283,
+        "y": 0.3409193974838305,
+        "width": 0.22789736588795978,
+        "height": 0.0348416306078434
+      },
+      "confidence": 1,
+      "text": "Dr. Rosilon S. Evangelista.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3685362523740028,
+        "width": 0.0888394913324732,
+        "height": 0.021776676177978516
+      },
+      "confidence": 1,
+      "text": "together,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.38545443002090457,
+        "y": 0.3555891327190399,
+        "width": 0.18064151207606,
+        "height": 0.03300778195261955
+      },
+      "confidence": 1,
+      "text": "V. Courses Offered",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.38662790669025493,
+        "width": 0.08720930259561466,
+        "height": 0.016204124316573143
+      },
+      "confidence": 1,
+      "text": "• Its new",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4026162794103316,
+        "width": 0.0891472887892553,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "In 1996, it",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20761238636589488,
+        "y": 0.38132612019705947,
+        "width": 0.36048785845438647,
+        "height": 0.048911627382040024
+      },
+      "confidence": 1,
+      "text": "Master in Business Management (M.B.M)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4212034362331657,
+        "width": 0.08923481355237843,
+        "height": 0.015151266474276781
+      },
+      "confidence": 1,
+      "text": "ourses in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.20955229357713492,
+        "y": 0.4006044229590122,
+        "width": 0.34237094720204675,
+        "height": 0.042140258476138115
+      },
+      "confidence": 1,
+      "text": "Master in Public Administration (M.P.A.)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.43739864296628106,
+        "width": 0.09111382940878938,
+        "height": 0.014737597666680813
+      },
+      "confidence": 0.5,
+      "text": "ACUCOA",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.209606665268293,
+        "y": 0.4252124503262109,
+        "width": 0.23367973168691,
+        "height": 0.03322293609380722
+      },
+      "confidence": 1,
+      "text": "Master of Arts in Education",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24072959572176758,
+        "y": 0.42157661136434144,
+        "width": 0.45917459328969323,
+        "height": 0.05299247056245804
+      },
+      "confidence": 1,
+      "text": "Major in: Mathematics, Educational Management and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4546569455863251,
+        "width": 0.0911564862290083,
+        "height": 0.013651224784553051
+      },
+      "confidence": 1,
+      "text": "mmission",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4708154089427604,
+        "width": 0.09499224658469481,
+        "height": 0.01476453011855483
+      },
+      "confidence": 1,
+      "text": "e for Level",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3333333310628239,
+        "y": 0.4624023444551645,
+        "width": 0.2666666706403097,
+        "height": 0.03759765625
+      },
+      "confidence": 1,
+      "text": "1s in English Language. A.B.,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21543650208087742,
+        "y": 0.4780103484219257,
+        "width": 0.3887718518575033,
+        "height": 0.045953646302223206
+      },
+      "confidence": 1,
+      "text": "Bachelor of Elementary Education (B.E.ED.)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23093341965602257,
+        "y": 0.49326616557431824,
+        "width": 0.3830625613530477,
+        "height": 0.04812440648674965
+      },
+      "confidence": 1,
+      "text": "Bachelor of Secondary Education (B.S.Ed.)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24855997568345378,
+        "y": 0.5082533219125764,
+        "width": 0.41760663191477454,
+        "height": 0.04743057116866112
+      },
+      "confidence": 1,
+      "text": "Major in: English, Mathematics, Filipino, Science",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 7.61920739463425e-10,
+        "y": 0.5419921876747059,
+        "width": 0.0988372067610423,
+        "height": 0.017600835300982
+      },
+      "confidence": 1,
+      "text": "i promote",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3374971448053236,
+        "y": 0.5368437859027417,
+        "width": 0.15802730123202002,
+        "height": 0.025543208234012127
+      },
+      "confidence": 1,
+      "text": "and Social Studies",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 2.0264555959196664e-9,
+        "y": 0.5581054683589948,
+        "width": 0.09883720676104227,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "ountry and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.21940422874188256,
+        "y": 0.5406256994579384,
+        "width": 0.4949768384297688,
+        "height": 0.046487726271152496
+      },
+      "confidence": 1,
+      "text": "Bachelor of Science in Business Administration (BSBA)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2505880772169598,
+        "y": 0.5571170804647703,
+        "width": 0.4750200510025025,
+        "height": 0.04653167724609375
+      },
+      "confidence": 1,
+      "text": "Major in: Financial Management, Business Economics,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2953860275993336,
+        "y": 0.5741617860099331,
+        "width": 0.4360398054122924,
+        "height": 0.04338471218943596
+      },
+      "confidence": 1,
+      "text": "Marketing Management, Operations Management,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.599555764052474,
+        "width": 0.10398934224317972,
+        "height": 0.022793631069362164
+      },
+      "confidence": 1,
+      "text": "ino values",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2972106943797903,
+        "y": 0.5905591050778523,
+        "width": 0.4618192116419474,
+        "height": 0.041687410324811935
+      },
+      "confidence": 1,
+      "text": "Business Management, Management Accounting and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 4.545248806960463e-10,
+        "y": 0.6235465113414177,
+        "width": 0.04844961067040761,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "sion.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2991351245351616,
+        "y": 0.6114347993649186,
+        "width": 0.39596676826477045,
+        "height": 0.036415353417396545
+      },
+      "confidence": 1,
+      "text": "Human Resource Development Management",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.643218972364416,
+        "width": 0.10800905728998773,
+        "height": 0.023773889988660812
+      },
+      "confidence": 1,
+      "text": "s available",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22742818519454833,
+        "y": 0.6330967830730424,
+        "width": 0.3801983594894409,
+        "height": 0.03983413428068161
+      },
+      "confidence": 1,
+      "text": "Bachelor of Science in Accountancy (BSA)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22747981633970968,
+        "y": 0.6423387344335474,
+        "width": 0.5776745478312174,
+        "height": 0.0442185178399086
+      },
+      "confidence": 1,
+      "text": "Bachelor of Science in Accounting Information System (BSAIS)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6629019388490571,
+        "width": 0.11006632994362764,
+        "height": 0.022373227402567863
+      },
+      "confidence": 1,
+      "text": "ources can",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6777057247383542,
+        "width": 0.11091234240811605,
+        "height": 0.02571556344628334
+      },
+      "confidence": 1,
+      "text": "decent and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22942246548586884,
+        "y": 0.6719429925399472,
+        "width": 0.33743607997894287,
+        "height": 0.03257782757282257
+      },
+      "confidence": 1,
+      "text": "Bachelor of Science in Nursing (BSN)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6952413170770402,
+        "width": 0.11171816959990209,
+        "height": 0.025991559959948063
+      },
+      "confidence": 1,
+      "text": "n of a just,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22951228372564034,
+        "y": 0.684793664752863,
+        "width": 0.4383509953816731,
+        "height": 0.03711140528321266
+      },
+      "confidence": 1,
+      "text": "Bachelor of Science in Civil Engineering (BSCE)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7120086929245868,
+        "width": 0.11442969790891111,
+        "height": 0.02746243868023157
+      },
+      "confidence": 1,
+      "text": "rotects the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2315573772340349,
+        "y": 0.7018107608389688,
+        "width": 0.45386270682017016,
+        "height": 0.04035169258713722
+      },
+      "confidence": 1,
+      "text": "Bachelor of Science in Computer Science (BSCS)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7307021467817552,
+        "width": 0.0980918328161993,
+        "height": 0.025469588115811348
+      },
+      "confidence": 1,
+      "text": "the world.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2336667162712757,
+        "y": 0.719761954667875,
+        "width": 0.47648914655049646,
+        "height": 0.03897640109062195
+      },
+      "confidence": 1,
+      "text": "Bachelor of Science in Industrial Engineering (BSIE)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23557292986733946,
+        "y": 0.7360837429496035,
+        "width": 0.5058214664459229,
+        "height": 0.03951415792107582
+      },
+      "confidence": 1,
+      "text": "Bachelor of Science in Hospitality Management(BSHM)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23755248288457786,
+        "y": 0.7598707613172457,
+        "width": 0.40067148208618164,
+        "height": 0.029993703588843346
+      },
+      "confidence": 1,
+      "text": "Bachelor of Science in Psychology (BS Psy)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.00968992083716431,
+        "y": 0.7846679690976879,
+        "width": 0.10658914844195048,
+        "height": 0.023471565917134285
+      },
+      "confidence": 1,
+      "text": "to provide",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.8095930235963781,
+        "width": 0.07170542569958992,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "lobally.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5174418609264148,
+        "y": 0.8255813955642943,
+        "width": 0.011627906312545067,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "3",
+      "verified": false
+    }
+  ]
+}

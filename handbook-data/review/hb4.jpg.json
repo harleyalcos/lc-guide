@@ -1,0 +1,853 @@
+{
+  "file": "hb4.jpg",
+  "imageSha256": "9881a2a8c9a65a107f31dce8ae0e7f6c375b8c8371a1e7ab14111f1900fdd168",
+  "passages": [
+    {
+      "box": {
+        "x": 0.23823846376834354,
+        "y": 0.17965378091880058,
+        "width": 0.40352745850880933,
+        "height": 0.02535967342555523
+      },
+      "confidence": 1,
+      "text": "Bachelor of Science in Information Technology (BSIT)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24031008254008132,
+        "y": 0.1962209306298055,
+        "width": 0.4011627833048502,
+        "height": 0.02057594433426857
+      },
+      "confidence": 1,
+      "text": "Bachelor of Science in Tourism Management (BSTM)",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2360103995197799,
+        "y": 0.20884328245457084,
+        "width": 0.35150460402170824,
+        "height": 0.021348947659134865
+      },
+      "confidence": 1,
+      "text": "Certificate in Pre-Elementary, Elementary and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8430905052390507,
+        "y": 0.20406609982948087,
+        "width": 0.15668634573618567,
+        "height": 0.0283934585750103
+      },
+      "confidence": 1,
+      "text": "2.3. Pupils/Students",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3410852721124031,
+        "y": 0.2236328126216789,
+        "width": 0.24999999999999994,
+        "height": 0.016192768700420856
+      },
+      "confidence": 1,
+      "text": "Secondary Teaching Proficiency",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8763050933698673,
+        "y": 0.21482440103726586,
+        "width": 0.12361432115236914,
+        "height": 0.02648120280355215
+      },
+      "confidence": 1,
+      "text": "regulations of th",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23420600676276285,
+        "y": 0.23418666856328185,
+        "width": 0.4661020040512085,
+        "height": 0.03198876231908798
+      },
+      "confidence": 1,
+      "text": "High School: Special Science Curriculum and K-12 Curriculum",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8470398202645927,
+        "y": 0.22960742579935378,
+        "width": 0.15296017973540732,
+        "height": 0.02854013815522194
+      },
+      "confidence": 1,
+      "text": "2.4. Pupils/Students",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8805307098180143,
+        "y": 0.24168157399402068,
+        "width": 0.11899224917093909,
+        "height": 0.022249553352594376
+      },
+      "confidence": 1,
+      "text": "tend to under",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8842754451206701,
+        "y": 0.25443473044297626,
+        "width": 0.11531432469685865,
+        "height": 0.021138178184628487
+      },
+      "confidence": 1,
+      "text": "conducive to th",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23449612526595445,
+        "y": 0.27180232569595053,
+        "width": 0.10077519218126932,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "Kindergarten",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8478034692495378,
+        "y": 0.26627549165137987,
+        "width": 0.151718278725942,
+        "height": 0.025301432237029076
+      },
+      "confidence": 1,
+      "text": "Students who havi",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8139534892300905,
+        "y": 0.2819767445912993,
+        "width": 0.023255812625090355,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.888133574756266,
+        "y": 0.27929338092279066,
+        "width": 0.1113297541936239,
+        "height": 0.021355098113417625
+      },
+      "confidence": 1,
+      "text": "crimes of viole",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.35658914845263173,
+        "y": 0.2905273436864606,
+        "width": 0.27519379059473675,
+        "height": 0.017612190917134285
+      },
+      "confidence": 1,
+      "text": "VI. Admission and Registration",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.851294819602725,
+        "y": 0.29008392460748844,
+        "width": 0.14864766597747803,
+        "height": 0.028610436245799065
+      },
+      "confidence": 1,
+      "text": "Pupils/Students wt",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.819767442011425,
+        "y": 0.3066860466342406,
+        "width": 0.021317829688390133,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "4.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8564917504312506,
+        "y": 0.3151840100724548,
+        "width": 0.046706423163414,
+        "height": 0.012073840014636517
+      },
+      "confidence": 1,
+      "text": "those",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8999612406020455,
+        "y": 0.3044767438515812,
+        "width": 0.09972868363062537,
+        "height": 0.02264534868299961
+      },
+      "confidence": 1,
+      "text": "who in the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23391898631262778,
+        "y": 0.31431320397121665,
+        "width": 0.20843183994293216,
+        "height": 0.020497391000390053
+      },
+      "confidence": 1,
+      "text": "A. Admission Policies",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8574589732963851,
+        "y": 0.31853414276553527,
+        "width": 0.13795140385627747,
+        "height": 0.02384025603532791
+      },
+      "confidence": 1,
+      "text": "registered units",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2689839850078009,
+        "y": 0.33094947948971776,
+        "width": 0.47014395395914715,
+        "height": 0.031195489689707756
+      },
+      "confidence": 1,
+      "text": "The Laguna College is open to students with satisfactory academic",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.857271288493874,
+        "y": 0.33175753779270245,
+        "width": 0.14244502782821655,
+        "height": 0.025445032864809036
+      },
+      "confidence": 1,
+      "text": "without justifiable",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23624417943341225,
+        "y": 0.3450805937895829,
+        "width": 0.5026790698369344,
+        "height": 0.02857987303286791
+      },
+      "confidence": 1,
+      "text": "work and valid entrance credentials The applicants should pass tho",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8275193800364612,
+        "y": 0.35755813954485105,
+        "width": 0.019379844268163082,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "5.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8612061187318694,
+        "y": 0.34527188814377596,
+        "width": 0.1381326814492544,
+        "height": 0.02244357019662857
+      },
+      "confidence": 1,
+      "text": "Transfer Pupils/St",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2364341122478968,
+        "y": 0.3647460934397986,
+        "width": 0.501937985420227,
+        "height": 0.02197265625
+      },
+      "confidence": 1,
+      "text": "entrance examination given by the quidance office for the level he/she is",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.863213445520688,
+        "y": 0.3608179167481871,
+        "width": 0.13620283206303918,
+        "height": 0.021648934110999107
+      },
+      "confidence": 1,
+      "text": "violated any schc",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23449611890793834,
+        "y": 0.37790697724305367,
+        "width": 0.5038759708404541,
+        "height": 0.021995366550982
+      },
+      "confidence": 1,
+      "text": "applying for, subject to the availability of accommodation and facilities of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8654480491023452,
+        "y": 0.38023125532960056,
+        "width": 0.05716547866662347,
+        "height": 0.014039539732038975
+      },
+      "confidence": 1,
+      "text": "period.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23626998724184692,
+        "y": 0.3880055049791361,
+        "width": 0.5062840779622395,
+        "height": 0.02492791786789894
+      },
+      "confidence": 1,
+      "text": "the school. Kindergarten and grade one pupils must meet the DepEd age",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8669218266931032,
+        "y": 0.3930495894349375,
+        "width": 0.13257552186648047,
+        "height": 0.02180575579404831
+      },
+      "confidence": 1,
+      "text": "Students from ot!",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23557757829742745,
+        "y": 0.4076399408148059,
+        "width": 0.0985321799914042,
+        "height": 0.01681794784963131
+      },
+      "confidence": 1,
+      "text": "requirements.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8362990715481967,
+        "y": 0.4081930931498583,
+        "width": 0.1627134084701538,
+        "height": 0.019922948442399502
+      },
+      "confidence": 1,
+      "text": "submit a study permi",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2732558161749587,
+        "y": 0.4301757810052056,
+        "width": 0.4709302186965942,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "The students, having been admitted to the Laguna College and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.836063148871045,
+        "y": 0.4214053314032816,
+        "width": 0.16319431861241662,
+        "height": 0.022477077320218086
+      },
+      "confidence": 1,
+      "text": "and all other scholast",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23837208609753047,
+        "y": 0.4433139541028004,
+        "width": 0.5077519416809082,
+        "height": 0.017623545601963997
+      },
+      "confidence": 1,
+      "text": "having completed his/her enrollment, agree to abide by the rules and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8769266423841434,
+        "y": 0.44137530107922185,
+        "width": 0.12219973405202234,
+        "height": 0.0192104559391737
+      },
+      "confidence": 1,
+      "text": "Cross-enrollees",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23837208482815075,
+        "y": 0.4578488378528004,
+        "width": 0.5077519416809082,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "regulations set by the College. The basis of the admission policies set by",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8420290365545803,
+        "y": 0.4565518770415462,
+        "width": 0.1571338574091593,
+        "height": 0.022582395933568478
+      },
+      "confidence": 1,
+      "text": "by the screening coi",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23837211864629312,
+        "y": 0.4721679687690925,
+        "width": 0.5116278727849324,
+        "height": 0.016204124316573143
+      },
+      "confidence": 1,
+      "text": "the College is the belief that only those students whose qualifications",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8417272046630592,
+        "y": 0.4698967866019017,
+        "width": 0.1576447983582815,
+        "height": 0.023992029950022697
+      },
+      "confidence": 1,
+      "text": "a valid permit to cros",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23837210159203023,
+        "y": 0.485351562946004,
+        "width": 0.5116278727849324,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "indicate a strong likelihood of success and who can measure up to its",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2403100695665228,
+        "y": 0.50000000011322,
+        "width": 0.5077519416809082,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "academic standards in the course they are enroled, should be accepted",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8808029064007737,
+        "y": 0.49166465899166145,
+        "width": 0.11821504433949792,
+        "height": 0.019297504797577858
+      },
+      "confidence": 1,
+      "text": "All transferees",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2422480876385412,
+        "y": 0.513081395798537,
+        "width": 0.5116278727849324,
+        "height": 0.017680322751402855
+      },
+      "confidence": 1,
+      "text": "As a general rule, therefore, the Laguna College admits only those",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8481653858065518,
+        "y": 0.5080491054206557,
+        "width": 0.15080538392066956,
+        "height": 0.018943728879094124
+      },
+      "confidence": 1,
+      "text": "by a screening cor",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.24224806345831093,
+        "y": 0.5276162791479855,
+        "width": 0.5116279125213623,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "enrollees who possess good moral character, personal integrity, and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8497562267599562,
+        "y": 0.5193380051189407,
+        "width": 0.14940770467122388,
+        "height": 0.021710127592086792
+      },
+      "confidence": 1,
+      "text": "applicant be adv",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23837210604335576,
+        "y": 0.5419921873985432,
+        "width": 0.3779069582621256,
+        "height": 0.017600835300982
+      },
+      "confidence": 1,
+      "text": "maturity of purpose and behavior befitting a student.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.850775192976224,
+        "y": 0.5375976559111598,
+        "width": 0.14728682239850366,
+        "height": 0.016181414015591145
+      },
+      "confidence": 1,
+      "text": "subsequently enr",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8527131777479419,
+        "y": 0.5522460936571035,
+        "width": 0.1453488369782766,
+        "height": 0.017578125
+      },
+      "confidence": 1,
+      "text": "Laguna College ar",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2751938008961898,
+        "y": 0.5668604656184311,
+        "width": 0.4825581312179565,
+        "height": 0.014682502951472998
+      },
+      "confidence": 1,
+      "text": "The school reserves the right to refuse enrollment or re-enrollment to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8914728663071255,
+        "y": 0.5741279069809526,
+        "width": 0.10658914844195055,
+        "height": 0.016204124316573143
+      },
+      "confidence": 1,
+      "text": "Applicants m",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23632533594169292,
+        "y": 0.5838327575893901,
+        "width": 0.09711676836013788,
+        "height": 0.014020530972629786
+      },
+      "confidence": 1,
+      "text": "the following:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8578413795784408,
+        "y": 0.5867683815404603,
+        "width": 0.1410006880760193,
+        "height": 0.018096009269356728
+      },
+      "confidence": 1,
+      "text": "have taken the e",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23643410876691606,
+        "y": 0.6090116279750837,
+        "width": 0.021317829688390078,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25968991365293587,
+        "y": 0.6059570313035818,
+        "width": 0.501937985420227,
+        "height": 0.014682503417134285
+      },
+      "confidence": 1,
+      "text": "Pupils/Students who have physical or mental illness, contagious",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8584253129158643,
+        "y": 0.6027271318158922,
+        "width": 0.13973851998647058,
+        "height": 0.018382946029305458
+      },
+      "confidence": 1,
+      "text": "Laguna College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.27131783261370995,
+        "y": 0.6206054690798066,
+        "width": 0.49224805831909174,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "disease or other sickness as certified by the school physician which",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.859837206333289,
+        "y": 0.6184347297182888,
+        "width": 0.13892903923988342,
+        "height": 0.015471184626221657
+      },
+      "confidence": 1,
+      "text": "exempt from ret",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.271164556204198,
+        "y": 0.6348541279925368,
+        "width": 0.40339108308156335,
+        "height": 0.018488207831978798
+      },
+      "confidence": 1,
+      "text": "may be aggravated by the burden of academic studies.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8616850341985279,
+        "y": 0.6319792233938513,
+        "width": 0.1370114882787068,
+        "height": 0.018134789541363716
+      },
+      "confidence": 1,
+      "text": "examination sha",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25387597684426133,
+        "y": 0.6497093029327423,
+        "width": 0.4437984228134155,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "Students with disciplinary cases considered grave by the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9031007776603568,
+        "y": 0.6555232558181618,
+        "width": 0.08914727965990699,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "Applicants",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2674418562070191,
+        "y": 0.6669921876497629,
+        "width": 0.178294579188029,
+        "height": 0.01324037043377757
+      },
+      "confidence": 1,
+      "text": "committee on discipline",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26744186434721473,
+        "y": 0.6772460939075852,
+        "width": 0.503875970840454,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "2.1. Students who have participated in, incited, caused, or led acts of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8662790735049123,
+        "y": 0.6713867190364893,
+        "width": 0.13178293903668714,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "screening interv",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8701550382094115,
+        "y": 0.6860351562334089,
+        "width": 0.12790697813034058,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "Graduate Stud",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.302103774739936,
+        "y": 0.6919565316482985,
+        "width": 0.46757491429646814,
+        "height": 0.02222876437008381
+      },
+      "confidence": 1,
+      "text": "violence, vandalism, and other forms of utter disregard for law",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3042635671905833,
+        "y": 0.7107558138762464,
+        "width": 0.07558139165242511,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "and order.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8694957225614378,
+        "y": 0.7013815631765674,
+        "width": 0.12728363275527954,
+        "height": 0.01868257112801075
+      },
+      "confidence": 1,
+      "text": "undergraduate",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26744186314012736,
+        "y": 0.72216796891736,
+        "width": 0.5038759708404541,
+        "height": 0.01911110058426857
+      },
+      "confidence": 1,
+      "text": "2.2. Students known to be or to have been associated with",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8720930233397107,
+        "y": 0.7165697675200784,
+        "width": 0.12596899271011353,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "months of work",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3019470410633289,
+        "y": 0.7343295219508089,
+        "width": 0.47176341215769446,
+        "height": 0.02901649009436369
+      },
+      "confidence": 1,
+      "text": "elements, groups, or movements that tend to subvert the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30232558527176795,
+        "y": 0.7587209299860398,
+        "width": 0.26744184891382855,
+        "height": 0.016181414015591145
+      },
+      "confidence": 1,
+      "text": "country's democratic institutions.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.49224806211609873,
+        "y": 0.8081395346590767,
+        "width": 0.009689922134081486,
+        "height": 0.010174418799579144
+      },
+      "confidence": 1,
+      "text": "4",
+      "verified": false
+    }
+  ]
+}

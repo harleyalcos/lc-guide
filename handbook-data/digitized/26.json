@@ -1,0 +1,390 @@
+{
+  "file": "hb26.jpg",
+  "label": "26",
+  "imageSha256": "cc1c74bf359a7cc7ecbf2eae296ed96fd6ae5b34c30755887d5e876901e36461",
+  "left": 0.12749931106717946,
+  "right": 0.7141480675535625,
+  "rows": [
+    {
+      "text": "Section 5. Students shall not write or draw on blackboards and walls",
+      "box": {
+        "height": 0.09437553957104683,
+        "width": 0.5062335332234701,
+        "x": 0.19812109143904535,
+        "y": 0.08842899897996026
+      },
+      "level": 0.08635819743707525
+    },
+    {
+      "text": "indecent or lewd words or figures or any form of graffiti.",
+      "box": {
+        "height": 0.05000374838709831,
+        "width": 0.435762882232666,
+        "x": 0.16165121584806963,
+        "y": 0.1147479259671631
+      },
+      "level": 0.11377281209665611
+    },
+    {
+      "text": "Section 6. Students shall not damage any property of the College.",
+      "box": {
+        "height": 0.08440869674086571,
+        "width": 0.48093934853871656,
+        "x": 0.19753045605890515,
+        "y": 0.12188657267810976
+      },
+      "level": 0.11984808058015592
+    },
+    {
+      "text": "Section 7. Students shall not bring into the College premises deadly",
+      "box": {
+        "height": 0.08980022370815277,
+        "width": 0.5157273213068644,
+        "x": 0.19581986749877953,
+        "y": 0.14542518114623038
+      },
+      "level": 0.14343157892538216
+    },
+    {
+      "text": "weapons of any kind, whether concealed or openly. The use of threat to use",
+      "box": {
+        "height": 0.08780829608440399,
+        "width": 0.5538529157638549,
+        "x": 0.1574685281457897,
+        "y": 0.1587350780784863
+      },
+      "level": 0.15777719067224605
+    },
+    {
+      "text": "such weapons shall aggravate the act.",
+      "box": {
+        "height": 0.01911110058426857,
+        "width": 0.31007750829060876,
+        "x": 0.1569767458546957,
+        "y": 0.1962209304386746
+      },
+      "level": 0.19543695608278078
+    },
+    {
+      "text": "Section 8. Students shall not affiliate knowingly or unknowingly with any",
+      "box": {
+        "height": 0.08383999019861221,
+        "width": 0.5204256772994995,
+        "x": 0.19233071703527216,
+        "y": 0.1961430179184871
+      },
+      "level": 0.19426435527624766
+    },
+    {
+      "text": "unauthorized organization operating within the College.",
+      "box": {
+        "height": 0.04178418591618538,
+        "width": 0.44027201334635413,
+        "x": 0.15435772549033366,
+        "y": 0.22326145813319487
+      },
+      "level": 0.2225002786503194
+    },
+    {
+      "text": "Section 9. Students shall not commit any form of littering or unsanitary",
+      "box": {
+        "height": 0.07790333777666092,
+        "width": 0.5238552490870158,
+        "x": 0.19029281846654675,
+        "y": 0.23416840108150205
+      },
+      "level": 0.23236514983330753
+    },
+    {
+      "text": "acts within the College premises.",
+      "box": {
+        "height": 0.01744185946881771,
+        "width": 0.2693798343340556,
+        "x": 0.15310078014401873,
+        "y": 0.26744186074524234
+      },
+      "level": 0.2667609705872578
+    },
+    {
+      "text": "Section 10. Students shall not disturb classes.",
+      "box": {
+        "height": 0.0334645826369524,
+        "width": 0.370245615641276,
+        "x": 0.18917056550579145,
+        "y": 0.2852039939642046
+      },
+      "level": 0.2835292323901982
+    },
+    {
+      "text": "Section 11. Students shall follow all College rules and regulations",
+      "box": {
+        "height": 0.06509516388177872,
+        "width": 0.5296652714411418,
+        "x": 0.18672847285394148,
+        "y": 0.2990825167130332
+      },
+      "level": 0.2974141697973155
+    },
+    {
+      "text": "governing them during emergencies, such as fire, earthquakes, flood, etc.",
+      "box": {
+        "height": 0.05582769401371479,
+        "width": 0.5539058049519856,
+        "x": 0.14817386145797543,
+        "y": 0.318211450267612
+      },
+      "level": 0.31759478672531505
+    },
+    {
+      "text": "Section 12. Students shall refrain from smoking inside the campus,",
+      "box": {
+        "height": 0.05212215334177017,
+        "width": 0.5321978330612183,
+        "x": 0.18694904333126758,
+        "y": 0.3801447156777771
+      },
+      "level": 0.3495030694902188
+    },
+    {
+      "text": "whether in the classroom, libraries, corridors and other school premises.",
+      "box": {
+        "height": 0.05212215334177017,
+        "width": 0.5321978330612183,
+        "x": 0.18694904333126758,
+        "y": 0.3801447156777771
+      },
+      "level": 0.3635030694902188
+    },
+    {
+      "text": "Section 13. Students shall refrain from demonstrating amorous",
+      "box": {
+        "height": 0.05212215334177017,
+        "width": 0.5321978330612183,
+        "x": 0.18694904333126758,
+        "y": 0.3801447156777771
+      },
+      "level": 0.37850306949021884
+    },
+    {
+      "text": "affection and any other improper acts unbecoming of LC students inside or",
+      "box": {
+        "height": 0.048904020339250565,
+        "width": 0.574167529741923,
+        "x": 0.1446059622395237,
+        "y": 0.3977135893299444
+      },
+      "level": 0.3972092685242229
+    },
+    {
+      "text": "outside the campus.",
+      "box": {
+        "height": 0.01318359375,
+        "width": 0.1686046520868937,
+        "x": 0.14534883785190197,
+        "y": 0.42578125022827795
+      },
+      "level": 0.425306528755228
+    },
+    {
+      "text": "Section 14. Students shall not take out from the premises of the school",
+      "box": {
+        "height": 0.0428995992988348,
+        "width": 0.5350894927978516,
+        "x": 0.18539913222697066,
+        "y": 0.43855674943754686
+      },
+      "level": 0.4369764582972064
+    },
+    {
+      "text": "any property owned by the school or its members without proper permission.",
+      "box": {
+        "height": 0.03926046937704086,
+        "width": 0.5792274872461955,
+        "x": 0.14281990279507442,
+        "y": 0.45663645243228057
+      },
+      "level": 0.4561989545203867
+    },
+    {
+      "text": "Section 15. Students shall only record classes upon prior permission",
+      "box": {
+        "height": 0.02783203125,
+        "width": 0.5387596686681112,
+        "x": 0.18410854314656447,
+        "y": 0.48828125002252065
+      },
+      "level": 0.4867756852887849
+    },
+    {
+      "text": "from their teachers. Teachers likewise must inform students that classes are",
+      "box": {
+        "height": 0.035286396741867065,
+        "width": 0.5846280256907145,
+        "x": 0.13912322876113623,
+        "y": 0.49691186032226775
+      },
+      "level": 0.4965789890129659
+    },
+    {
+      "text": "recorded.",
+      "box": {
+        "height": 0.01477990671992302,
+        "width": 0.08340870340665182,
+        "x": 0.13949719937883676,
+        "y": 0.5216798140597172
+      },
+      "level": 0.5213586997101937
+    },
+    {
+      "text": "Article II - Behavior in Classroom",
+      "box": {
+        "height": 0.017589479684829712,
+        "width": 0.30232556660970056,
+        "x": 0.30232558961181644,
+        "y": 0.5434570312269047
+      },
+      "level": 0.5388073960024247
+    },
+    {
+      "text": "Section 1. Students shall attend their classes regularly and punctually.",
+      "box": {
+        "height": 0.028403189033269882,
+        "width": 0.5492916107177734,
+        "x": 0.17796125245462488,
+        "y": 0.5648033252685176
+      },
+      "level": 0.5634464991071179
+    },
+    {
+      "text": "Tardiness of more than ten minutes without justifiable reason shall be",
+      "box": {
+        "height": 0.021694805473089218,
+        "width": 0.5934079885482788,
+        "x": 0.13550353135753243,
+        "y": 0.584497337400958
+      },
+      "level": 0.5842783280534624
+    },
+    {
+      "text": "considered an absence.",
+      "box": {
+        "height": 0.014693858567625284,
+        "width": 0.20542635520299274,
+        "x": 0.13565891798958885,
+        "y": 0.6044921876840987
+      },
+      "level": 0.6042751768543758
+    },
+    {
+      "text": "Section 2. Students shall rise when called upon to recite or when",
+      "box": {
+        "height": 0.016147347167134285,
+        "width": 0.5581395228703816,
+        "x": 0.17441861763457642,
+        "y": 0.6293604650114758
+      },
+      "level": 0.6281126110713243
+    },
+    {
+      "text": "propounding questions to the professor.",
+      "box": {
+        "height": 0.01744185946881771,
+        "width": 0.3449612458546957,
+        "x": 0.13178294727614046,
+        "y": 0.6468023260795446
+      },
+      "level": 0.6466883995807834
+    },
+    {
+      "text": "Section 3. Students shall leave the room quietly and in an orderly",
+      "box": {
+        "height": 0.017578125,
+        "width": 0.5600775082906086,
+        "x": 0.17248062103234427,
+        "y": 0.6713867185627704
+      },
+      "level": 0.6701904070871825
+    },
+    {
+      "text": "manner and see to it that respective chairs are properly arranged.",
+      "box": {
+        "height": 0.020342761650681496,
+        "width": 0.5409104426701864,
+        "x": 0.12975925582343306,
+        "y": 0.6888786416350207
+      },
+      "level": 0.6918115611392567
+    },
+    {
+      "text": "Section 4. Students waiting to occupy a classroom shall enter only after",
+      "box": {
+        "height": 0.027467995882034302,
+        "width": 0.5664327939351399,
+        "x": 0.17034927827082477,
+        "y": 0.7105280478870402
+      },
+      "level": 0.7154529762033514
+    },
+    {
+      "text": "the outgoing class has left the room.",
+      "box": {
+        "height": 0.022188201546669006,
+        "width": 0.312795360883077,
+        "x": 0.12749931106717946,
+        "y": 0.7323372634826617
+      },
+      "level": 0.7323252905049207
+    },
+    {
+      "text": "Section 5. Students may leave the classroom only upon permission of",
+      "box": {
+        "height": 0.03205334395170212,
+        "width": 0.5725080172220866,
+        "x": 0.16833520787407905,
+        "y": 0.7512767271736485
+      },
+      "level": 0.7576637110804786
+    },
+    {
+      "text": "the professor.",
+      "box": {
+        "height": 0.023126807995140553,
+        "width": 0.12295538187026979,
+        "x": 0.12458257870732332,
+        "y": 0.7739060112994396
+      },
+      "level": 0.7739408558147539
+    },
+    {
+      "text": "Section 6. Students shall not cheat or commit any form of dishonesty in",
+      "box": {
+        "height": 0.03076171875,
+        "width": 0.571705420811971,
+        "x": 0.1686046606938206,
+        "y": 0.7832031246834352
+      },
+      "level": 0.7821098972628802
+    },
+    {
+      "text": "relation with their studies.",
+      "box": {
+        "height": 0.024762259796261787,
+        "width": 0.22454055150349939,
+        "x": 0.12331417190532241,
+        "y": 0.8084318162102782
+      },
+      "level": 0.8085146444502647
+    },
+    {
+      "text": "26",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.03682170559962594,
+        "x": 0.4302325585131715,
+        "y": 0.8473837211174622
+      },
+      "level": 0.839332304690459
+    }
+  ],
+  "reviewed": true
+}

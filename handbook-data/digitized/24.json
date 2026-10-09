@@ -1,0 +1,430 @@
+{
+  "file": "hb24.jpg",
+  "label": "24",
+  "imageSha256": "84af14c4791dbd9bf9fcf61ca1b97bf5e54021b99b8484a793ba9e3bb7f6ee2f",
+  "left": 0.13372093131021293,
+  "right": 0.66684888655677,
+  "rows": [
+    {
+      "text": "9. Not sporting the proper male haircut which must be at least up to the",
+      "box": {
+        "height": 0.05356396734714508,
+        "width": 0.4685220718383789,
+        "x": 0.15503875984266266,
+        "y": 0.13178032789425664
+      },
+      "level": 0.13178032789425664
+    },
+    {
+      "text": "hairline. As a matter of policy, the students shall avoid hairstyles",
+      "box": {
+        "height": 0.027205824851989746,
+        "width": 0.25398409366607666,
+        "x": 0.19471019709803924,
+        "y": 0.14703896885426404
+      },
+      "level": 0.14703896885426404
+    },
+    {
+      "text": "such as semi-bald, dyed, or other similar styles which do not belong",
+      "box": {
+        "height": 0.05260820686817169,
+        "width": 0.47195772329966235,
+        "x": 0.19282719371429172,
+        "y": 0.15595434920899565
+      },
+      "level": 0.15595434920899565
+    },
+    {
+      "text": "to the Laguna College academic community.",
+      "box": {
+        "height": 0.03125854954123497,
+        "width": 0.3196534117062887,
+        "x": 0.19111949973635625,
+        "y": 0.171656978215173
+      },
+      "level": 0.171656978215173
+    },
+    {
+      "text": "10. Wearing earrings for the male students or piercing on the nose,",
+      "box": {
+        "height": 0.05217820778489113,
+        "width": 0.48545400301615405,
+        "x": 0.15503876024736715,
+        "y": 0.179487092287276
+      },
+      "level": 0.179487092287276
+    },
+    {
+      "text": "tongue, or any part of the face.",
+      "box": {
+        "height": 0.018022840842604637,
+        "width": 0.21994107961654666,
+        "x": 0.1913922383906447,
+        "y": 0.20157009799432712
+      },
+      "level": 0.20157009799432712
+    },
+    {
+      "text": "11. Staying or loitering in corridors and making unnecessary noise and",
+      "box": {
+        "height": 0.047183237969875336,
+        "width": 0.4758888085683187,
+        "x": 0.15116279077691772,
+        "y": 0.20620489330755332
+      },
+      "level": 0.20620489330755332
+    },
+    {
+      "text": "movements during class hours and in-between periods except",
+      "box": {
+        "height": 0.03015274740755558,
+        "width": 0.371767004330953,
+        "x": 0.18929441249917267,
+        "y": 0.22250770478434123
+      },
+      "level": 0.22250770478434123
+    },
+    {
+      "text": "during bad weather.",
+      "box": {
+        "height": 0.015515192411839962,
+        "width": 0.15003678202629092,
+        "x": 0.18953205148022342,
+        "y": 0.2381768800020887
+      },
+      "level": 0.2381768800020887
+    },
+    {
+      "text": "12. Eating inside the classrooms during class hours.",
+      "box": {
+        "height": 0.028340669348835945,
+        "width": 0.3504075606664022,
+        "x": 0.14922480621296424,
+        "y": 0.24885140702925856
+      },
+      "level": 0.24885140702925856
+    },
+    {
+      "text": "13. Disturbing classes as loquacity, calling or whistling, clapping or",
+      "box": {
+        "height": 0.04385266825556755,
+        "width": 0.481202522913615,
+        "x": 0.14922480621296424,
+        "y": 0.2587289939953974
+      },
+      "level": 0.2587289939953974
+    },
+    {
+      "text": "signaling a fellow student attending class or asking him/her to step",
+      "box": {
+        "height": 0.04342132806777954,
+        "width": 0.4828263918558756,
+        "x": 0.1872366783072604,
+        "y": 0.273143920302211
+      },
+      "level": 0.273143920302211
+    },
+    {
+      "text": "out of the room without the prior permission of the instructor, the",
+      "box": {
+        "height": 0.04077218100428581,
+        "width": 0.48456287384033203,
+        "x": 0.1872729114783933,
+        "y": 0.28772316599567294
+      },
+      "level": 0.28772316599567294
+    },
+    {
+      "text": "dean, and/or other school officials.",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.25775192181269324,
+        "x": 0.18798450850579795,
+        "y": 0.30810546895262647
+      },
+      "level": 0.30810546895262647
+    },
+    {
+      "text": "14. Causing unnecessary noise in offices, rooms, corridors, etc.",
+      "box": {
+        "height": 0.031380943953990936,
+        "width": 0.4337036212285359,
+        "x": 0.1472868221507797,
+        "y": 0.3162471422944607
+      },
+      "level": 0.3162471422944607
+    },
+    {
+      "text": "15. Gatecrashing a dance party held within the school premises,",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.32170542081197107,
+        "x": 0.14922481433561638,
+        "y": 0.3357558141649427
+      },
+      "level": 0.3357558141649427
+    },
+    {
+      "text": "or any place for school events such as graduation balls or induction",
+      "box": {
+        "height": 0.030103356577455997,
+        "width": 0.48959382375081384,
+        "x": 0.18755535585755245,
+        "y": 0.34538246923821725
+      },
+      "level": 0.34538246923821725
+    },
+    {
+      "text": "ceremonies.",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.09689922134081522,
+        "x": 0.18798449829277067,
+        "y": 0.36482558127165865
+      },
+      "level": 0.36482558127165865
+    },
+    {
+      "text": "16. Public display of affection (PDA), which offends or tends to offend the",
+      "box": {
+        "height": 0.029471244663000107,
+        "width": 0.5320227940877278,
+        "x": 0.14684689295580297,
+        "y": 0.37334695236187565
+      },
+      "level": 0.37334695236187565
+    },
+    {
+      "text": "sensibilities of the Academic Community or inappropriate intimate",
+      "box": {
+        "height": 0.027045986615121365,
+        "width": 0.4912026723225912,
+        "x": 0.18765809776771025,
+        "y": 0.3873610149172778
+      },
+      "level": 0.3873610149172778
+    },
+    {
+      "text": "physical contact such as: touching, kissing, hugging, lying/leaning on",
+      "box": {
+        "height": 0.02204078808426857,
+        "width": 0.49418604373931885,
+        "x": 0.18604651795592186,
+        "y": 0.406738281336922
+      },
+      "level": 0.406738281336922
+    },
+    {
+      "text": "another person, etc., Within the school premises or at any school-",
+      "box": {
+        "height": 0.02159019187092781,
+        "width": 0.49273924032847083,
+        "x": 0.1878022058222406,
+        "y": 0.4176160242586956
+      },
+      "level": 0.4176160242586956
+    },
+    {
+      "text": "sponsored activity.",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.1472868223985036,
+        "x": 0.1841085254286552,
+        "y": 0.43457031213672936
+      },
+      "level": 0.43457031213672936
+    },
+    {
+      "text": "PENALTIES:",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.10658914844195047,
+        "x": 0.14534883587038686,
+        "y": 0.4607558141669441
+      },
+      "level": 0.4607558141669441
+    },
+    {
+      "text": "1. First Offense: Suspension for 2 class days",
+      "box": {
+        "height": 0.013297147583216429,
+        "width": 0.30620153745015466,
+        "x": 0.1821705432244456,
+        "y": 0.47216796867619604
+      },
+      "level": 0.47216796867619604
+    },
+    {
+      "text": "2. Second Offense: Suspension for 1 week",
+      "box": {
+        "height": 0.013194948900491,
+        "width": 0.29457362492879235,
+        "x": 0.1841085273346835,
+        "y": 0.4853515623686113
+      },
+      "level": 0.4853515623686113
+    },
+    {
+      "text": "3. Third Offense: Suspension for 2 weeks",
+      "box": {
+        "height": 0.01171875,
+        "width": 0.28488371769587195,
+        "x": 0.18410852760923127,
+        "y": 0.49999999994898425
+      },
+      "level": 0.49999999994898425
+    },
+    {
+      "text": "4. For the frequent violators: Prejudice to re-enrollment",
+      "box": {
+        "height": 0.014750635251402855,
+        "width": 0.38565889994303393,
+        "x": 0.2248062054871395,
+        "y": 0.5130813958509892
+      },
+      "level": 0.5130813958509892
+    },
+    {
+      "text": "ADMINISTRATION OF STUDENT DISCIPLINE",
+      "box": {
+        "height": 0.019567232578992844,
+        "width": 0.37848567962646484,
+        "x": 0.14117702663937157,
+        "y": 0.5393691955914519
+      },
+      "level": 0.5445570222882352
+    },
+    {
+      "text": "Discipline Procedures:",
+      "box": {
+        "height": 0.01916102133691311,
+        "width": 0.18134029706319174,
+        "x": 0.14093790702518674,
+        "y": 0.5678726943421002
+      },
+      "level": 0.5724663009146984
+    },
+    {
+      "text": "a. Formal complaints against students shall be submitted to the",
+      "box": {
+        "height": 0.021232565864920616,
+        "width": 0.5140299399693807,
+        "x": 0.17995015891060243,
+        "y": 0.5792621237627484
+      },
+      "level": 0.5852821975416758
+    },
+    {
+      "text": "Principal, College Deans or Head of Student Affairs, complaints may come",
+      "box": {
+        "height": 0.0243220841512084,
+        "width": 0.5548322200775146,
+        "x": 0.13922730697844132,
+        "y": 0.592954646589443
+      },
+      "level": 0.6002819540707617
+    },
+    {
+      "text": "from faculty members, school officials, non-teaching employees, and",
+      "box": {
+        "height": 0.02459911908954382,
+        "width": 0.558732549349467,
+        "x": 0.1373204819161471,
+        "y": 0.6076590226803499
+      },
+      "level": 0.6158293419357913
+    },
+    {
+      "text": "students.",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.07364340623219809,
+        "x": 0.1395348857081904,
+        "y": 0.6308139533162324
+      },
+      "level": 0.6308139533162324
+    },
+    {
+      "text": "b. The Department Heads/Principal shall then conduct a preliminary",
+      "box": {
+        "height": 0.024850232526659966,
+        "width": 0.5200622081756592,
+        "x": 0.17793287715030104,
+        "y": 0.6372694270486617
+      },
+      "level": 0.6453544650959456
+    },
+    {
+      "text": "investigation and shall gather all evidence including documents and",
+      "box": {
+        "height": 0.02429153583943844,
+        "width": 0.5646040439605714,
+        "x": 0.135379871572207,
+        "y": 0.6524645910091005
+      },
+      "level": 0.660524474033644
+    },
+    {
+      "text": "materials as he may deem relevant.",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.27325580517450976,
+        "x": 0.13759690702999314,
+        "y": 0.6728515628067113
+      },
+      "level": 0.6728515628067113
+    },
+    {
+      "text": "C. Upon receipt of all relevant documents, materials and other",
+      "box": {
+        "height": 0.02416700404137373,
+        "width": 0.4852278629938762,
+        "x": 0.17793509966898316,
+        "y": 0.6829160989363138
+      },
+      "level": 0.690412535062844
+    },
+    {
+      "text": "evidence including the names of witnesses, the Principal/Department",
+      "box": {
+        "height": 0.026065679267048836,
+        "width": 0.5415035088857015,
+        "x": 0.1353126656846424,
+        "y": 0.6973952986908161
+      },
+      "level": 0.7067013367221706
+    },
+    {
+      "text": "Heads shall assess the gravity and complexity of the case, and proceed",
+      "box": {
+        "height": 0.02462960686534643,
+        "width": 0.5588196516036987,
+        "x": 0.1353833950571973,
+        "y": 0.713507109168255
+      },
+      "level": 0.7209858324707386
+    },
+    {
+      "text": "to handle the same in accordance with the provisions.",
+      "box": {
+        "height": 0.017578125,
+        "width": 0.4302325646082561,
+        "x": 0.13372093131021293,
+        "y": 0.73242187521515
+      },
+      "level": 0.73242187521515
+    },
+    {
+      "text": "24",
+      "box": {
+        "height": 0.01744185946881771,
+        "width": 0.03100775182247162,
+        "x": 0.4108527129776531,
+        "y": 0.765988372663847
+      },
+      "level": 0.765988372663847
+    }
+  ],
+  "reviewed": true
+}

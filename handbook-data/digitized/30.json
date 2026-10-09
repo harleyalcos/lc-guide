@@ -1,0 +1,350 @@
+{
+  "file": "hb30.jpg",
+  "label": "30",
+  "imageSha256": "ea0fd8ee19bbda1be1c6f0cab7eae6d249c757c48d53dffe249adcaa4c0da6fd",
+  "left": 0.251397547133942,
+  "right": 0.6610768718501502,
+  "rows": [
+    {
+      "text": "C. Campus Organizations",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.18798448642094934,
+        "x": 0.29069768161995163,
+        "y": 0.28052325579927495
+      },
+      "level": 0.28095671316359455
+    },
+    {
+      "text": "The formation of educational, cultural and scientific",
+      "box": {
+        "height": 0.010299327783286572,
+        "width": 0.0988372067610423,
+        "x": 0.2906976769247114,
+        "y": 0.2963867187712995
+      },
+      "level": 0.2968201760838334
+    },
+    {
+      "text": "organizations among students is encouraged.",
+      "box": {
+        "height": 0.01171875,
+        "width": 0.27131781975428265,
+        "x": 0.25968993185412464,
+        "y": 0.308105468522584
+      },
+      "level": 0.3081969286478926
+    },
+    {
+      "text": "To achieve official status, an organization must be approved",
+      "box": {
+        "height": 0.02515026181936264,
+        "width": 0.35972781976064044,
+        "x": 0.2883051876929142,
+        "y": 0.31828164860253927
+      },
+      "level": 0.31869718991465634
+    },
+    {
+      "text": "and recognized by the Administration. Official recognition may be",
+      "box": {
+        "height": 0.02053330559283495,
+        "width": 0.38796528180440265,
+        "x": 0.25951403837890835,
+        "y": 0.33415246227226536
+      },
+      "level": 0.3342441095367689
+    },
+    {
+      "text": "given after a process which includes:",
+      "box": {
+        "height": 0.010401526000350714,
+        "width": 0.2228682041168213,
+        "x": 0.259689925493269,
+        "y": 0.3457031249638163
+      },
+      "level": 0.34579458501896837
+    },
+    {
+      "text": "1. Submission of written application (with the organization's",
+      "box": {
+        "height": 0.017578125,
+        "width": 0.35852714379628503,
+        "x": 0.2906976719972063,
+        "y": 0.3618164064956564
+      },
+      "level": 0.36224986375384277
+    },
+    {
+      "text": "name and objectives, constitution and by laws, a list of all",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.33527131875356037,
+        "x": 0.31589146681831054,
+        "y": 0.37353515590089525
+      },
+      "level": 0.37424648589522336
+    },
+    {
+      "text": "the members, names of advisers who must be full-time",
+      "box": {
+        "height": 0.019582601264119148,
+        "width": 0.33405359586079914,
+        "x": 0.3175473882381475,
+        "y": 0.380308273142014
+      },
+      "level": 0.38104276682787624
+    },
+    {
+      "text": "instructors, and affiliation) to the Campus Organizations",
+      "box": {
+        "height": 0.015988372266292572,
+        "width": 0.2577519218126933,
+        "x": 0.39341086503034567,
+        "y": 0.3953488373891405
+      },
+      "level": 0.3969151607434683
+    },
+    {
+      "text": "Screening Board.",
+      "box": {
+        "height": 0.015988372266292572,
+        "width": 0.2577519218126933,
+        "x": 0.39341086503034567,
+        "y": 0.3953488373891405
+      },
+      "level": 0.4109151607434683
+    },
+    {
+      "text": "2. Recommendation by the Campus Organizations",
+      "box": {
+        "height": 0.010174417868256569,
+        "width": 0.12015503644943237,
+        "x": 0.3178294605220538,
+        "y": 0.4229651165745927
+      },
+      "level": 0.42369782149941093
+    },
+    {
+      "text": "Screening Board to be submitted to the School",
+      "box": {
+        "height": 0.011105217039585114,
+        "width": 0.06806672612826031,
+        "x": 0.3177108238314393,
+        "y": 0.43412762399550664
+      },
+      "level": 0.434861763090216
+    },
+    {
+      "text": "Administration.",
+      "box": {
+        "height": 0.008720929734408855,
+        "width": 0.09496123592058814,
+        "x": 0.3178294611417731,
+        "y": 0.4462209304331831
+      },
+      "level": 0.4469536353648365
+    },
+    {
+      "text": "3. Final approval by the School Administration.",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.26356587807337445,
+        "x": 0.2887596906395085,
+        "y": 0.46075581390247256
+      },
+      "level": 0.46146714407375905
+    },
+    {
+      "text": "Recognition granted to an organization may be cancelled by",
+      "box": {
+        "height": 0.013206304516643286,
+        "width": 0.36627904574076336,
+        "x": 0.29069768276915325,
+        "y": 0.4838867186710638
+      },
+      "level": 0.48432017604805844
+    },
+    {
+      "text": "the Administration if the organization in question has been found",
+      "box": {
+        "height": 0.01318359375,
+        "width": 0.4011627833048502,
+        "x": 0.2577519366663734,
+        "y": 0.4941406247806416
+      },
+      "level": 0.4942107099590923
+    },
+    {
+      "text": "guilty of violating regulations of the school and/or not fulfilling its",
+      "box": {
+        "height": 0.021897390484809875,
+        "width": 0.4036591053009034,
+        "x": 0.2574177665492468,
+        "y": 0.5025392836141763
+      },
+      "level": 0.5096382097498023
+    },
+    {
+      "text": "avowed aim or aims. Recognition is for one-year period, renewable",
+      "box": {
+        "height": 0.016564110293984413,
+        "width": 0.4034506479899089,
+        "x": 0.2575445422293993,
+        "y": 0.5154978004213608
+      },
+      "level": 0.5200128010578747
+    },
+    {
+      "text": "at the start of another school year if the organization has been found",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.4050387541453044,
+        "x": 0.2577519342645573,
+        "y": 0.5290697679440125
+      },
+      "level": 0.5291398530959726
+    },
+    {
+      "text": "satisfactorily complying with the rules and regulations of the school.",
+      "box": {
+        "height": 0.01470521418377757,
+        "width": 0.4050387541453044,
+        "x": 0.2577519458197896,
+        "y": 0.540527343623179
+      },
+      "level": 0.5405974289025864
+    },
+    {
+      "text": "A list of members and their advisers, old and new alike, must be",
+      "box": {
+        "height": 0.0146484375,
+        "width": 0.40697673956553143,
+        "x": 0.2577519352075444,
+        "y": 0.5522460938845195
+      },
+      "level": 0.5523161790468801
+    },
+    {
+      "text": "submitted to the Administration upon application of renewal.",
+      "box": {
+        "height": 0.017964616417884827,
+        "width": 0.37062001228332525,
+        "x": 0.25551559774495375,
+        "y": 0.5621336249691593
+      },
+      "level": 0.5681835073619772
+    },
+    {
+      "text": "Student leaders are responsible, and are subject to",
+      "box": {
+        "height": 0.011866370216012001,
+        "width": 0.19573642810185748,
+        "x": 0.4069767504516551,
+        "y": 0.5813953487135192
+      },
+      "level": 0.5831112958036506
+    },
+    {
+      "text": "corresponding punishment under the principle of command",
+      "box": {
+        "height": 0.022075798362493515,
+        "width": 0.4135058323542276,
+        "x": 0.255411076592225,
+        "y": 0.5896524323010692
+      },
+      "level": 0.5996882979511563
+    },
+    {
+      "text": "responsibility, for any violation of the rules and regulations",
+      "box": {
+        "height": 0.015057791955769062,
+        "width": 0.0936751862366994,
+        "x": 0.2554879898223074,
+        "y": 0.6102036620558587
+      },
+      "level": 0.6136928402439866
+    },
+    {
+      "text": "committed, with or without their consent or knowledge, by their",
+      "box": {
+        "height": 0.020199880003929138,
+        "width": 0.4174027045567831,
+        "x": 0.25541675965631105,
+        "y": 0.615489368498304
+      },
+      "level": 0.6234511939581249
+    },
+    {
+      "text": "organization or members thereof.",
+      "box": {
+        "height": 0.019428489729762077,
+        "width": 0.21813126405080158,
+        "x": 0.25521442426948465,
+        "y": 0.6310283329458439
+      },
+      "level": 0.6387431474859202
+    },
+    {
+      "text": "The failure of any recognized student organization to comply",
+      "box": {
+        "height": 0.022313011810183525,
+        "width": 0.3923673232396444,
+        "x": 0.28245620488325374,
+        "y": 0.6448366409648785
+      },
+      "level": 0.6546586033012036
+    },
+    {
+      "text": "with prescribed requirements shall be sufficient cause for the",
+      "box": {
+        "height": 0.026823285967111588,
+        "width": 0.4235276778539022,
+        "x": 0.2533044463365033,
+        "y": 0.6550989627918882
+      },
+      "level": 0.6690269800568082
+    },
+    {
+      "text": "School Administration to take appropriate disciplinary action",
+      "box": {
+        "height": 0.021563568152487278,
+        "width": 0.3575304746627807,
+        "x": 0.31930003298435644,
+        "y": 0.6695238534308678
+      },
+      "level": 0.6792568624951909
+    },
+    {
+      "text": "against the student officers concerned or to withdraw or cancel the",
+      "box": {
+        "height": 0.025594881735742092,
+        "width": 0.4254854520161947,
+        "x": 0.25331107960169197,
+        "y": 0.6814170872722358
+      },
+      "level": 0.6950370616151352
+    },
+    {
+      "text": "recognition granted to such student organization.",
+      "box": {
+        "height": 0.024119189009070396,
+        "width": 0.32272307078043616,
+        "x": 0.251397547133942,
+        "y": 0.6981651975064644
+      },
+      "level": 0.7089440705011705
+    },
+    {
+      "text": "30",
+      "box": {
+        "height": 0.010174418799579144,
+        "width": 0.021317829688390078,
+        "x": 0.4689922477333243,
+        "y": 0.7674418604403267
+      },
+      "level": 0.7698418019836641
+    }
+  ],
+  "reviewed": true
+}

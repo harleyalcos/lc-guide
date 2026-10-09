@@ -1,0 +1,193 @@
+{
+  "file": "hb-back.jpg",
+  "imageSha256": "84b33016f119c236f5c0f34b3fce145d01793af3f065db0341cd62eb2a14a50b",
+  "passages": [
+    {
+      "box": {
+        "x": 0.14922480055456436,
+        "y": 0.27180232605603816,
+        "width": 0.3449612458546957,
+        "height": 0.021802324801683426
+      },
+      "confidence": 1,
+      "text": "The Laguna College Hymn",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.14697897506946025,
+        "y": 0.33171058725267866,
+        "width": 0.26228664318720496,
+        "height": 0.02020231820642948
+      },
+      "confidence": 1,
+      "text": "Faithful and true hearted",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1472868219049784,
+        "y": 0.35302734354111176,
+        "width": 0.28100774685541785,
+        "height": 0.017612190917134285
+      },
+      "confidence": 1,
+      "text": "We shall be to the College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.14521008202799948,
+        "y": 0.3713667074151161,
+        "width": 0.3413987159729004,
+        "height": 0.018467631191015244
+      },
+      "confidence": 1,
+      "text": "We will hold her and defend her",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.14322951703102538,
+        "y": 0.3906255564565957,
+        "width": 0.2929955720901489,
+        "height": 0.01943141594529152
+      },
+      "confidence": 1,
+      "text": "In our hearts without a fear",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.14341085762186742,
+        "y": 0.431640624999138,
+        "width": 0.2829457322756449,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "We will fight for her united",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1412742627981686,
+        "y": 0.4500048265291281,
+        "width": 0.29695719480514526,
+        "height": 0.019697487354278564
+      },
+      "confidence": 1,
+      "text": "In the courts or in the fields",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.14341086724896204,
+        "y": 0.47070312485436383,
+        "width": 0.36821703116099047,
+        "height": 0.019122456200420856
+      },
+      "confidence": 1,
+      "text": "With colors flying honors pursuing",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.14147287046971338,
+        "y": 0.49121093710985675,
+        "width": 0.2945736447970072,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "All for the Laguna College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.14147287758330998,
+        "y": 0.5317382808188802,
+        "width": 0.26162789265314734,
+        "height": 0.019133811816573143
+      },
+      "confidence": 1,
+      "text": "Cruel time may send us",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1414728747087611,
+        "y": 0.5522460936409883,
+        "width": 0.2790697614351908,
+        "height": 0.0205078125
+      },
+      "confidence": 1,
+      "text": "Far away from the Colleg",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13953488860394478,
+        "y": 0.572674418671475,
+        "width": 0.28100774685541785,
+        "height": 0.019122456200420856
+      },
+      "confidence": 1,
+      "text": "Still her memory well che",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13866259315856688,
+        "y": 0.5868611069052487,
+        "width": 0.2824599146842957,
+        "height": 0.031230702996253967
+      },
+      "confidence": 1,
+      "text": "Prayers offer for her bliss",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13524997764740285,
+        "y": 0.6332422123197873,
+        "width": 0.2800405422846476,
+        "height": 0.02654416486620903
+      },
+      "confidence": 1,
+      "text": "In high places or in lowly",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13759690037281422,
+        "y": 0.6555232561038822,
+        "width": 0.2945736447970072,
+        "height": 0.021802324801683426
+      },
+      "confidence": 1,
+      "text": "We her loyal sons shall be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13517243286952052,
+        "y": 0.673115418778389,
+        "width": 0.4118370215098063,
+        "height": 0.02616407722234726
+      },
+      "confidence": 1,
+      "text": "And as we love our dear Alma Mater",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.13522071284368145,
+        "y": 0.6983278219045417,
+        "width": 0.2759713133176168,
+        "height": 0.024821210652589798
+      },
+      "confidence": 1,
+      "text": "Loyal shall we be to her.",
+      "verified": false
+    }
+  ]
+}

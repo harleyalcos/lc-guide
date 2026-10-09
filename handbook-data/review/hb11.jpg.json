@@ -1,0 +1,578 @@
+{
+  "file": "hb11.jpg",
+  "imageSha256": "10cfb3cafb81e0734c1f724a9100b7333aa29449e02bdb4dea8e635ae4a22843",
+  "passages": [
+    {
+      "box": {
+        "x": 8.579974924982636e-10,
+        "y": 0.10319767482385744,
+        "width": 0.023255812625090282,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "es",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3023255805547295,
+        "y": 0.13372093044401256,
+        "width": 0.17635659376780188,
+        "height": 0.01471656933426857
+      },
+      "confidence": 1,
+      "text": "Incomplete Grades",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.1440913944433515,
+        "width": 0.11093480739680313,
+        "height": 0.0351640023291111
+      },
+      "confidence": 1,
+      "text": "serves the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31173084556791214,
+        "y": 0.1527203528764588,
+        "width": 0.5239474773406982,
+        "height": 0.0257033733651042
+      },
+      "confidence": 1,
+      "text": "A final grade of \"INC\" indicates incomplete work. It is given if a",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.1592966094299153,
+        "width": 0.11160269348429414,
+        "height": 0.03712002374231815
+      },
+      "confidence": 1,
+      "text": "dicate the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2577519340797878,
+        "y": 0.1728515621681399,
+        "width": 0.5794573624928793,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "student whose class standing throughout the term is passing but fails",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.25752426386171196,
+        "y": 0.1853470046114145,
+        "width": 0.5818557341893513,
+        "height": 0.022892890498042107
+      },
+      "confidence": 1,
+      "text": "to comply with some requirements for the course such as taking the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2575567298494354,
+        "y": 0.201037028354634,
+        "width": 0.4481590191523234,
+        "height": 0.02180749736726284
+      },
+      "confidence": 1,
+      "text": "final examination, submitting term paper, project, etc.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3158914780854513,
+        "y": 0.22656249979558452,
+        "width": 0.4069767395655313,
+        "height": 0.016170058399438858
+      },
+      "confidence": 1,
+      "text": "Rules on the completion of \"Incomplete Grades\":",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2616279071277042,
+        "y": 0.25290697700409004,
+        "width": 0.021317829688390078,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3062015650585439,
+        "y": 0.251453488273346,
+        "width": 0.5406976540883383,
+        "height": 0.016124636866152287
+      },
+      "confidence": 1,
+      "text": "The required completion fee has to be paid to the Cashier's Office.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31007753494259527,
+        "y": 0.2674418603179196,
+        "width": 0.5368216832478842,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "The Official Receipt serves as permit for the completion of an",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.30813954910876634,
+        "y": 0.2832031247202852,
+        "width": 0.5426356395085652,
+        "height": 0.01621547993272543
+      },
+      "confidence": 1,
+      "text": "incomplete grade and should be presented to the instructor",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3081395379831289,
+        "y": 0.2993164058454655,
+        "width": 0.28875968853632605,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "together with the completion form.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2596899233386176,
+        "y": 0.32412790721242335,
+        "width": 0.0232558126250903,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3081395480145628,
+        "y": 0.3212209302907303,
+        "width": 0.5445736249287924,
+        "height": 0.01911110058426857
+      },
+      "confidence": 1,
+      "text": "As soon as a grade is obtained, the completion form has to be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3118028185894801,
+        "y": 0.3365894339994717,
+        "width": 0.545013705889384,
+        "height": 0.02249243762344122
+      },
+      "confidence": 1,
+      "text": "signed by the subject instructor, the Dean and the Registrar. A",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3118039478040389,
+        "y": 0.3522433123606904,
+        "width": 0.5450292030970256,
+        "height": 0.022506384178996086
+      },
+      "confidence": 1,
+      "text": "completion grade is valid if the completion form is validated by",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31174137344756253,
+        "y": 0.3671154129334959,
+        "width": 0.5470790863037109,
+        "height": 0.023951970972120762
+      },
+      "confidence": 1,
+      "text": "the Accounting Section and is submitted to the Registrar's Office in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.313675516341908,
+        "y": 0.3833864566381878,
+        "width": 0.5490301847457886,
+        "height": 0.023551756516098976
+      },
+      "confidence": 1,
+      "text": "due time. A grade of INCOMPLETE not completed within one year",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31168344431197353,
+        "y": 0.39810082129702995,
+        "width": 0.5531044801076253,
+        "height": 0.02612832374870777
+      },
+      "confidence": 1,
+      "text": "is automatically given a rating of 70%. The basis of the period of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3136234491986027,
+        "y": 0.4140660492742164,
+        "width": 0.5510366757710774,
+        "height": 0.02321150153875351
+      },
+      "confidence": 1,
+      "text": "completion is the end of the semester when the student obtained",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31589147475365037,
+        "y": 0.43750000011455514,
+        "width": 0.11627906560897827,
+        "height": 0.0146484375
+      },
+      "confidence": 1,
+      "text": "an INC mark.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2655038764393928,
+        "y": 0.463662790451156,
+        "width": 0.0232558126250903,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3117095009205584,
+        "y": 0.45428912443448644,
+        "width": 0.5568461418151855,
+        "height": 0.023177359253168106
+      },
+      "confidence": 1,
+      "text": "The student must have submitted the duly accomplished",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 3.3442622930183554e-9,
+        "y": 0.475097656205246,
+        "width": 0.11046510934829712,
+        "height": 0.017634901218116283
+      },
+      "confidence": 1,
+      "text": "graded at",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3154842368636804,
+        "y": 0.4686830041839094,
+        "width": 0.5570731560389199,
+        "height": 0.027938738465309143
+      },
+      "confidence": 1,
+      "text": "completion form within one year to the Registrar's Office or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4953381116075527,
+        "width": 0.10859745230612454,
+        "height": 0.015137730166316032
+      },
+      "confidence": 1,
+      "text": "e with the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.317765996390841,
+        "y": 0.4969489617598988,
+        "width": 0.05826645592848462,
+        "height": 0.014823006466031075
+      },
+      "confidence": 1,
+      "text": "Dean.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3139534866743286,
+        "y": 0.5188953491777735,
+        "width": 0.21317829688390094,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "On Dropping Subjects",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.3962019040913987e-10,
+        "y": 0.5363372092616918,
+        "width": 0.01550387591123581,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "re",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26690872733380644,
+        "y": 0.5354307615103234,
+        "width": 0.6114761432011923,
+        "height": 0.030948979780077934
+      },
+      "confidence": 1,
+      "text": "1. A student is officially dropped if he/she has accomplished the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31317094242143506,
+        "y": 0.5511793636883744,
+        "width": 0.5672171910603842,
+        "height": 0.031969837844371796
+      },
+      "confidence": 1,
+      "text": "prescribed dropping form (to be accomplished in triplicate) which",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3133391198674529,
+        "y": 0.5693116647072964,
+        "width": 0.568968931833903,
+        "height": 0.030732715502381325
+      },
+      "confidence": 1,
+      "text": "must be duly signed by the instructor concerned, approved by the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31340240223907195,
+        "y": 0.586932998825979,
+        "width": 0.4893875519434611,
+        "height": 0.032357532531023026
+      },
+      "confidence": 1,
+      "text": "Dean/Registrar, and received by the Registrar's Office.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3133850047100255,
+        "y": 0.6109191166057069,
+        "width": 0.5729643901189169,
+        "height": 0.032268475741147995
+      },
+      "confidence": 1,
+      "text": "If the student did not drop his/her subjects) officially (as stated",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2674418613618735,
+        "y": 0.6293604656144284,
+        "width": 0.023255812625090244,
+        "height": 0.01744185946881771
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31509750615473653,
+        "y": 0.6276066666846466,
+        "width": 0.5752964814503988,
+        "height": 0.0366450734436512
+      },
+      "confidence": 1,
+      "text": "above) or did not drop it during the authorized period of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3149901705632483,
+        "y": 0.6429074024790309,
+        "width": 0.5753966172536215,
+        "height": 0.04040057025849819
+      },
+      "confidence": 1,
+      "text": "dropping, he/she is marked \"UW\" (meaning \"Unauthorized",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3150504207944634,
+        "y": 0.6664388599532806,
+        "width": 0.37742960453033453,
+        "height": 0.03465290367603302
+      },
+      "confidence": 1,
+      "text": "Withdrawal\") and is given a grade of 70%.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3149775635428386,
+        "y": 0.6858566823555468,
+        "width": 0.5790838400522869,
+        "height": 0.04337247088551521
+      },
+      "confidence": 1,
+      "text": "A student who dropped any subjects) shall obtain a \"w\" mark,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2674418609742766,
+        "y": 0.712209302079063,
+        "width": 0.0232558126250903,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.316931408575325,
+        "y": 0.7058773084184211,
+        "width": 0.5795716444651285,
+        "height": 0.04110925644636154
+      },
+      "confidence": 1,
+      "text": "meaning withdrawn, on his or her transcript. If the student dropped",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31697700785236854,
+        "y": 0.7234117113139892,
+        "width": 0.581336259841919,
+        "height": 0.04106294363737106
+      },
+      "confidence": 1,
+      "text": "beyond two weeks after the midterms, the student shall pay the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31500443827554464,
+        "y": 0.7392489121760426,
+        "width": 0.587285836537679,
+        "height": 0.04351654648780823
+      },
+      "confidence": 1,
+      "text": "fees in full. Policies on Part IV, Section E of this Hand book shall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.3169826932415183,
+        "y": 0.7711806791403282,
+        "width": 0.30003579457600915,
+        "height": 0.030317533761262894
+      },
+      "confidence": 1,
+      "text": "apply in terms of tuition payment.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31924557410961624,
+        "y": 0.8042757233295748,
+        "width": 0.1871901154518127,
+        "height": 0.021278012543916702
+      },
+      "confidence": 1,
+      "text": "Retention Policies",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.31495089943729776,
+        "y": 0.8100723937113397,
+        "width": 0.5914050738016765,
+        "height": 0.04721366614103317
+      },
+      "confidence": 1,
+      "text": "A student passes a subject if he/she has completed all the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.8258050091580769,
+        "width": 0.11970780932853801,
+        "height": 0.03628130629658699
+      },
+      "confidence": 1,
+      "text": "aration for",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.8463577310802635,
+        "width": 0.12015503410634738,
+        "height": 0.040612172335386276
+      },
+      "confidence": 1,
+      "text": "or subjects",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2724027871141686,
+        "y": 0.8488352806127331,
+        "width": 0.26499446233113605,
+        "height": 0.025792458094656467
+      },
+      "confidence": 1,
+      "text": "requirements of the subject.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.5872093031835789,
+        "y": 0.8808139535685914,
+        "width": 0.023255812625090355,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "11",
+      "verified": false
+    }
+  ]
+}

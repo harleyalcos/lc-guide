@@ -1,0 +1,589 @@
+{
+  "file": "hb33.jpg",
+  "imageSha256": "88a7c1f0166a2059ff687b265c06e5a8d56924e5424da017d04e4e9c19fc284e",
+  "passages": [
+    {
+      "box": {
+        "x": 0,
+        "y": 0.2877347934537583,
+        "width": 0.13871496639042294,
+        "height": 0.0373434703797102
+      },
+      "confidence": 1,
+      "text": "shall be given",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3066941003529432,
+        "width": 0.14002810864631954,
+        "height": 0.031190588138997555
+      },
+      "confidence": 1,
+      "text": "acquisition of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26702501329349704,
+        "y": 0.31231077181917855,
+        "width": 0.09795597195625305,
+        "height": 0.01440050546079874
+      },
+      "confidence": 1,
+      "text": "The school",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.37375017549120054,
+        "y": 0.30362899088120754,
+        "width": 0.3862214088439941,
+        "height": 0.019225774332880974
+      },
+      "confidence": 1,
+      "text": "shall create a committee on decorum and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.32406708658450967,
+        "width": 0.13764978852009208,
+        "height": 0.028136327862739563
+      },
+      "confidence": 1,
+      "text": "petencies and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.22813409666125306,
+        "y": 0.31735855478980857,
+        "width": 0.5339419841766357,
+        "height": 0.02854972332715988
+      },
+      "confidence": 1,
+      "text": "investigation of cases on sexual harassment. This committee shall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2301820440900153,
+        "y": 0.3347785519922616,
+        "width": 0.5318355560302734,
+        "height": 0.026338273659348488
+      },
+      "confidence": 1,
+      "text": "comprise of a member of the administration, instructors/teachers",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2321074906220176,
+        "y": 0.3489240224106651,
+        "width": 0.5299262603123982,
+        "height": 0.02483217418193817
+      },
+      "confidence": 1,
+      "text": "and students, as deemed appropriate. This committee shall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.3631474246009496,
+        "width": 0.13599515482183352,
+        "height": 0.027247171849012375
+      },
+      "confidence": 1,
+      "text": "ardians's written",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23017770797525175,
+        "y": 0.3647564492853541,
+        "width": 0.531890352567037,
+        "height": 0.02623019553720951
+      },
+      "confidence": 1,
+      "text": "investigate the alleged cases, constituting sexual harassment and",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2302347474783252,
+        "y": 0.3802281114644228,
+        "width": 0.5336790084838867,
+        "height": 0.02448679320514202
+      },
+      "confidence": 1,
+      "text": "recommend to the school administration the appropriate actions",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4076521885268779,
+        "width": 0.13494072797524845,
+        "height": 0.020896034315228462
+      },
+      "confidence": 1,
+      "text": "ecure a written",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23255814147971843,
+        "y": 0.4040697675550804,
+        "width": 0.1317829390366872,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "based on the act.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 3.0482240342966094e-9,
+        "y": 0.42578125009618095,
+        "width": 0.11627906560897829,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "ur and/or trip.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26713061106265235,
+        "y": 0.425937318044199,
+        "width": 0.496761163075765,
+        "height": 0.023630686104297638
+      },
+      "confidence": 1,
+      "text": "The offender, when found guilty shall be subject to the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23207530506187313,
+        "y": 0.4409937909308612,
+        "width": 0.5337682565053304,
+        "height": 0.025729715824127197
+      },
+      "confidence": 1,
+      "text": "penalties as prescribed in Section 7 of RA 7877, which includes fine",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.4587191720259429,
+        "width": 0.10908269522140775,
+        "height": 0.013656283728778362
+      },
+      "confidence": 1,
+      "text": "IS Activities",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23214876172301757,
+        "y": 0.45691021460492687,
+        "width": 0.5336865981419882,
+        "height": 0.023937356658279896
+      },
+      "confidence": 1,
+      "text": "and imprisonment. Moreover, the offender shall be subject to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23407090303891875,
+        "y": 0.4701785482774328,
+        "width": 0.5316982666651408,
+        "height": 0.024742556735873222
+      },
+      "confidence": 1,
+      "text": "administrative sanctions as provided for in the administration",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2342047473250446,
+        "y": 0.49191659022035317,
+        "width": 0.2407878239949544,
+        "height": 0.018393704667687416
+      },
+      "confidence": 1,
+      "text": "manual of the Laguna College.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 2.205439904775138e-10,
+        "y": 0.5072674420580767,
+        "width": 0.12790697813034058,
+        "height": 0.01470521418377757
+      },
+      "confidence": 1,
+      "text": "sions of CHED",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23449612484055563,
+        "y": 0.5276162795113575,
+        "width": 0.023255812625090272,
+        "height": 0.014534883201122284
+      },
+      "confidence": 0.5,
+      "text": "F.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2558139448761047,
+        "y": 0.5203488375244305,
+        "width": 0.43023256460825593,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "Provisions for Tobacco Regulation Act of 2003",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2713178318623279,
+        "y": 0.5390624997419439,
+        "width": 0.20542635520299274,
+        "height": 0.016170058399438858
+      },
+      "confidence": 1,
+      "text": "Based on R.A. No. 9211",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.2648952394759643e-9,
+        "y": 0.5537790702695939,
+        "width": 0.06395348409811656,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "sment",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26937984951856864,
+        "y": 0.5697674415201883,
+        "width": 0.501937985420227,
+        "height": 0.020564589649438858
+      },
+      "confidence": 1,
+      "text": "As provided for in R.A. No. 9211, smoking is absolutely",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23400305474700986,
+        "y": 0.5812711270284614,
+        "width": 0.5377189715703328,
+        "height": 0.02812235988676548
+      },
+      "confidence": 1,
+      "text": "prohibited in schools or centers of youth activity. \"No Smoking\" signs",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.8416407843169225e-9,
+        "y": 0.603027343759135,
+        "width": 0.12984495361646017,
+        "height": 0.017612190917134285
+      },
+      "confidence": 1,
+      "text": "una College to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23416821587200584,
+        "y": 0.5989601725234226,
+        "width": 0.5393936634063721,
+        "height": 0.02367641218006611
+      },
+      "confidence": 1,
+      "text": "are visible in conspicuous places in the school premises and shall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6161941449779225,
+        "width": 0.1348706603684159,
+        "height": 0.024562322534620762
+      },
+      "confidence": 1,
+      "text": "1g environment",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2344961413926884,
+        "y": 0.6162109379576037,
+        "width": 0.5387596686681112,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "be observed accordingly. Students who violate this policy shall be",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6331956031240606,
+        "width": 0.13320580694735454,
+        "height": 0.02297665737569332
+      },
+      "confidence": 1,
+      "text": "e school shall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2342343376158306,
+        "y": 0.6306603467487186,
+        "width": 0.5411369403203328,
+        "height": 0.022332409396767616
+      },
+      "confidence": 1,
+      "text": "subject to the provisions on discipline of this handbook. Moreover,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6475868061289201,
+        "width": 0.133733153950057,
+        "height": 0.02936486341059208
+      },
+      "confidence": 1,
+      "text": "specifically, for",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23419083028412047,
+        "y": 0.6461351497045977,
+        "width": 0.5413555304209391,
+        "height": 0.024909223429858685
+      },
+      "confidence": 1,
+      "text": "minors who are caught selling, buying or smoking cigarettes or any",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2323237329916652,
+        "y": 0.6624400846250373,
+        "width": 0.5449988842010498,
+        "height": 0.02325281221419573
+      },
+      "confidence": 1,
+      "text": "tobacco products shall be penalized under Article 189 of P.D. No.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23255813998161137,
+        "y": 0.6831054690798066,
+        "width": 0.32170542081197107,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "603 The Child and Youth Welfare Code.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.6888081387469618,
+        "width": 0.13228682290363064,
+        "height": 0.030000001192092896
+      },
+      "confidence": 1,
+      "text": "/ or supervision",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23255813116486435,
+        "y": 0.7122093022178626,
+        "width": 0.5135658979415894,
+        "height": 0.020348837599158287
+      },
+      "confidence": 1,
+      "text": "G. Provisions for Data Privacy Act based on R.A. 10173",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7277739002485695,
+        "width": 0.13612941398657122,
+        "height": 0.03228216618299484
+      },
+      "confidence": 1,
+      "text": "prenticeship or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.2690767268077978,
+        "y": 0.7425063238259393,
+        "width": 0.5122788349787394,
+        "height": 0.025417612865567207
+      },
+      "confidence": 1,
+      "text": "The student's personal information shall be held in strictest",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.232357838779193,
+        "y": 0.7600419820337323,
+        "width": 0.548999547958374,
+        "height": 0.02649252861738205
+      },
+      "confidence": 1,
+      "text": "confidentiality. Only with the permission of the student shall",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.7683139532058747,
+        "width": 0.13377944566948577,
+        "height": 0.035980693995952606
+      },
+      "confidence": 1,
+      "text": "passing grade,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23255815060097737,
+        "y": 0.780523255874721,
+        "width": 0.47868216037750244,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "information be provided to another party for legal purposes.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.784305524507124,
+        "width": 0.13581385223491826,
+        "height": 0.03612430393695831
+      },
+      "confidence": 1,
+      "text": "t of a stipend,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 1.0359202199753763e-9,
+        "y": 0.818313953465636,
+        "width": 0.048449610670407615,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "ions.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.26937984618730876,
+        "y": 0.8095703121953421,
+        "width": 0.5155038833618164,
+        "height": 0.02197265625
+      },
+      "confidence": 1,
+      "text": "Minors who are represented by their parents or guardians must",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.8237187533407582,
+        "width": 0.13742311343124633,
+        "height": 0.04121159017086029
+      },
+      "confidence": 1,
+      "text": "ting, hostile or",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.23449612864034605,
+        "y": 0.8299418603348769,
+        "width": 0.4147286812464396,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "co-sign request of document forms from the school.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.8445624415193478,
+        "width": 0.11074409046971927,
+        "height": 0.03744902461767197
+      },
+      "confidence": 1,
+      "text": "apprentice.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.8628533426549138,
+        "width": 0.14012932806555708,
+        "height": 0.044949423521757126
+      },
+      "confidence": 1,
+      "text": "nmit any act of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0,
+        "y": 0.8991781586757486,
+        "width": 0.04864892323766695,
+        "height": 0.021681467071175575
+      },
+      "confidence": 1,
+      "text": "s act.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.4980620152914638,
+        "y": 0.9578488371781069,
+        "width": 0.021317829688390078,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "33",
+      "verified": false
+    }
+  ]
+}

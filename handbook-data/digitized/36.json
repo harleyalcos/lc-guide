@@ -1,0 +1,260 @@
+{
+  "file": "hb36.jpg",
+  "label": "36",
+  "imageSha256": "67112776ee0e347575b96bc39dd19d0fbe1b7b36c3bebe8c44e31d93198ba87b",
+  "left": 0.1933352458789337,
+  "right": 0.7255093712446781,
+  "rows": [
+    {
+      "text": "The school's anti-bullying policy also prohibits retaliation",
+      "box": {
+        "height": 0.04928930848836899,
+        "width": 0.45088716348012287,
+        "x": 0.27030969534311805,
+        "y": 0.2143298148000511
+      },
+      "level": 0.21189362267206932
+    },
+    {
+      "text": "against a person who reports bullying, who provides",
+      "box": {
+        "height": 0.045326024293899536,
+        "width": 0.48325113455454505,
+        "x": 0.23759951247708141,
+        "y": 0.2297171310953512
+      },
+      "level": 0.22830082209551528
+    },
+    {
+      "text": "information during an investigation or who is a witness to or",
+      "box": {
+        "height": 0.04573996365070343,
+        "width": 0.4909809033075969,
+        "x": 0.2317824214574055,
+        "y": 0.2442584731238634
+      },
+      "level": 0.24302047088341996
+    },
+    {
+      "text": "has reliable information about any bullying incident.",
+      "box": {
+        "height": 0.0298332367092371,
+        "width": 0.41031086444854736,
+        "x": 0.23396733311676887,
+        "y": 0.2640688566225253
+      },
+      "level": 0.26279480811790246
+    },
+    {
+      "text": "The victim or teacher, student or any school personnel",
+      "box": {
+        "height": 0.04206044226884842,
+        "width": 0.45995839436848956,
+        "x": 0.2645503925988138,
+        "y": 0.29023581097577345
+      },
+      "level": 0.28799754742723
+    },
+    {
+      "text": "who may have witnessed the bullying incident should report",
+      "box": {
+        "height": 0.04262115992605686,
+        "width": 0.498170534769694,
+        "x": 0.2261167246240352,
+        "y": 0.3046504013714568
+      },
+      "level": 0.303594527934314
+    },
+    {
+      "text": "immediately the incident to the school's Child Protection",
+      "box": {
+        "height": 0.04107914678752422,
+        "width": 0.5002166827519734,
+        "x": 0.22409383361148882,
+        "y": 0.3202319495065089
+      },
+      "level": 0.3192418557392944
+    },
+    {
+      "text": "Committee or the school head, principal or guidance",
+      "box": {
+        "height": 0.04071715846657753,
+        "width": 0.4963682095209757,
+        "x": 0.2259882313217565,
+        "y": 0.3349959479834439
+      },
+      "level": 0.3339486095694695
+    },
+    {
+      "text": "counselor.",
+      "box": {
+        "height": 0.011985521763563156,
+        "width": 0.08729281028111777,
+        "x": 0.2267024335225634,
+        "y": 0.36028630892814606
+      },
+      "level": 0.359620045900742
+    },
+    {
+      "text": "Disciplinary Measure",
+      "box": {
+        "height": 0.014773346483707428,
+        "width": 0.17635659376780197,
+        "x": 0.21899224428211975,
+        "y": 0.39098837240137685
+      },
+      "level": 0.3902009494623137
+    },
+    {
+      "text": "Disciplinary measures in accordance with the existing",
+      "box": {
+        "height": 0.03967392444610596,
+        "width": 0.4711908102035522,
+        "x": 0.2531367751104368,
+        "y": 0.414213560907301
+      },
+      "level": 0.4123325411423908
+    },
+    {
+      "text": "School Rules on Discipline and the provision of the Private",
+      "box": {
+        "height": 0.03515199199318886,
+        "width": 0.5093867778778076,
+        "x": 0.21630688362262,
+        "y": 0.431787875557077
+      },
+      "level": 0.43104984624227094
+    },
+    {
+      "text": "School Manual of Regulations, and proportionate to the",
+      "box": {
+        "height": 0.033821746706962585,
+        "width": 0.5111689964930216,
+        "x": 0.21452963301771755,
+        "y": 0.44764461992392013
+      },
+      "level": 0.44696365890822587
+    },
+    {
+      "text": "nature, gravity or severity of the act and attendant",
+      "box": {
+        "height": 0.03246872127056122,
+        "width": 0.5149722099304199,
+        "x": 0.2125752603861734,
+        "y": 0.46487287996907367
+      },
+      "level": 0.4642553421069964
+    },
+    {
+      "text": "circumstances shall be imposed on any student who, after the",
+      "box": {
+        "height": 0.03242718428373337,
+        "width": 0.5148909091949463,
+        "x": 0.21077903848913002,
+        "y": 0.4800133753852611
+      },
+      "level": 0.4794501800941447
+    },
+    {
+      "text": "subjecting to due process and investigation, will be found",
+      "box": {
+        "height": 0.027821825817227364,
+        "width": 0.5164894262949625,
+        "x": 0.20885936851031728,
+        "y": 0.5003340746292426
+      },
+      "level": 0.49984050826822074
+    },
+    {
+      "text": "guilty of bullying and retaliation.",
+      "box": {
+        "height": 0.021589546464383602,
+        "width": 0.27014368772506714,
+        "x": 0.20701845474732986,
+        "y": 0.5155109267370777
+      },
+      "level": 0.5150762867886637
+    },
+    {
+      "text": "As provided for in the R. A. No. 10627, the school head",
+      "box": {
+        "height": 0.02891021128743887,
+        "width": 0.48578500747680664,
+        "x": 0.24166794978796657,
+        "y": 0.547237393966012
+      },
+      "level": 0.5457315643470524
+    },
+    {
+      "text": "may notify the Women and Children's Protection Desk",
+      "box": {
+        "height": 0.02877456694841385,
+        "width": 0.5263177156448364,
+        "x": 0.2030062402452332,
+        "y": 0.5634591109614671
+      },
+      "level": 0.5631418317113521
+    },
+    {
+      "text": "(WPCD) of the local National Police if and when appropriate",
+      "box": {
+        "height": 0.029446646571159363,
+        "width": 0.5301066239674886,
+        "x": 0.19917521726386322,
+        "y": 0.580588832106427
+      },
+      "level": 0.5803882161882825
+    },
+    {
+      "text": "criminal charges may be pursued against the bully or",
+      "box": {
+        "height": 0.03351181745529175,
+        "width": 0.5322112639745077,
+        "x": 0.19906487885783944,
+        "y": 0.5955122665909531
+      },
+      "level": 0.5953080314329741
+    },
+    {
+      "text": "offending student. If the bullying incident or retaliation resulted",
+      "box": {
+        "height": 0.026301918551325798,
+        "width": 0.5319399038950603,
+        "x": 0.19724464538318523,
+        "y": 0.6158202099901824
+      },
+      "level": 0.6156836800800952
+    },
+    {
+      "text": "in serious physical injuries of R.A. 9344 or the \"Juvenile",
+      "box": {
+        "height": 0.02705199085175991,
+        "width": 0.5377471446990968,
+        "x": 0.1933352458789337,
+        "y": 0.6325660951605446
+      },
+      "level": 0.6325494522893578
+    },
+    {
+      "text": "Justice and Welfare Act\".",
+      "box": {
+        "height": 0.025113826617598534,
+        "width": 0.22269115845362344,
+        "x": 0.19291031691949864,
+        "y": 0.646725099614077
+      },
+      "level": 0.6467052694353795
+    },
+    {
+      "text": "36",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.02519379804531735,
+        "x": 0.4496124035128711,
+        "y": 0.857558139615103
+      },
+      "level": 0.8496928971768526
+    }
+  ],
+  "reviewed": true
+}

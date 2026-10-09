@@ -1,0 +1,360 @@
+{
+  "file": "hb31.jpg",
+  "label": "31",
+  "imageSha256": "cf71cc9ecfa2adbe4d21b65ee227b612ddd863f651d0c604ebe975bbbc0476b5",
+  "left": 0.26504858885146776,
+  "right": 0.6666666679847894,
+  "rows": [
+    {
+      "text": "Membership in Campus Organization",
+      "box": {
+        "height": 0.02137154061347246,
+        "width": 0.22220615545908612,
+        "x": 0.26275035319601453,
+        "y": 0.27576160149039164
+      },
+      "level": 0.2836670002187176
+    },
+    {
+      "text": "A student desiring to be elected in the student council qualifies only",
+      "box": {
+        "height": 0.01611328125,
+        "width": 0.37015501658121747,
+        "x": 0.2887597056386548,
+        "y": 0.296386718818466
+      },
+      "level": 0.296386718818466
+    },
+    {
+      "text": "when:",
+      "box": {
+        "height": 0.011911513283848763,
+        "width": 0.03705804298321402,
+        "x": 0.26236055969474487,
+        "y": 0.3115605502578198
+      },
+      "level": 0.31453842881161265
+    },
+    {
+      "text": "A. The student has enrolled at least 75% of the units required in his",
+      "box": {
+        "height": 0.013263081200420856,
+        "width": 0.37015501658121747,
+        "x": 0.29069768920939126,
+        "y": 0.32267441873089764
+      },
+      "level": 0.32267441873089764
+    },
+    {
+      "text": "or her program for the semester at the time of election.",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.30038758118947345,
+        "x": 0.31007753098956553,
+        "y": 0.33430232560305395
+      },
+      "level": 0.33430232560305395
+    },
+    {
+      "text": "B. He or she must be of good moral character. The student must not",
+      "box": {
+        "height": 0.013285791967064142,
+        "width": 0.3720930020014445,
+        "x": 0.2906976830432055,
+        "y": 0.3486328123252941
+      },
+      "level": 0.3486328123252941
+    },
+    {
+      "text": "have violated any school policy.",
+      "box": {
+        "height": 0.011741460766643286,
+        "width": 0.18023254474004108,
+        "x": 0.3100775283324988,
+        "y": 0.36035156243117483
+      },
+      "level": 0.36035156243117483
+    },
+    {
+      "text": "C. He or she must not have any failing grades.",
+      "box": {
+        "height": 0.013194948900491,
+        "width": 0.25387595097223914,
+        "x": 0.29263567215599906,
+        "y": 0.37645348848864957
+      },
+      "level": 0.37645348848864957
+    },
+    {
+      "text": "Students shall be considered bonafide members of the",
+      "box": {
+        "height": 0.008936682250350714,
+        "width": 0.20542635520299274,
+        "x": 0.3468992289230513,
+        "y": 0.3938953490378343
+      },
+      "level": 0.3938953490378343
+    },
+    {
+      "text": "organization/s in their departments when the club/s is/are intended for",
+      "box": {
+        "height": 0.014534883201122284,
+        "width": 0.4011627833048503,
+        "x": 0.2655038846799391,
+        "y": 0.4040697675927528
+      },
+      "level": 0.4040697675927528
+    },
+    {
+      "text": "students in the respective department, particularly for major-affiliated",
+      "box": {
+        "height": 0.013251726049929857,
+        "width": 0.39922479788462323,
+        "x": 0.26550387782609935,
+        "y": 0.4155273436584894
+      },
+      "level": 0.4155273436584894
+    },
+    {
+      "text": "organizations. The student is allowed to withdraw membership from",
+      "box": {
+        "height": 0.0146484375,
+        "width": 0.3992247978846232,
+        "x": 0.2655038851177658,
+        "y": 0.42578125010757506
+      },
+      "level": 0.42578125010757506
+    },
+    {
+      "text": "these types of organizations thru a letter of withdrawal submitted to the",
+      "box": {
+        "height": 0.0146484375,
+        "width": 0.40116278330485017,
+        "x": 0.2655038836770322,
+        "y": 0.4360351561553797
+      },
+      "level": 0.4360351561553797
+    },
+    {
+      "text": "department dean.",
+      "box": {
+        "height": 0.01035610493272543,
+        "width": 0.0988372067610423,
+        "x": 0.265503878475099,
+        "y": 0.4505813951605302
+      },
+      "level": 0.4505813951605302
+    },
+    {
+      "text": "Organizations of general interests can be joined by any enrolled",
+      "box": {
+        "height": 0.01308139506727457,
+        "width": 0.37596897284189856,
+        "x": 0.2926356733174227,
+        "y": 0.4636627907112756
+      },
+      "level": 0.4636627907112756
+    },
+    {
+      "text": "student by signing up for membership during the club's campaign period.",
+      "box": {
+        "height": 0.014739280100911856,
+        "width": 0.4011627833048503,
+        "x": 0.26550388635145056,
+        "y": 0.4736328126139904
+      },
+      "level": 0.4736328126139904
+    },
+    {
+      "text": "Organization Activities",
+      "box": {
+        "height": 0.01318359375,
+        "width": 0.1395348807175954,
+        "x": 0.26550387921484564,
+        "y": 0.4926757814693584
+      },
+      "level": 0.4926757814693584
+    },
+    {
+      "text": "All student organization activities must be sanctioned by the school",
+      "box": {
+        "height": 0.016361095942556858,
+        "width": 0.37833336989084887,
+        "x": 0.29237391345211816,
+        "y": 0.5043270685869939
+      },
+      "level": 0.509420737640161
+    },
+    {
+      "text": "administration, particularly those which are not listed as a regular or",
+      "box": {
+        "height": 0.01808167900890112,
+        "width": 0.4056408007939657,
+        "x": 0.26517641885687926,
+        "y": 0.5154735271177021
+      },
+      "level": 0.5220107820174423
+    },
+    {
+      "text": "annual activity of the organization. Any deviation from the regular",
+      "box": {
+        "height": 0.017822900786995888,
+        "width": 0.4075241088867188,
+        "x": 0.2651917632113297,
+        "y": 0.5260570264015516
+      },
+      "level": 0.5324865673262795
+    },
+    {
+      "text": "activities must be cleared first prior to its conduct.",
+      "box": {
+        "height": 0.01611124910414219,
+        "width": 0.2796424428621928,
+        "x": 0.26515318687116335,
+        "y": 0.5394082430067406
+      },
+      "level": 0.5445801373354093
+    },
+    {
+      "text": "D. Policy on Educational Field Trips",
+      "box": {
+        "height": 0.01785939745604992,
+        "width": 0.239155113697052,
+        "x": 0.2941843396203849,
+        "y": 0.5608866820311034
+      },
+      "level": 0.5669193009579414
+    },
+    {
+      "text": "Elementary and High School",
+      "box": {
+        "height": 0.013308502733707428,
+        "width": 0.18217053016026818,
+        "x": 0.3895348922357573,
+        "y": 0.5784883721066243
+      },
+      "level": 0.5784883721066243
+    },
+    {
+      "text": "(DepEd Order No. 52, S. 2003; Supplemental to DECS Order No. 56,",
+      "box": {
+        "height": 0.022816449403762817,
+        "width": 0.41347221533457446,
+        "x": 0.2650762213752105,
+        "y": 0.5861682538890979
+      },
+      "level": 0.5963219911575085
+    },
+    {
+      "text": "s. 2001 & DepEd Order No. 51, s. 2001)",
+      "box": {
+        "height": 0.018177129328250885,
+        "width": 0.2412704428037008,
+        "x": 0.3521923483159306,
+        "y": 0.5991151968468055
+      },
+      "level": 0.6059274221755638
+    },
+    {
+      "text": "1. No field trip should be undertaken without the written consent of the",
+      "box": {
+        "height": 0.021078222431242466,
+        "width": 0.38822778065999347,
+        "x": 0.26550387629842326,
+        "y": 0.6145391051465179
+      },
+      "level": 0.6251132457506667
+    },
+    {
+      "text": "parents, or student's guardians;",
+      "box": {
+        "height": 0.013910156674683094,
+        "width": 0.18850849072138465,
+        "x": 0.294261579359784,
+        "y": 0.6330518160536848
+      },
+      "level": 0.6361538778580688
+    },
+    {
+      "text": "2. No trips to malls and attendance at noon time TV shows.",
+      "box": {
+        "height": 0.022585703060030937,
+        "width": 0.3515607913335165,
+        "x": 0.26504858885146776,
+        "y": 0.643761995959907
+      },
+      "level": 0.6540831584845401
+    },
+    {
+      "text": "3. The Principal must first secure a written approval from the College",
+      "box": {
+        "height": 0.023643244057893753,
+        "width": 0.39032987753550213,
+        "x": 0.2655038762041926,
+        "y": 0.6629479802584458
+      },
+      "level": 0.6744849346657932
+    },
+    {
+      "text": "President for such educational trips.",
+      "box": {
+        "height": 0.015460544265806675,
+        "width": 0.2099821964899699,
+        "x": 0.2961365756632273,
+        "y": 0.6817286312639944
+      },
+      "level": 0.6860946996662997
+    },
+    {
+      "text": "College and Graduate Students",
+      "box": {
+        "height": 0.021292489022016525,
+        "width": 0.22403699159622192,
+        "x": 0.37726891510545046,
+        "y": 0.7015652941528527
+      },
+      "level": 0.7108631490019901
+    },
+    {
+      "text": "(CHED M.O. No. 17, s. 2012)",
+      "box": {
+        "height": 0.02128126472234726,
+        "width": 0.20277901490529376,
+        "x": 0.3831395201451722,
+        "y": 0.7159444926331379
+      },
+      "level": 0.7225290694298782
+    },
+    {
+      "text": "1. Students must submit a medical clearance before being",
+      "box": {
+        "height": 0.024868176318705082,
+        "width": 0.390625516573588,
+        "x": 0.26937984561366873,
+        "y": 0.7315533646614986
+      },
+      "level": 0.7428012598538535
+    },
+    {
+      "text": "allowed to join educational tours and/or field trips.",
+      "box": {
+        "height": 0.02729368396103382,
+        "width": 0.3190280000368754,
+        "x": 0.29392122144187743,
+        "y": 0.7442766630090382
+      },
+      "level": 0.7562017911811899
+    },
+    {
+      "text": "31",
+      "box": {
+        "height": 0.011627906933426857,
+        "width": 0.019379844268163027,
+        "x": 0.46899224824705543,
+        "y": 0.7877906977687517
+      },
+      "level": 0.7877906977687517
+    }
+  ],
+  "reviewed": true
+}

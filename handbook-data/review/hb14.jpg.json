@@ -1,0 +1,842 @@
+{
+  "file": "hb14.jpg",
+  "imageSha256": "0294e4fc00819a47af0c3189d970657332ae5144a0cc2894483230cb8bb39b54",
+  "passages": [
+    {
+      "box": {
+        "x": 0.26592006455353245,
+        "y": 0.12660896713877356,
+        "width": 0.24545184771219886,
+        "height": 0.03317110054194927
+      },
+      "confidence": 1,
+      "text": "IX. Rules on Scholarships",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.12778163904195738,
+        "y": 0.1434203043542388,
+        "width": 0.1049018402894338,
+        "height": 0.016938460990786552
+      },
+      "confidence": 1,
+      "text": "A. College",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9437984490150758,
+        "y": 0.14680232565464446,
+        "width": 0.05426356693108869,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "X. Sel",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.08100005600684416,
+        "y": 0.16957556348097014,
+        "width": 0.22365989287694293,
+        "height": 0.01982591301202774
+      },
+      "confidence": 1,
+      "text": "Rules on Scholarships",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8455143250957828,
+        "y": 0.1671903570495168,
+        "width": 0.15395871798197425,
+        "height": 0.02629017550498247
+      },
+      "confidence": 1,
+      "text": "A. Selection of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7756862324331063,
+        "y": 0.19387390216685807,
+        "width": 0.07443767289320624,
+        "height": 0.01937190443277359
+      },
+      "confidence": 1,
+      "text": "Grades",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8166699443207183,
+        "y": 0.19918635566883092,
+        "width": 0.18214877446492517,
+        "height": 0.023917406797409058
+      },
+      "confidence": 1,
+      "text": "A student who has a",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.12483032585147343,
+        "y": 0.19461228969600652,
+        "width": 0.5439180135726929,
+        "height": 0.05310523137450218
+      },
+      "confidence": 1,
+      "text": "Both grades and financial standing of the students are used as",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7751937986023526,
+        "y": 0.21511627914798537,
+        "width": 0.019379844268163082,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8161210209580969,
+        "y": 0.21195577680040767,
+        "width": 0.18351695934931433,
+        "height": 0.02855843398720026
+      },
+      "confidence": 1,
+      "text": "graduate SUMMA CL",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.07863713033328253,
+        "y": 0.21092830031578047,
+        "width": 0.5917768478393554,
+        "height": 0.05149209126830101
+      },
+      "confidence": 1,
+      "text": "considerations for granting scholarship. These rules apply for",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.08089801161484533,
+        "y": 0.23249235688419057,
+        "width": 0.43346917629241943,
+        "height": 0.029368668794631958
+      },
+      "confidence": 1,
+      "text": "Academic Scholarship granted by this institution:",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8166161186247273,
+        "y": 0.22815784765224112,
+        "width": 0.17456090450286865,
+        "height": 0.024275129660964012
+      },
+      "confidence": 1,
+      "text": "lower than 88% in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8184046916781856,
+        "y": 0.24107608859130658,
+        "width": 0.18105212847391772,
+        "height": 0.026853322982788086
+      },
+      "confidence": 1,
+      "text": "required to complete t",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.0813640597687632,
+        "y": 0.2673545342854956,
+        "width": 0.07176800568898518,
+        "height": 0.014709535986185074
+      },
+      "confidence": 1,
+      "text": "Grades",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8223245343603972,
+        "y": 0.2708872335271726,
+        "width": 0.1709352731704712,
+        "height": 0.024921588599681854
+      },
+      "confidence": 1,
+      "text": "A student who has",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7829457370561527,
+        "y": 0.28633720927553463,
+        "width": 0.025193798045317295,
+        "height": 0.011627906933426857
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.08139534893487471,
+        "y": 0.297965116509904,
+        "width": 0.02131782968839009,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "1.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8242238228909997,
+        "y": 0.2860347066234068,
+        "width": 0.17522527774175012,
+        "height": 0.025624189525842667
+      },
+      "confidence": 1,
+      "text": "graduate MAGNA C",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1251447018445302,
+        "y": 0.28919486143129014,
+        "width": 0.5467483997344971,
+        "height": 0.041230399161577225
+      },
+      "confidence": 1,
+      "text": "A student who has a weighted average of 95% and above is",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8245309548349516,
+        "y": 0.3008436433648688,
+        "width": 0.16860415538152052,
+        "height": 0.022835997864603996
+      },
+      "confidence": 1,
+      "text": "lower than 85% in",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1291127790843721,
+        "y": 0.3053279246086973,
+        "width": 0.542872389157613,
+        "height": 0.04240108281373978
+      },
+      "confidence": 1,
+      "text": "entitled to Full Scholarship, 100% discount from tuition fees,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8281277755030313,
+        "y": 0.31552984403596573,
+        "width": 0.17101927598317457,
+        "height": 0.024756936356425285
+      },
+      "confidence": 1,
+      "text": "required to complete",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.12924953937263473,
+        "y": 0.32498024610013854,
+        "width": 0.5423121849695841,
+        "height": 0.036545466631650925
+      },
+      "confidence": 1,
+      "text": "provided he/she has no grade lower than 88% in all subjects",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.12596899216977644,
+        "y": 0.3473837210084505,
+        "width": 0.06201550364494324,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "taken.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8302318543802084,
+        "y": 0.3452238146142672,
+        "width": 0.16898643970489502,
+        "height": 0.024596381932497025
+      },
+      "confidence": 1,
+      "text": "A student who has",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.7887596904395506,
+        "y": 0.35901162813054355,
+        "width": 0.025193798045317295,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "3.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.831599152271648,
+        "y": 0.3595086041702191,
+        "width": 0.16784312327702844,
+        "height": 0.0265716090798378
+      },
+      "confidence": 1,
+      "text": "graduate CUM LAL",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.07713204705795322,
+        "y": 0.37278574761500016,
+        "width": 0.5978071689605713,
+        "height": 0.0300060473382473
+      },
+      "confidence": 1,
+      "text": "2. A student with a weighted average of 92% to 94% is entitled to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8352713173582117,
+        "y": 0.3793604654568432,
+        "width": 0.16279069582621253,
+        "height": 0.019077034667134285
+      },
+      "confidence": 1,
+      "text": "80% in all subject",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.12756957674247626,
+        "y": 0.39014982694437084,
+        "width": 0.5473645925521851,
+        "height": 0.02730719745159149
+      },
+      "confidence": 1,
+      "text": "Half Scholarship, 50% discount from tuition fees, provided",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8358727584127995,
+        "y": 0.3906676024094168,
+        "width": 0.16317829489707947,
+        "height": 0.025130312889814377
+      },
+      "confidence": 1,
+      "text": "complete the cours",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.12790698307220097,
+        "y": 0.4111328127314088,
+        "width": 0.49418604373931885,
+        "height": 0.02055323403328657
+      },
+      "confidence": 1,
+      "text": "he/she has no grade lower than 85% in all subjects taken.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.795404004084728,
+        "y": 0.4207927072710951,
+        "width": 0.20366770029067993,
+        "height": 0.02668767049908638
+      },
+      "confidence": 1,
+      "text": "4. In the case of sti",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.10065187572610397,
+        "y": 0.4384594555165673,
+        "width": 0.5759618679682413,
+        "height": 0.02237621136009693
+      },
+      "confidence": 1,
+      "text": "A student with a weighted average of 90% to 91% is entitled to",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8422828656724667,
+        "y": 0.441149526868548,
+        "width": 0.15445409218470263,
+        "height": 0.01827773917466402
+      },
+      "confidence": 1,
+      "text": "prescribed length",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1259690035860689,
+        "y": 0.4578488373297668,
+        "width": 0.5523255666097006,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "Partial Scholarship, 25% discount from tuition fees, provided",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8421012782189014,
+        "y": 0.45429338024802735,
+        "width": 0.1572083830833435,
+        "height": 0.022280516102910042
+      },
+      "confidence": 1,
+      "text": "equivalent: namel",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1259689972480619,
+        "y": 0.4750976564232693,
+        "width": 0.5,
+        "height": 0.017634901218116283
+      },
+      "confidence": 1,
+      "text": "he/she has no grade lower than 80% in all subjects taken.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8446045899374809,
+        "y": 0.4742664467272314,
+        "width": 0.10181383291880286,
+        "height": 0.014551516622304916
+      },
+      "confidence": 1,
+      "text": "Distinction\"",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.936028493211229,
+        "y": 0.4696253335004753,
+        "width": 0.06397150678877095,
+        "height": 0.02021375671029091
+      },
+      "confidence": 0.5,
+      "text": ", and\"l",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.07558139803601042,
+        "y": 0.505813953913847,
+        "width": 0.25193798542022705,
+        "height": 0.01762354653328657
+      },
+      "confidence": 1,
+      "text": "Units Load Requirements",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8023255818657494,
+        "y": 0.5101744187192063,
+        "width": 0.023255812625090244,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "5.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8527131773718807,
+        "y": 0.5043604651230829,
+        "width": 0.1453488369782765,
+        "height": 0.016147347167134285
+      },
+      "confidence": 1,
+      "text": "The weighted av",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8507752006799465,
+        "y": 0.5188953486738975,
+        "width": 0.14728681246439612,
+        "height": 0.018895348533988
+      },
+      "confidence": 1,
+      "text": "However, for stuc",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.12015505042962345,
+        "y": 0.5332031249524743,
+        "width": 0.5639534791310628,
+        "height": 0.019122456200420856
+      },
+      "confidence": 1,
+      "text": "A student to qualify for scholarship should have earned not less",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8507751961535964,
+        "y": 0.5392441860964499,
+        "width": 0.07751937707265211,
+        "height": 0.01308139506727457
+      },
+      "confidence": 1,
+      "text": "whether",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9263565885397513,
+        "y": 0.5363372096712411,
+        "width": 0.07170542577902472,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "crediter",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.07170544395148888,
+        "y": 0.5507812499750568,
+        "width": 0.6143410603205363,
+        "height": 0.01904296875
+      },
+      "confidence": 1,
+      "text": "than 18 units except when the required units for the particular semester",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8515292771154165,
+        "y": 0.5487003438486115,
+        "width": 0.14770910143852234,
+        "height": 0.02314835786819458
+      },
+      "confidence": 1,
+      "text": "provided the stud",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.07140733491548423,
+        "y": 0.5673093058191766,
+        "width": 0.46566478411356604,
+        "height": 0.024393567815423012
+      },
+      "confidence": 1,
+      "text": "is less than 18, as certified by the College Registrar.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8092819889557242,
+        "y": 0.5828526481238745,
+        "width": 0.18973058462142944,
+        "height": 0.02260865643620491
+      },
+      "confidence": 1,
+      "text": "6. Calculations of",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.07364341758409898,
+        "y": 0.6030273433812281,
+        "width": 0.18798448642094928,
+        "height": 0.017612190917134285
+      },
+      "confidence": 1,
+      "text": "Special Provisions",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8565891493369581,
+        "y": 0.600097656340213,
+        "width": 0.1414728661378225,
+        "height": 0.017634901218116283
+      },
+      "confidence": 1,
+      "text": "third decimal pla",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.07324870417459402,
+        "y": 0.6256999428710774,
+        "width": 0.5588927666346232,
+        "height": 0.027922801673412323
+      },
+      "confidence": 1,
+      "text": "1. Grades will be computed up to the second decimal place.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8604651192256236,
+        "y": 0.635174418424578,
+        "width": 0.1375968952973684,
+        "height": 0.016192768700420856
+      },
+      "confidence": 1,
+      "text": "No student who",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8621739001515135,
+        "y": 0.6503921693269705,
+        "width": 0.13610011339187622,
+        "height": 0.015688959509134293
+      },
+      "confidence": 1,
+      "text": "Serious or Less",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.07170542725334633,
+        "y": 0.6715116278058072,
+        "width": 0.023255812625090286,
+        "height": 0.015988372266292572
+      },
+      "confidence": 1,
+      "text": "2.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.11965744449478007,
+        "y": 0.6576883775752975,
+        "width": 0.5745943387349446,
+        "height": 0.0324300192296505
+      },
+      "confidence": 1,
+      "text": "No student who has been punished for any act whether major,",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8624031015052278,
+        "y": 0.6669921879304015,
+        "width": 0.13565890987714135,
+        "height": 0.016147347167134285
+      },
+      "confidence": 1,
+      "text": "shall be conferr",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.11952458156146784,
+        "y": 0.6746946583274783,
+        "width": 0.5748953421910604,
+        "height": 0.031193114817142487
+      },
+      "confidence": 1,
+      "text": "serious or less serious offense in the school rules and regulations",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.11968104519254667,
+        "y": 0.6999115129088571,
+        "width": 0.37485678990681964,
+        "height": 0.025404395535588264
+      },
+      "confidence": 1,
+      "text": "on discipline shall qualify for scholarship.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8197674415705336,
+        "y": 0.7034883722075784,
+        "width": 0.021317829688390133,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "8.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8643410864876282,
+        "y": 0.7005813953530455,
+        "width": 0.1337209244569143,
+        "height": 0.01621547993272543
+      },
+      "confidence": 1,
+      "text": "A candidate for",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8660824799489606,
+        "y": 0.7179371163072581,
+        "width": 0.13230947653452552,
+        "height": 0.015100538730621338
+      },
+      "confidence": 1,
+      "text": "school and t",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.11983876641776847,
+        "y": 0.7330041099806128,
+        "width": 0.35151342550913495,
+        "height": 0.023341134190559387
+      },
+      "confidence": 1,
+      "text": "B. Elementary and Junior High School",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8701550371945196,
+        "y": 0.7368164060150391,
+        "width": 0.12790697813034058,
+        "height": 0.01611328125
+      },
+      "confidence": 1,
+      "text": "percentage gr",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.8701550371529914,
+        "y": 0.7514534883581327,
+        "width": 0.12790697813034058,
+        "height": 0.016124636866152287
+      },
+      "confidence": 1,
+      "text": "have the weigt",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.1194291898984196,
+        "y": 0.7512461094209324,
+        "width": 0.5792697668075562,
+        "height": 0.037211157381534576
+      },
+      "confidence": 1,
+      "text": "When a student ranks first in his/her batch in the previous school",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.9165890192756465,
+        "y": 0.768670030884133,
+        "width": 0.08155064284801483,
+        "height": 0.016439007595181465
+      },
+      "confidence": 1,
+      "text": "a. The pe",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.06893725643528792,
+        "y": 0.7674531849508783,
+        "width": 0.6317981878916422,
+        "height": 0.04497979208827019
+      },
+      "confidence": 1,
+      "text": "year at Laguna College, the student receives 100% discount on tuition",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.941675786763747,
+        "y": 0.7859251732152198,
+        "width": 0.056570907433827644,
+        "height": 0.015358955599367619
+      },
+      "confidence": 1,
+      "text": "obtain",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.06894312902268258,
+        "y": 0.784265494185125,
+        "width": 0.631980299949646,
+        "height": 0.045239005237817764
+      },
+      "confidence": 1,
+      "text": "fees. A student who ranks second in the batch shall receive 50%",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.941860466055931,
+        "y": 0.8037109377100375,
+        "width": 0.056201547384262085,
+        "height": 0.01318359375
+      },
+      "confidence": 1,
+      "text": "of the",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.06976743857355346,
+        "y": 0.8226744192190796,
+        "width": 0.213178296883901,
+        "height": 0.017657612450420856
+      },
+      "confidence": 1,
+      "text": "discount on tuition fee.",
+      "verified": false
+    },
+    {
+      "box": {
+        "x": 0.37984496064125883,
+        "y": 0.8837209305651366,
+        "width": 0.0271317834655444,
+        "height": 0.014534883201122284
+      },
+      "confidence": 1,
+      "text": "14",
+      "verified": false
+    }
+  ]
+}

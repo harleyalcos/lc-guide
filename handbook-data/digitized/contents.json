@@ -1,0 +1,198 @@
+{
+  "file": "hb-toc1.jpg",
+  "label": "contents",
+  "imageSha256": "0afa0955238e576c518715032ef3affa55c9ac5f0be891641be7d53178916165",
+  "left": 0.1369331832220618,
+  "right": 0.5448522473079325,
+  "rows": [
+    {
+      "text": "TABLE OF CONTENTS",
+      "y": 70,
+      "x": 84,
+      "width": 608,
+      "fontSize": 23,
+      "bold": true,
+      "align": "center"
+    },
+    {
+      "text": "Page",
+      "y": 125,
+      "x": 628,
+      "width": 64,
+      "fontSize": 21,
+      "align": "right"
+    },
+    {
+      "text": "I. Brief History of the Laguna College",
+      "y": 155,
+      "x": 84,
+      "width": 608,
+      "fontSize": 21,
+      "rightText": "2",
+      "leader": true
+    },
+    {
+      "text": "II. Mission of the Laguna College",
+      "y": 200,
+      "x": 84,
+      "width": 608,
+      "fontSize": 21,
+      "rightText": "2",
+      "leader": true
+    },
+    {
+      "text": "III. Vision of the Laguna College",
+      "y": 245,
+      "x": 84,
+      "width": 608,
+      "fontSize": 21,
+      "rightText": "2–3",
+      "leader": true
+    },
+    {
+      "text": "IV. Officers of the Administration",
+      "y": 290,
+      "x": 84,
+      "width": 608,
+      "fontSize": 21,
+      "rightText": "3",
+      "leader": true
+    },
+    {
+      "text": "V. Courses Offered",
+      "y": 335,
+      "x": 84,
+      "width": 608,
+      "fontSize": 21,
+      "rightText": "3–4",
+      "leader": true
+    },
+    {
+      "text": "VI. Admission and Registration",
+      "y": 380,
+      "x": 84,
+      "width": 608,
+      "fontSize": 21,
+      "rightText": "4–9",
+      "leader": true
+    },
+    {
+      "text": "A. Admission Policies",
+      "y": 410,
+      "x": 118,
+      "width": 574,
+      "fontSize": 21
+    },
+    {
+      "text": "B. Credentials",
+      "y": 440,
+      "x": 118,
+      "width": 574,
+      "fontSize": 21
+    },
+    {
+      "text": "C. Registration Procedures",
+      "y": 470,
+      "x": 118,
+      "width": 574,
+      "fontSize": 21
+    },
+    {
+      "text": "D. Probationary Status of Transferees",
+      "y": 500,
+      "x": 118,
+      "width": 574,
+      "fontSize": 21
+    },
+    {
+      "text": "E. Fees",
+      "y": 530,
+      "x": 118,
+      "width": 574,
+      "fontSize": 21
+    },
+    {
+      "text": "VII. Class Attendance",
+      "y": 575,
+      "x": 84,
+      "width": 608,
+      "fontSize": 21,
+      "rightText": "9",
+      "leader": true
+    },
+    {
+      "text": "VIII. Grading System and Retention Policies",
+      "y": 620,
+      "x": 84,
+      "width": 608,
+      "fontSize": 21,
+      "rightText": "10–13",
+      "leader": true
+    },
+    {
+      "text": "A. College",
+      "y": 650,
+      "x": 118,
+      "width": 574,
+      "fontSize": 21
+    },
+    {
+      "text": "- Grading System in all Departments",
+      "y": 680,
+      "x": 152,
+      "width": 540,
+      "fontSize": 21
+    },
+    {
+      "text": "- For BSN",
+      "y": 710,
+      "x": 152,
+      "width": 540,
+      "fontSize": 21
+    },
+    {
+      "text": "- Incomplete Grades",
+      "y": 740,
+      "x": 152,
+      "width": 540,
+      "fontSize": 21
+    },
+    {
+      "text": "- On Dropping Subjects",
+      "y": 770,
+      "x": 152,
+      "width": 540,
+      "fontSize": 21
+    },
+    {
+      "text": "- Retention Policies",
+      "y": 800,
+      "x": 152,
+      "width": 540,
+      "fontSize": 21
+    },
+    {
+      "text": "B. Elementary and High School",
+      "y": 830,
+      "x": 118,
+      "width": 574,
+      "fontSize": 21
+    },
+    {
+      "text": "- Grading System",
+      "y": 860,
+      "x": 152,
+      "width": 540,
+      "fontSize": 21
+    },
+    {
+      "text": "- Promotion and Retention Policies",
+      "y": 890,
+      "x": 152,
+      "width": 540,
+      "fontSize": 21
+    }
+  ],
+  "reviewed": true,
+  "fixedLayout": true
+}
