@@ -18,7 +18,7 @@ import { Button } from './src/components/Pressable';
 import { Emblem } from './src/components/Emblem';
 import { colors, fonts } from './src/theme';
 import bundledCorpus from './src/data/handbook.json';
-import { openStore, loadCorpus, loadMessages, saveExchange } from './src/storage/database';
+import { openStore, loadCorpus, loadMessages, saveExchange, clearConversation } from './src/storage/database';
 import { answerQuestion, resolveSource } from './src/nlp/retrieve';
 import type { Corpus, Message, Source } from './src/types';
 
@@ -38,6 +38,7 @@ function Guide() {
   const [question, setQuestion] = useState('');
   const [ready, setReady] = useState(false);
   const [busy, setBusy] = useState(false);
+  const [resetting, setResetting] = useState(false);
   const [error, setError] = useState('');
   const [reader, setReader] = useState<{ source?: Source } | null>(null);
   const db = useRef<SQLiteDatabase | null>(null);
@@ -63,7 +64,10 @@ function Guide() {
       const previousTopic = [...messages].reverse().find(m => m.role === 'guide')?.topic;
       const answer = answerQuestion(clean, corpus, previousTopic);
       const student: Message = { id: id(), role: 'student', text: clean };
-      const guide: Message = { id: id(), role: 'guide', text: answer.text, source: answer.source, topic: answer.topic, isDemo: answer.isDemo };
+      const guide: Message = {
+        id: id(), role: 'guide', text: answer.text, articleHeader: answer.articleHeader, source: answer.source,
+        topic: answer.topic, isDemo: answer.isDemo, options: answer.options, viewAllLabel: answer.viewAllLabel
+      };
       await saveExchange(db.current, student, guide, answer);
       setMessages(old => [...old, student, guide]); setQuestion('');
     } catch { setError('Your question couldn’t be saved. Please try again.'); }
@@ -74,6 +78,16 @@ function Guide() {
     if (Platform.OS !== 'web') void Haptics.selectionAsync().catch(() => {});
     setReader({ source });
   };
+  const resetChat = async () => {
+    if (!db.current || submitting.current) return;
+    submitting.current = true; setBusy(true); setResetting(true); setError(''); Keyboard.dismiss();
+    try {
+      await clearConversation(db.current);
+      setMessages([]); setQuestion(''); setReader(null);
+      scroll.current?.scrollTo({ y: 0, animated: false });
+    } catch { setError('The chat couldn’t be reset. Please try again.'); }
+    finally { submitting.current = false; setBusy(false); setResetting(false); }
+  };
   const hasConversation = messages.length > 0;
   return <View style={s.screen}>
     <StatusBar style="dark" />
@@ -81,7 +95,7 @@ function Guide() {
     <View pointerEvents="none" style={[s.corner, { left: -170, top: -230 }]} /><View pointerEvents="none" style={[s.corner, { right: -220, bottom: -245, width: 430, height: 430 }]} />
     <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : 'height'} style={{ flex: 1, paddingTop: insets.top, paddingBottom: Math.max(insets.bottom, 14) }}>
       <View style={[s.topbar, { paddingHorizontal: compact ? 23 : 42 }]}><Text style={s.topLabel}>LAGUNA COLLEGE <Text style={{ color: '#BCC7DB' }}> / </Text> SAN PABLO CITY</Text><View style={s.offline}><View style={s.onlineDot} /><Text style={s.offlineText}>Available offline</Text></View></View>
-      {hasConversation && <View style={s.chatHeader}><Brand compact /><Button onPress={() => openBook()} style={s.browseMini} accessibilityLabel="Browse student handbook"><Feather name="book-open" size={16} color={colors.ink} /><Text style={s.browseMiniText}>Handbook</Text></Button></View>}
+      {hasConversation && <View style={s.chatHeader}><Brand compact /><View style={s.chatActions}><Button disabled={!ready || busy} onPress={() => void resetChat()} style={s.resetChat} accessibilityLabel="Reset chat" accessibilityHint="Clear the conversation and return to the welcome screen">{resetting ? <ActivityIndicator size="small" color={colors.blue} /> : <Feather name="refresh-cw" size={18} color={colors.ink} />}</Button><Button onPress={() => openBook()} style={s.browseMini} accessibilityLabel="Browse student handbook"><Feather name="book-open" size={16} color={colors.ink} />{width >= 360 && <Text style={s.browseMiniText}>Handbook</Text>}</Button></View></View>}
       <ScrollView ref={scroll} style={{ flex: 1 }} contentContainerStyle={[s.scrollContent, { paddingHorizontal: compact ? 24 : 40 }, !hasConversation && { flexGrow: 1, justifyContent: 'center' }]} keyboardShouldPersistTaps="handled" showsVerticalScrollIndicator={false} onContentSizeChange={() => { if (hasConversation) scroll.current?.scrollToEnd({ animated: !reduced }); }}>
         {!hasConversation ? <Animated.View entering={reduced ? undefined : FadeInDown.duration(650)} style={s.welcome}>
           <Brand /><View style={s.bookDivider}><View style={s.dividerLine} /><Feather name="book-open" size={15} color={colors.blue} /><View style={s.dividerLine} /></View>
@@ -90,10 +104,50 @@ function Guide() {
         </Animated.View> : <View style={s.conversation}>
           <Text style={s.conversationLabel}>YOUR HANDBOOK, IN CONVERSATION</Text>
           {messages.map(message => message.role === 'student' ? <View key={message.id} style={s.studentBubble}><Text style={s.studentText}>{message.text}</Text></View> : <Animated.View key={message.id} entering={reduced ? undefined : FadeInDown.duration(350)} style={s.answer}>
-            <View style={s.answerIdentity}><Feather name="book-open" size={15} color={colors.blue} /><Text style={s.answerName}>LC:Guide</Text>{message.isDemo && <Text style={s.demoAnswer}>DEMO PASSAGE</Text>}</View><Text selectable style={s.answerText}>{message.text}</Text>
-            {message.source && resolveSource(corpus, message.source) && <Button onPress={() => openBook(message.source)} style={s.sourceButton} accessibilityLabel={`View source on handbook page ${resolveSource(corpus, message.source)!.page.label}`}><Feather name="book-open" size={13} color={colors.blue} /><Text style={s.sourceText}>Source <Text style={{ color: colors.muted }}>· p. {resolveSource(corpus, message.source)!.page.label}</Text></Text><Feather name="arrow-up-right" size={12} color={colors.blue} /></Button>}
+            <View style={s.answerIdentity}>
+              <Feather name="book-open" size={15} color={colors.blue} />
+              <Text style={s.answerName}>LC:Guide</Text>
+              {message.isDemo && <Text style={s.demoAnswer}>DEMO PASSAGE</Text>}
+            </View>
+            {!!message.articleHeader && (
+              <View style={s.articleHeaderBadge}>
+                <Feather name="bookmark" size={11} color={colors.blue} />
+                <Text style={s.articleHeaderText}>{message.articleHeader}</Text>
+              </View>
+            )}
+            <Text selectable style={s.answerText}>{message.text}</Text>
+            {!!message.options && message.options.length > 0 && (
+              <View style={s.optionsGrid}>
+                {message.options.map(opt => (
+                  <Button
+                    key={opt.label}
+                    disabled={!ready || busy}
+                    onPress={() => void ask(opt.query)}
+                    style={s.optionButton}
+                    accessibilityLabel={opt.label}
+                  >
+                    <Feather name={(opt.icon as any) || 'arrow-right'} size={13} color={colors.blue} />
+                    <Text style={s.optionButtonText}>{opt.label}</Text>
+                    {!!opt.pageLabel && <Text style={s.optionPageTag}>p. {opt.pageLabel}</Text>}
+                  </Button>
+                ))}
+              </View>
+            )}
+            {message.source && resolveSource(corpus, message.source) && (
+              <View style={s.sourceRow}>
+                <Button
+                  onPress={() => openBook(message.source)}
+                  style={s.sourceButton}
+                  accessibilityLabel={message.viewAllLabel || `View all sections on handbook page ${resolveSource(corpus, message.source)!.page.label}`}
+                >
+                  <Feather name="book-open" size={13} color={colors.blue} />
+                  <Text style={s.sourceText}>{message.viewAllLabel || `View all sections · p. ${resolveSource(corpus, message.source)!.page.label}`}</Text>
+                  <Feather name="arrow-up-right" size={12} color={colors.blue} />
+                </Button>
+              </View>
+            )}
           </Animated.View>)}
-          {busy && <ActivityIndicator size="small" color={colors.blue} />}<View style={{ height: 20 }} />
+          {busy && !resetting && <ActivityIndicator size="small" color={colors.blue} />}<View style={{ height: 20 }} />
         </View>}
       </ScrollView>
       <View style={[s.bottomArea, { paddingHorizontal: compact ? 18 : 40 }]}>
@@ -125,7 +179,18 @@ const s = StyleSheet.create({
   bottomArea: { width: '100%', maxWidth: 640, alignSelf: 'center', paddingTop: 7 }, composerCard: { borderRadius: 23, backgroundColor: '#FFFFFFE8', padding: 14, boxShadow: '0 8px 36px #2F5FCB0D', borderWidth: 1, borderColor: '#FFFFFF' }, inputRow: { flexDirection: 'row', alignItems: 'center', borderWidth: 1, borderColor: colors.line, borderRadius: 28, paddingLeft: 17, paddingRight: 5, paddingVertical: 5, gap: 11 }, input: { fontFamily: fonts.regular, color: colors.ink, fontSize: 13, flex: 1, paddingVertical: 10, outlineWidth: 0 }, send: { backgroundColor: colors.blue, width: 42, height: 42, borderRadius: 21, alignItems: 'center', justifyContent: 'center', boxShadow: '0 3px 8px #3F65D826' },
   or: { flexDirection: 'row', alignItems: 'center', gap: 13, marginVertical: 16 }, orLine: { height: 1, backgroundColor: colors.line, flex: 1 }, orText: { fontFamily: fonts.regular, fontSize: 10, color: '#96A1B6' }, browse: { flexDirection: 'row', alignItems: 'center', paddingVertical: 16, paddingHorizontal: 20, backgroundColor: '#F0F4FD', borderRadius: 15, gap: 14 }, browseText: { fontFamily: fonts.medium, fontSize: 12, color: colors.ink, flex: 1 }, disclaimer: { fontFamily: fonts.regular, color: '#96A3BA', fontSize: 9, textAlign: 'center', marginTop: 13 },
   chatHeader: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', width: '100%', maxWidth: 620, paddingHorizontal: 24, paddingVertical: 10, alignSelf: 'center' }, brandCompact: { flexDirection: 'row', alignItems: 'center', gap: 10 }, compactName: { fontFamily: fonts.bold, fontSize: 23, letterSpacing: -0.8, color: colors.ink }, browseMini: { flexDirection: 'row', alignItems: 'center', gap: 7, backgroundColor: colors.white, paddingHorizontal: 13, paddingVertical: 10, borderRadius: 18, borderWidth: 1, borderColor: colors.line }, browseMiniText: { fontFamily: fonts.medium, fontSize: 11, color: colors.ink },
+  chatActions: { flexDirection: 'row', alignItems: 'center', gap: 8 }, resetChat: { width: 44, height: 44, borderRadius: 22, alignItems: 'center', justifyContent: 'center', backgroundColor: colors.white, borderWidth: 1, borderColor: colors.line },
   conversation: { width: '100%', maxWidth: 550, gap: 23, paddingTop: 10 }, conversationLabel: { fontFamily: fonts.medium, fontSize: 8, letterSpacing: 1.7, color: '#96A3BA', textAlign: 'center', marginBottom: 4 }, studentBubble: { backgroundColor: '#E6EDFC', borderRadius: 18, borderBottomRightRadius: 5, paddingHorizontal: 17, paddingVertical: 13, alignSelf: 'flex-end', maxWidth: '88%' }, studentText: { fontFamily: fonts.medium, color: colors.ink, fontSize: 13, lineHeight: 21 },
-  answer: { alignSelf: 'stretch', paddingHorizontal: 3 }, answerIdentity: { flexDirection: 'row', alignItems: 'center', gap: 7, marginBottom: 12 }, answerName: { fontFamily: fonts.bold, fontSize: 11, color: colors.ink }, demoAnswer: { fontFamily: fonts.medium, color: '#8996AC', fontSize: 7, letterSpacing: 1.1, marginLeft: 6 }, answerText: { fontFamily: fonts.regular, fontSize: 14, lineHeight: 25, color: '#43516A' }, sourceButton: { flexDirection: 'row', alignItems: 'center', gap: 6, alignSelf: 'flex-start', paddingHorizontal: 10, paddingVertical: 8, backgroundColor: '#EAF0FA', borderRadius: 8, marginTop: 14, borderWidth: 1, borderColor: '#DDE6F6' }, sourceText: { fontFamily: fonts.medium, fontSize: 10, color: colors.blue },
+  answer: { alignSelf: 'stretch', paddingHorizontal: 3 }, answerIdentity: { flexDirection: 'row', alignItems: 'center', gap: 7, marginBottom: 12 }, answerName: { fontFamily: fonts.bold, fontSize: 11, color: colors.ink }, demoAnswer: { fontFamily: fonts.medium, color: '#8996AC', fontSize: 7, letterSpacing: 1.1, marginLeft: 6 },
+  articleHeaderBadge: { flexDirection: 'row', alignItems: 'center', gap: 6, backgroundColor: '#EDF3FC', paddingHorizontal: 9, paddingVertical: 4, borderRadius: 6, alignSelf: 'flex-start', marginBottom: 10, borderWidth: 1, borderColor: '#DCE7F7' },
+  articleHeaderText: { fontFamily: fonts.bold, fontSize: 10, letterSpacing: 0.6, color: colors.blue },
+  answerText: { fontFamily: fonts.regular, fontSize: 14, lineHeight: 25, color: '#43516A' },
+  optionsGrid: { width: '100%', marginTop: 14, gap: 8 },
+  optionButton: { flexDirection: 'row', alignItems: 'center', backgroundColor: '#F0F5FD', paddingVertical: 11, paddingHorizontal: 13, borderRadius: 12, gap: 10, borderWidth: 1, borderColor: '#E2EAF8' },
+  optionButtonText: { fontFamily: fonts.medium, fontSize: 12, color: colors.ink, flex: 1 },
+  optionPageTag: { fontFamily: fonts.medium, fontSize: 10, color: colors.muted, backgroundColor: colors.white, paddingHorizontal: 6, paddingVertical: 2, borderRadius: 5, overflow: 'hidden' },
+  sourceRow: { flexDirection: 'row', alignItems: 'center', marginTop: 14 },
+  sourceButton: { flexDirection: 'row', alignItems: 'center', gap: 7, alignSelf: 'flex-start', paddingHorizontal: 12, paddingVertical: 9, backgroundColor: '#EAF0FA', borderRadius: 9, borderWidth: 1, borderColor: '#DDE6F6' },
+  sourceText: { fontFamily: fonts.medium, fontSize: 11, color: colors.blue },
   errorRow: { flexDirection: 'row', gap: 12, paddingBottom: 10, paddingHorizontal: 9, alignItems: 'center' }, error: { fontFamily: fonts.regular, fontSize: 11, color: '#A3574A', flex: 1 }, retry: { fontFamily: fonts.bold, fontSize: 12, color: colors.blue },
 });

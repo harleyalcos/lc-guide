@@ -16,3 +16,11 @@ The reader uses forty digitized native text pages. The original photographs are 
 Twenty-two complete answer passages are currently indexed on pages 3, 9, 25, 27, and 28. All forty pages can be browsed and searched, but raw OCR cannot supply answers. More answer-passage selection and a held-out retrieval evaluation remain pending. Tests do not establish an accuracy percentage.
 
 Physical iPhone 16 testing, keyboard behavior, accessibility, and animation performance still require the actual device. The project has an `npm run iphone` command and device instructions in README.
+
+## Reader motion revision
+
+Reproduced the opening flash in a browser frame: both the full reader and a dark decorative cover had `rotateY` transforms during entry. The replay failed the no-rotating-planes check before the fix and passed after it. Reader entry now uses the platform modal fade with no rotating cover, reader tilt, or first-page slide.
+
+Page navigation uses a 620 ms hinged paper leaf with fold shading over a stationary page. The leaf stops at 88 degrees to avoid briefly exposing mirrored text on compositors that ignore backface hiding. Next/Previous and page jumps are locked during the transition. Browser checks cover forward/reverse turns, leaf cleanup, page boundaries, source opening, and both named hymn pages. Physical iPhone animation performance still requires device verification.
+
+Awit ng Laguna College and The Laguna College Hymn are used in contents, headers, and footers. Internal stable page keys remain unchanged so source identifiers and file mappings remain valid.

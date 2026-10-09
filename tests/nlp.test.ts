@@ -23,7 +23,7 @@ test('noun and verb lemmas align inflected questions', () => {
 test('supported answers quote the exact cited passage', () => {
   for (const [q, pageId] of [
     ['What is the attendance policy?', 'demo-attendance'],
-    ['What are the school rules?', 'demo-conduct'],
+    ['What is the conduct policy?', 'demo-conduct'],
     ['What are my responsibilities?', 'demo-responsibilities'],
     ['What are my duties?', 'demo-responsibilities'],
     ['Ano ang patakaran sa pagliban?', 'demo-attendance'],
@@ -50,3 +50,12 @@ test('a short follow-up retains topic but a new specific question changes it', (
   assert.equal(answerQuestion('Tell me more about that', corpus, 'Attendance & absences').source?.pageId, 'demo-attendance');
   assert.equal(answerQuestion('What about the library books?', corpus, 'Attendance & absences').source?.pageId, 'demo-library');
 });
+test('general school rules questions return interactive section options', () => {
+  const answer = answerQuestion('What are the school rules?', corpus);
+  assert.ok(answer.options && answer.options.length > 0);
+  assert.equal(answer.source, undefined);
+  assert.match(answer.text, /Which one would you like to explore/);
+});
+
+
+

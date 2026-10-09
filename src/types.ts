@@ -15,6 +15,15 @@ export type HandbookPage = {
 };
 export type Corpus = { edition: string; version: string; pages: HandbookPage[] };
 export type Source = { pageId: string; passageId: string };
-export type Message = { id: string; role: 'student' | 'guide'; text: string; source?: Source; topic?: string; isDemo?: boolean };
+export type TopicOption = { label: string; query: string; icon?: string; pageLabel?: string };
+export type Message = {
+  id: string; role: 'student' | 'guide'; text: string;
+  articleHeader?: string; source?: Source; topic?: string; isDemo?: boolean;
+  options?: TopicOption[]; viewAllLabel?: string;
+};
 export type Analysis = { normalized: string; tokens: string[]; lemmas: string[]; stems: string[]; expanded: string[]; negated: boolean };
-export type Answer = { text: string; source?: Source; topic?: string; isDemo?: boolean; trace: Analysis; score: number };
+export type Answer = {
+  text: string; articleHeader?: string; source?: Source; topic?: string; isDemo?: boolean;
+  trace: Analysis; score: number; options?: TopicOption[]; viewAllLabel?: string;
+};
+

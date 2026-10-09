@@ -22,7 +22,7 @@ test('reviewed handbook questions resolve to the correct printed page and exact 
     ['How many absences are allowed?', '9'],
     ['What if I am late?', '9'],
     ['Ano ang patakaran sa pagliban?', '9'],
-    ['What are the school rules?', '25'],
+    ['What is the general conduct and dress code policy?', '25'],
     ['What are my responsibilities?', '25'],
     ['What are my duties?', '25'],
     ['How long can I borrow a library book?', '27'],
@@ -37,6 +37,12 @@ test('reviewed handbook questions resolve to the correct printed page and exact 
   assert.match(answerQuestion('How many absences are allowed?', corpus).text, /more than 20%/);
   assert.match(answerQuestion('What if I am late?', corpus).text, /more than 10 minutes/);
   assert.match(answerQuestion('How long can I borrow a library book?', corpus).text, /one week/);
+});
+test('general school rules questions return interactive section options', () => {
+  const answer = answerQuestion('What are the school rules?', corpus);
+  assert.ok(answer.options && answer.options.length > 0);
+  assert.equal(answer.source, undefined);
+  assert.match(answer.text, /Which section would you like to explore/);
 });
 test('unreviewed topics do not leak draft OCR as evidence', () => {
   assert.equal(answerQuestion('What is the tuition fee?', corpus).source, undefined);

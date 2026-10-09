@@ -38,6 +38,11 @@ export async function loadMessages(db: SQLite.SQLiteDatabase): Promise<Message[]
   const rows = await db.getAllAsync<{ data: string }>('SELECT data FROM (SELECT seq, data FROM messages ORDER BY seq DESC LIMIT 100) ORDER BY seq');
   return rows.map(r => JSON.parse(r.data));
 }
+export async function clearConversation(db: SQLite.SQLiteDatabase) {
+  await db.withTransactionAsync(async () => {
+    await db.execAsync('DELETE FROM messages; DELETE FROM queries;');
+  });
+}
 export async function saveExchange(db: SQLite.SQLiteDatabase, question: Message, response: Message, answer: Answer) {
   await db.withTransactionAsync(async () => {
     for (const message of [question, response]) await db.runAsync('INSERT INTO messages (id, data) VALUES (?, ?)', message.id, JSON.stringify(message));

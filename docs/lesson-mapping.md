@@ -38,7 +38,7 @@ The app uses the English Snowball stem for ranking and WordNet noun/verb lemmas 
 
 ## Source grounding and limits
 
-Every supported response stores the page ID and passage ID that supplied its exact quotation. The reader uses the matching digitized page, its printed page label, and a passage box computed from exact matching text lines. Photographs are authoring references, not page backgrounds. Source taps open the native text page with an animated cover reveal and delayed highlight.
+Every supported response stores the page ID and passage ID that supplied its exact quotation. The reader uses the matching digitized page, its printed page label, and a passage box computed from exact matching text lines. Photographs are authoring references, not page backgrounds. Source taps open the native text page with a clean fade and delayed highlight. Page navigation flips the paper while the reader interface stays stationary.
 
 Unreviewed OCR and unknown topics cannot supply answers. Demo requests for limits, costs, deadlines, or penalties are declined. A real handbook still needs complete, reviewed paragraphs and a measured evaluation set: retrieval may select a relevant passage without answering every nuance of a complex question. The app does not infer new rules from negation or generate policy interpretations.
 

@@ -2,7 +2,7 @@
 
 An offline Expo student handbook companion for Laguna College. Students ask on the home screen or browse the handbook. Each supported answer quotes a reviewed passage and has a small Source button that opens the corresponding digitized handbook page.
 
-All **40 Revised 2023 handbook pages are digitized as native text on white paper**, including covers, contents, and printed pages 1–36. Headings, list labels, table columns, dotted leaders, indented majors, hymns, and printed page numbers are rebuilt from the originals. Page 3 follows the supplied clean-page reference. Photographs remain unchanged as development references and are not used as reader backgrounds.
+All **40 Revised 2023 handbook pages are digitized as native text on white paper**, including covers, contents, printed pages 1–36, Awit ng Laguna College, and The Laguna College Hymn. Headings, list labels, table columns, dotted leaders, indented majors, hymns, and printed page numbers are rebuilt from the originals. Page 3 follows the supplied clean-page reference. Photographs remain unchanged as development references and are not used as reader backgrounds.
 
 Twenty-two complete passages on pages 3, 9, 25, 27, and 28 currently supply answers. Digitizing a page and selecting complete, evaluated answer passages are separate steps; the remaining raw OCR cannot supply answers.
 
@@ -34,7 +34,7 @@ For a quick device check, ask about attendance, tap Source to open printed page 
 
 - A welcoming screen based on the supplied navy and pale-blue visual direction, question suggestions, and a handbook button.
 - An inline conversation with original passage quotations, source page references, and basic follow-up context.
-- An animated book opening, delayed passage highlight, animated page navigation, and return to the conversation. Reduced motion preferences are respected.
+- A clean fade into the reader, delayed passage highlight, smooth forward/backward paper flips, and return to the conversation. Reduced motion preferences are respected.
 - A reader with contents search, printed-page jumps, previous/next navigation, native text page layouts, and 2× zoom with horizontal panning.
 - Local SQLite tables for pages, passages, conversations, and query analysis. There are no accounts, remote services, API keys, settings screens, or Python server.
 - A real NLTK/WordNet build step and a lightweight TypeScript retrieval engine. See [lesson mapping](docs/lesson-mapping.md).

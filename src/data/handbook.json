@@ -1,6 +1,6 @@
 {
   "edition": "Laguna College Student Handbook · Revised 2023",
-  "version": "b5d94c6df028df26a5eb",
+  "version": "0e67482a24a2ea9af0fe",
   "pages": [
     {
       "id": "scan-001-3513f8869e9a",
@@ -27397,8 +27397,8 @@
       "id": "scan-039-b536944b4ae3",
       "imageKey": "scan-039-b536944b4ae3",
       "label": "inside-back",
-      "title": "Inside back cover",
-      "chapter": "Closing pages",
+      "title": "Awit ng Laguna College",
+      "chapter": "College hymns",
       "isDemo": false,
       "aspectRatio": 0.6990990990990991,
       "layout": {
@@ -27739,8 +27739,8 @@
       "id": "scan-040-84b33016f119",
       "imageKey": "scan-040-84b33016f119",
       "label": "back-cover",
-      "title": "Back cover",
-      "chapter": "Cover",
+      "title": "The Laguna College Hymn",
+      "chapter": "College hymns",
       "isDemo": false,
       "aspectRatio": 0.6990990990990991,
       "layout": {
